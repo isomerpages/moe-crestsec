@@ -7,7 +7,6 @@ third_nav_title: Non Teaching Staff
 <img src="/images/ict.jpg" style="width:100%">
 
 
-
 | Name | Designation | Email |
 |---|---|---|
 | Mr Klassen Charles Gerard | Technical Support Officer<br>(ICT & Audio-Visual) | klassen_charles_gerard@schools.gov.sg<br> |
