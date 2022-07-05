@@ -3,9 +3,6 @@ title: Contact Us
 permalink: /contact-us/permalink
 description: ""
 ---
-CONTACT US
-==========
-
 <iframe tabindex="0" aria-hidden="false" allowfullscreen="" style="border: 0px; width: 877px; height: 656px;" frameborder="0" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4009.512998813894!2d103.74118165421513!3d1.342440559703387!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5104dbd93122047f!2sCrest%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1604017021273!5m2!1sen!2ssg"></iframe>
 
 
