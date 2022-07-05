@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - About Crest.md
       - Principal's Message.md
       - Our Success Stories.md
       - Our School Song.md
