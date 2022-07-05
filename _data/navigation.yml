@@ -1,7 +1,7 @@
 logo: /images/crestlogo.png
 links:
   - title: ABOUT US
-    url: /about-us/permalink
+    url: /about-crest/permalink
     sublinks:
       - title: About Crest
         url: /about-crest/permalink
@@ -16,7 +16,7 @@ links:
       - title: Contact Us
         url: /contact-us/permalink
   - title: OUR PEOPLE
-    url: /our-people/permalink
+    url: /board-of-directors/permalink
     sublinks:
       - title: Board of Directors
         url: /board-of-directors/permalink
@@ -29,7 +29,7 @@ links:
       - title: Non-Teaching Staff
         url: /non-teaching-staff/permalink
   - title: PROGRAMMES
-    url: /programmes/permalink
+    url: /teaching-and-learning/permalink
     sublinks:
       - title: Teaching & Learning
         url: /teaching-and-learning/permalink
@@ -44,7 +44,7 @@ links:
       - title: School Achievements
         url: /school-achievements/permalink
   - title: PARTNERSHIP
-    url: /partnership/permalink
+    url: /crest-parents-active-link/permalink
     sublinks:
       - title: Crest Parents' Active Link
         url: /crest-parents-active-link/permalink
@@ -55,12 +55,12 @@ links:
       - title: Yuhua Community
         url: /yuhua-community/permalink
   - title: NEWS & EVENTS
-    url: /news-and-events/permalink
+    url: /resources-on-the-vaccination/permalink
     sublinks:
       - title: Resources on the Vaccination
         url: /resources-on-the-vaccination/permalink
   - title: USEFUL INFO
-    url: /useful-info/permalink
+    url: /crestans-virtual-assistant/permalink
     sublinks:
       - title: CRESTAN'S VIRTUAL ASSISTANT
         url: /crestans-virtual-assistant/permalink
@@ -85,6 +85,3 @@ links:
         url: /i-am-a-parent/permalink
       - title: Teacher
         url: /i-am-a-teacher/permalink
-  - title: "General "
-    url: /permalink
-    sublinks: []
