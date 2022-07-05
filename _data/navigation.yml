@@ -1,13 +1,78 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: ABOUT US
+    url: /about-us/permalink
+    sublinks:
+      - title: About Crest
+        url: /about-crest/permalink
+      - title: Principal's Message
+        url: /principals-message/permalink
+      - title: Our Success Stories
+        url: /our-success-stories/permalink
+      - title: Our School Song
+        url: /our-school-song/permalink
+      - title: Our Facilities
+        url: /our-facilities/permalink
+      - title: Contact Us
+        url: /contact-us/permalink
+  - title: OUR PEOPLE
+    url: /our-people/permalink
+    sublinks:
+      - title: Board of Directors
+        url: /board-of-directors/permalink
+      - title: School Leaders
+        url: /school-leaders/permalink
+      - title: Key Personnel
+        url: /key-personnel/permalink
+      - title: Teaching Staff
+        url: /teaching-staff/permalink
+      - title: Non-Teaching Staff
+        url: /non-teaching-staff/permalink
+  - title: PROGRAMMES
+    url: /programmes/permalink
+    sublinks:
+      - title: Teaching & Learning
+        url: /teaching-and-learning/permalink
+      - title: Academic Curriculum
+        url: /academic-curriculum/permalink
+      - title: Vocational Curriculum
+        url: /vocational-curriculum/permalink
+      - title: Student Development
+        url: /student-development/permalink
+      - title: Sexuality Education
+        url: /sexuality-education/permalink
+      - title: School Achievements
+        url: /school-achievements/permalink
+  - title: PARTNERSHIP
+    url: /partnership/permalink
+    sublinks:
+      - title: Crest Parents' Active Link
+        url: /crest-parents-active-link/permalink
+      - title: Crest Alumni
+        url: /crest-alumni/permalink
+      - title: Meridian Twinning Programme
+        url: /meridian-twinning-programme/permalink
+      - title: Yuhua Community
+        url: /yuhua-community/permalink
+  - title: NEWS & EVENTS
+    url: /news-and-events/permalink
+    sublinks:
+      - title: Resources on the Vaccination
+        url: /resources-on-the-vaccination/permalink
+  - title: USEFUL INFO
+    url: /useful-info/permalink
+    sublinks:
+      - title: CRESTAN'S VIRTUAL ASSISTANT
+        url: /crestans-virtual-assistant/permalink
+      - title: School Admission Info
+        url: /school-admission-info/permalink
+      - title: School Suppliers
+        url: /school-suppliers/permalink
+      - title: "School Fees "
+        url: /school-fees/permalink
+      - title: Financial Information
+        url: /financial-information/permalink
+      - title: Shuttle Bus Service
+        url: /shuttle-bus-service/permalink
+      - title: Assessment Matters
+        url: /assessment-matters/permalink
