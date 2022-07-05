@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Non Teaching Staff/Vocational Support Staff.md
       - Non Teaching Staff/.keep
