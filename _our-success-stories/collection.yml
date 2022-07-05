@@ -2,5 +2,4 @@ collections:
   our-success-stories:
     output: true
     order:
-      - Our Alumni/Our Alumni.md
       - Our Alumni/.keep
