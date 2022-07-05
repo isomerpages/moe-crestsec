@@ -2,12 +2,12 @@ collections:
   our-success-stories:
     output: true
     order:
-      - Media Reports/2020.md
-      - Media Reports/2019.md
-      - Media Reports/2018.md
-      - Media Reports/.keep
-      - ignITE Skills.md
-      - Current Crestans.md
       - Our Alumni/.keep
       - Our Alumni/Our Stories.md
       - Our Alumni/Motivations.md
+      - Current Crestans.md
+      - ignITE Skills.md
+      - Media Reports/.keep
+      - Media Reports/2020.md
+      - Media Reports/2019.md
+      - Media Reports/2018.md
