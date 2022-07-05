@@ -3,7 +3,7 @@ title: About Crest
 permalink: /about-crest/permalink
 description: ""
 ---
-<img src="/images/aboutcrest.jpg" style="width:450px;height:240px;margin-left:15px;" align = "left"> Crest Secondary School is a Specialised School offering a customised curriculum for students in the Normal (Technical) Stream. As a Specialised School, the school operates similar to an independent school.  
+<img src="/images/aboutcrest.jpg" style="width:450px;height:240px;margin-right: 25px;" align = "left"> Crest Secondary School is a Specialised School offering a customised curriculum for students in the Normal (Technical) Stream. As a Specialised School, the school operates similar to an independent school.  
 
   
 
@@ -44,10 +44,6 @@ Our Vision, Mission & Motto
 
 Our Logo
 --------
-<img src="/images/schlog.jpg" style="width:150px;height:230px;margin-left:15px;" align = "left"> The school logo, based on the theme CREating Student Transformation (CREST), comprises of four outward expanding waves, reflecting the transformation of our students from Secondary One to Secondary Four as they grow in character (represented by the light blue waves) and attain breakthroughs in personal achievements (represented by the yellow waves). This transformation is made possible by the 'sea of opportunities' (represented by the dark blue background) that the school provides to enrich students' learning and enhance their personal growth.  
+<img src="/images/schlog.jpg" style="width:150px;height:230px;margin-right:25px;" align = "left"> The school logo, based on the theme CREating Student Transformation (CREST), comprises of four outward expanding waves, reflecting the transformation of our students from Secondary One to Secondary Four as they grow in character (represented by the light blue waves) and attain breakthroughs in personal achievements (represented by the yellow waves). This transformation is made possible by the 'sea of opportunities' (represented by the dark blue background) that the school provides to enrich students' learning and enhance their personal growth.  
   
 (School logo designed by Mr Soo Sheng Lih)
-
-
-
-
