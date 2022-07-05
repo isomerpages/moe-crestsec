@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Success Stories/.keep
       - Our School Song.md
       - Our Facilities.md
       - Contact Us.md
