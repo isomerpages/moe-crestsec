@@ -3,11 +3,9 @@ title: Our School Song
 permalink: /our-school-song/permalink
 description: ""
 ---
-OUR SCHOOL SONG
-===============
 
-<td style="width: 1199px;"><h2><font size="4" face="verdana, sans-serif">Our heartbeat "I Know I Can"</font></h2><b><div style="text-align: center;">
 
+<p style="text-align: center;">Our heartbeat "I Know I Can"</p>
 	
 <img src="/images/schsong.png"
 		 style="width:75%">
