@@ -2,6 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Non Teaching Staff/Estate Operations Department.md
+      - Non Teaching Staff/Operations.md
       - Non Teaching Staff/Vocational Support Staff.md
       - Non Teaching Staff/.keep
