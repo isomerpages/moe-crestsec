@@ -35,4 +35,3 @@ Curriculum
 | a) Signature Crestan Series<br><br>- OE programmes such orienteering, kayaking, abseiling, rock climbing<br>- Inline skating<br><br>- Challenge Course | a) Teaching of iCrest values in PE lessons | a) Leadership Development<br><br>- Sports Leaders programme |
 | b) Modular PE lesson<br><br>- Progressive PE Scheme of Work (SOW) from Sec 1 – 4<br>- PE Assessment | b) Leading a Healthy Lifestyle<br><br>- Health talk, Promotion & Activities during assembly |  |
 |  | c) Teaching of Physical & Health Fitness<br><br>- Infused into PE lesson<br>- Weight management programme by Lifestyle Coach |   |
-
