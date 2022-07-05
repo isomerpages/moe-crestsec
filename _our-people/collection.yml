@@ -4,7 +4,6 @@ collections:
     order:
       - Teaching Staff/Teaching Staff.md
       - Teaching Staff/.keep
-      - Teaching Staff.md
       - Non Teaching Staff/Administrative.md
       - Non Teaching Staff/Finance.md
       - Non Teaching Staff/Human Resource.md
