@@ -51,6 +51,6 @@ I take this opportunity to thank all our stakeholders – Board members, Parents
 
 **Mr Seet Tiat Hee**
 
-Principal
+**Principal**
 
-Crest Secondary School
+**Crest Secondary School**
