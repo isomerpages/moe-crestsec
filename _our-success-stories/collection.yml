@@ -2,8 +2,8 @@ collections:
   our-success-stories:
     output: true
     order:
-      - In the News/2018.md
-      - In the News/.keep
+      - Media Reports/2018.md
+      - Media Reports/.keep
       - ignITE Skills.md
       - Current Crestans.md
       - Our Alumni/.keep
