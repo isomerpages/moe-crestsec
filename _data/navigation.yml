@@ -76,3 +76,12 @@ links:
         url: /shuttle-bus-service/permalink
       - title: Assessment Matters
         url: /assessment-matters/permalink
+  - title: I AM A
+    url: /i-am-a-student/permalink
+    sublinks:
+      - title: Student
+        url: /i-am-a-student/permalink
+      - title: Parent
+        url: /i-am-a-parent/permalink
+      - title: Teacher
+        url: /i-am-a-teacher/permalink
