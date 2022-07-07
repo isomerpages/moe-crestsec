@@ -25,10 +25,22 @@ Regions our Crestans have been to include:
 | 2018 | ●     Batam, Indonesia<br><br>●     Ho Chi Minh City, Vietnam<br><br>●     Malacca, Malaysia<br><br>●     Phnom Penh, Cambodia<br> |
 | 2019 | ●     Batam, Indonesia<br><br>●     Hanoi, Vietnam<br><br>●     Ho Chi Minh City, Vietnam<br><br>●     Phnom Penh, Cambodia |
 
-
+Peer Support Relationships
+--------------------------
 
 <img src="/images/stp3.jpg" style="width:100%">
+
 <img src="/images/stp4.jpg" style="width:100%">
-<img src="/images/stp5.jpg" style="width:100%">
+
+<br>
+
+<img src="/images/stp5.jpg" style="width:350px;height:250px;margin-right:25px;" align = "left"> The school leverages on the benefits of positive Peer Support Relationships (PSR) as part of a protective factor for students at risk in order to build a culture of care. Secondary 1 Form Teachers carry out explicit PSR lessons covering social-emotional skills during CCE periods, including help-seeking and help-giving skills.  
+
+The school also identifies two Student Peer Supporters per Sec 1 class (whom we call Care Champions) and empowers them to be positive influencers and leaders. Our Care Champions receive extra in-depth training during the CCE periods in areas such as listening skills, using the CHEER Model and also self-care. These training sessions equip our Care Champions with skills on how to befriend isolated, at-risk, SEN and even new students in their class. 
+
+Care Champions are also taught ways to identify friends who are in need and they will offer help or a listening ear to these peers. They are also taught how to recognise more serious cases such as those involving self-harm, bullying, abuse or even suicide ideation, and to refer such cases to significant adults in school, e.g. teachers or counsellors.
+
+This year, our Care Champions also led their classmates in a project to show appreciation to our non-teaching staff.
+
 <img src="/images/stp6.png" style="width:100%">
 <img src="/images/stp7.png" style="width:100%">
