@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Aesthetics/Pop Band.md
       - Aesthetics/Visual Arts Club.md
       - Aesthetics/.keep
       - Uniform Groups/Boy Scouts.md
