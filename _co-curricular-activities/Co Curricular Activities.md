@@ -56,8 +56,3 @@ Guitar: Accomplishment
 Popband (Team A - Percussion Ensemble)  : Accomplishment
 
 Popband (Team B - Percussion Ensemble) : Commendation
-
-  
-
-Please do click on the link below and take a moment to enjoy their performances. We hope they will leave you awestruck - just as we were!  
-[](https://tinyurl.com/SYF-AP-CREST-SEC-SCH)[SYF AP CREST SEC SCH](https://tinyurl.com/SYF-AP-CREST-SEC-SCH)
