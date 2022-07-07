@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Student Development/Student Support.md
       - Student Development/Discipline.md
       - Student Development/Student Development Programmes.md
       - Student Development/.keep
