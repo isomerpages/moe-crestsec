@@ -33,5 +33,18 @@ Taster Modules
 | Input to Output (I2O) | This module is taught in Secondary 1. In this module, students learn the fundamentals of coding such as using variables and conditional statements. This will come in especially useful if students were to learn Javascript.  |  |  |
 | Every Crestan Can Code (ECCC) | This module will be taught in Secondary 2. In this module, students will be exposed to HTML, where it is the main language used to create websites. Students will learn the fundamentals of HTML that allow them to appreciate the structure of a typical webpage |  |  |
 
-
+<br>
 <img src="/images/wwa3.png" style="width:100%">
+
+Taster modules will give students an idea of what MWA will be like in Upper Secondary if they were to select for this course. MWA promotes logical and computational thinking, very useful skills that are transferable to any type of industry and job. Students get to hone those skillsets which will empower them to be valued contributors to any job and company. 
+
+  
+
+Sypnosis of Mobile Web Applications (MWA)
+-----------------------------------------
+
+| Input to Output (I2O)<br>(Taster Module for Sec 1) | Every Crestan Can Code (Taster Module for Sec 2) | Mobile Web Applications <br>                        (ISSC subject for Sec 3 & 4) |  |
+|:---:|:---:|:---:|---|
+| Understanding logical and computational thinking skills through intuitive and fun Block-Based coding. | Understanding the concept of webpage design and its framework. Students learn the different parts of a webpage and use it to display interactive content. Students get to strengthen their logical and computational thinking | Work safely by observing good safety and 5S rules according to the latest WSH regulations |  |
+| Creating  practical real-life applications using Block-based coding to appreciate computer programming | Creating static/responsive webpage using HTML & CSS. | Create a user-friendly and creative design on a mobile web platform that is both attractive and responsive |  |
+| Students get to understand how coding is used to control "behaviour" and "actions" of software and hardware |  |  Based on design needs, to create a rich and interactive user interface to enable effective web applications to support user transactions. |  |
