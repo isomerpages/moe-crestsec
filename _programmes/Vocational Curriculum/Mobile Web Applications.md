@@ -4,3 +4,34 @@ permalink: /mobile-web-applications/programmes/Vocational-Curriculum/permalink
 description: ""
 third_nav_title: Vocational Curriculum
 ---
+| Teachers | Affectionately<br>known as | Designation | Email |
+|:---:|:---:|:---:|:---:|
+| Mdm Siti Zainuriah Sapari | Mdm Zai | Head of Department <br>(Internet of Things Application, IOTA<br>& Mobile Web Applications, MWA) | siti_zainuriah_sapari@schools.gov.sg |
+| Ms Aznijah Binte Abdul Aziz | Ms Aznijah | Teacher (MWA) | aznijah_abdul_aziz@schools.gov.sg |
+| Ms Amanullah Aneesha Parvin | Ms Aneesha | Allied Educator (MWA) | amanullah_aneesha_parvin@schools.gov.sg |
+| Mr Helmy Rozaimi Bin Husaimi | Mr Helmy | Allied Educator (ICT & MWA) | helmy_rozaimi_husaimi@schools.gov.sg |
+
+Objective
+---------
+
+<img src="/images/wwa1.jpg" style="width:65%">
+
+Mobile Web Applications (MWA) is one of the 5 ITE Skills Subjects (ISS) offered to Secondary 3 and 4 students in Crest Secondary School.  When students select this subject as one of the two Skills Subjects to study, they will learn to create interactive and responsive websites, using tools such as HTML and Javascript. In the process of creating those websites, students will need to learn how to edit photos and create short video clips to add to their websites. We have strategically placed the learning of these skills in Secondary 2 and 3, using industry-leading software Adobe Photoshop and Adobe Premier. This will allow our students to learn MWA, armed with the acquired ICT skills, in a more focused and fruitful manner.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpdjPzItzoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Prior to choosing MWA, students get to decide if this subject is suitable for them. They will have compulsory taster modules relating to MWA in Secondary 1 and 2. The details of the 2 MWA relevant taster modules are as shown below.
+
+Taster Modules
+--------------
+
+<img src="/images/wwa2.jpg" style="width:65%">
+<br>
+
+| Taster Module | Description |  |  |
+|---|---|---|---|
+| Input to Output (I2O) | This module is taught in Secondary 1. In this module, students learn the fundamentals of coding such as using variables and conditional statements. This will come in especially useful if students were to learn Javascript.  |  |  |
+| Every Crestan Can Code (ECCC) | This module will be taught in Secondary 2. In this module, students will be exposed to HTML, where it is the main language used to create websites. Students will learn the fundamentals of HTML that allow them to appreciate the structure of a typical webpage |  |  |
+
+
+<img src="/images/wwa3.png" style="width:100%">
