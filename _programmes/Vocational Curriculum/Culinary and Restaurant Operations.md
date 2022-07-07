@@ -28,7 +28,7 @@ Culinary and Restaurant Operations (CRO) is one of the five ITE Skills Subjects 
 CRO students will get intensive hands-on learning in two core areas. These are culinary skills and food and beverage service. Students will get to develop their skills in authentic learning spaces such as the school’s training kitchens and bistro. They will get to prepare and serve food to real customers. Their skill sets will be further deepened with a 4-week industry experiential programme at leading hotels & restaurants.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djq-f4jeoCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djq-f4jeoCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align=centre></iframe>
 
 In order for the students to discover if they are suitable and have an interest in this subject, they will be expose to compulsory taster modules in Secondary 1 and 2. Details of the taster modules are as shown below.
 
