@@ -3,9 +3,6 @@ title: Teaching Staff
 permalink: /our-people/Teaching-Staff/permalink
 description: ""
 ---
-
-
-
 FORM TEACHERS (ALL LEVELS)
 ==========================
 
@@ -14,6 +11,7 @@ FORM TEACHERS (ALL LEVELS)
 [Click here to download email address](/files/FT_emails_20220627.pdf)
 
 **Sec 1**
+
 | Class | Form Teachers |
 |---|---|
 | S1-01 | Ms Rischka Syafiqa Putri Jonawi; Mr Zack Chew Ming Zhe |
@@ -25,7 +23,10 @@ FORM TEACHERS (ALL LEVELS)
 | S1-07 | Mr Chang Choo Liang; Ms Lee Woan Huey Hannah |
 | S1-08 | Ms Alyssa Chen Yihan; Ms Ho Yuen Ming Vicky |
 
+
+
 **Sec 2**
+
 | Class | Form Teachers |
 |---|---|
 | S2-01 | Ms Ho Wei Lynn, Karen; Mr Helmy Rozaimi |
@@ -38,7 +39,11 @@ FORM TEACHERS (ALL LEVELS)
 | S2-08 | Ms Mutmainnah Binte Saidi; Mr Ng Wee Kee |
 | S2-09 | Mr Mohamad Hisham Bin Suwandi; Ms Tay Siew Mei Janice |
 
+
+
+
 **Sec 3**
+
 | Class | Form Teachers | ISSC Combination |
 |---|---|:---:|
 | S3-01 | Ms Hamidah Haji Hamim; Mr Muhammad Zaki Hosain | CRO+MDA |
@@ -52,7 +57,11 @@ FORM TEACHERS (ALL LEVELS)
 | S3-09 | Ms Tan Mei Yun Lynn, Mr Jonathan Tsang Yim Ting | MDA+MWA |
 | S3-10 | Ms Betty Wu May Ling; Mr Chua Choon Hiong (Gordon) | MWA+ReC |
 
+
+
+
 **Sec 4**
+
 | Class | Form Teachers | ISSC Combination |
 |---|---|:---:|
 | S4-01 | Mr Chua Chin Choon (Desmond); Ms Ng Geok Ling Betina | CRO+IoTA |
