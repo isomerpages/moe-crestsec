@@ -2,5 +2,4 @@ collections:
   our-people:
     output: true
     order:
-      - Key Personnel.md
       - Teaching Staff.md
