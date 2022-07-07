@@ -3,6 +3,9 @@ title: School Achievements
 permalink: /school-achievements/programmes/permalink
 description: ""
 ---
+2021
+----
+
 | **School Achievements 2021**  |  |
 |:---:|:---:|
 | **Aesthetics Achievements** | Popband - SYF 2021 Arts Presentation - Percussion Ensemble (Team A): Accomplishment<br>Popband - SYF 2021 Arts Presentation - Percussion Ensemble (Team B): Commendation<br>Guitar Club - SYF 2021 Arts Presentation - Guitar: Accomplishment<br>Dance CCA - SYF 2021 Arts Presentation - International Dance: Accomplishment<br>VAC - IgnITE Challenge 2021 - Digital Media Storytelling: Bronze<br><img src="/images/aa.jpg" style="width:100%">  |
