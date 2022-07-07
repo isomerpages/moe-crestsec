@@ -24,14 +24,16 @@ Through the four-year CCA programme, Crest hopes to inspire Crestans to scale gr
 CCA Orientation
 ---------------
 
-![6.jpg](https://www.crestsec.edu.sg/qql/slot/u1374/DEPT%202020/PE/CCA/6.jpg)Orientation is held January for new students to find out more about CCAs offered in Crest. Students will have the opportunity to explore the various CCA groups by attending the training sessions and programmes. Students are then allocated to CCAs based on their profile, choices and school needs.
+<img src="/images/cca3.png" style="width:100%">
 
-![7.JPG](https://www.crestsec.edu.sg/qql/slot/u1374/DEPT%202020/PE/CCA/7.JPG)  
+Orientation is held January for new students to find out more about CCAs offered in Crest. Students will have the opportunity to explore the various CCA groups by attending the training sessions and programmes. Students are then allocated to CCAs based on their profile, choices and school needs.
+
 
 Awards
 ------
+<img src="/images/cca4.jpg" style="width:100%">
 
-![8.jpg](https://www.crestsec.edu.sg/qql/slot/u1374/DEPT%202020/PE/CCA/8.jpg)**EAGLES Award:**
+**EAGLES Award:**
 
 Crest Secondary School awards students who excel in the following areas:
 
