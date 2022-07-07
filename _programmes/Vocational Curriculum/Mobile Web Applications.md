@@ -44,7 +44,7 @@ Sypnosis of Mobile Web Applications (MWA)
 -----------------------------------------
 
 | Input to Output (I2O)<br>(Taster Module for Sec 1) | Every Crestan Can Code (Taster Module for Sec 2) | Mobile Web Applications <br>                        (ISSC subject for Sec 3 & 4) |  |
-|:---:|:---:|:---:|---|
+|:---:|:---:|:---:|:---:|
 | Understanding logical and computational thinking skills through intuitive and fun Block-Based coding. | Understanding the concept of webpage design and its framework. Students learn the different parts of a webpage and use it to display interactive content. Students get to strengthen their logical and computational thinking | Work safely by observing good safety and 5S rules according to the latest WSH regulations |  |
 | Creating  practical real-life applications using Block-based coding to appreciate computer programming | Creating static/responsive webpage using HTML & CSS. | Create a user-friendly and creative design on a mobile web platform that is both attractive and responsive |  |
 | Students get to understand how coding is used to control "behaviour" and "actions" of software and hardware |  |  Based on design needs, to create a rich and interactive user interface to enable effective web applications to support user transactions. |  |
