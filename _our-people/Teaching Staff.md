@@ -8,7 +8,7 @@ FORM TEACHERS (ALL LEVELS)
 
 <p style="text-align: left;"><b><u>Secondary 1 to 4 Form Teachers (2022)</u></b></p> 
 
-[Click here to download email address](/files/FT_emails_20220627.pdf)
+[Click here to download form teachers' email addresses](/files/FT_emails_20220627.pdf)
 
 **Sec 1**
 
