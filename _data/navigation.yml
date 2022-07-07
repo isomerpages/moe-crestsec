@@ -16,16 +16,16 @@ links:
       - title: Contact Us
         url: /contact-us/permalink
   - title: OUR PEOPLE
-    url: /board-of-directors/permalink
+    url: /our-people/permalink
     sublinks:
       - title: Board of Directors
-        url: /board-of-directors/permalink
+        url: /board-of-directors/our-people/permalink
       - title: School Leaders
-        url: /school-leaders/permalink
+        url: /school-leaders/our-people/permalink
       - title: Key Personnel
-        url: /key-personnel/permalink
+        url: /key-personnel/our-people/permalink
       - title: Teaching Staff
-        url: /teaching-staff/permalink
+        url: /teaching-staff/our-people/permalink
       - title: Non-Teaching Staff
         url: /admin/our-people/Non-Teaching-Staff/permalink
   - title: PROGRAMMES
