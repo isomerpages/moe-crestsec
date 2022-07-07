@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/crestfpgif.gif
       key_highlights:
         - title: Annoucements
           description: ""
@@ -17,5 +17,3 @@ sections:
           description: ""
           url: /happenings/permalink
 ---
-
-
