@@ -2,6 +2,8 @@ collections:
   our-people:
     output: true
     order:
+      - Non Teaching Staff/Vocational (F&M, Hospitality Services, Retail
+        Services).md
       - Non Teaching Staff/.keep
       - Teaching Staff.md
       - Key Personnel.md
