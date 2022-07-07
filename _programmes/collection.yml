@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Student Development/.keep
       - Sexuality Education.md
       - School Achievements.md
