@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Entrepreneurship Club.md
       - Clubs & Societies/Explorer's Club.md
       - Clubs & Societies/New Media Club.md
       - Clubs & Societies/Service Club.md
