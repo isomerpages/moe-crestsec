@@ -43,4 +43,11 @@ Care Champions are also taught ways to identify friends who are in need and they
 This year, our Care Champions also led their classmates in a project to show appreciation to our non-teaching staff.
 
 <img src="/images/stp6.png" style="width:100%">
+
+After-School Engagement
+-----------------------
 <img src="/images/stp7.png" style="width:100%">
+
+Crest Secondary School runs an after-school engagement programme in order to leverage on positive relationships with significant adults in the school and positive peer groups, so as to strengthen Crestans’ sense of school connectedness and belonging. Through this programme, we hope to enhance our students’ learning motivation and resilience, and develop their character and decision-making skills. Through community service and learning, we also hope to develop their potential to lead themselves and others.  
+
+In order to increase engagement in the programme, we plan and design the after-school activities to be aligned with the students’ interests. We offer after-school venues and facilities such as our Student Recreational Hub, sports venues and special learning spaces where Crestans can hang out with peers and positive adult role models. In this way, we keep the students meaningfully engaged and guide them to develop better motivation and character along the way
