@@ -43,3 +43,22 @@ Curriculum for the lower secondary levels involves two foundation modules to equ
 | Looks Good Tastes Good | This module is taught in Secondary 2. In this module, students will learn about kitchen safety and hygiene. They will be trained in basic cutting and food preparation skills |  |  |
 
 The taster modules will give students an idea of what CRO will be like in Upper Secondary if they were to select this subjects. CRO teaches the life skill of practicing good hygiene standards and cooking, while giving the students an appreciation of the Food and Beverage industry.
+
+<img src="/images/cro21.png" style="width:100%">
+
+Authentic Lunch
+---------------
+
+Modelled after a fine dining concept, this signature programme is a collaborative effort by Secondary 3 and 4 Culinary and Restaurant Operations students. Staff and partners are invited for a two-course set meal cooked by the Secondary 3 and served by the Secondary 4 students. This allows the students to practice what they have learnt in an authentic, non-scripted environment.
+
+<img src="/images/cro3.png" style="width:100%">
+
+  
+
+Makan @ Bistro
+--------------
+
+<img src="/images/cro4.jpg" style="width:285px;height:240px;margin-right:25px;" align = "left">Modelled after a casual dining establishment, this is an authentic learning event where the Secondary 4 Culinary and Restaurant Operations students cook and serve simple fare from an ala carte menu, to guests who are usually our own school staff. This allows the students to put into practice what they have learnt and acts as a lead-up to the Authentic Lunches.
+
+SYNOPSIS OF Culinary & Restaurant Operations
+--------------------------------------------
