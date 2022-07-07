@@ -3,8 +3,6 @@ title: Co Curricular Activities
 permalink: /CCA/programmes/Student-Development/permalink
 description: ""
 ---
-
-
 Crest offers CCAs from 4 broad categories. These are Sports & Games, Aesthetics, Uniformed Groups, and Clubs & Societies. To cater to students’ diverse interests, every student is assigned a CCA of his/her choice.
 
 <img src="/images/cca1.png" style="width:100%">
@@ -60,3 +58,7 @@ Guitar: Accomplishment
 Popband (Team A - Percussion Ensemble)  : Accomplishment
 
 Popband (Team B - Percussion Ensemble) : Commendation
+
+CCA Timings
+--------------------------
+<img src="/images/cca7.jpeg" style="width:55%">
