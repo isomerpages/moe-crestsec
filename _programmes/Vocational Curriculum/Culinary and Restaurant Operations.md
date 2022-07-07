@@ -62,3 +62,13 @@ Makan @ Bistro
 
 SYNOPSIS OF Culinary & Restaurant Operations
 --------------------------------------------
+
+| Passion to Serve<br>(Sec 1 Taster Modules) | Looks Good, Tastes Good (Sec 2 Taster Modules)  | Culinary & Restaurant Operations (Sec 3 & 4 ISSC Subject) |  |
+|:---:|:---:|:---:|---|
+| Napkin Folding & Table Setting | Kitchen Hygiene & Safety        | Work safely by observing good personal hygiene, safety and housekeeping rules according to the latest WSH regulations |  |
+| Mocktail Making | Basic Cutting Skills & Food Preparation | Prepare a kitchen for operations and perform all neceesary mise-en-place |  |
+|  Basic Food Handling and Hygiene | Food & Nutrition | Prepare and cook a specified range of food dishes using various cooking methods. |  |
+|   |   | Carry out the operations in a food & beverage outlet including coffee making |  |
+|   |   | Welcome guests, take and place orders, followed by serving of all F&B items to guests |  |
+|   |   | Process payments and perform outstanding customer service to the guests throughout their dining experience |  |
+|   |   | Develop students’ interest in a post-secondary hospitality-based education |  |
