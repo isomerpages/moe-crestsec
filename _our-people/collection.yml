@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Non Teaching Staff/Administrative.md
       - Non Teaching Staff/Finance.md
       - Non Teaching Staff/Human Resources.md
       - Non Teaching Staff/Infocomm Technology & Audio Visual.md
