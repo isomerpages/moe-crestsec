@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports & Games/Floorball (Boys).md
       - Sports & Games/Basketball (Boys & Girls).md
       - Sports & Games/Badminton (Boys & Girls).md
       - Sports & Games/Athletics (Boys & Girls).md
