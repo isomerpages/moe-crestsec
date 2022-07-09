@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Academic Curriculum.md
       - Vocational Curriculum/.keep
       - Vocational Curriculum/Vocational Curriculum.md
       - Vocational Curriculum/Mechanical Design and Automation.md
