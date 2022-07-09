@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Vocational Curriculum/Industry Experiential Programme.md
       - Vocational Curriculum/Retail and ECommerce.md
       - Vocational Curriculum/Culinary and Restaurant Operations.md
       - Vocational Curriculum/Mobile Web Applications.md
