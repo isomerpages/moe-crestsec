@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Academic Curriculum/Aesthetics.md
       - Academic Curriculum/English Language.md
       - Academic Curriculum/Infocommunications Technology.md
       - Academic Curriculum/Mathematics.md
