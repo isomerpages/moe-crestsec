@@ -52,3 +52,40 @@ Signature Activities @ RETAIL Hamper Gift Wrap for ICA
 
 Signature Activities @ RETAIL  - ignITE Skills
 -----------------------------------------------
+<img src="/images/retail6.png" style="width:100%">
+
+Words like ‘big data analytics’ and ‘drone technology’ might be daunting to most youths. However this is not the case for the participants of the IgnITE Skills Challenge 2019.The competition which was organised by the Institute Technical of Education (ITE) and supported by the Ministry of Education (MOE), is the only competition which assesses the skills of students who are in the Normal streams. In this 4th edition of the competition, more than 1,800 students took part. This is a significant increase in numbers as compared to previous years.  
+
+Crest Secondary School (CSS) emerged as the overall champion this year. Two teams from CSS attained the top positions in two categories. Team ‘J.A.S’ won the Retail Pop-Up challenge while another team, T.X.T., won the challenge for Social Media Retailing. 
+
+The Retail Pop-Up Challenge gives the participants the opportunity to create a sale market based on the theme provided. They would also be required to create advertisement resources and a social media account to promote their products via online platforms and though a physical store. Every group is provided with a pushcart for them to decorate with their sales products.
+
+Through this challenge, participants would be able to identify the amount of information required to understand the theme provided. On top of that, they would also better understand concepts such as promotion, business and product marketing through social media.
+
+<img src="/images/retail7.png" style="width:100%">
+
+Signature Activities @ RETAIL - Farmers Market
+--------------------------------------------
+
+<img src="/images/retail8.png" style="width:100%">
+
+At Crest Secondary School , the Retail Department organise a signature activity which is carried out every semester to encourage the Sec 4 students apply the various retail concepts .  Students put their thinking hats together as a group to create products or services that can be sold during this special event.
+
+
+Click here to **[watch our Signature activities@Retail -Farmers Market](https://drive.google.com/file/d/1IsjcZ_eRw6lgBoG7d8iVnL-Ym-JGn4yy/view?usp=sharing)**
+
+<img src="/images/retail9.png" style="width:100%">
+
+
+Sypnosis of Retail & E-Commerce
+-------------------------------
+
+| Fabulous Merchandise Display<br>(Taster Modules) | Service With A Smile (Taster Modules) | Retail & e-Commerce (ISSC subject)  |
+|---|---|---|
+| Understanding Basic Retail Concepts - Retail and its Importance in Singapore         - Retail Distribution Methods |  Identify sectors in the service industry:  - Accommodation - Food & Beverage - Travel Agents - Attractions - Retail - Transportation - MICE (Events) - Support Services | Work safely by observing good personal hygiene, safety and housekeeping rules according to the latest WSH regulations |
+| IN-STORE MERCHANDISE DISPLAY        - Retail Display Fixtures and Equipment       - Workplace Safety and Hygiene |  Define ‘hospitality industry’ -Give examples of types of accommodation -List departments in a hotel -Describe roles and duties of hotel employees -Name different types of F&B outlets | Introduce the retail business environment; e.g Brick & Mortar / E-Retail  Develop basic functional skills and knowledge in a variety of retail store scenarios;  |
+|  ELECTRONIC RETAILING - Definition of  E-Retailing         - Advantages and Disadvantages of  E-Retailing - Use of Social Media for Retailers - Trends in E-Retailing - Online Merchandise Display - Flatlay Photography |  Services in the MICE, Retail and Support Services Industries | Develop the ability to perform service-related skills in providing basic customer service, problem-solving  and communicating effectively Develop skills in creativity and design in producing promotional collaterals with e-commerce as a backdrop;  |
+|   |   Providing Excellent Service -Attributes of an Excellent Service Professionals | Perform service recovery and afterDevelop the ability to perform service-related skills in providing basic customer service, problem-solving  and communicating effectively <br>  |
+|   |  Display professional grooming anProviding Excellent Service<br>-Attributes of an Excellent Service Professionalsd postures in a service setting such as Standing, Sitting & Handling of items to a customer.<br>Display knowledge of professional service language (including verbal & non-verbal) in customer interactions | Handle and process a variety of cash and cashless payment systems.  |
+|   |   |  Fill up delivery note for online order completely and accurately |
+|   |   |  Develop students’ interest in a post-secondary retail and business-based education. |
