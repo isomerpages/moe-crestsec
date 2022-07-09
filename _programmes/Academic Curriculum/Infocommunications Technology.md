@@ -22,7 +22,7 @@ Objective
 Curriculum
 ----------
 
-<img src="/images/ict2.jpeg" style="width:325px;height:240px;margin-right:25px;" align = "left">ICT curriculum in Crest Secondary School involves these software:
+<img src="/images/ict2.jpeg" style="width:325px;height:240px;margin-left:25px;" align = "right">ICT curriculum in Crest Secondary School involves these software:
 
 * Google Workspace
 
