@@ -32,5 +32,6 @@ Taster Modules
 
 The taster modules will give students an idea of what REC will be like in Upper Secondary if they are to select this subject. REC teaches flat lay photography where students can display their creativity in the art of visual display. Such skills are currently sought after in the social media field and students are also taught research skills. Students will also learn to apply essential service standards and concepts that can enhance their communication and presentation skills to make a real difference in the community.  Most importantly, the taster modules will help the students recognise their strengths and interests so that they can make an informed choice of what ISS to specialise in when they reach Sec 3.
 
-Signature Activities @ RETAIL - ALL SAINTS HOME
+Signature Activities @ RETAIL - All Saints Home
 -----------------------------------------------
+
