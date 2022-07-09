@@ -60,7 +60,7 @@ Makan @ Bistro
 
 <img src="/images/cro4.jpg" style="width:285px;height:240px;margin-right:25px;" align = "left">Modelled after a casual dining establishment, this is an authentic learning event where the Secondary 4 Culinary and Restaurant Operations students cook and serve simple fare from an ala carte menu, to guests who are usually our own school staff. This allows the students to put into practice what they have learnt and acts as a lead-up to the Authentic Lunches.
 
-SYNOPSIS OF Culinary & Restaurant Operations
+Sypnosis OF Culinary & Restaurant Operations
 --------------------------------------------
 
 | Passion to Serve<br>(Sec 1 Taster Modules) | Looks Good, Tastes Good (Sec 2 Taster Modules)  | Culinary & Restaurant Operations (Sec 3 & 4 ISSC Subject) |  |
