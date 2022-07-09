@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Teaching &Learning/Curriculum Approach.md
       - Teaching &Learning/Teaching & Learning.md
       - Teaching &Learning/.keep
       - Academic Curriculum/Aesthetics.md
