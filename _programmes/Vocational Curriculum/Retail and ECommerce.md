@@ -23,10 +23,12 @@ Objective
 
 Taster Modules
 --------------
+
 | Taster Module | Description |  |  |
 |---|---|---|---|
 | Fabulous Merchandise Display | This module is taught in Secondary 1. In this module, students will learn about basic retail concepts and trends in e-retailing. They will also create attractive retail displays and observe workplace safety and hygiene. |  |  |
 | Service With A Smile | This module is taught in Secondary 2. In this module, students will learn to apply essential service standards and concepts that can enhance their communication and presentation skills to make a real difference in the community and the world. |  |  |
+
 
 <img src="/images/retail2.png" style="width:100%">
 
