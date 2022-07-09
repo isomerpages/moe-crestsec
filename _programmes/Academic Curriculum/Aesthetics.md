@@ -105,7 +105,7 @@ Customised Gratitude Cards for School-wide Gratitude Card Project:
 
 <img src="/images/aes7.jpg" style="width:275px;height:325px;margin-right:25px;" align = "left">A series of customised Crest Gratitude Cards were created by our student Illustrator Madeline Peh (2-2). These cards were distributed to the entire school during CCE periods for all students to pen down their thoughts and feelings of gratitude. It served as an avenue for our students to reflect and forward their care and concern to the people who have cared for them, including Crest teachers and school support staff during this Covid-19 pandemic period. Crestans had the opportunity to show the school value of Care to the people around them.  
 
-<img src="/images/aes8.png" style="width:100%">
+<img src="/images/aes8.png" style="width:65%">
 
 Dance
 -----
