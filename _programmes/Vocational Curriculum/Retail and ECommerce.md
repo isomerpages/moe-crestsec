@@ -35,3 +35,17 @@ The taster modules will give students an idea of what REC will be like in Upper 
 Signature Activities @ RETAIL - All Saints Home
 -----------------------------------------------
 
+**Breakfast with Oldies at All Saints Home**
+
+<img src="/images/retail3.png" style="width:100%">
+
+With conviction , passion and perseverance , anyone can be empowered to make a difference. The Retail Students at Crest took up the challenge by organising a simple affair that is usually carried out during Customer Service or Basic Retail Operation. Students learn to prepare breakfast and  plan games to serve the old folks from All Saints Home.
+
+Signature Activities @ RETAIL Hamper Gift Wrap for ICA
+-----------------------------------------------
+
+**Hamper Dedication for ICA Frontliners by Sec 4s**
+
+<img src="/images/retail4.png" style="width:290px;height:240px;margin-right:25px;" align = "left">Since the early days of the Covid-19 pandemic, ICA officers working at the borders - Immigration and Checkpoints authority  have been going above and beyond to ensure the nation’s safety. Crest students who specialised in Retail Services explored various ways to  show their gratitude to these frontliners of their fight against the virus.  These students were taught to wrap hampers and flower arrangements as a token of appreciation for ICA front-liners who are protecting our homeland against Covid-19.
+
+<img src="/images/retail5.png" style="width:100%">
