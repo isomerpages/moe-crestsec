@@ -23,7 +23,7 @@ SYNOPSIS OF IoT Applications
 ----------------------------
 
 | Let's Get Connected(Taster Modules)  | Link Up The World(Taster Modules)  | IoT Applications(ISSC subject) |
-|---|---|---|
+|:---:|:---:|:---:|
 | Understanding Electrical & Electronics Principles  | Understand how to perform remote and automatic control of a robotic vehicle | Work safely by observing good safety and 5S rules according to the latest WSH regulations |
 | Connecting Electronic Circuitries | More automatic & smart control over the internet | Set up a basic wired and wireless network to enable devices to interact for control purposes. |
 | Making circuits work |   | Set up various types of input sensors and output devices and actuators so that these various I/O can interact and perform manual or automatic control via an internet gateway.  |
