@@ -38,15 +38,21 @@ Secondary One (A Collaboration with Retail Services Department)
 
 <img src="/images/m1.jpg" style="width:325px;height:240px;margin-right:25px;" align = "left">The Popcorn Making activity allows our Crestans to understand the importance of ratio, cost and profit, while showcasing their retail service skills to promote and sell their product.
 
+<br>
+
 Bubble Tea Making in Secondary Two (A Collaboration with Culinary and Restaurant Operations Department)
 -------------------------------------------------------------------------------------------------------
 
 <img src="/images/m2.jpg" style="width:325px;height:240px;margin-right:25px;" align = "left">During the Bubble Tea Making activity, our Crestans apply their knowledge about proportion and similar figures, while learning the importance of food handling and food hygiene skills during preparation.
 
+<br>
+
 Learning Journey to Gardens by the Bay in Secondary Two (A Collaboration with English Department)
 -------------------------------------------------------------------------------------------------
 
 <img src="/images/m3.jpg" style="width:325px;height:240px;margin-right:25px;" align = "left">Students make measurements and apply their mathematical concepts to see the world through the mathematical lens. For example, they measure the radii and circumference of circles, then compare the calculated circumference against the measured circumference.
+
+<br>
 
 Learning Journey to Singapore Zoo in Secondary Three (A Collaboration with English Department)
 ----------------------------------------------------------------------------------------------
