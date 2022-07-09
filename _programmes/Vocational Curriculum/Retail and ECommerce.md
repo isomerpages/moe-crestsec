@@ -49,3 +49,6 @@ Signature Activities @ RETAIL Hamper Gift Wrap for ICA
 <img src="/images/retail4.png" style="width:290px;height:240px;margin-right:25px;" align = "left">Since the early days of the Covid-19 pandemic, ICA officers working at the borders - Immigration and Checkpoints authority  have been going above and beyond to ensure the nation’s safety. Crest students who specialised in Retail Services explored various ways to  show their gratitude to these frontliners of their fight against the virus.  These students were taught to wrap hampers and flower arrangements as a token of appreciation for ICA front-liners who are protecting our homeland against Covid-19.
 
 <img src="/images/retail5.png" style="width:100%">
+
+Signature Activities @ RETAIL  - ignITE Skills
+-----------------------------------------------
