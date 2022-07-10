@@ -129,3 +129,39 @@ Mental Health & Nutrition Resources
 |:---:|:---:|:---:|
 | Mental Health | Stay Well To Stay Strong<br> Here are some useful resources that can help you relax, destress and stay positive through it all. When we face challenging situations, it can help to talk to someone who can provide a listening ear and offer you a different perspective.<br><br>Journey to become a better supporter<br> As we weather through COVID-19, there are surely times where we would feel overwhelmed. Join us through an experiential journey on how you can best navigate check in conversations <br> | StayWell#families stay healthy<br><br>healthhub.sg/justcheckingin/virtualjourney<br><br>go.gov/hivirtualjourney<br> |
 | Nutrition | Quarter, Quarter, Half (30 seconds song)<br> Nutrition plays such a big role in our development. My Healthy Plate is an easy-to-understand visual guide designed by Health Promotion to help you to eat healthier, manage your weight, ward off chronic diseases and stay happy and healthy. |  |
+
+Parent Communication Guidelines
+-------------------------------
+
+**Our Guiding Principles**  
+
+● We strive to work with our parents for the holistic development and positive well-being of our students.
+
+● We aim to engage parents as partners to develop our students into confident and caring individuals, equipping them with essential life skills, communication skills and knowledge for the future world.
+
+● We aim to balance our teachers’ workload in partnering parents with our core professional duties, particularly in teaching and learning.
+
+**Communication Guidelines**
+
+1\. Crest Secondary School’s official modes of communication with parents comprise the following:
+
+|  |  |
+|---|---|
+| School Phone (Admin Office) | 68992779 |
+| School Email | info@crestsec.edu.sg |
+| School Mailing Address | 561 Jurong East St 24 Singapore 609561 |
+| School Website | https://www.crestsec.edu.sg/ |
+| Parents Gateway | https://pg.moe.edu.sg/ |
+| Students’ Handbook | Hard copy issued yearly to each student |
+
+2\. For general enquiries, please contact the Admin Office at 6899 2779 or email info@crestsec.edu.sg, our Administration Staff would be glad to assist you. If there are any urgent messages during school hours, we advise parents to contact the Admin Office, as teachers may have lessons or engage in other official duties.
+
+3\. To ensure quality time for our teachers to rest and recharge, we seek the kind cooperation of parents to limit communication with teachers within school operating hours (7.30 am to 5.30 pm) on working weekdays and during school term. Teachers are not expected to respond to parents’ and/or students’ queries after school operating hours, during weekends and on school and public holidays, though this can be on a case-by-case basis, depending on the urgency of the matter.
+
+4\. Please note that teachers are not obliged to share their personal phone numbers to parents or students. Parents may wish to discuss with your child’s teacher what his/her preferred mode of communication is.
+
+5\. Parents may expect to receive a response to their email queries within 3 working days. Our staff’s email addresses are available on the school website.
+
+6\. If parents wish to meet our teachers face-to-face or virtually kindly email the teacher(s) or contact the Admin Office to make an appointment in advance, to minimize disruption to teachers’ teaching duties and avoid wait time.
+
+**_You can click [here](/files/Crest%20Form%20Teachers%20Emails_v5.pdf) to access the email addresses of form teachers for all levels._**
