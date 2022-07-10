@@ -92,3 +92,30 @@ The school hours in 2022 are as follows:
 As part of COVID-19 Safe Management Measures to reduce congestion of students, dismissal times for the different levels will be staggered as follows, 
 
 once normal lessons resumed from week 2.
+
+| Day | Reporting<br>Time | Dismissal (Sec 1) | Dismissal (Sec 2) | Dismissal (Sec 3) | Dismissal (Sec 4) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Monday | 7.55am | 3:10pm | 3:20pm | 3:10pm | 3:20pm |
+| Tuesday | 7.55am | 2:40pm | 2:50pm | 2:40pm | 2:50pm |
+| Wednesday | 7.55am | 2:50pm | 2:40pm | 2:50pm | 2:40pm |
+| Thursday | 7.55am | 2:50pm | 2:40pm | 2:50pm | 2:40pm |
+| Friday | 7.55am | 12:25pm | 12:35pm | 12:25pm | 12:35pm |
+
+_Note: These dismissal times will only commence from 7 January 2022 (Friday) onwards._
+
+**11\. What are the progression pathways after Crest?**  
+As our students study the ITE Skills Subjects, it will provide them with a skills and aptitude advantage when they apply to ITE under the Early Admission Scheme as they will have developed their foundation skills for many Nitec courses at Crest.  
+Students in Crest specialises in 2 ITE Skills Subjects (which will be equivalent to 2 NT passes). This means that they will be equipped with vocational and technical skills advantage when they apply to ITE under the ITE Early Admission Scheme. They will be able to apply to a wide range of related Nitec courses in ITE if they meet the respective entry requirements. More than 90% of our graduated students can progress to ITE for a skills course at the Nitec level. From there, depending on how well they perform, many will be able to progress to a Diploma or Higher Nitec programme at ITE or a Polytechnic.  
+  
+
+  
+
+For further queries, please contact Crest Secondary School at:  
+Contact Person : 
+
+Ms Alarize Soo-Hoo, Senior Executive (Administration)  
+Ms Lee Siu Yuen, Head (Administration)  
+School Address : 561 Jurong East Street 24 Singapore 609561 Tel : 6899 2779  
+Email : [info@crestsec.edu.sg](mailto:info@crestsec.edu.sg)  
+Website : [http://www.crestsec.edu.sg](http://www.crestsec.edu.sg/)  
+Facebook : [https://www.facebook.com/crestsec](https://www.facebook.com/crestsec)
