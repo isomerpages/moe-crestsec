@@ -89,4 +89,4 @@ We thank you for your understanding and patience.
 Bus routes Info
 ---------------
 
-The information on the bus routes can be found [**here**](https://www.crestsec.edu.sg/useful-info/shuttle-bus-service).
+The information on the bus routes can be found [**here**](https://moe-crestsec-staging.netlify.app/shuttle-bus-service/useful-info/permalink).
