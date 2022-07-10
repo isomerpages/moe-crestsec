@@ -2,5 +2,6 @@ collections:
   i-am-a:
     output: true
     order:
+      - Student.md
       - Parent.md
       - Teacher.md
