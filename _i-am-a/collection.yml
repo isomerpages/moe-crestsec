@@ -2,4 +2,5 @@ collections:
   i-am-a:
     output: true
     order:
+      - Parent.md
       - Teacher.md
