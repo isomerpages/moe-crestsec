@@ -56,10 +56,6 @@ The theme for the Philippines programme was “Stronger Together”. Together, w
 
 <p style="text-align: center;">Crestans making Banana Turon, a Filipino snack, to better appreciate our similarities. </p><img src="/images/mtp6.png" style="width:100%">
 
-<p style="text-align: center;">Crestans making Banana Turon, a Filipino snack, to better appreciate our similarities. </p><img src="/images/mtp6.png" style="width:100%">
-
-<p style="text-align: center;">Crestans making Banana Turon, a Filipino snack, to better appreciate our similarities. </p>
-
 Crest Meridian Teacher Exchange Programme (TEP)
 -----------------------------------------------
 
