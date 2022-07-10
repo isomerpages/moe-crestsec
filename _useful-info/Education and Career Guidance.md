@@ -18,12 +18,14 @@ Email: [ismawati\_amar\_mamori@schools.gov.sg](mailto:ismawati_amar_mamori@scho
 Whatsapp: 97573266
 
 * [My Skills Future Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)  
-**This portal has a whole range of tools to help your child discover their interests and skills. They can also explore the various industries in Singapore through engaging video content that summarizes what they can do in those industries.
+This portal has a whole range of tools to help your child discover their interests and skills. They can also explore the various industries in Singapore through engaging video content that summarizes what they can do in those industries.
 
 * [NITEC and 3-year Higher NITEC course site](https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec)
 
-·         **ITE Joint Intake Exercise 2022 Booklet (link not yet created by ITE – Link will be loaded [here](https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/application-for-nitec-and-3-year-higher-nitec) after 17 Dec)**
+* **ITE Joint Intake Exercise 2022 Booklet (link not yet created by ITE – Link will be loaded [here](https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/application-for-nitec-and-3-year-higher-nitec) after 17 Dec)**
 
-·         **[ITE Joint Intake Exercise 2022 Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf)  
-**This booklet will help you know the admission process into ITE and the entry requirements for each course.  **[ITE Aggregate Calculator](https://docs.google.com/spreadsheets/d/1UtE1u0O7WcjoFlna5stcYw8kbgbUZ6H3DrghJNiZOwM/edit#gid=0)  
-**This is the ITE aggregate calculator.
+* [ITE Joint Intake Exercise 2022 Booklet](/files/gce-n-admission-booklet-2022%20(2)_compressed.pdf)
+This booklet will help you know the admission process into ITE and the entry requirements for each course.  
+
+* [ITE Aggregate Calculator](https://docs.google.com/spreadsheets/d/1UtE1u0O7WcjoFlna5stcYw8kbgbUZ6H3DrghJNiZOwM/edit#gid=0)  
+This is the ITE aggregate calculator.
