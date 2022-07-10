@@ -121,3 +121,11 @@ Parents need to approach the child's/children’s school to update his/her parti
 **How will I be notified if the school has sent an Announcement/Form on Parents Gateway?**
 
 A push notification and/or email notification will provide the alert, if both have been enabled on the phone and in the Parents Gateway app settings.
+
+Mental Health & Nutrition Resources
+-----------------------------------
+
+| Topic Area | Description | Document Link |
+|:---:|:---:|:---:|
+| Mental Health | Stay Well To Stay Strong<br> Here are some useful resources that can help you relax, destress and stay positive through it all. When we face challenging situations, it can help to talk to someone who can provide a listening ear and offer you a different perspective.<br><br>Journey to become a better supporter<br> As we weather through COVID-19, there are surely times where we would feel overwhelmed. Join us through an experiential journey on how you can best navigate check in conversations <br> | StayWell#families stay healthy<br><br>healthhub.sg/justcheckingin/virtualjourney<br><br>go.gov/hivirtualjourney<br> |
+| Nutrition | Quarter, Quarter, Half (30 seconds song)<br> Nutrition plays such a big role in our development. My Healthy Plate is an easy-to-understand visual guide designed by Health Promotion to help you to eat healthier, manage your weight, ward off chronic diseases and stay happy and healthy. |  |
