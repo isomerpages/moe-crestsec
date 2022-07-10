@@ -17,3 +17,36 @@ description: ""
 |  |  Mr Desmond Chua |  chua_chin_choon_desmond@schools.gov.sg |
 |   |  Mr Dave Yuen |  yuen_wei_dong_dave@schools.gov.sg |
 
+Check out some stories of our alumni
+------------------------------------
+<img src="/images/a1.jpg" style="width:75%"> 
+
+[Watch the story of Muhd Suzairee Bin Suhairee](https://www.facebook.com/crestsec/videos/719207211897691/)
+
+<img src="/images/a2.jpg" style="width:75%"> 
+
+[Watch the story of Nur Halif B Abdullah Sani](https://www.youtube.com/watch?v=IVFWHWgCI_g)
+
+<img src="/images/a3.jpg" style="width:75%"> 
+
+[Watch the story of Lee Hui Ling](https://www.facebook.com/crestsec/videos/522730024949944/)
+
+<img src="/images/a4.jpg" style="width:75%"> 
+
+[Watch the story of Taufiq Bin Diman](https://www.facebook.com/crestsec/videos/264433434271270/)
+
+<img src="/images/a5.jpg" style="width:75%"> 
+
+[Watch the story of Soh Shi Yong](https://www.facebook.com/crestsec/videos/2251096861858771/)
+
+<img src="/images/a6.jpg" style="width:75%"> 
+
+[Watch the story of Raphael Lee](https://www.facebook.com/crestsec/videos/971423479889813/)
+
+<img src="/images/a7.jpg" style="width:75%"> 
+
+[Watch the story of Cayla Maxine Jacob](https://www.facebook.com/crestsec/videos/463168944314579/)
+
+<img src="/images/a8.jpg" style="width:75%"> 
+
+[Watch the story of Charleston Lim](https://www.facebook.com/crestsec/videos/424745385582002/)
