@@ -40,4 +40,23 @@ Subject-Based Banding Info for Parents
 
 [2022 SBB Briefing Slides for Parents for sch website ](/files/2022%20SBB%20Briefing%20Slides%20for%20Parents%20for%20sch%20website%20(1).pdf)
 
+Nominate Crest Teachers for the CTA 2022
+----------------------------------------
 
+The Caring Teacher Awards (CTA) is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students, and go the extra mile to ensure their charges grow up to be confident and independent learners. As parents/guardians of Crestans, we will like to encourage you to nominate any deserving Crest teachers who go beyond the call of duty to care for your child/ward in ways that have impacted them positively and supporting them through challenging times. We look forward to receive your nominations through the CTA nomination page.
+
+This is the [link](https://www.cta.nie.edu.sg/home) to the nomination page.
+
+MOE FAS APPLICATION FORM FOR 2022
+---------------------------------
+
+[MOE FAS Application Form for Specialised Schools Sep 21 2021 for 2022 application](/files/MOE%20FAS%20Application%20Form%20for%20Specialised%20Schools%20Sep%2021%202021%20for%202022%20application.pdf)
+
+Resources for Parents
+---------------------
+
+1\. Equip Parents Series 1  
+\- Designing a better Reality to Fight Games Addiction<br>[Equip Parents Series 1 DESIGNING A BETTER REALITY TO FIGHT GAME ADDICTION](/files/Equip%20Parents%20Series%201%20DESIGNING%20A%20BETTER%20REALITY%20TO%20FIGHT%20GAME%20ADDICTION.pdf)
+
+2\. Equip Parents Series 3  
+\- EF e-book<br>
