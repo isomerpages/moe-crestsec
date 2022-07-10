@@ -54,6 +54,10 @@ The theme for the Philippines programme was “Stronger Together”. Together, w
  
 <img src="/images/mtp6.png" style="width:100%">
 
+<p style="text-align: center;">Crestans making Banana Turon, a Filipino snack, to better appreciate our similarities. </p><img src="/images/mtp6.png" style="width:100%">
+
+<p style="text-align: center;">Crestans making Banana Turon, a Filipino snack, to better appreciate our similarities. </p><img src="/images/mtp6.png" style="width:100%">
+
 <p style="text-align: center;">Crestans making Banana Turon, a Filipino snack, to better appreciate our similarities. </p>
 
 Crest Meridian Teacher Exchange Programme (TEP)
@@ -76,10 +80,6 @@ Meridian shared with us on The Flipped Classroom and The Heart of the Meridian C
 
 Crest teachers shared on The "Cresthetics” Way (Positive Classroom Practices For The Active Learner), Preparing Students for a Tech-Enabled Future, and Journeying through Life Choice with Crestans.
 
-![eTEP 2021 1.PNG](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/eTEP%202021%201.PNG)![eTEP 2021 2.jpeg](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/eTEP%202021%202.jpeg)![eTEP 2021 3.PNG](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/eTEP%202021%203.PNG)
+<img src="/images/mtp8.png" style="width:75%">
 
-  
-
-  
-
-Our School Leaders and teachers interacting and growing with one another during our eTEP sessions.
+<p style="text-align: center;">Our School Leaders and teachers interacting and growing with one another during our eTEP sessions.</p>
