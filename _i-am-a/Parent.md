@@ -65,3 +65,21 @@ Resources for Parents
 
 
 \- Morning Evening Routine Checklist<br>[Equip Parents Series 3 Morning Evening Routine Checklist](/files/Equip%20Parents%20Series%203%20Morning%20Evening%20Routine%20Checklist.pdf)
+
+
+Handbrake Requirement for Bicycles
+----------------------------------
+
+Dear parent/guardian,    
+Over the past few years, we have seen an increase in the number of people using bicycles as a mode of transport or for leisure, especially since the COVID-19 pandemic. This may include students who cycle to and from school, or during the weekends with friends and families. Some of these students who cycle may be fixie enthusiasts. Fixies, also known as fixed-gear bicycles, generally do not have hand-operated brakes, but instead, rely on the rider’s pedal resistance to stop. This makes it challenging for riders to brake quickly, endangering themselves and other path and road users.    
+   
+To improve safety, from 1 September 2021, all bicycles are ridden on public paths and roads must have at least one functioning handbrake.    
+  
+Please see LTA’s Facebook post and poster on this new rule for your information.   We also wish to inform parents that students may only be allowed to cycle to school with their parents’ knowledge through a parents’ advisory note. Students who cycle to school should also wear protective gear, such as a helmet, and have a bicycle lock to secure their bicycles at the bicycle racks.
+
+[LTA handbrake requirements for bicycles_web](/files/LTA%20handbrake%20requirements%20for%20bicycles_web.pdf)
+
+Thank you.
+
+Resource Kit - Experiencing Blended Learning BL with Our Children
+-----------------------------------------------------------------
