@@ -24,3 +24,14 @@ _**For parents who wish to join the parents’ WhatsApp chat group managed by th
 
 Parent and Child Activities
 ---------------------------
+
+<img src="/images/cp5.png" style="width:100%">
+
+Some thoughts from our Crest PAL members
+----------------------------------------
+
+<img src="/images/cp6.jpg" style="width:300px;height:375px;margin-right:25px;" align = "left"><em>"Cahaya was a quiet girl in primary school. Ever since she joined Crest, I see a change in her, especially in her outlook towards studies. Her mother also observed that Cahaya’s confidence level is higher now. One thing which surprised us was when Cahaya took the initiative to cook for us. Now, I see an independent and responsible girl.”</em><br><b>- Mr Mohamad Noor</b>
+
+<em>"The teachers at Crest are really passionate and caring! I appreciate that they go out of the way to keep us informed of our child’s progress. The parent-child bonding activities have most certainly brought me closer to my child."</em><br><b>- Mdm Sharon Tan (Crest PAL ExCo Chairperson, Year 2019-2020)</b>
+
+ <em>“I feel that Crest Secondary is best suited for N(T) students because of the unique curriculum that allows for more experiential learning beyond the classroom. I also like the culture of the school where emphasis is on character building and teamwork.”</em><br><b><b>- Mdm Fanny Cheong (Crest PAL ExCo Vice-Chairperson, Year 2019-2020)</b>
