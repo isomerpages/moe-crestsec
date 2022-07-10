@@ -2,6 +2,7 @@ collections:
   useful-info:
     output: true
     order:
+      - Assessment Matters.md
       - Education and Career Guidance.md
       - Data Protection Policy.md
       - Whistleblowing Policy.md
