@@ -15,3 +15,5 @@ Operating Timings
 From 7.00 am to 7.35 am
 
 In the event of any unforeseen circumstances such as when the second bus is full or when the second pick up bus did not arrive within 15 minutes from the designated pick up time, students are to take own public transport and make their way to the school. Students are to report such incidents to the Form Teacher or Admin Office when they arrive to the school.
+
+<img src="/images/sb1.jpg" style="width:100%">
