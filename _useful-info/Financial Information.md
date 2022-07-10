@@ -42,3 +42,27 @@ description: ""
 
 | Surplus / (Deficit) | 3,889 | 1,662 | -57% |
 |:---:|:---:|:---:|:---:|
+
+
+**Statement of Financial Position**
+
+| Assets | As at 31 Mar 2021<br>(S$'000) | <br>As at 31 Mar 2022<br>(S$'000) | %Increase / <br>(Decrease) |
+|:---:|:---:|:---:|:---:|
+| Plant and Equipment | 1,008 | 2,435 | 142% |
+| Intangible Assets | 5 | 6 | 20% |
+|  Trades & Other receivables |  134 | 304 | 127% |
+|  Cash & cash equivalents |  28,813 |  30,348 | 5% |
+|  Total Assets |  29,960 | 33,093 |  10% |
+
+| Liabilities | <br>As at 31 Mar 2021<br>(S$'000) | <br>As at 31 Mar 2022<br>(S$'000) | %Increase / <br>(Decrease) |
+|:---:|:---:|:---:|:---:|
+| Long-Term Liabilities | 1,006 | 2,406 | 139% |
+|  Current Liabilities |  7,091 | 7,162 | 1% |
+|  Total Liabilites |  8,097 |  9,568 | 18% |
+
+| Funds | <br>As at 31 Mar 2021<br>(S$'000) | <br>As at 31 Mar 2022<br>(S$'000) | %Increase / <br>(Decrease) |
+|:---:|:---:|:---:|:---:|
+|  General Fund |  21,783 | 23,224 |  7% |
+|  Other Funds |  80 | 301 |  276% |
+|  Total Funds | 21,683 | 23,525 |  8% |
+| **Total Funds and Liabilities** | **29,960** | **33,093** | **10%** |
