@@ -59,4 +59,9 @@ Resources for Parents
 \- Designing a better Reality to Fight Games Addiction<br>[Equip Parents Series 1 DESIGNING A BETTER REALITY TO FIGHT GAME ADDICTION](/files/Equip%20Parents%20Series%201%20DESIGNING%20A%20BETTER%20REALITY%20TO%20FIGHT%20GAME%20ADDICTION.pdf)
 
 2\. Equip Parents Series 3  
-\- EF e-book<br>
+\- EF e-book<br>[Equip Parents Series 3 Exec-Function-e-book](/files/Equip%20Parents%20Series%203%20Exec-Function-e-book_compressed.pdf)
+
+\- Home as an ideal space for strengthening EF<br>[Equip Parents Series 3 Home as An Ideal Space for Strengthening EF](/files/Equip%20Parents%20Series%203%20Home%20as%20An%20Ideal%20Space%20for%20Strengthening%20EF.pdf)
+
+
+\- Morning Evening Routine Checklist<br>[Equip Parents Series 3 Morning Evening Routine Checklist](/files/Equip%20Parents%20Series%203%20Morning%20Evening%20Routine%20Checklist.pdf)
