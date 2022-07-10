@@ -69,3 +69,11 @@ _b. Confidentiality – Whistleblowers are encouraged to disclose their identity
 | Chairman | whistleblowing1@crestsec.edu.sg |
 | Vice-Chairman | whistleblowing2@crestsec.edu.sg |
 | Principal | seet_tiat_hee@schools.gov.sg |
+
+12\. For reporting by mail – The whistleblower can send the letter to the following address and attention the investigation members in accordance with paragraph 10:
+
+|  |  |
+|---|---|
+| To | **: The Investigation Team<br>** |
+| Attn | **: Chairman / Vice Chairman / Principal<br>** |
+| Address | : Crest Secondary School<br><br>  561 Jurong East Street 24<br>  Singapore 609561 |
