@@ -35,3 +35,24 @@ Some thoughts from our Crest PAL members
 <em>"The teachers at Crest are really passionate and caring! I appreciate that they go out of the way to keep us informed of our child’s progress. The parent-child bonding activities have most certainly brought me closer to my child."</em><br><b>- Mdm Sharon Tan (Crest PAL ExCo Chairperson, Year 2019-2020)</b>
 
  <em>“I feel that Crest Secondary is best suited for N(T) students because of the unique curriculum that allows for more experiential learning beyond the classroom. I also like the culture of the school where emphasis is on character building and teamwork.”</em><br><b><b>- Mdm Fanny Cheong (Crest PAL ExCo Vice-Chairperson, Year 2019-2020)</b>
+
+	
+Crest PAL Interviews
+----------------------------------------
+	
+**Crest Pal - Mdm Sharon & Shanelle**
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/MlypPJXksfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Crest Pal - Mdm Juliyana & Haikal**
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/YWB8pUEBY0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+**Crest Pal - Mdm Fanny & Zachariah**
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/UiwIoJ18Ums" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+For more videos of Parents' Testimonies, please [**click on this link**](https://www.youtube.com/watch?v=MlypPJXksfY&list=PL8KJx-9KSZM_JjRUeB23zXMEWqcosKdGN).
+
+	
+
+	
+	
+	
