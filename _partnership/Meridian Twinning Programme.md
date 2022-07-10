@@ -50,55 +50,18 @@ The theme for the Philippines programme was “Stronger Together”. Together, w
 
 <img src="/images/mtp5.jpg" style="width:75%">
 
-<p style="text-align: center;">Crest and Meridian will journey on as friends, as Partners in Education! </p
+<p style="text-align: center;">Crest and Meridian will journey on as friends, as Partners in Education! </p>
  
+<img src="/images/mtp6.png" style="width:100%">
 
-![BT1.jpg](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/BT1.jpg)![BT2.jpg](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/BT2.jpg)![BT3.jpg](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/BT3.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Crestans making Banana Turon, a Filipino snack, to better appreciate our similarities.
+<p style="text-align: center;">Crestans making Banana Turon, a Filipino snack, to better appreciate our similarities. </p>
 
 Crest Meridian Teacher Exchange Programme (TEP)
 -----------------------------------------------
 
-![TEP 2020 Day 1 1.jpg](https://www.crestsec.edu.sg/qql/slot/u1374/Partners/Meridian/TEP%202020%20Day%201%201.jpg)
-
-Building on the success of our student exchange programme, Crest embarked on a Teacher Exchange Programme with Meridian International Learning Experience in 2018. 
+<img src="/images/mtp7.jpg" style="width:325px;height:240px;margin-right:25px;" align = "left">Building on the success of our student exchange programme, Crest embarked on a Teacher Exchange Programme with Meridian International Learning Experience in 2018. 
 
 During the TEP, staff of Crest and Meridian share teaching practices relevant to their respective subject areas and programmes, as well as learn about each other’s school culture, ethos and best practices.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 [Click here to read about Teachers Exchange Programme 2020 for Singapore and Manila legs](https://sites.google.com/crestsec.edu.sg/meridian)
 
