@@ -27,4 +27,3 @@ Coming soon
 Classrooms allocation for 2022
 ------------------------------
 <img src="/images/allo1.jpeg" style="width:100%">
-
