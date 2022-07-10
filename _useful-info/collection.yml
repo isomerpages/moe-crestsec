@@ -2,6 +2,7 @@ collections:
   useful-info:
     output: true
     order:
+      - School Fees.md
       - Financial Information.md
       - Shuttle Bus Service.md
       - Assessment Matters.md
