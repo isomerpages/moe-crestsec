@@ -2,5 +2,6 @@ collections:
   partnership:
     output: true
     order:
+      - Crest Alumni.md
       - Meridian Twinning Programme.md
       - Yuhua Community.md
