@@ -50,3 +50,22 @@ Check out some stories of our alumni
 <img src="/images/a8.jpg" style="width:75%"> 
 
 [Watch the story of Charleston Lim](https://www.facebook.com/crestsec/videos/424745385582002/)
+
+
+Past Events
+-----------
+<img src="/images/a9.png" style="width:100%">
+
+<p style="text-align: center;"><b>Alumni in Action during Sec 1 Orientation</b></p>
+
+<img src="/images/a10.png" style="width:100%">
+
+<p style="text-align: center;"><b>Alumni Helping Out at the Crest Open House</b></p>
+
+<img src="/images/a11.jpg" style="width:75%">
+
+<p style="text-align: center;"><b>Alumni Sharing their ITE Experiences with Crestans</b></p>
+
+<img src="/images/a12.png" style="width:100%">
+
+<p style="text-align: center;"><b>Appreciation Dinner for Alumni</b></p>
