@@ -29,47 +29,29 @@ Due to travel restrictions, the Crest Meridian Twinning Programme took place vir
   
 <img src="/images/mtp2.jpg" style="width:75%">
 
-<p style="text-align: center;">(Poster Credit: Sir Yuri Valerio, one of Meridian artists)</p
+<p style="text-align: center;">(Poster Credit: Sir Yuri Valerio, one of Meridian artists)</p>
 
-The theme for the Singapore programme was “Our Lives, As Per Normal”. We introduced the basics of our lives in Singapore, including school life in Crest, the design of our HDB estates, the multi-culturalism of Singapore, as well as the norms which have changed due to Covid19. 
+
+The theme for the Singapore programme was **“Our Lives, As Per Normal”**. We introduced the basics of our lives in Singapore, including school life in Crest, the design of our HDB estates, the multi-culturalism of Singapore, as well as the norms which have changed due to Covid19. 
 
 Our students and teachers worked together to create virtual tours of our school, our community spaces, Jurong Lake Gardens and Yuhua Village Hawker Centre for this programme. It was a new and interesting experience for many of our students and teachers.
 
-  
 
-![eCMTP 1.PNG](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/eCMTP%201.PNG)
+<img src="/images/mtp3.png" style="width:75%">
 
-Group shot during eCMTP  
+<p style="text-align: center;">Group shot during eCMTP</p>
 
-  
 
-![eCMTP group 1.PNG](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/eCMTP%20group%201.PNG)Breakout room discussion during eCMTP  
+<img src="/images/mtp4.png" style="width:75%">
 
-  
+<p style="text-align: center;">Breakout room discussion during eCMTP  P</p>
 
 The theme for the Philippines programme was “Stronger Together”. Together, we celebrated our friendship and our similarities. United we stand! 
 
-![eCMTP PH.jpg](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/eCMTP%20PH.jpg) 
+<img src="/images/mtp5.jpg" style="width:75%">
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Crest and Meridian will journey on as friends, as Partners in Education!  
-
-  
+<p style="text-align: center;">Crest and Meridian will journey on as friends, as Partners in Education! </p
+ 
 
 ![BT1.jpg](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/BT1.jpg)![BT2.jpg](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/BT2.jpg)![BT3.jpg](https://www.crestsec.edu.sg/qql/slot/u1420/Meridian%20Page/BT3.jpg)  
 
