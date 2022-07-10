@@ -83,3 +83,41 @@ Thank you.
 
 Resource Kit - Experiencing Blended Learning BL with Our Children
 -----------------------------------------------------------------
+[Resource Kit - Experiencing Blended Learning BL with Our Children](/files/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children.pdf)
+
+
+
+Mental Health & Hygiene Resources
+---------------------------------
+
+| Topic Area | Description | Document Link |
+|:---:|:---:|:---:|
+| Mental Well-being  | Stay Strong with these 5 parenting tips.   <br>Here are 5 tips to help you get back to the essentials that will help you navigate these bumpy times.<br> <br>Transitioning Back to School<br> As our children gradually return to school, we might find ourselves in our period of adaptation. Here is a handy kit to best help our children as they gradually return to school. | StayWell#families stay healthy   |
+| Hygiene  | Practise Good Hygiene<br> Add a touch of style to hand washing with soap and water with our handwashing guide. <br><br>How Germs Spread<br> A gentle reminder to practice hand hygiene to wash our hands regularly to break the chain of infection | https://www.healthhub.sg/programmes/170/StayWell<br><br>Video on how do germs spread:  |
+
+Parent Gateway
+--------------
+
+*   Access all your official school announcements and forms at your fingertips.
+*   Give consent for your child's activities anytime, anywhere.
+*   Receive official announcements directly from schools.
+*   Keep track of upcoming activities for multiple children.
+
+[**Click here to download the app.**](https://pg.moe.edu.sg/#about)
+
+
+**Who can access Parents Gateway?**
+
+Access to Parents Gateway is granted to parents, legal guardians and authorised caregivers of students studying in MOE schools in Singapore. Parents will need to use SingPass to access Parents Gateway.
+
+  
+
+**My child’s details in Parents Gateway are missing or incorrect.**
+
+Parents need to approach the child's/children’s school to update his/her particulars in the MOE School Records System. Please note that the school may require certain documents for the necessary verification.
+
+  
+
+**How will I be notified if the school has sent an Announcement/Form on Parents Gateway?**
+
+A push notification and/or email notification will provide the alert, if both have been enabled on the phone and in the Parents Gateway app settings.
