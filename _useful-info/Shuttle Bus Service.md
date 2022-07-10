@@ -3,9 +3,8 @@ title: Shuttle Bus Service
 permalink: /shuttle-bus-service/useful-info/permalink
 description: ""
 ---
-Type of Buses: (i) One (1) unit of 49 seater bus **[1st Pick-up]**
-
-                         (ii) One (1) unit of 13 seater bus **[2nd Pick-up\]**
+Type of Buses: 
+<br>(i) One (1) unit of 49 seater bus **[1st Pick-up]**<br>(ii) One (1) unit of 13 seater bus **[2nd Pick-up\]**
 
 Number of trip:  One (1) way trip only
 
