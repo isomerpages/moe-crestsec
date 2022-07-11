@@ -2,12 +2,12 @@ collections:
   programmes:
     output: true
     order:
-      - Teaching &Learning/.keep
-      - Teaching &Learning/Teaching & Learning.md
-      - Teaching &Learning/Philosophy.md
-      - Teaching &Learning/Fundamental Beliefs.md
-      - Teaching &Learning/Guiding Principles.md
-      - Teaching &Learning/Curriculum Approach.md
+      - Teaching & Learning/.keep
+      - Teaching & Learning/Teaching & Learning.md
+      - Teaching & Learning/Philosophy.md
+      - Teaching & Learning/Fundamental Beliefs.md
+      - Teaching & Learning/Guiding Principles.md
+      - Teaching & Learning/Curriculum Approach.md
       - Academic Curriculum/Aesthetics.md
       - Academic Curriculum/English Language.md
       - Academic Curriculum/Infocommunications Technology.md
