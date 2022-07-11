@@ -15,6 +15,7 @@ description: ""
 
 2020
 ----
+
 | **School Achievements 2020** |  |
 |:---:|---|
 | **Aesthetics Achievements** | **Visual Arts Club (VAC):**<br>●     Appreciation Postcards for Frontline workers for Ng Teng Fong General Hospital and Frontline Healthcare staff, PCPH Clinics and Town Councils Cleaners at Yuhua Constituency<br>●     Singapore Youth Festival 2020 – Arts Exhibition |
