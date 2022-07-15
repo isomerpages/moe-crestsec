@@ -31,3 +31,8 @@ For students using their personal laptops from home for lessons in school, DMA *
 To install DMA in the students' personal laptops to use in school, there is a minimum set of specifications that the laptops must meet. Please see the specifications below.
 
 **If you are unsure if your laptop fulfills the requirements, please bring them to school for our desktop engineers to take a look for you.**
+
+***
+<br>
+
+<img src="/images/annexa.png" style="width:75%">
