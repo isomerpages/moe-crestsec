@@ -2,5 +2,6 @@ collections:
   crestan-virtual-assistant:
     output: true
     order:
+      - HBL/Home Based Learning.md
       - HBL/.keep
       - Crestan's Virtual Assistant (CVA).md
