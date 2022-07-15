@@ -35,4 +35,8 @@ To install DMA in the students' personal laptops to use in school, there is a mi
 ***
 <br>
 
-<img src="/images/annexa.png" style="width:75%">
+<img src="/images/annexa.png" style="width:100%">
+
+***Only Windows 10 or 11** **OS** **will be compatible.**
+
+**Please note that if your laptop is installed with Windows 10 Home edition, the school will be changing the operating system to Windows 10 Education edition in your laptop.**
