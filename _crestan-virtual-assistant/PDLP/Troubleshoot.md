@@ -35,24 +35,24 @@ Many times they are connected to pldsetup@SSOE which is the wrong SSID to connec
 
 ### 
 
-Problems:
+**Problems:**
 
-* Keyboard is not working.
+* **Keyboard is not working.**
     
-* Brightness level of screen cannot be adjusted.
+* **Brightness level of screen cannot be adjusted.**
     
 
-Solution:
+**Solution:**
 
 Restart the laptop. It should work after that.
 
 
-Problem:
+**Problem:**
 
-Student's home laptop cannot connect to school's SWN@SSOE network even after resetting student's MIMS password.
+**Student's home laptop cannot connect to school's SWN@SSOE network even after resetting student's MIMS password.**
 
 
-Solution:
+**Solution:**
 
 
 SWN@SSOE network requires student's MIMS password to login. Should student forget his password, and MIMS administrator have reset for him, student will still need to log in to his MIMS account using the temporary password, change to his own password, then use this new password to login to the network.
