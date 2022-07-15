@@ -1,4 +1,5 @@
 collections:
   crestan-virtual-assistant:
     output: true
-    order: []
+    order:
+      - Crestan's Virtual Assistant (CVA).md
