@@ -114,8 +114,8 @@ Please click on the links below to find additional resources to support your chi
     
 *   [HBL Parent Tips (Part 4)](/files/hbl-part-4.pdf)
     
-*   [Experiencing Blended Learning](https://drive.google.com/file/d/1J0fykOIcxc0mLOYL_Cuz5OJwxBkCrg63/view?usp=sharing)
+*   [Experiencing Blended Learning](/files/experiencing-blended-learning.pdf)
     
-*   [Supporting your child during HBL](https://drive.google.com/file/d/17EXLrnkUOH5gkWGDw0EoML7V9k9Gh0KZ/view?usp=sharing)
+*   [Supporting your child during HBL](/files/Parent%20Kit_Supporting%20your%20child%20during%20Full%20HBL.pdf)
     
-*   [Cyber-wellness for your child](https://drive.google.com/file/d/1JnmyhaSNmWGWrroIq3quFFOXu76EOBC1/view?usp=sharing)
+*   [Cyber-wellness for your child](/files/cyber-wellness-for-your-child.pdf)
