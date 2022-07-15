@@ -2,6 +2,7 @@ collections:
   crestan-virtual-assistant:
     output: true
     order:
+      - PDLP/Frequently Asked Questions.md
       - PDLP/Troubleshoot.md
       - PDLP/Downloads.md
       - PDLP/.keep
