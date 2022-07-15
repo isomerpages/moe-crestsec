@@ -56,3 +56,21 @@ Restart the laptop. It should work after that.
 
 
 SWN@SSOE network requires student's MIMS password to login. Should student forget his password, and MIMS administrator have reset for him, student will still need to log in to his MIMS account using the temporary password, change to his own password, then use this new password to login to the network.
+
+
+### 
+
+**Problem:**
+
+**PDF files cannot be opened on student's laptop.**
+
+
+**Solution:**
+
+1\. Right-click the PDF file.
+    
+2\. Click **Open with >**
+    
+3\.  Choose Google Chrome.
+
+It should open after these steps.
