@@ -38,7 +38,7 @@ Please click to see the deck of slides on the [PDLP Student Device Information K
 
 ### 
 
-Please click to read letter to [Parents/Guardians on NDLP/PDLP](https://drive.google.com/file/d/1ZLCV9oWmIQMQtBMRELyXuWBEgglCvCJB/view?usp=sharing).
+Please click to read letter to [Parents/Guardians on NDLP/PDLP](/files/Letter%20to%20Parents%20for%20PDLP%20Procurement_SSIS%20(edited).pdf).
 
 
 To support you in keeping your child safe online, you may refer to these resources:
