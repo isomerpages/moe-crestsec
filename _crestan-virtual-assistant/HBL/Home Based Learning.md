@@ -99,3 +99,23 @@ The student can contact the subject teacher to clarify. Should the student not h
     
 
 The student needs to attend the remaining 'live' lessons on Zoom (if any) and to complete the work given for the day. Student is required to explain to the subject teacher for missing lesson the next school day. Disciplinary actions might be taken against the student should the student be found of truancy or for any other unacceptable reasons given.
+
+**Additional Resources for Parents**
+
+Please click on the links below to find additional resources to support your child during HBL days.
+
+*   [Slides presented to all students on 13 Jan 2022 (Thurs)](/files/Home-Based%20Learning%20Briefing.pdf)
+    
+*   [HBL Parent Tips (Part 1)](/files/hbl-part-1.pdf)
+    
+*   [HBL Parent Tips (Part 2)](/files/hbl-part-2.pdf)
+    
+*  [ HBL Parent Tips (Part 3)](/files/hbl-part-3.pdf)
+    
+*   [HBL Parent Tips (Part 4)](/files/hbl-part-4.pdf)
+    
+*   [Experiencing Blended Learning](https://drive.google.com/file/d/1J0fykOIcxc0mLOYL_Cuz5OJwxBkCrg63/view?usp=sharing)
+    
+*   [Supporting your child during HBL](https://drive.google.com/file/d/17EXLrnkUOH5gkWGDw0EoML7V9k9Gh0KZ/view?usp=sharing)
+    
+*   [Cyber-wellness for your child](https://drive.google.com/file/d/1JnmyhaSNmWGWrroIq3quFFOXu76EOBC1/view?usp=sharing)
