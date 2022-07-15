@@ -74,3 +74,26 @@ SWN@SSOE network requires student's MIMS password to login. Should student forge
 3\.  Choose Google Chrome.
 
 It should open after these steps.
+
+**Problem:**
+
+**Error message of "Profile not found" when the student logs into Google Chrome.**
+
+**Solution:**
+
+Delete away old profile and set up the profile again. Please see steps below on how to delete and set up profile. \*If the problem persists, do the same steps for both email addresses (ie \*\*\*\*\*@crestsec.edu.sg and \*\*\*\*\*\*\*\*@students.edu.sg)
+
+<img src="/images/ch3.png" style="width:100%">
+<img src="/images/ch4.png" style="width:100%">
+<img src="/images/ch5.png" style="width:100%">
+<img src="/images/ch6.png" style="width:100%">
+<br>
+
+***
+
+**Problem: Forgot SLS password.**
+
+**Solution:** **Generate or reset to new password.**
+
+<img src="/images/ch7.png" style="width:100%">
+<img src="/images/ch8.png" style="width:100%">
