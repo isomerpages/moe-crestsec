@@ -2,6 +2,7 @@ collections:
   crestan-virtual-assistant:
     output: true
     order:
+      - DMA Matters.md
       - HBL/.keep
       - HBL/Home Based Learning.md
       - HBL/HBL Instructions.md
