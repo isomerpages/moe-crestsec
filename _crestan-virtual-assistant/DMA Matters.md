@@ -17,11 +17,11 @@ If you have submitted the DMA option form, please click on the respective link o
 
 If you have not submitted the DMA option form, you may click on all 3 links to find out more about the different options.
 
-*   [**Default option**](https://drive.google.com/file/d/1JbY_HAl67ll6QdXEstjhzGey9FZd8rgP/view?usp=sharing) (no parental control during after-school hours)
+*   [**Default option**](/files/DMA%20Parent%20Guide%20for%20Default%20Option%20(Windows%20Devices).pdf) (no parental control during after-school hours)
     
-*   [**Option A**](https://drive.google.com/file/d/19AXQu_MJA92fgbLjMPSTxjOv1qaz_3E9/view?usp=sharing) (this option allows parents to install applications of choice and to customise your child's/ward’s device sleep timing, while retaining the web filtering function to protect your child/ward from unsafe contents)
+*   [**Option A**](/files/DMA%20Parent%20Guide%20for%20Option%20A%20(Windows%20Devices).pdf) (this option allows parents to install applications of choice and to customise your child's/ward’s device sleep timing, while retaining the web filtering function to protect your child/ward from unsafe contents)
     
-*   [**Option B**](https://drive.google.com/file/d/1kiodMenfKao1czF-ux72kteSa63LTeJJ/view?usp=sharing) (parents to have total control of the device after school hours. Parents have the ability to install applications of choice and all activities on the device are not logged)
+*   [**Option B**](/files/DMA%20Parent%20Guide%20for%20Option%20B%20(Windows%20Devices).pdf) (parents to have total control of the device after school hours. Parents have the ability to install applications of choice and all activities on the device are not logged)
 
 
 **STUDENT-OWNED LAPTOPS**
