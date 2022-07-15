@@ -2,4 +2,5 @@ collections:
   crestan-virtual-assistant:
     output: true
     order:
+      - HBL/.keep
       - Crestan's Virtual Assistant (CVA).md
