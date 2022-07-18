@@ -8,7 +8,7 @@ description: ""
 The school believes that a physically and psychologically safe environment is a strong enabler to encourage teachers to teach with greater passion and students to learn more effectively. The safety vision is in line with the school vision, mission, values and beliefs. All school members should ensure that SAFE practices are part of their daily duties and do what is right which is guided by our beliefs.  
 
   
-<p style="text-align: left;"><u><b>School Safety Mission:</u></b></p> 
+<p style="text-align: left;"><u><b>School Safety Mission:</b></u></p> 
 
 Create a safe and secure workplace & environment for all.  
 
