@@ -40,3 +40,15 @@ description: ""
 
 2016
 ----
+
+|  |  |
+|---|---|
+| **School Achievements 2016** |  |
+| **Aesthetics Achievements<br>** | ● Inaugural Percussion Ensemble (SYF2016 Display Band) – Certificate of Commendation<br><br>● SYF 2016 Arts Presentation - 2 artwork, titled "Weaving" and "Space 3" were selected to be displayed. |
+| **Sports Achievements** | ● 2 students shared their experience on Amunt Valencia Football trip at the SOF- Peter Lim Scholarship Ceremony, held at ITE College East<br>● 2016 Singapore Youth Olympic Festival 7-a-side Football Competition - 1st Runner up ('B' Division) |
+| **UG Achievements** | **Boy Scouts**<br>2 students participated at the World Scouts Jamboree in Japan.<br>● Shawn Rajoo<br>● Clarence Ang<br><br>2 students represented the school in the National Day Parade as part of the marching contingent<br>● Muhammad Shafiq Bin Amri<br>● Muhammad Anwar Bin Khamdan<br><br>**Girl Guides**<br>● 1st place in World Thinking Day 2016, International Costume Parade at National level<br><br>● 1st place in World Thinking Day 2016, International Costume Parade at Division level (West Division) |
+| **Service Club<br>** | ● Community in Bloom Awards 2016 - Silver Award |
+| **Visual Arts Club** | ● Yuhua Neighbourhood Anti-Scam Wall Mural Painting Competition - 1st Prize |
+| **Mathematics** | ● Top 20 Achievers - One Sec 3 student achieved 11th position at the All Singapore Secondary Mathematics Competition for Normal Course Students |
+| **Recognitions from Other Organisations (Non-MOE) in 2016** | ● Ignite Skills Challenge 2016, 3rd prize under the "Keep Kool" category<br><br>● Ignite Skills Challenge 2016 - Bullet Vessel (1st Prize); Bullet Vessel Poster (Top 3) |
+| **MOE SYF 2016 Celebrations** | ● As CSS was the lead school in organising MOE’s SYF 2016 celebrations at The Esplanade (Outdoor Theatre) on 1-3 July, students from the Arts & Events Management, New Media Club, Dance and Visual Arts CCAs had the opportunity to coordinate the event involving more than 1500 students from other schools. |
