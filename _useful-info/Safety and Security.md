@@ -14,7 +14,7 @@ Create a safe and secure workplace & environment for all.
 
   
 
-<p style="text-align: left;"><u><b>School Safety Strategies</u></b></p> 
+<p style="text-align: left;"><u><b>School Safety Strategies</b></u></p> 
 
 
 Strategy 1: To develop, implement and review School Safety & Security organisation, system and structure for sustainability. This includes:  
@@ -44,14 +44,14 @@ c) Prepare and ready to manage security incident to manage emergency situations 
 d) Implement & review School EP training for Admin staff & key personnel in the School Emergency Structure (SES).
 
   
-<p style="text-align: left;"><u><b>School Safety Committee (SSC)</u></b></p>  
+<p style="text-align: left;"><u><b>School Safety Committee (SSC)</b></u></p>   
  
 
 The School Safety Committee sets direction and guides safety processes in various school areas so as to provide a safe environment for teaching and learning. The SSC is headed by the Principal as the Advisor, Vice Principal (Admin) as the Chairman who is also the Chief Safety Officer and Six members.  
 
 <img src="/images/sas1.jpg" style="width:75%">
 
-<p style="text-align: left;"><u><b>School Emergency Preparedness</u></b></p>  
+<p style="text-align: left;"><u><b>School Emergency Preparedness</b></u></p>   
 
 School Emergency Structure (SES)  
 
@@ -67,7 +67,7 @@ To support the school leaders to mitigate and manage security incident, the SES 
 *   to engage community partners (e.g. NPC, SCDF, Grassroots organization, etc) on an on-going process to enhance a good understanding for crisis and emergency management.
 
   
-<p style="text-align: left;"><u><b>Guiding Principles during school emergency</u></b></p>  
+<p style="text-align: left;"><u><b>Guiding Principles during school emergency</b></u></p> 
 
 
 Regardless of the type of security incidents (e.g. fire, intrusion and hostage taking) actions to be taken by School Leaders and staff must follow the fundamental maxim that the safety of the school population is of utmost importance. During an emergency or security incident, staff and students are to:  
