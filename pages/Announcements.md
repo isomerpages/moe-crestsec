@@ -7,7 +7,7 @@ description: ""
 
 Dear Parents/Guardians of Sec 1 Students,
 
-Please [**click here**](https://www.crestsec.edu.sg/qql/slot/u1420/11.1.22%20%20Colour%20vision%20testing%20at%20SHC%20final.pdf) to see attached letter from Health Promotion Board regarding colour vision screening for your child/ward. Thank you.
+Please click here to see attached letter from Health Promotion Board regarding colour vision screening for your child/ward. Thank you.
 
 ### CCA Schedule
 
