@@ -23,4 +23,4 @@ Click [here](/files/2022%20SBB%20Briefing%20Slides%20for%20Parents%20for%20sch%2
 
 ### MOE FAS Application Form 2022
 
-Click [here](https://www.crestsec.edu.sg/qql/slot/u1420/MOE%20FAS%20Application%20Form%20for%20Specialised%20Schools%20Sep%2021%202021%20for%202022%20application.pdf) to view the form.
+Click here[here](/files/MOE%20FAS%20Application%20Form%20for%20Specialised%20Schools%20Sep%2021%202021%20for%202022%20application%20(1).pdf) to view the form.
