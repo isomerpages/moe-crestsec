@@ -19,7 +19,7 @@ Click **[here](https://moe-crestsec-staging.netlify.app/i-am-a-student/permalin
 
 ### Subject-Based Banding Information for Parents
 
-Click [here](https://www-crestsec-edu-sg-admin.cwp.sg/qql/slot/u1420/2022%20SBB%20Briefing%20Slides%20for%20Parents%20for%20sch%20website.pdf) for more info.
+Click [here](/files/2022%20SBB%20Briefing%20Slides%20for%20Parents%20for%20sch%20website%20(3).pdf) for more info.
 
 ### MOE FAS Application Form 2022
 
