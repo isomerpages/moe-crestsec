@@ -15,8 +15,7 @@ Create a safe and secure workplace & environment for all.
   
 
 <p style="text-align: left;"><u><b>School Safety Strategies</b></u></p> 
-
-
+<br>
 Strategy 1: To develop, implement and review School Safety & Security organisation, system and structure for sustainability. This includes:  
 
   
