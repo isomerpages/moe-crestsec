@@ -4,8 +4,6 @@ permalink: /troubleshoot/crestan-virtual-assistant/PDLP/permalink
 description: ""
 third_nav_title: PDLP
 ---
-
-
 There are times when the laptop doesn't work the way we want it to be. We have listed the common problems that students usually face and the accompanying solutions here. Please refer to this if you need help.
 
 
@@ -22,7 +20,7 @@ Please remind student to ensure the laptop is shut down fully before closing the
 
  
 
-<img src="/images/ch1.png" style="width:240px;height:350px;margin-left:25px;" align = "right">Check 2: Ensure that student's PLD's WIFI connection is connected to pdlp@SSOE.
+<img src="/images/ch1.png" style="width:240px;height:350px;margin-left:25px;" align = "right">**Check 2: Ensure that student's PLD's WIFI connection is connected to pdlp@SSOE.**
 
 Many times they are connected to pldsetup@SSOE which is the wrong SSID to connect to. This will prevent them from accessing websites.
 
@@ -32,7 +30,9 @@ Many times they are connected to pldsetup@SSOE which is the wrong SSID to connec
 
 <img src="/images/ch9.png" style="width:240px;height:240px;margin-left:25px;" align = "right">**Check 3: When students are accessing Google Chrome, please ensure that they click on the Google Chrome icon without any of their account names on it.**
 
- 
+ <br>
+<br>
+<br>
 
 **Problems:**
 
