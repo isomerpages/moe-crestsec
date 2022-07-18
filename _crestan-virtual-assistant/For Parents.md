@@ -36,7 +36,7 @@ Please click to see the deck of slides on the [PDLP Student Device Information K
 
 **HOD ICT has recorded a briefing with details about PDLP. Please view this half-hour briefing here**: [https://go.gov.sg/csspdlp](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fcsspdlp&sa=D&sntz=1&usg=AOvVaw3dF85LI9tMpHta_rF8lPjP).
 
-### 
+ 
 
 Please click to read letter to [Parents/Guardians on NDLP/PDLP](/files/Letter%20to%20Parents%20for%20PDLP%20Procurement_SSIS%20(edited).pdf).
 
