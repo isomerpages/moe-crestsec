@@ -15,7 +15,7 @@ Click [here](https://moe-crestsec-staging.netlify.app/cca/programmes/student-de
 
 ### Application to ITE 2022
 
-Click **[here](https://www.crestsec.edu.sg/i-am-a/student)** for more info.
+Click **[here](https://moe-crestsec-staging.netlify.app/i-am-a-student/permalink)** for more info.
 
 ### Subject-Based Banding Information for Parents
 
