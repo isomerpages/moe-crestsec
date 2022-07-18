@@ -6,7 +6,6 @@ third_nav_title: HBL
 ---
 **Please find this printer-friendly** **HBL schedule** **for your convenience. Access the PDF file** **[HERE](/files/2022%20HBL%20Dates.pdf)**
 
-### 
 
 **What is Home-Based Learning (HBL)?**
 
