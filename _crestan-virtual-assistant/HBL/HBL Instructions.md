@@ -6,8 +6,6 @@ third_nav_title: HBL
 ---
 
 
-### 
-
 This page will be useful on days that students are having home-based learning (HBL). Please refer to this page for all instructions on HBL.
 
 STEP 1
@@ -46,6 +44,3 @@ Submit all your day's work by 6.00pm on the same day.
 
 
 <p style="text-align: center;">THAT'S IT! YOU ARE DONE!</p>
-
-
-
