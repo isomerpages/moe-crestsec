@@ -10,5 +10,5 @@ At Crest Secondary School, we have an integrated and authentic Total Curriculum 
 
 |  |  |  |  |
 |---|---|---|---|
-| <a href="e"><img style="width:85%" src="/images/tl1.png"></a> | <a href="e"><img style="width:85%" src="/images/tl2.png"></a> | <a href="e"><img style="width:85%" src="/images/tl3.png"></a> | <a href="e"><img style="width:85%" src="/images/tl4.png"></a> |
+| <a href="https://moe-crestsec-staging.netlify.app/philosophy/programmes/teaching-andlearning/permalink"><img style="width:85%" src="/images/tl1.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/fundamental-beliefs/programmes/teaching-andlearning/permalink"><img style="width:85%" src="/images/tl2.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/guiding-principles/programmes/teaching-andlearning/permalink"><img style="width:85%" src="/images/tl3.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/curriculum-approach/programmes/teaching-andlearning/permalink"><img style="width:85%" src="/images/tl4.png"></a> |
 
