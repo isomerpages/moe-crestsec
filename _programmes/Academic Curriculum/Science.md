@@ -1,12 +1,11 @@
 ---
 title: Science
-permalink: /Science/programmes/Academic-Curriculum/permalink
+permalink: /Science/programmes/Academic-Curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---
-| Teachers | Affectionately<br>known as | Designation | Email |
+| eachers | Affectionately<br>known as | Designation | Email |
 |---|---|---|---|
-| Mrs Lee Wen Lin | Mrs Lee | Head of Department<br>(Mathematics & Science) | lee_wen_lin_a@schools.gov.sg |
 | Ms Foo Mei Yeng | Ms Foo | Assistant Year Head<br>(Sec 2)<br>Teacher (Science) | foo_mei_yeng@schools.gov.sg |
 | Mr Lin Yuxuan, Den | Mr Lin | Subject Head (ICT) <br>Teacher (Science) |  lin_yuxuan_den@schools.gov.sg |
 | Mr Ooi Heng | Mr Ooi | Subject Head (Science) | ooi_heng@schools.gov.sg |
