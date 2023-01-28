@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /Mother-Tongue-Languages/programmes/Academic-Curriculum/permalink
+permalink: /Mother-Tongue-Languages/programmes/Academic-Curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---
@@ -41,7 +41,7 @@ At the end of the 4 years, all Crestans would be able to communicate effectively
 Chinese Language  
 ------------------------------------------------------------------------------------
 
-<img src="/images/mt2.jpg" style="width:325px;height:240px;margin-right:25px;" align = "left">针对学生的不同能力，我们通过多元化的教学方式，来激发学生们的学习兴趣。除了培养学生听、说、读、写的技能之外，我们也鼓励学生活学活用，在日常生活中流利地用中文与他人沟通。
+<img src="/images/mt2.jpg" style="width:325px;height:240px;margin-right:25px;" align = "left">针对学生的不同能力，我们通过多元化的教学方式，来激发学生们的学习兴趣。除了培养学生听、说、读、写的技能之外，我们也鼓励学生活学活用，在日常生活中流利地用中文与他人沟通。<br><br><br><br>
 
 * * *
 
@@ -57,4 +57,4 @@ Salah satu fokus utama pengajaran bahasa Melayu di Crest adalah untuk meningkatk
 Tamil Language
 --------------
 
-<img src="/images/mt4.png" style="width:325px;height:525px;margin-right:25px;" align = "left">தமிழ்மொழி கற்றல் மாணவர்களுக்கு ஒரு எளிய, இனிய அனுபவமாக அமைவது முக்கியம். நாடக உத்திகள், விளையாட்டுகள், கற்றல் பயணங்கள் போன்ற பல சுவாரசியமான நடவடிக்கைகளின் மூலம் தமிழ் மொழியில் உரையாடும் வாய்ப்புகளை மாணவர்கள் பெறுவர். தங்களின் நண்பர்களோடு உரையாடுவதோடு மட்டுமல்லாது அவர்களின் படைப்புகளை செம்மைப்படுத்த உதவும் கருத்துக்களைத் தெரிவிக்கும் திறனையும் மாணவர்கள் கற்றுக்கொள்வர். சுவாரசியமான கற்றல் கற்பித்தல் முறைகளின்வழி, மாணவர்களின் மொழித்திறனையும் ஆர்வத்தையும் வளர்ப்பதே கிரெஸ்ட் தமிழ்மொழி பிரிவின் முக்கிய நோக்கமாகும்.  
+<img src="/images/mt4.png" style="width:325px;height:525px;margin-right:25px;" align = "left">தமிழ்மொழி கற்றல் மாணவர்களுக்கு ஒரு எளிய, இனிய அனுபவமாக அமைவது முக்கியம். நாடக உத்திகள், விளையாட்டுகள், கற்றல் பயணங்கள் போன்ற பல சுவாரசியமான நடவடிக்கைகளின் மூலம் தமிழ் மொழியில் உரையாடும் வாய்ப்புகளை மாணவர்கள் பெறுவர். தங்களின் நண்பர்களோடு உரையாடுவதோடு மட்டுமல்லாது அவர்களின் படைப்புகளை செம்மைப்படுத்த உதவும் கருத்துக்களைத் தெரிவிக்கும் திறனையும் மாணவர்கள் கற்றுக்கொள்வர். சுவாரசியமான கற்றல் கற்பித்தல் முறைகளின்வழி, மாணவர்களின் மொழித்திறனையும் ஆர்வத்தையும் வளர்ப்பதே கிரெஸ்ட் தமிழ்மொழி பிரிவின் முக்கிய நோக்கமாகும்.
