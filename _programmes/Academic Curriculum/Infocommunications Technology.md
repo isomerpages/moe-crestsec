@@ -1,6 +1,6 @@
 ---
 title: Infocommunications Technology
-permalink: /Infocommunications-Technology/programmes/Academic-Curriculum/permalink
+permalink: /Infocommunications-Technology/programmes/Academic-Curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---
@@ -9,6 +9,7 @@ third_nav_title: Academic Curriculum
 | Mr Andy Lam Kum Cheong | Mr Lam | Head of Department<br>(ICT & Mobile Web Applications, MWA) | andy_lam_kum_cheong@schools.gov.sg |
 | Mr Lin Yuxuan, Den | Mr Lin | Subject Head(ICT)<br>Teacher (Science) | lin_yuxuan_den@schools.gov.sg |
 | Ms Siti Nooratika Binte Jumaat | Ms Atika | Teacher (ICT) | siti_nooratika_jumaat@schools.gov.sg |
+| Mr James Pek | Mr James | Senior Officer (ICT) | james_pek@crestsec.edu.sg |
 | Mr Klassen Charles Gerard | Mr Charles | Technical Support Officer (AV & ICT) | klassen_charles_gerard@schools.gov.sg |
 
 
