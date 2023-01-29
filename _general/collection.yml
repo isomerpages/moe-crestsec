@@ -2,10 +2,10 @@ collections:
   general:
     output: true
     order:
-      - Career@Crest/Non Teaching Positions.md
-      - Career@Crest/Teaching Positions.md
-      - Career@Crest/Career @Crest.md
       - Career@Crest/.keep
+      - Career@Crest/Career @Crest.md
+      - Career@Crest/Teaching Positions.md
+      - Career@Crest/Non Teaching Positions.md
       - Safety and Security.md
       - Whistleblowing Policy.md
       - Data Protection Policy.md
