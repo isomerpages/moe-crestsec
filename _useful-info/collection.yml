@@ -2,7 +2,6 @@ collections:
   useful-info:
     output: true
     order:
-      - Crestan Virtual Assistant.md
       - Student Admission Info.md
       - School Suppliers.md
       - School Fees.md
