@@ -2,5 +2,6 @@ collections:
   general:
     output: true
     order:
+      - Whistleblowing Policy.md
       - Data Protection Policy.md
       - Financial Information.md
