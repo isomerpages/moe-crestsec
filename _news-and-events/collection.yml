@@ -2,4 +2,4 @@ collections:
   news-and-events:
     output: true
     order:
-      - Vaccination Matters.md
+      - News and Events.md
