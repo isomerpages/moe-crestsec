@@ -54,16 +54,11 @@ links:
         url: /Meridian-Twinning-Programme/partnership/permalink
       - title: Yuhua Community
         url: /yuhua-community/partnership/permalink
-  - title: NEWS & EVENTS
-    url: /news-n-events/resources-on-the-vaccination/permalink
-    sublinks:
-      - title: Resources on the Vaccination
-        url: /news-n-events/resources-on-the-vaccination/permalink
   - title: USEFUL INFO
     url: /Crestans-Virtual-Assistant-C-VA/crestan-virtual-assistant/permalink
     sublinks:
-      - title: CRESTAN'S VIRTUAL ASSISTANT
-        url: /Crestans-Virtual-Assistant-C-VA/crestan-virtual-assistant/permalink
+      - title: "Crestan's Virtual Assistant "
+        url: https://sites.google.com/crestsec.edu.sg/pdlpmicrosite/home?authuser=0
       - title: School Admission Info
         url: /student-admission-info/useful-info/permalink
       - title: School Suppliers
