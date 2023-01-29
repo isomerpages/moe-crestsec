@@ -3,9 +3,9 @@ title: Vaccination Matters
 permalink: /news-n-events/resources-on-the-vaccination/permalink/
 description: ""
 ---
+### Vaccination Matters
 
-
-[Resource 3 One page Infographic on Student Vaccination Exercise ](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise%20(1).pdf)Dear Parents/Guardians,
+Dear Parents/Guardians,
 
 MOE is commencing COVID-19 vaccination for students in schools and Institutes of Higher Learning as part of the national vaccination exercise. 
 
@@ -20,8 +20,7 @@ You may share your questions with us before the webinars via [https://go.gov.sg
 Thank you.
 
 
-Resources On The Vaccination:
--------------------------------------
+#### Resources On The Vaccination:
 
 [Resource 1 Press Release on Vaccination Exercise for Students.pdf](/files/Resource%201%20Press%20Release%20on%20Vaccination%20Exercise%20for%20Students.pdf)
 
