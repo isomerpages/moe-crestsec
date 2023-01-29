@@ -65,24 +65,16 @@ links:
         url: /school-suppliers/useful-info/permalink
       - title: "School Fees "
         url: /school-fees/useful-info/permalink
-      - title: Financial Information
-        url: /financial-information/useful-info/permalink
       - title: Shuttle Bus Service
         url: /shuttle-bus-service/useful-info/permalink
       - title: Assessment Matters
         url: /assessment-matters/useful-info/permalink
       - title: Education and Career Guidance
         url: /Education-and-Career-Guidance/useful-info/permalink
-      - title: Data Protection Policy
-        url: /Data-Protection-Policy/useful-info/permalink
-      - title: Whistleblowing Policy
-        url: /Whistleblowing-Policy/useful-info/permalink
       - title: Media Reports
         url: /2020/our-success-stories/Media-Reports/permalink
-      - title: Safety and Security
-        url: /Safety-and-Security/useful-info/permalink
-      - title: Career @Crest
-        url: /career-at-crest/useful-info/permalink
+  - title: General
+    collection: general
   - title: I AM A
     url: /i-am-a-student/permalink
     sublinks:
