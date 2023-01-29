@@ -2,6 +2,7 @@ collections:
   general:
     output: true
     order:
+      - Career@Crest/Non Teaching Positions.md
       - Career@Crest/Teaching Positions.md
       - Career@Crest/Career @Crest.md
       - Career@Crest/.keep
