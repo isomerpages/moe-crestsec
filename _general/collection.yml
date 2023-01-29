@@ -2,4 +2,5 @@ collections:
   general:
     output: true
     order:
+      - Data Protection Policy.md
       - Financial Information.md
