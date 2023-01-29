@@ -1,9 +1,8 @@
 ---
 title: Crest PAL (Parents' Active Link)
-permalink: /crest-pal/partnership/permalink
+permalink: /crest-pal/partnership/permalink/
 description: ""
 ---
-
 <img src="/images/cp1.jpg" style="width:325px;height:240px;margin-right:25px;" align = "left"><em>Crest PAL is the Parent Support Group (PSG) of Crest, ‘PAL’ stands for ‘Parents’ Active Link’, and as our name suggests, we aim to bring parents together, support one another on the journey of parenting, and work with our teachers to support their children’s education. All our students’ parents/guardians are part of the Crest PAL community.<br>The school works with the Crest PAL ExCo to organize activities for all parents such as parents’ dialogues and parenting workshops. Other activities include learning journeys, as well as sports and games to promote parent-child interaction and bonding. Some examples include laser tag, archery tag, soccer, bowling, cooking, baking, pizza making, learning journeys to farms etc.<br>Over the years, we have parents who volunteer actively in our school events, such as the Education and Career Guidance (ECG) fair, Open House and Cross Country Run. We certainly welcome more parents to join us!</em>
 
 <img src="/images/cp2.png" style="width:100%">
@@ -42,18 +41,15 @@ Crest PAL Interviews
 ----------------------------------------
 	
 **Crest Pal - Mdm Sharon & Shanelle**
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/MlypPJXksfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MlypPJXksfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Crest Pal - Mdm Juliyana & Haikal**
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/YWB8pUEBY0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YWB8pUEBY0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 **Crest Pal - Mdm Fanny & Zachariah**
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/UiwIoJ18Ums" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UiwIoJ18Ums" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 For more videos of Parents' Testimonies, please [**click on this link**](https://www.youtube.com/watch?v=MlypPJXksfY&list=PL8KJx-9KSZM_JjRUeB23zXMEWqcosKdGN).
-
-	
-
-	
-	
-	
