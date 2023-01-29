@@ -10,10 +10,13 @@ sections:
   - hero:
       background: /images/crestfpgif.gif
       key_highlights:
-        - title: Annoucements
+        - title: Announcements
           description: ""
           url: /announcements/permalink
-        - title: Hapennings
+        - title: Happenings
           description: ""
           url: /happenings/permalink
+        - title: Useful Information
+          description: Key Highlight description
+          url: ""
 ---
