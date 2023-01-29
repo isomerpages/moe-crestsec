@@ -2,13 +2,13 @@ collections:
   general:
     output: true
     order:
-      - Happenings.md
       - Announcements.md
+      - Happenings.md
+      - Financial Information.md
+      - Data Protection Policy.md
+      - Whistleblowing Policy.md
+      - Safety and Security.md
       - Career@Crest/.keep
       - Career@Crest/Career @Crest.md
       - Career@Crest/Teaching Positions.md
       - Career@Crest/Non Teaching Positions.md
-      - Safety and Security.md
-      - Whistleblowing Policy.md
-      - Data Protection Policy.md
-      - Financial Information.md
