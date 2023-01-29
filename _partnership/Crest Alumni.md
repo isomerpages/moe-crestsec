@@ -1,6 +1,6 @@
 ---
 title: Crest Alumni
-permalink: /Crest-Alumni/partnership/permalink
+permalink: /Crest-Alumni/partnership/permalink/
 description: ""
 ---
 <img src="/images/c1.jpg" style="width:75%">
@@ -76,4 +76,4 @@ Past Events
 
 <img src="/images/a14.jpg" style="width:75%">
 
-<p style="text-align: center;"><b>Crest Family Games Evening</b></p
+<p style="text-align: center;"><b>Crest Family Games Evening</b></p>
