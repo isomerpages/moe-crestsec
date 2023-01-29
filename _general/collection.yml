@@ -2,6 +2,7 @@ collections:
   general:
     output: true
     order:
+      - Teaching Positions.md
       - Non Teaching Positions.md
       - Safety and Security.md
       - Whistleblowing Policy.md
