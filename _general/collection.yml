@@ -2,6 +2,7 @@ collections:
   general:
     output: true
     order:
+      - News and Events.md
       - Announcements.md
       - Happenings.md
       - Financial Information.md
