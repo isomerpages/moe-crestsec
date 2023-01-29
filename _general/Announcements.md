@@ -3,25 +3,26 @@ title: Announcements
 permalink: /announcements/permalink/
 description: ""
 ---
+### Announcements
 
-### Colour vision screening for Sec 1 students in Student Health Centre (SHC)
+##### Chinese New Year Celebrations
 
-Dear Parents/Guardians of Sec 1 Students,
+Dear parents/guardians,
 
-Please click here to see attached letter from Health Promotion Board regarding colour vision screening for your child/ward. Thank you.
+Please be informed that the school will be having our Chinese New Year celebrations this Friday, 20 January 2023. The students will be dismissed at 11.15 am after the activities. Thank you and we wish you a Happy Lunar New year!
 
-### CCA Schedule
+##### Information for New Secondary 1 Students
 
-Click [here](https://moe-crestsec-staging.netlify.app/cca/programmes/student-development/permalink) for the CCA schedule. 
+Click [here](https://moe-crestsec-staging.netlify.app/student-admission-info/useful-info/permalink) for more information for New Secondary 1 Students.
 
-### Application to ITE 2022
+##### Subject-Based Banding Information for Parents
 
-Click **[here](https://moe-crestsec-staging.netlify.app/i-am-a-student/permalink)** for more info.
+Click [here](/files/2022%20SBB%20Briefing%20Slides%20for%20Parents%20for%20sch%20website.pdf) for more info.
 
-### Subject-Based Banding Information for Parents
+##### Sec 3 Parents Dialogue 2022 slides and IEP Q&As.
 
-Click [here](/files/2022%20SBB%20Briefing%20Slides%20for%20Parents%20for%20sch%20website%20(3).pdf) for more info.
+Click [here](https://moe-crestsec-staging.netlify.app/i-am-a-parent/permalink) for the Sec 3 Parents Dialogue 2022 slides and Parents' Q&As on IEP.
 
-### MOE FAS Application Form 2022
+##### Sec 2 Parents Dialogue 2022
 
-Click here[here](/files/MOE%20FAS%20Application%20Form%20for%20Specialised%20Schools%20Sep%2021%202021%20for%202022%20application%20(1).pdf) to view the form.
+Click [here](https://moe-crestsec-staging.netlify.app/i-am-a-parent/permalink) for the Sec 2 Parents Dialogue 2022 slides and Q&As.
