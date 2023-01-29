@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Career@Crest/.keep
-      - Career @Crest.md
       - Teaching Positions.md
       - Non Teaching Positions.md
       - Safety and Security.md
