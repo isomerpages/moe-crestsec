@@ -2,9 +2,9 @@ collections:
   general:
     output: true
     order:
-      - News and Events.md
       - Announcements.md
       - Happenings.md
+      - News and Events.md
       - Financial Information.md
       - Data Protection Policy.md
       - Whistleblowing Policy.md
