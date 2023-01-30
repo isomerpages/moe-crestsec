@@ -16,7 +16,10 @@ Click the immage to watch the CCA videos.
 
 #### Aesthetics
 
-
+|  |  |  |
+|---|---|---|
+| <a href="https://www.youtube.com/watch?v=gOWDA5ND4uo&feature=youtu.be"><img style="width:85%" src="/images/co7.png"></a> | <a href="https://www.youtube.com/watch?v=mNmZuiQ7PnQ&feature=youtu.be"><img style="width:85%" src="/images/co8.png"></a> | <a href="https://www.youtube.com/watch?v=cUnNvdbkb8M&feature=youtu.be"><img style="width:85%" src="/images/co9.png"></a> |
+| <a href="https://www.youtube.com/watch?v=nwZlvgszELM&feature=youtu.be"><img style="width:85%" src="/images/co10.png"></a> | <a href="https://www.youtube.com/watch?v=RNuCe_DRt9s&list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&index=18"><img style="width:85%" src="/images/co11.png"></a> |  |
 
 #### Uniformed Groups
 
