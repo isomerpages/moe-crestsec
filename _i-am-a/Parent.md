@@ -138,3 +138,15 @@ A push notification and/or email notification will provide the alert, if both ha
 | School Website | [https://www.crestsec.edu.sg/](https://www.crestsec.edu.sg/) |
 | Parents Gateway | [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/) |
 | Students’ Handbook | Soft copy is found in the school website |
+
+2\. For general enquiries, please contact the Admin Office at 6899 2779 or email info@crestsec.edu.sg, our Administration Staff would be glad to assist you. If there are any urgent messages during school hours, we advise parents to contact the Admin Office, as teachers may have lessons or engage in other official duties.
+
+3\. To ensure quality time for our teachers to rest and recharge, we seek the kind cooperation of parents to limit communication with teachers within school operating hours (7.30 am to 5.30 pm) on working weekdays and during school term. Teachers are not expected to respond to parents’ and/or students’ queries after school operating hours, during weekends and on school and public holidays, though this can be on a case-by-case basis, depending on the urgency of the matter.
+
+4\. Please note that teachers are not obliged to share their personal phone numbers to parents or students. Parents may wish to discuss with your child’s teacher what his/her preferred mode of communication is.
+
+5\. Parents may expect to receive a response to their email queries within 3 working days. Our staff’s email addresses are available on the school website.
+
+6\. If parents wish to meet our teachers face-to-face or virtually kindly email the teacher(s) or contact the Admin Office to make an appointment in advance, to minimize disruption to teachers’ teaching duties and avoid wait time.
+
+**_You can [click here](https://drive.google.com/file/d/1ulWh-QY0lorADFVzhAVeKSLv6Qr4G9W3/view?usp=sharing) to access the email addresses of form teachers for all levels._**
