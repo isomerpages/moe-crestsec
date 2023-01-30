@@ -1,9 +1,8 @@
 ---
 title: Parent
-permalink: /i-am-a-parent/permalink
+permalink: /i-am-a-parent/permalink/
 description: ""
 ---
-
 Term Letters 2022
 -----------------
 
