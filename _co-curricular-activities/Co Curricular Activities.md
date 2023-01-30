@@ -1,8 +1,32 @@
 ---
 title: Co Curricular Activities
-permalink: /CCA/programmes/Student-Development/permalink
+permalink: /CCA/programmes/Student-Development/permalink/
 description: ""
 ---
+### Co Curricular Activities
+
+Click the immage to watch the CCA videos.
+
+#### Sports & Games
+
+|  |  |  |
+|---|---|---|
+| <a href="https://www.youtube.com/watch?v=2mIOcpBge98&feature=youtu.be"><img style="width:85%" src="/images/co1.png"></a> | <a href="https://www.youtube.com/watch?v=3aPqUfJOvhQ&feature=youtu.be"><img style="width:85%" src="/images/co2.png"></a> | <a href="https://www.youtube.com/watch?v=Qxn7S6zhjlA&feature=youtu.be"><img style="width:85%" src="/images/co3.png"></a> |
+| <a href="https://www.youtube.com/watch?v=1z6JVOeBPAk&feature=youtu.be"><img style="width:85%" src="/images/co4.png"></a> | <a href="https://www.youtube.com/watch?v=9fckWw7vCS4&list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&index=10"><img style="width:85%" src="/images/co5.png"></a> | <a href="https://www.youtube.com/watch?v=xQ5b7OvW1w8&list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&index=11"><img style="width:85%" src="/images/co6.png"></a> |
+
+#### Aesthetics
+
+
+
+#### Uniformed Groups
+
+
+
+#### Clubs & Societies
+
+
+
+
 Crest offers CCAs from 4 broad categories. These are Sports & Games, Aesthetics, Uniformed Groups, and Clubs & Societies. To cater to students’ diverse interests, every student is assigned a CCA of his/her choice.
 
 <img src="/images/cca1.png" style="width:100%">
