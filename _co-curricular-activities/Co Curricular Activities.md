@@ -5,7 +5,7 @@ description: ""
 ---
 ### Co Curricular Activities
 
-Click the immage to watch the CCA videos.
+Click the image to watch the CCA videos.
 
 #### Sports & Games
 
