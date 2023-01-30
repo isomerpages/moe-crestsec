@@ -18,5 +18,5 @@ sections:
           url: /happenings/permalink
         - title: News and Events
           description: ""
-          url: https://moe-crestsec-staging.netlify.app/general/resources-on-the-vaccination/permalink/
+          url: /general/resources-on-the-vaccination/permalink/
 ---
