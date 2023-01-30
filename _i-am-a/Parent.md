@@ -3,100 +3,86 @@ title: Parent
 permalink: /i-am-a-parent/permalink/
 description: ""
 ---
-Term Letters 2022
------------------
+#### MOE FAS APPLICATION FORM FOR 2023
 
-**Term 1**<br>
-[2022 Start of Term 1 Letter to Parents](/files/2022%20Start%20of%20Term%201%20Letter%20to%20Parents.pdf)
+[MOE FAS Application Form 2023\_New.pdf](/files/par1.pdf)<br>
+[PG letter to parents\_MOE FAS New.pdf](/files/par2.pdf)<br>
 
-**Term 2**<br>
-[Start of T2 2022 Letter_18 Mar](/files/Start%20of%20T2%202022%20Letter_18%20Mar.pdf)
+#### Term Letters 2023
 
+**Term 1**  <br>
+[2023 Start of Term 1 Letter to Parents.pdf](/files/par3.pdf)<br>
+  
 
-**Term 3**<br>
-[Start of T3 2022 Letter to Parents_updated as at 24 June 22_Final](/files/Start%20of%20T3%202022%20Letter%20to%20Parents_updated%20as%20at%2024%20June%2022_Final.pdf)
+#### School Lockdown Drill
 
-Conversations with Your Teens by HPB
-------------------------------------
+[Lockdown drill Evacuation Exercise Parents Letter.pdf](/files/par4.pdf)<br>
 
-[Conversations with Your Teens by HPB](/files/Conversations%20with%20Your%20Teens%20by%20HPB.pdf)
+#### Relaxation of the Safe Management Measures 
 
-Colour vision screening for Sec 1 students in Student Health Centre (SHC)
--------------------------------------------------------------------------
+Dear Parents/Guardians,
 
-SL Engagement with Sec 1 Parents 2022 
---------------------------------------
+With further relaxation of the Safe Management Measures announced on 24 August, mask-wearing will be optional in both indoor and outdoor settings with effect from 29 August. These changes apply to MOE schools as well. However, please remind your child that it is still mandatory to put on his/her mask if he/she takes the public transport. (Note: For the morning shuttle bus and bus transport arranged by the school (e.g. for Learning Journeys, etc.), wearing of mask by students is optional).
 
-The event took place on 14 January 2022 at 6pm via ZOOM.
+  
 
-Here is the video :  
-[SL Engagement with Parents](https://drive.google.com/file/d/16N9R13hjQyW9FhSd-hv2SZEc7oxNGtpq/view)  
+As we strive towards living with COVID, let us continue to practise good personal hygiene and exercise social responsibility. Together, we can make the school a safer place for all students.  
 
-Here is the montage:  
-[Sec 1 Video Montage](https://drive.google.com/file/d/1JtqieJSdI4ErJJ3NCb4Sk_fLyTZQZZ7c/view)
+  
 
-Subject-Based Banding Info for Parents
---------------------------------------
+Thank you for your partnership.
 
-[2022 SBB Briefing Slides for Parents for sch website ](/files/2022%20SBB%20Briefing%20Slides%20for%20Parents%20for%20sch%20website%20(1).pdf)
+#### Conversations with Your Teens by HPB
 
-Nominate Crest Teachers for the CTA 2022
-----------------------------------------
+[Conversations with Your Teens by HPB.pdf](/files/par5.pdf)<br>
 
-The Caring Teacher Awards (CTA) is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students, and go the extra mile to ensure their charges grow up to be confident and independent learners. As parents/guardians of Crestans, we will like to encourage you to nominate any deserving Crest teachers who go beyond the call of duty to care for your child/ward in ways that have impacted them positively and supporting them through challenging times. We look forward to receive your nominations through the CTA nomination page.
+#### Colour vision screening for Sec 1 students in Student Health Centre (SHC)
 
-This is the [link](https://www.cta.nie.edu.sg/home) to the nomination page.
+[11.1.22 Colour vision testing at SHC final.pdf](/files/par6.pdf)<br>
 
-MOE FAS APPLICATION FORM FOR 2022
----------------------------------
+#### Subject-Based Banding Info for Parents
 
-[MOE FAS Application Form for Specialised Schools Sep 21 2021 for 2022 application](/files/MOE%20FAS%20Application%20Form%20for%20Specialised%20Schools%20Sep%2021%202021%20for%202022%20application.pdf)
+[2023 SBB Briefing Slides for Parents.pdf](/files/par7.pdf)<br>
 
-Resources for Parents
----------------------
+#### Resources for Parents
 
 1\. Equip Parents Series 1  
-\- Designing a better Reality to Fight Games Addiction<br>[Equip Parents Series 1 DESIGNING A BETTER REALITY TO FIGHT GAME ADDICTION](/files/Equip%20Parents%20Series%201%20DESIGNING%20A%20BETTER%20REALITY%20TO%20FIGHT%20GAME%20ADDICTION.pdf)
-
+\- Designing a better Reality to Fight Games Addiction  
+[Equip Parents Series 1 DESIGNING A BETTER REALITY TO FIGHT GAME ADDICTION.pdf](/files/par8.pdf)<br>
+  
 2\. Equip Parents Series 3  
-\- EF e-book<br>[Equip Parents Series 3 Exec-Function-e-book](/files/Equip%20Parents%20Series%203%20Exec-Function-e-book_compressed.pdf)
+\- EF e-book  
+[Equip Parents Series 3 Exec-Function-e-book.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/Equip%20Parents%20Series%203%20Exec-Function-e-book.pdf)  
 
-\- Home as an ideal space for strengthening EF<br>[Equip Parents Series 3 Home as An Ideal Space for Strengthening EF](/files/Equip%20Parents%20Series%203%20Home%20as%20An%20Ideal%20Space%20for%20Strengthening%20EF.pdf)
+Re-upload PDF above
 
+\- Home as an ideal space for strengthening EF  
+[Equip Parents Series 3 Home as An Ideal Space for Strengthening EF.pdf](/files/par10.pdf)<br>
+\- Morning Evening Routine Checklist  
+[Equip Parents Series 3 Morning Evening Routine Checklist.pdf](/files/par11.pdf)<br>  
 
-\- Morning Evening Routine Checklist<br>[Equip Parents Series 3 Morning Evening Routine Checklist](/files/Equip%20Parents%20Series%203%20Morning%20Evening%20Routine%20Checklist.pdf)
-
-
-Handbrake Requirement for Bicycles
-----------------------------------
+#### Handbrake Requirement for Bicycles
 
 Dear parent/guardian,    
 Over the past few years, we have seen an increase in the number of people using bicycles as a mode of transport or for leisure, especially since the COVID-19 pandemic. This may include students who cycle to and from school, or during the weekends with friends and families. Some of these students who cycle may be fixie enthusiasts. Fixies, also known as fixed-gear bicycles, generally do not have hand-operated brakes, but instead, rely on the rider’s pedal resistance to stop. This makes it challenging for riders to brake quickly, endangering themselves and other path and road users.    
    
 To improve safety, from 1 September 2021, all bicycles are ridden on public paths and roads must have at least one functioning handbrake.    
   
-Please see LTA’s Facebook post and poster on this new rule for your information.   We also wish to inform parents that students may only be allowed to cycle to school with their parents’ knowledge through a parents’ advisory note. Students who cycle to school should also wear protective gear, such as a helmet, and have a bicycle lock to secure their bicycles at the bicycle racks.
+Please see LTA’s Facebook post and poster on this new rule for your information.   We also wish to inform parents that students may only be allowed to cycle to school with their parents’ knowledge through a parents’ advisory note. Students who cycle to school should also wear protective gear, such as a helmet, and have a bicycle lock to secure their bicycles at the bicycle racks.    
+  
+[LTA handbrake requirements for bicycles\_web.pdf](/files/par12.pdf)<br>  
+  
+Thank you.  
 
-[LTA handbrake requirements for bicycles_web](/files/LTA%20handbrake%20requirements%20for%20bicycles_web.pdf)
+#### Resource Kit - Experiencing Blended Learning BL with Our Children
 
-Thank you.
+[Click here to download the resource kit](/files/par13.pdf)<br>  
 
-Resource Kit - Experiencing Blended Learning BL with Our Children
------------------------------------------------------------------
-[Resource Kit - Experiencing Blended Learning BL with Our Children](/files/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children.pdf)
+#### Mental Health & Hygiene Resources
 
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2A2A2A;border-color:#000000;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">Topic Area</span></th><th style="background-color:#2A2A2A;border-color:#000000;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">Description</span></th><th style="background-color:#2A2A2A;border-color:#000000;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">Document Link</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mental Well-being </td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal">Stay Strong with these 5 parenting tips.   <br>Here are 5 tips to help you get back to the essentials that will help you navigate these bumpy times.<br> <br>Transitioning Back to School<br> As our children gradually return to school, we might find ourselves in our period of adaptation. Here is a handy kit to best help our children as they gradually return to school.<br></td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#082E6D;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy"><span style="text-decoration:underline;color:#082E6D">StayWell#families stay healthy</span></a>  </td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Hygiene </td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Practise Good Hygiene<br> Add a touch of style to hand washing with soap and water with our handwashing guide. <br><br>How Germs Spread<br> A gentle reminder to practice hand hygiene to wash our hands regularly to break the chain of infection<br></td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#082E6D;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="https://www.healthhub.sg/programmes/170/StayWell"><span style="text-decoration:underline;color:#082E6D">https://www.healthhub.sg/programmes/170/StayWell</span></a><br><br>Video on how do germs spread: <br></td></tr></tbody></table>
 
-
-Mental Health & Hygiene Resources
----------------------------------
-
-| Topic Area | Description | Document Link |
-|:---:|:---:|:---:|
-| Mental Well-being  | Stay Strong with these 5 parenting tips.   <br>Here are 5 tips to help you get back to the essentials that will help you navigate these bumpy times.<br> <br>Transitioning Back to School<br> As our children gradually return to school, we might find ourselves in our period of adaptation. Here is a handy kit to best help our children as they gradually return to school. | StayWell#families stay healthy   |
-| Hygiene  | Practise Good Hygiene<br> Add a touch of style to hand washing with soap and water with our handwashing guide. <br><br>How Germs Spread<br> A gentle reminder to practice hand hygiene to wash our hands regularly to break the chain of infection | https://www.healthhub.sg/programmes/170/StayWell<br><br>Video on how do germs spread:  |
-
-Parent Gateway
---------------
+#### Parent Gateway
 
 *   Access all your official school announcements and forms at your fingertips.
 *   Give consent for your child's activities anytime, anywhere.
@@ -105,6 +91,7 @@ Parent Gateway
 
 [**Click here to download the app.**](https://pg.moe.edu.sg/#about)
 
+  
 
 **Who can access Parents Gateway?**
 
@@ -122,16 +109,15 @@ Parents need to approach the child's/children’s school to update his/her parti
 
 A push notification and/or email notification will provide the alert, if both have been enabled on the phone and in the Parents Gateway app settings.
 
-Mental Health & Nutrition Resources
------------------------------------
+#### Mental Health & Nutrition Resources
 
-| Topic Area | Description | Document Link |
-|:---:|:---:|:---:|
-| Mental Health | Stay Well To Stay Strong<br> Here are some useful resources that can help you relax, destress and stay positive through it all. When we face challenging situations, it can help to talk to someone who can provide a listening ear and offer you a different perspective.<br><br>Journey to become a better supporter<br> As we weather through COVID-19, there are surely times where we would feel overwhelmed. Join us through an experiential journey on how you can best navigate check in conversations <br> | StayWell#families stay healthy<br><br>healthhub.sg/justcheckingin/virtualjourney<br><br>go.gov/hivirtualjourney<br> |
-| Nutrition | Quarter, Quarter, Half (30 seconds song)<br> Nutrition plays such a big role in our development. My Healthy Plate is an easy-to-understand visual guide designed by Health Promotion to help you to eat healthier, manage your weight, ward off chronic diseases and stay happy and healthy. |  |
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2A2A2A;border-color:black;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">Topic Area</span></th><th style="background-color:#2A2A2A;border-color:black;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">Description</span></th><th style="background-color:#2A2A2A;border-color:black;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#EEE;background-color:#2A2A2A">Document Link</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Mental Health</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal">Stay Well To Stay Strong<br> Here are some useful resources that can help you relax, destress and stay positive through it all. When we face challenging situations, it can help to talk to someone who can provide a listening ear and offer you a different perspective.<br><br>Journey to become a better supporter<br> As we weather through COVID-19, there are surely times where we would feel overwhelmed. Join us through an experiential journey on how you can best navigate check in conversations <br><br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#0563C1;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><a href="https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy"><span style="text-decoration:underline;color:#082E6D">StayWell#families stay healthy</span></a><br><br><a href="https://hivirtualjourney.hpb.gov.sg/"><span style="text-decoration:underline;color:#082E6D">healthhub.sg/justcheckingin/virtualjourney</span></a><br><br><a href="https://hivirtualjourney.hpb.gov.sg/"><span style="text-decoration:underline;color:#082E6D">go.gov/hivirtualjourney</span></a><br><br></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Nutrition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Quarter, Quarter, Half (30 seconds song)<br> Nutrition plays such a big role in our development. My Healthy Plate is an easy-to-understand visual guide designed by Health Promotion to help you to eat healthier, manage your weight, ward off chronic diseases and stay happy and healthy.<br></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">https://youtu.be/M-rsruugB3o</td></tr></tbody></table>
 
-Parent Communication Guidelines
--------------------------------
+#### MOE FAS APPLICATION FORM FOR 2022
+
+[MOE FAS Application Form for Specialised Schools Sep 21 2021 for 2022 application.pdf](/files/par14.pdf)<br>  
+
+#### Parent Communication Guidelines
 
 **Our Guiding Principles**  
 
@@ -145,23 +131,10 @@ Parent Communication Guidelines
 
 1\. Crest Secondary School’s official modes of communication with parents comprise the following:
 
-|  |  |
-|---|---|
 | School Phone (Admin Office) | 68992779 |
+|---|---|
 | School Email | info@crestsec.edu.sg |
 | School Mailing Address | 561 Jurong East St 24 Singapore 609561 |
-| School Website | https://www.crestsec.edu.sg/ |
-| Parents Gateway | https://pg.moe.edu.sg/ |
-| Students’ Handbook | Hard copy issued yearly to each student |
-
-2\. For general enquiries, please contact the Admin Office at 6899 2779 or email info@crestsec.edu.sg, our Administration Staff would be glad to assist you. If there are any urgent messages during school hours, we advise parents to contact the Admin Office, as teachers may have lessons or engage in other official duties.
-
-3\. To ensure quality time for our teachers to rest and recharge, we seek the kind cooperation of parents to limit communication with teachers within school operating hours (7.30 am to 5.30 pm) on working weekdays and during school term. Teachers are not expected to respond to parents’ and/or students’ queries after school operating hours, during weekends and on school and public holidays, though this can be on a case-by-case basis, depending on the urgency of the matter.
-
-4\. Please note that teachers are not obliged to share their personal phone numbers to parents or students. Parents may wish to discuss with your child’s teacher what his/her preferred mode of communication is.
-
-5\. Parents may expect to receive a response to their email queries within 3 working days. Our staff’s email addresses are available on the school website.
-
-6\. If parents wish to meet our teachers face-to-face or virtually kindly email the teacher(s) or contact the Admin Office to make an appointment in advance, to minimize disruption to teachers’ teaching duties and avoid wait time.
-
-**_You can click [here](/files/Crest%20Form%20Teachers%20Emails_v5.pdf) to access the email addresses of form teachers for all levels._**
+| School Website | [https://www.crestsec.edu.sg/](https://www.crestsec.edu.sg/) |
+| Parents Gateway | [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/) |
+| Students’ Handbook | Soft copy is found in the school website |
