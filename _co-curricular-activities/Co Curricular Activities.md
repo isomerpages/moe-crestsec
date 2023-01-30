@@ -32,7 +32,7 @@ Click the image to watch the CCA videos.
 
 |  |  |  |
 |---|---|---|
-| <a href="https://www.youtube.com/watch?v=Pi2UEReQzrY&feature=youtu.be"><img style="width:85%" src="/images/co14.png"></a> | <a href="https://www.youtube.com/watch?v=LAmIIr0RIXw&feature=youtu.be"><img style="width:85%" src="/images/co15.png"></a> | <a href="https://www.youtube.com/watch?v=J6_P8z7EgTU&feature=youtu.be"><img style="width:85%" src="/images/co16.png"></a> |
+| <a href="https://www.youtube.com/watch?v=Pi2UEReQzrY&feature=youtu.be"><img style="width:85%" src="/images/coc4.png"></a> | <a href="https://www.youtube.com/watch?v=LAmIIr0RIXw&feature=youtu.be"><img style="width:85%" src="/images/co15.png"></a> | <a href="https://www.youtube.com/watch?v=J6_P8z7EgTU&feature=youtu.be"><img style="width:85%" src="/images/co16.png"></a> |
 | <a href="https://www.youtube.com/watch?v=4R62nT87t84&feature=youtu.be"><img style="width:85%" src="/images/co17.png"></a> | <a href="https://www.youtube.com/watch?v=Z8k8-UxC7ik&feature=youtu.be"><img style="width:85%" src="/images/co18.png"></a> |  |
 
 
