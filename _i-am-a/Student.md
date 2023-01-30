@@ -1,31 +1,26 @@
 ---
 title: Student
-permalink: /i-am-a-student/permalink
+permalink: /i-am-a-student/permalink/
 description: ""
 ---
+### 2022 Application to ITE
 
+[Application to ITE 2022.pdf](/files/stud1.pdf)
 
-2022 Application to ITE
------------------------
+#### Class list for 2023
 
-[Application to ITE 2022](/files/Application%20to%20ITE%202022.pdf)
+[Sec 1 2023\_Class\_List.pdf](/files/stud2.pdf)<Br> 
+[Sec 2 2023\_Class\_List.pdf](/files/stud3.pdf)<Br> 
+[Sec 3 2023\_Class\_List.pdf](/files/stud4.pdf)<Br> 
+[Sec 4 2023\_Class\_List.pdf](/files/stud5.pdf)<Br> 
 
-Class list for 2022    
------------------------
+#### Timetable for 2022
 
-[2022 Sec 1 class allocation_PG](/files/2022%20Sec%201%20class%20allocation_PG.pdf)
+[SEC 1 2022 Timetable sem 2 r9 FINAL Mixed level breaks.pdf](/files/stud6.pdf)<Br> 
+[SEC 2 2022 Timetable sem 2 r9 FINAL Mixed level breaks.pdf](/files/stud7.pdf)<Br> 
+[SEC 3 2022 Timetable sem 2 r9 FINAL Mixed level breaks.pdf](/files/stud8.pdf)<Br> 
+[SEC 4 2022 Timetable sem 2 r9 FINAL Mixed level breaks.pdf](/files/stud9.pdf)<Br> 
 
-[2022 Sec 2 class allocation_PG](/files/2022%20Sec%202%20class%20allocation_PG.pdf)
+#### Classrooms allocation for 2023
 
-[2022 Sec 3 class allocation_PG](/files/2022%20Sec%203%20class%20allocation_PG.pdf)
-
-[2022 Sec 4 class allocation_PG](/files/2022%20Sec%204%20class%20allocation_PG.pdf)
-
-Timetable for 2022
-------------------
-
-Coming soon
-
-Classrooms allocation for 2022
-------------------------------
-<img src="/images/allo1.jpeg" style="width:100%">
+<img src="/images/stud1.png" style="width:80%">
