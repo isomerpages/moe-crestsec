@@ -23,19 +23,24 @@ Click the immage to watch the CCA videos.
 
 #### Uniformed Groups
 
+|  |  |  |
+|---|---|---|
+| <a href="https://www.youtube.com/watch?v=6m0B3xScsik&feature=youtu.be"><img style="width:85%" src="/images/co12.png"></a> | <a href="https://www.youtube.com/watch?v=UtgKzwbjmjU&feature=youtu.be"><img style="width:85%" src="/images/co13.png"></a> |  |
 
 
 #### Clubs & Societies
 
-
+|  |  |  |
+|---|---|---|
+| <a href="https://www.youtube.com/watch?v=Pi2UEReQzrY&feature=youtu.be"><img style="width:85%" src="/images/co14.png"></a> | <a href="https://www.youtube.com/watch?v=LAmIIr0RIXw&feature=youtu.be"><img style="width:85%" src="/images/co15.png"></a> | <a href="https://www.youtube.com/watch?v=J6_P8z7EgTU&feature=youtu.be"><img style="width:85%" src="/images/co16.png"></a> |
+| <a href="https://www.youtube.com/watch?v=4R62nT87t84&feature=youtu.be"><img style="width:85%" src="/images/co17.png"></a> | <a href="https://www.youtube.com/watch?v=Z8k8-UxC7ik&feature=youtu.be"><img style="width:85%" src="/images/co18.png"></a> |  |
 
 
 Crest offers CCAs from 4 broad categories. These are Sports & Games, Aesthetics, Uniformed Groups, and Clubs & Societies. To cater to students’ diverse interests, every student is assigned a CCA of his/her choice.
 
 <img src="/images/cca1.png" style="width:100%">
 
-Objective
----------
+#### Objective
 <img src="/images/cca2.png" style="width:350px;height:575px;margin-right:25px;" align = "left">
 
 Co-Curricular Activities (CCA) is a key platform for character development and inculcation of values and talent development. These activities range from training sessions and team bonding camps, to external platforms for talent showcase. Crest believes that with an exciting CCA programme, students will have a positive schooling experience.
