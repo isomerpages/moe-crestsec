@@ -53,16 +53,14 @@ Through the four-year CCA programme, Crest hopes to inspire Crestans to scale gr
 
   
 
-CCA Orientation
----------------
+#### CCA Orientation
 
 <img src="/images/cca3.png" style="width:100%">
 
 Orientation is held January for new students to find out more about CCAs offered in Crest. Students will have the opportunity to explore the various CCA groups by attending the training sessions and programmes. Students are then allocated to CCAs based on their profile, choices and school needs.
 
 
-Awards
-------
+#### Awards
 <img src="/images/cca4.jpg" style="width:100%">
 
 **EAGLES Award:**
@@ -76,8 +74,7 @@ Crest Secondary School awards students who excel in the following areas:
 *   Values in Action through Community Service  
     
 
-SYF Arts Presentation 2021
---------------------------
+#### SYF Arts Presentation 2021
 
 Due to the Covid-19 situation, the SYF Arts Presentation 2021 was performed without a live audience. The Guitar, Pop Band and Dance CCAs have nevertheless worked hard to showcase their talents. They have done the school proud by achieving the following awards :
 
@@ -91,6 +88,5 @@ Popband (Team A - Percussion Ensemble)  : Accomplishment
 
 Popband (Team B - Percussion Ensemble) : Commendation
 
-CCA Timings
---------------------------
+#### CCA Timings
 <img src="/images/cca7.jpeg" style="width:55%">
