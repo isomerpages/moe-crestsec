@@ -2,8 +2,8 @@ title: "Crest Secondary School "
 url: https://www.crestsec.edu.sg
 favicon: /images/csslogo.jpeg
 colors:
-  primary-color: "#ebdc3f"
-  secondary-color: "#083ab3"
+  primary-color: "#083ab3"
+  secondary-color: "#ebdc3f"
   media-colors:
     - title: media-color-one
       color: "#00d6ff"
