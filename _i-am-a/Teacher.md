@@ -1,6 +1,6 @@
 ---
 title: Teacher
-permalink: /i-am-a-teacher/permalink
+permalink: /i-am-a-teacher/permalink/
 description: ""
 ---
 

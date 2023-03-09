@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /English-Language/programmes/Academic-Curriculum/permalink
+permalink: /english-language/programmes/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

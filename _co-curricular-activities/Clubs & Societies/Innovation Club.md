@@ -1,6 +1,6 @@
 ---
 title: Innovation Club
-permalink: /innovation-club/co-curricular-activities/Clubs-and-Societies/permalink
+permalink: /innovation-club/co-curricular-activities/clubs-and-societies/permalink/
 description: ""
 third_nav_title: Clubs & Societies
 ---

@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities
-permalink: /programmes/Student-Development/CCA/
+permalink: /programmes/student-development/cca/
 description: ""
 third_nav_title: Student Development
 ---

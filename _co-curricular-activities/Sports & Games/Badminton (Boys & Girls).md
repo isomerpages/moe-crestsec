@@ -1,6 +1,6 @@
 ---
 title: Badminton (Boys & Girls)
-permalink: /badminton/co-curricular-activities/Sports-and-Games/permalink
+permalink: /badminton/co-curricular-activities/sports-and-games/permalink/
 description: ""
 third_nav_title: Sports & Games
 ---

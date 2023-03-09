@@ -1,6 +1,6 @@
 ---
 title: Whistleblowing Policy
-permalink: /Whistleblowing-Policy/useful-info/permalink/
+permalink: /whistleblowing-policy/useful-info/permalink/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Infocommunications Technology
-permalink: /Infocommunications-Technology/programmes/Academic-Curriculum/permalink/
+permalink: /infocommunications-technology/programmes/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

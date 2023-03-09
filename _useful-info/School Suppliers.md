@@ -1,6 +1,6 @@
 ---
 title: School Suppliers
-permalink: /school-suppliers/useful-info/permalink
+permalink: /school-suppliers/useful-info/permalink/
 description: ""
 ---
 

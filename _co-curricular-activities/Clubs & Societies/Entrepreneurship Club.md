@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurship Club
-permalink: /entrepreneurship-club/co-curricular-activities/Clubs-and-Societies/permalink
+permalink: /entrepreneurship-club/co-curricular-activities/clubs-and-societies/permalink/
 description: ""
 third_nav_title: Clubs & Societies
 ---

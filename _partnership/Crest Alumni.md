@@ -1,6 +1,6 @@
 ---
 title: Crest Alumni
-permalink: /Crest-Alumni/partnership/permalink/
+permalink: /crest-alumni/partnership/permalink/
 description: ""
 ---
 <img src="/images/c1.jpg" style="width:75%">

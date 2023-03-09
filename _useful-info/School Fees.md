@@ -1,6 +1,6 @@
 ---
 title: School Fees
-permalink: /school-fees/useful-info/permalink
+permalink: /school-fees/useful-info/permalink/
 description: ""
 ---
 **School & Miscellaneous Fees for 2022**

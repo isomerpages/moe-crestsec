@@ -1,6 +1,6 @@
 ---
 title: For Parents
-permalink: /for-parents/crestan-virtual-assistant/permalink
+permalink: /for-parents/crestan-virtual-assistant/permalink/
 description: ""
 ---
 Sending in your child's PLD for repair in school might take at least 3 weeks for the vendor to pick up, repair and return it to school. If you want to have the PLD repaired quicker, you may bring it down to the respective centres for it to be repaired. It will have a faster turnaround time and your child will be able to start using it much quicker. The addresses of the respective service centres are:

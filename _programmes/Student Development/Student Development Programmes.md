@@ -1,6 +1,6 @@
 ---
 title: Student Development Programmes
-permalink: /studnet-development-programmes/programmes/Student-Development/permalink
+permalink: /studnet-development-programmes/programmes/student-development/permalink/
 description: ""
 third_nav_title: Student Development
 ---

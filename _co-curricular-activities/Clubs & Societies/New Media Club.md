@@ -1,6 +1,6 @@
 ---
 title: New Media Club
-permalink: /new-media-club/co-curricular-activities/Clubs-and-Societies/permalink
+permalink: /new-media-club/co-curricular-activities/clubs-and-societies/permalink/
 description: ""
 third_nav_title: Clubs & Societies
 ---

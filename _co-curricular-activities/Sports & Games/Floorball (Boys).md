@@ -1,6 +1,6 @@
 ---
 title: Floorball (Boys)
-permalink: /floorball/co-curricular-activities/Sports-and-Games/permalink
+permalink: /floorball/co-curricular-activities/sports-and-games/permalink/
 description: ""
 third_nav_title: Sports & Games
 ---

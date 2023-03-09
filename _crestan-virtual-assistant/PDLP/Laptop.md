@@ -1,6 +1,6 @@
 ---
 title: Laptop
-permalink: /laptop/crestan-virtual-assistant/PDLP/permalink
+permalink: /laptop/crestan-virtual-assistant/pdlp/permalink/
 description: ""
 third_nav_title: PDLP
 ---

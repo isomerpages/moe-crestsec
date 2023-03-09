@@ -8,7 +8,7 @@ links:
       - title: Principal's Message
         url: /principals-message/permalink
       - title: Our Success Stories
-        url: /our-stories/our-success-stories/Our-Alumni/permalink
+        url: /our-stories/our-success-stories/our-alumni/permalink
       - title: Our School Song
         url: /our-school-song/permalink
       - title: Our Facilities
@@ -25,20 +25,20 @@ links:
       - title: Key Personnel
         url: /key-personnel/our-people/permalink
       - title: Teaching Staff
-        url: /our-people/Teaching-Staff/permalink
+        url: /our-people/teaching-staff/permalink
       - title: Non-Teaching Staff
-        url: /administrative/our-people/Non-Teaching-Staff/permalink
+        url: /administrative/our-people/non-teaching-staff/permalink
   - title: PROGRAMMES
-    url: /programmes/Teaching-and-Learning/permalink
+    url: /programmes/teaching-and-learning/permalink
     sublinks:
       - title: Teaching & Learning
-        url: /programmes/Teaching-and-Learning/permalink
+        url: /programmes/teaching-and-learning/permalink
       - title: Academic Curriculum
-        url: /programmes/Academic-Curriculum/overview/
+        url: /programmes/academic-curriculum/overview/
       - title: Vocational Curriculum
-        url: /programmes/Vocational-Curriculum/permalink
+        url: /programmes/vocational-curriculum/permalink
       - title: Student Development
-        url: /programmes/Student-Development/overview/
+        url: /programmes/student-development/overview/
       - title: Sexuality Education
         url: /sexuality-education/programmes/permalink
       - title: School Achievements
@@ -49,16 +49,16 @@ links:
       - title: Crest Parents' Active Link
         url: /crest-pal/partnership/permalink
       - title: Crest Alumni
-        url: /Crest-Alumni/partnership/permalink
+        url: /crest-alumni/partnership/permalink
       - title: Meridian Twinning Programme
-        url: /Meridian-Twinning-Programme/partnership/permalink
+        url: /meridian-twinning-programme/partnership/permalink
       - title: Yuhua Community
         url: /yuhua-community/partnership/permalink
   - title: USEFUL INFO
-    url: /Crestans-Virtual-Assistant-C-VA/crestan-virtual-assistant/permalink
+    url: /crestans-virtual-assistant-c-va/crestan-virtual-assistant/permalink
     sublinks:
       - title: "Crestan's Virtual Assistant "
-        url: /Crestans-Virtual-Assistant-C-VA/crestan-virtual-assistant/permalink
+        url: /crestans-virtual-assistant-c-va/crestan-virtual-assistant/permalink
       - title: School Admission Info
         url: /student-admission-info/useful-info/permalink
       - title: School Suppliers
@@ -70,9 +70,9 @@ links:
       - title: Assessment Matters
         url: /assessment-matters/useful-info/permalink
       - title: Education and Career Guidance
-        url: /Education-and-Career-Guidance/useful-info/permalink
+        url: /education-and-career-guidance/useful-info/permalink
       - title: Media Reports
-        url: /2020/our-success-stories/Media-Reports/permalink
+        url: /2020/our-success-stories/media-reports/permalink
   - title: General
     collection: general
   - title: I AM A

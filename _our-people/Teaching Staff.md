@@ -1,6 +1,6 @@
 ---
 title: Teaching Staff
-permalink: /our-people/Teaching-Staff/permalink/
+permalink: /our-people/teaching-staff/permalink/
 description: ""
 ---
 FORM TEACHERS (ALL LEVELS)

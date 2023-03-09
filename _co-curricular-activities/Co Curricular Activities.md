@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities
-permalink: /CCA/programmes/Student-Development/permalink/
+permalink: /cca/programmes/student-development/permalink/
 description: ""
 ---
 ### Co Curricular Activities

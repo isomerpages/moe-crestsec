@@ -1,6 +1,6 @@
 ---
 title: Teaching & Learning
-permalink: /programmes/Teaching-and-Learning/permalink/
+permalink: /programmes/teaching-and-learning/permalink/
 description: ""
 third_nav_title: Teaching & Learning
 ---

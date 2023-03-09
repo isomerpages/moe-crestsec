@@ -1,6 +1,6 @@
 ---
 title: Academic Curriculum
-permalink: /programmes/Academic-Curriculum/overview/
+permalink: /programmes/academic-curriculum/overview/
 description: ""
 third_nav_title: Academic Curriculum
 ---

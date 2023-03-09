@@ -1,6 +1,6 @@
 ---
 title: Mobile Web Applications
-permalink: /mobile-web-applications/programmes/Vocational-Curriculum/permalink
+permalink: /mobile-web-applications/programmes/vocational-curriculum/permalink/
 description: ""
 third_nav_title: Vocational Curriculum
 ---

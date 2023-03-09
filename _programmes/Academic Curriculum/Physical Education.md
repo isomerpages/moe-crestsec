@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /physical-education/our-people/Teaching-Staff/permalink
+permalink: /physical-education/our-people/teaching-staff/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

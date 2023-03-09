@@ -1,6 +1,6 @@
 ---
 title: Retail and ECommerce
-permalink: /retail-and-ecommerce/programmes/Vocational-Curriculum/permalink
+permalink: /retail-and-ecommerce/programmes/vocational-curriculum/permalink/
 description: ""
 third_nav_title: Vocational Curriculum
 ---

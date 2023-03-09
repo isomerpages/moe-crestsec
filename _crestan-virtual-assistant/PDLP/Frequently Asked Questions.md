@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /FAQ/crestan-virtual-assistant/PDLP/permalink
+permalink: /faq/crestan-virtual-assistant/pdlp/permalink/
 description: ""
 third_nav_title: PDLP
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pop Band
-permalink: /pop-band/co-curricular-activities/Aesthetics/permalink
+permalink: /pop-band/co-curricular-activities/aesthetics/permalink/
 description: ""
 third_nav_title: Aesthetics
 ---

@@ -1,6 +1,6 @@
 ---
 title: Our School Song
-permalink: /our-school-song/permalink
+permalink: /our-school-song/permalink/
 description: ""
 ---
 <p style="text-align: center;">Our heartbeat "I Know I Can"</p>

@@ -1,6 +1,6 @@
 ---
 title: Athletics (Boys & Girls)
-permalink: /athletics/co-curricular-activities/Sports-and-Games/permalink
+permalink: /athletics/co-curricular-activities/sports-and-games/permalink/
 description: ""
 third_nav_title: Sports & Games
 ---

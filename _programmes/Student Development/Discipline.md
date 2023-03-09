@@ -1,6 +1,6 @@
 ---
 title: Discipline
-permalink: /discipline/programmes/Student-Development/permalink
+permalink: /discipline/programmes/student-development/permalink/
 description: ""
 third_nav_title: Student Development
 ---

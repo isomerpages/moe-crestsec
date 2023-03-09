@@ -1,6 +1,6 @@
 ---
 title: DMA Matters
-permalink: /DMA-Matters/crestan-virtual-assistant/permalink
+permalink: /dma-matters/crestan-virtual-assistant/permalink/
 description: ""
 ---
 As communicated earlier, your child’s/ward’s Personal Learning Device (PLD) has been installed with a Device Management Application (DMA) to ensure that he/she uses the PLD for learning in a safer digital learning environment.

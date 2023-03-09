@@ -1,6 +1,6 @@
 ---
 title: Guitar Club
-permalink: /guitar-club/co-curricular-activities/Aesthetics/permalink
+permalink: /guitar-club/co-curricular-activities/aesthetics/permalink/
 description: ""
 third_nav_title: Aesthetics
 ---

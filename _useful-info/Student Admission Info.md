@@ -1,6 +1,6 @@
 ---
 title: Student Admission Info
-permalink: /student-admission-info/useful-info/permalink
+permalink: /student-admission-info/useful-info/permalink/
 description: ""
 ---
 Information for New Secondary 1 Students

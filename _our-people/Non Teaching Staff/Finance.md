@@ -1,6 +1,6 @@
 ---
 title: Finance
-permalink: /finance/our-people/Non-Teaching-Staff/permalink/
+permalink: /finance/our-people/non-teaching-staff/permalink/
 description: ""
 third_nav_title: Non Teaching Staff
 ---

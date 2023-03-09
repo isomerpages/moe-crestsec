@@ -1,6 +1,6 @@
 ---
 title: Safety and Security
-permalink: /Safety-and-Security/useful-info/permalink/
+permalink: /safety-and-security/useful-info/permalink/
 description: ""
 ---
 

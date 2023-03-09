@@ -1,6 +1,6 @@
 ---
 title: About Crest
-permalink: /about-crest/permalink
+permalink: /about-crest/permalink/
 description: ""
 ---
 <img src="/images/aboutcrest.jpg" style="width:450px;height:240px;margin-right: 25px;" align = "left"> Crest Secondary School is a Specialised School offering a customised curriculum for students in the Normal (Technical) Stream. As a Specialised School, the school operates similar to an independent school.  

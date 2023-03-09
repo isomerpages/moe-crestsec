@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /Aesthetics/programmes/Academic-Curriculum/permalink
+permalink: /aesthetics/programmes/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

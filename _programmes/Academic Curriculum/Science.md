@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /Science/programmes/Academic-Curriculum/permalink/
+permalink: /science/programmes/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

@@ -1,6 +1,6 @@
 ---
 title: HBL Instructions
-permalink: /HBL-Instructions/crestan-virtual-assistant/HBL/permalink
+permalink: /hbl-instructions/crestan-virtual-assistant/hbl/permalink/
 description: ""
 third_nav_title: HBL
 ---

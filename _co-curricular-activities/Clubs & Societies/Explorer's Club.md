@@ -1,6 +1,6 @@
 ---
 title: Explorer's Club
-permalink: /explorers-club/co-curricular-activities/Clubs-and-Societies/permalink
+permalink: /explorers-club/co-curricular-activities/clubs-and-societies/permalink/
 description: ""
 third_nav_title: Clubs & Societies
 ---

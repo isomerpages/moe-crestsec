@@ -1,6 +1,6 @@
 ---
 title: Dance Club
-permalink: /dance-club/co-curricular-activities/Aesthetics/permalink
+permalink: /dance-club/co-curricular-activities/aesthetics/permalink/
 description: ""
 third_nav_title: Aesthetics
 ---

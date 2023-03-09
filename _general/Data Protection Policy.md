@@ -1,6 +1,6 @@
 ---
 title: Data Protection Policy
-permalink: /Data-Protection-Policy/useful-info/permalink/
+permalink: /data-protection-policy/useful-info/permalink/
 description: ""
 ---
 

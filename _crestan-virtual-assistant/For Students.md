@@ -1,6 +1,6 @@
 ---
 title: For Students
-permalink: /for-students/crestan-virtual-assistant/permalink
+permalink: /for-students/crestan-virtual-assistant/permalink/
 description: ""
 ---
 **Important Setup to be done**

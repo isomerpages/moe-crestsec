@@ -1,6 +1,6 @@
 ---
 title: Crestan's Virtual Assistant (CVA)
-permalink: /Crestans-Virtual-Assistant-C-VA/crestan-virtual-assistant/permalink
+permalink: /crestans-virtual-assistant-c-va/crestan-virtual-assistant/permalink/
 description: ""
 ---
 

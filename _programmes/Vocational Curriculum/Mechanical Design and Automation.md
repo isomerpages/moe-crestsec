@@ -1,6 +1,6 @@
 ---
 title: Mechanical Design and Automation
-permalink: /mechanical-design-and-automation/programmes/Vocational-Curriculum/permalink
+permalink: /mechanical-design-and-automation/programmes/vocational-curriculum/permalink/
 description: ""
 third_nav_title: Vocational Curriculum
 ---

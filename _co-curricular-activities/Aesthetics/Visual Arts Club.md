@@ -1,6 +1,6 @@
 ---
 title: Visual Arts Club
-permalink: /visual-arts-club/co-curricular-activities/Aesthetics/permalink
+permalink: /visual-arts-club/co-curricular-activities/aesthetics/permalink/
 description: ""
 third_nav_title: Aesthetics
 ---

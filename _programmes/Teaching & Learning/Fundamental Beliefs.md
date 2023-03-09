@@ -1,6 +1,6 @@
 ---
 title: Fundamental Beliefs
-permalink: /Fundamental-Beliefs/programmes/Teaching-andLearning/permalink
+permalink: /fundamental-beliefs/programmes/teaching-andlearning/permalink/
 description: ""
 third_nav_title: Teaching & Learning
 ---

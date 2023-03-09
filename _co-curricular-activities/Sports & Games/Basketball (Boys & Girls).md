@@ -1,6 +1,6 @@
 ---
 title: Basketball (Boys & Girls)
-permalink: /basketball/co-curricular-activities/Sports-and-Games/permalink
+permalink: /basketball/co-curricular-activities/sports-and-games/permalink/
 description: ""
 third_nav_title: Sports & Games
 ---

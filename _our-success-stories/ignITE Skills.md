@@ -1,6 +1,6 @@
 ---
 title: ignITE Skills
-permalink: /ignITE-skills/our-success-stories/permalink
+permalink: /ignite-skills/our-success-stories/permalink/
 description: ""
 ---
 <img src="/images/ignITE1.jpg" style="width:100%">

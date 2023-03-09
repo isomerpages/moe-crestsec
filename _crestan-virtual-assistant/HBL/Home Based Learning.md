@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning
-permalink: /HBL/crestan-virtual-assistant/HBL/permalink
+permalink: /hbl/crestan-virtual-assistant/hbl/permalink/
 description: ""
 third_nav_title: HBL
 ---

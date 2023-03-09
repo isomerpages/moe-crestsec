@@ -1,6 +1,6 @@
 ---
 title: Financial Information
-permalink: /Financial-Information/useful-info/permalink/
+permalink: /financial-information/useful-info/permalink/
 description: ""
 ---
 

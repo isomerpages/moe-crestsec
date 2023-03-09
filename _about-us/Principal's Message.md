@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /principals-message/permalink
+permalink: /principals-message/permalink/
 description: ""
 ---
 <img src="/images/pm1.jpg" style="width:450px;height:300px;margin-right:25px;" align = "left"> _"I have found a place where my heart is free to dream. It is here that I belong, where strength rises from within. All the things I hope for, they are mine to thrive for. I will rise up to the challenge to turn my dreams into reality. I know I can! I am reaching high, to touch the sky. I am not afraid to try, to realise my dreams. Upon this Crest, I will do my best, to be all that I can be. I’ll shout it to the world, I know, I can! The road may not be easy, but no matter how long it seems, I’ll just keep walking on. I’ll never give up. There’ll always be a helping hand, and someone who will be a friend. In this place that feels like home, I know I’ll never have to walk alone …  

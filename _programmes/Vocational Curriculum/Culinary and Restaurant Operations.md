@@ -1,6 +1,6 @@
 ---
 title: Culinary and Restaurant Operations
-permalink: /culinary-and-restaurant-operations/programmes/Vocational-Curriculum/permalink
+permalink: /culinary-and-restaurant-operations/programmes/vocational-curriculum/permalink/
 description: ""
 third_nav_title: Vocational Curriculum
 ---

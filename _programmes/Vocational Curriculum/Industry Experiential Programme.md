@@ -1,6 +1,6 @@
 ---
 title: Industry Experiential Programme
-permalink: /industry-experiential-programme/programmes/Vocational-Curriculum/permalink
+permalink: /industry-experiential-programme/programmes/vocational-curriculum/permalink/
 description: ""
 third_nav_title: Vocational Curriculum
 ---

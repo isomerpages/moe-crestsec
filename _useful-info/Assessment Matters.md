@@ -1,6 +1,6 @@
 ---
 title: Assessment Matters
-permalink: /Assessment-Matters/useful-info/permalink
+permalink: /assessment-matters/useful-info/permalink/
 description: ""
 ---
 \[new\] Please click [here](/files/Yr2022%20Sec%201%20and%20Sec%202%20Mid-Year%20Taster%20Modules%20Timetable.pdf) to download the Secondary 1 to 2 Taster Module Tests Schedule.

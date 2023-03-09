@@ -1,6 +1,6 @@
 ---
 title: School Achievements
-permalink: /school-achievements/programmes/permalink
+permalink: /school-achievements/programmes/permalink/
 description: ""
 ---
 2021

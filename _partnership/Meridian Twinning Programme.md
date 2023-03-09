@@ -1,6 +1,6 @@
 ---
 title: Meridian Twinning Programme
-permalink: /Meridian-Twinning-Programme/partnership/permalink
+permalink: /meridian-twinning-programme/partnership/permalink/
 description: ""
 ---
 **Partnership with Meridian International Learning Experience**  

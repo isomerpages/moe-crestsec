@@ -1,6 +1,6 @@
 ---
 title: Motivations
-permalink: /motivations/our-success-stories/Our-Alumni/permalink
+permalink: /motivations/our-success-stories/our-alumni/permalink/
 description: ""
 third_nav_title: Our Alumni
 ---

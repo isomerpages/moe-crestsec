@@ -1,6 +1,6 @@
 ---
 title: Boy Scouts
-permalink: /boy-scouts/co-curricular-activities/Uniform-Groups/permalink
+permalink: /boy-scouts/co-curricular-activities/uniform-groups/permalink/
 description: ""
 third_nav_title: Uniform Groups
 ---
