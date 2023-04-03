@@ -1,82 +1,13 @@
 logo: /images/crestlogo.png
 links:
-  - title: ABOUT US
-    url: /about-crest/permalink
-    sublinks:
-      - title: About Crest
-        url: /about-crest/permalink
-      - title: Principal's Message
-        url: /principals-message/permalink
-      - title: Our Success Stories
-        url: /our-stories/our-success-stories/our-alumni/permalink
-      - title: Our School Song
-        url: /our-school-song/permalink
-      - title: Our Facilities
-        url: /our-facilities/permalink
-      - title: Contact Us
-        url: /contact-us/permalink
-  - title: OUR PEOPLE
-    url: /our-people/permalink
-    sublinks:
-      - title: Board of Directors
-        url: /board-of-directors/our-people/permalink
-      - title: School Leaders
-        url: /school-leaders/our-people/permalink
-      - title: Key Personnel
-        url: /key-personnel/our-people/permalink
-      - title: Teaching Staff
-        url: /our-people/teaching-staff/permalink
-      - title: Non-Teaching Staff
-        url: /administrative/our-people/non-teaching-staff/permalink
   - title: Curriculum
     collection: programmes
-  - title: Cur
-    url: /programmes/teaching-and-learning/permalink
-    sublinks:
-      - title: Teaching & Learning
-        url: /programmes/teaching-and-learning/permalink
-      - title: Academic Curriculum
-        url: /programmes/academic-curriculum/overview/
-      - title: Vocational Curriculum
-        url: /programmes/vocational-curriculum/permalink
-      - title: Student Development
-        url: /programmes/student-development/overview/
-      - title: Sexuality Education
-        url: /sexuality-education/programmes/permalink
-      - title: School Achievements
-        url: /school-achievements/programmes/permalink
-  - title: PARTNERSHIP
-    url: /crest-pal/partnership/permalink
-    sublinks:
-      - title: Crest Parents' Active Link
-        url: /crest-pal/partnership/permalink
-      - title: Crest Alumni
-        url: /crest-alumni/partnership/permalink
-      - title: Meridian Twinning Programme
-        url: /meridian-twinning-programme/partnership/permalink
-      - title: Yuhua Community
-        url: /yuhua-community/partnership/permalink
-  - title: USEFUL INFO
-    url: /crestans-virtual-assistant-c-va/crestan-virtual-assistant/permalink
-    sublinks:
-      - title: "Crestan's Virtual Assistant "
-        url: /crestans-virtual-assistant-c-va/crestan-virtual-assistant/permalink
-      - title: School Admission Info
-        url: /student-admission-info/useful-info/permalink
-      - title: School Suppliers
-        url: /school-suppliers/useful-info/permalink
-      - title: "School Fees "
-        url: /school-fees/useful-info/permalink
-      - title: Shuttle Bus Service
-        url: /shuttle-bus-service/useful-info/permalink
-      - title: Assessment Matters
-        url: /assessment-matters/useful-info/permalink
-      - title: Education and Career Guidance
-        url: /education-and-career-guidance/useful-info/permalink
-      - title: Media Reports
-        url: /2020/our-success-stories/media-reports/permalink
-  - title: General
-    collection: general
+  - title: Partners
+    collection: partnership
+  - title: Our Staff
+    collection: our-people
+  - title: Info @ Crest
+    collection: about-us
   - title: I AM A
     url: /i-am-a-student/permalink
     sublinks:
