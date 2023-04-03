@@ -6,8 +6,7 @@ third_nav_title: Academic Curriculum
 ---
 ### Academic Curriculum
 
-|  |  |  |
-|---|---|---|
-| <a href="https://moe-crestsec-staging.netlify.app/aesthetics/programmes/academic-curriculum/permalink"><img style="width:65%" src="/images/ac1.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/english-language/programmes/academic-curriculum/permalink"><img style="width:85%" src="/images/ac2.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/infocommunications-technology/programmes/academic-curriculum/permalink"><img style="width:85%" src="/images/ac3.png"></a> |
-| <a href="https://moe-crestsec-staging.netlify.app/mathematics/programmes/academic-curriculum/permalink"><img style="width:65%" src="/images/ac4.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/mother-tongue-languages/programmes/academic-curriculum/permalink"><img style="width:85%" src="/images/ac5.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/science/programmes/academic-curriculum/permalink"><img style="width:85%" src="/images/ac6.png"></a> |
-| <a href="https://moe-crestsec-staging.netlify.app/physical-education/our-people/teaching-staff/permalink"><img style="width:65%" src="/images/ac7.png"></a> |  |  |
+|  |  |  |  |
+|---|---|---|---|
+|[Teaching & Learning](/english-language/programmes/na-and-nt/)  | [English NA & NT](/english-language/programmes/na-and-nt/) | [Mathematics NA & NT](/mathematics/programmes/academic-curriculum/na-and-nt/) | [Science](https://www.crestsec.edu.sg/curriculum/academic/science) |
+| [MTL](https://www.crestsec.edu.sg/curriculum/academic/mtl) | [Aesthetics](https://www.crestsec.edu.sg/curriculum/academic/aesthetics) | [PE](https://www.crestsec.edu.sg/curriculum/academic/pe)|  |
