@@ -28,7 +28,7 @@ links:
         url: /our-people/teaching-staff/permalink
       - title: Non-Teaching Staff
         url: /administrative/our-people/non-teaching-staff/permalink
-  - title: Curriculum
+  - title: Cur
     url: /programmes/teaching-and-learning/permalink
     sublinks:
       - title: Teaching & Learning
@@ -86,3 +86,5 @@ links:
         url: /i-am-a-teacher/permalink
       - title: Prospective Students / Parents
         url: https://staging.d3vidbn11609ec.amplifyapp.com/
+  - title: Curriculum
+    collection: programmes
