@@ -3,6 +3,8 @@ title: School Leaders
 permalink: /school-leaders/our-people/
 description: ""
 ---
+### School Leaders
+
 |  |  |  |
 |---|---|---|
 |  | <img src="/images/principal.jpg" style="width:45%"><center><b>Mr Seet Tiat Hee</b><br>Principal<br>[seet\_tiat\_hee@schools.gov.sg](mailto:seet_tiat_hee@schools.gov.sg)</center> |  |
