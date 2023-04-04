@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Non Teaching Staff/Finance.md
       - Non Teaching Staff/Administrative.md
       - Non Teaching Staff/.keep
       - Human Resource.md
