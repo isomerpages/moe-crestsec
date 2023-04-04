@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Teaching Staff/Aesthetics.md
       - Teaching Staff/English Language.md
       - Teaching Staff/Mathematics.md
       - Teaching Staff/Mother Tongue Languages.md
