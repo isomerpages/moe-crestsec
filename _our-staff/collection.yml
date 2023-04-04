@@ -2,10 +2,10 @@ collections:
   our-staff:
     output: true
     order:
-      - Non Teaching Staff/Vocational.md
-      - Non Teaching Staff/Operations.md
-      - Non Teaching Staff/ICT & AV.md
-      - Non Teaching Staff/Human Resource.md
-      - Non Teaching Staff/Finance.md
-      - Non Teaching Staff/Administrative.md
       - Non Teaching Staff/.keep
+      - Non Teaching Staff/Administrative.md
+      - Non Teaching Staff/Finance.md
+      - Non Teaching Staff/Human Resource.md
+      - Non Teaching Staff/ICT & AV.md
+      - Non Teaching Staff/Operations.md
+      - Non Teaching Staff/Vocational.md
