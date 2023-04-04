@@ -4,28 +4,28 @@ permalink: /english-language/programmes/na-and-nt/
 description: ""
 third_nav_title: Academic Curriculum
 ---
+### English NA &amp; NT
+
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
 | Ms Chee Pey Ling Juliana | Ms Juliana | Head of Department<br>(English Language) | chee_pey_ling_juliana@schools.gov.sg |
 | Mr Adrian Tan Liang Huat | Mr Tan | Head of Department(Discipline) | adrian_tan@schools.gov.sg |
-| Mr Lin Zhiliang | Mr Lin | Head of Department(CCE)<br>Teacher (English Language) | lin_zhiliang@schools.gov.sg |
-| Ms Lim Mei-Fern Ruth | Ms Lim | Year Head<br>(Sec 1 &amp; 4)<br>Teacher (English Language) |  lim_mei_fern_ruth@schools.gov.sg |
-| Ms Chan Lay Ling, Amy | Ms Chan | Subject Head <br>(English Language) | chan_lay_ling_amy@schools.gov.sg |
+| Mr Othman Arsan Bin Mohd Abubakar | Mr Othman | Year Head<br>Teacher (English Language) | othman_arsan_mohd_abubakar@schools.gov.sg |
+| Ms Chan Lay Ling, Amy | Ms Chan | Subject Head<br>(English Language) | chan_lay_ling_amy@schools.gov.sg |
+| Ms Siti Nurharnani Binte Nahar | Ms Siti | Subject Head<br>(Character and Citizenship Education)<br>[covering]<br>Teacher (English Language) | siti_nurharnani_nahar@schools.gov.sg |
 | Ms Lee Woan Huey, Hannah | Ms Hannah | Senior Teacher<br>(English Language) | lee_woan_huey_hannah@schools.gov.sg |
-| Ms Hedzlyn Hazwany Binte Mohamed Mahrom | Ms Wany | Senior Teacher <br>(Educational Support)<br>Teacher (English Language) | hedzlyn_hazwany_mohamed_mahrom@schools.gov.sg |
+| Ms Hedzlyn Hazwany Binte Mohamed Mahrom | Ms Wany | Senior Teacher<br>(Educational Support)<br>Teacher (English Language) | hedzlyn_hazwany_mohamed_mahrom@schools.gov.sg |
 | Ms Suriani Binte Sulaiman | Ms Su | Teacher (English Language) | suriani_sulaiman_a@schools.gov.sg |
 | Ms Pamela Chia Hui Ling | Mrs Ho | Teacher (English Language) | pamela_chia_hui_ling@schools.gov.sg |
 | Mr Lee Yue Heng | Mr Lee | Teacher (English Language) | lee_yue_heng@schools.gov.sg |
-| Ms Siti Nurharnani Binte Nahar | Ms Siti | Teacher (English Language) | siti_nurharnani_nahar@schools.gov.sg |
 | Ms Betty Boo May Ling | Ms Betty | Teacher (English Language) | betty_boo_may_ling@schools.gov.sg |
 | Ms Chen Yihan Alyssa | Ms Alyssa | Teacher (English Language) | chen_yihan_alys@schools.gov.sg |
-| Mr Othman Arsan Bin Mohd Abubakar | Mr Othman | Year Head<br>(Sec 1)<br>Teacher (English Language) | othman_arsan_mohd_abubakar@schools.gov.sg |
 | Ms Wong Yau Are | Ms Wong | Teacher (English Language) | huang_you_ya@schools.gov.sg |
 | Mr Mohamad Hisham B Suwandi | Mr Hisham | Teacher (English Language) | mohd_hisham_b_suwandi@schools.gov.sg |
+| Ms Vanessa Teo | Ms Vanessa | Teacher (English Language) | teo_ee_chian_vanessa@schools.gov.sg |
 | Mdm Kalimah Bte Haji Zainuri | Mdm Kalimah | Librarian | kalimah_h_zainuri@schools.gov.sg |
 
-Objective
----------
+#### Objective
 
 The English Language Department aims to develop Crestans into confident communicators by infusing a specially curated blended approach into our curriculum.
 
@@ -61,8 +61,8 @@ In Crest, we believe every student can learn. As such, encouraging formative ass
 
 At the end of four years, all Crestans would be able to communicate confidently and effectively.&nbsp;
 
-Curriculum
-----------
+#### Curriculum
+
 These are some of our signature programmes.  
 
 **Mocktail Party (Secondary 1)**
