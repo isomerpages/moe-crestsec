@@ -2,5 +2,6 @@ collections:
   our-staff:
     output: true
     order:
+      - ICT & AV.md
       - Operations.md
       - Vocational.md
