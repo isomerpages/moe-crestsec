@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Key Personnel/.keep
       - Teaching Staff/Form Teachers (All Levels).md
       - Teaching Staff/Aesthetics.md
       - Teaching Staff/English Language.md
