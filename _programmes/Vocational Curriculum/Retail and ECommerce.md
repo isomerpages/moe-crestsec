@@ -4,6 +4,8 @@ permalink: /retail-and-ecommerce/programmes/vocational-curriculum/permalink/
 description: ""
 third_nav_title: Vocational Curriculum
 ---
+###  Retail and ECommerce
+
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
 | Mr Lee Ching Yong | Mr Lee | Head of Department<br>(Culinary Restaurant Operations, CRO)<br>(Retail &amp; E-Commerce, REC)<br> | [lee\_ching\_yong@schools.gov.sg](mailto:lee_ching_yong@schools.gov.sg) |
