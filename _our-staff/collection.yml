@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Non Teaching Staff/.keep
-      - Administrative.md
       - Finance.md
       - Human Resource.md
       - ICT & AV.md
