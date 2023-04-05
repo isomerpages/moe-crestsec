@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - Crest Alumni/Crest Alumni.md
-      - Crest Alumni/.keep
       - Crest PAL.md
+      - Crest Alumni/.keep
+      - Crest Alumni/Crest Alumni.md
       - Meridian Twinning Programme.md
       - Yuhua Community.md
       - Industry Partners.md
