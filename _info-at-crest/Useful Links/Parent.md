@@ -69,19 +69,18 @@ Thank you for your partnership.
 
   
 
-2\.  Equip Parents Series 3
-
+2\.  Equip Parents Series 3<br>
 \- EF e-book
 
-[Equip Parents Series 3 Exec-Function-e-book.pdf](/files/p11.pdf)
+[Equip Parents Series 3 Exec-Function-e-book.pdf](/files/p11.pdf) Re-upload PDF P11
 
 \- Home as an ideal space for strengthening EF  
 
-[Equip Parents Series 3 Home as An Ideal Space for Strengthening EF.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Equip%20Parents%20Series%203%20Home%20as%20An%20Ideal%20Space%20for%20Strengthening%20EF.pdf)  Re-upload PDF P11
+[Equip Parents Series 3 Home as An Ideal Space for Strengthening EF.pdf](/files/p12.pdf)  
 
 \- Morning Evening Routine Checklist  
 
-[Equip Parents Series 3 Morning Evening Routine Checklist.pdf](/files/p12.pdf)
+[Equip Parents Series 3 Morning Evening Routine Checklist.pdf](/files/p13.pdf)
 
 #### Handbrake Requirement for Bicycles
 
@@ -101,7 +100,7 @@ Please see LTA’s Facebook post and poster on this new rule for your informatio
 
   
 
-[LTA handbrake requirements for bicycles\_web.pdf](/files/p13.pdf)
+[LTA handbrake requirements for bicycles\_web.pdf](/files/p14.pdf)
 
   
 
@@ -109,7 +108,7 @@ Thank you.
 
 #### Resource Kit - Experiencing Blended Learning BL with Our Children
 
-Click&nbsp;[here](/files/p14.pdf)&nbsp;to download the resource kit
+Click&nbsp;[here](/files/p15.pdf)&nbsp;to download the resource kit
 
 #### Mental Health &amp; Hygiene Resources
 
