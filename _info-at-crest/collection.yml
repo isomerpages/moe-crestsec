@@ -2,6 +2,7 @@ collections:
   info-at-crest:
     output: true
     order:
+      - School Policy/Whistleblowing Policy.md
       - School Policy/.keep
       - Key Information/Financial Information.md
       - Key Information/Safety & Security.md
