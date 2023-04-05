@@ -4,6 +4,8 @@ permalink: /discipline/programmes/student-development/
 description: ""
 third_nav_title: Student Development
 ---
+### Discipline
+
 <img src="/images/dis1.jpg" style="width:100%">
 
 In line with MOE’s positive and proactive approach to discipline, Crest Secondary School believes that students learn best in a caring and conducive environment where there is order and discipline, yet at the same time encouragement and space for students to learn from their mistakes.  
