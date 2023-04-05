@@ -1,5 +1,4 @@
 collections:
   i-am-a:
     output: true
-    order:
-      - Crestan's Parent.md
+    order: []
