@@ -8,41 +8,41 @@ third_nav_title: Student Development
 
 Click the image to watch the CCA videos.
 
-#### Sports & Games
+#### Sports &amp; Games
 
 |  |  |  |
 |---|---|---|
-| <a href="https://www.youtube.com/watch?v=2mIOcpBge98&feature=youtu.be"><img style="width:85%" src="/images/co1.png"></a> | <a href="https://www.youtube.com/watch?v=3aPqUfJOvhQ&feature=youtu.be"><img style="width:85%" src="/images/coc1.png"></a> | <a href="https://www.youtube.com/watch?v=Qxn7S6zhjlA&feature=youtu.be"><img style="width:85%" src="/images/co3.png"></a> |
-| <a href="https://www.youtube.com/watch?v=1z6JVOeBPAk&feature=youtu.be"><img style="width:85%" src="/images/co4.png"></a> | <a href="https://www.youtube.com/watch?v=9fckWw7vCS4&list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&index=10"><img style="width:85%" src="/images/co5.png"></a> | <a href="https://www.youtube.com/watch?v=xQ5b7OvW1w8&list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&index=11"><img style="width:85%" src="/images/coc2.png"></a> |
+| <a href="https://www.youtube.com/watch?v=2mIOcpBge98&amp;feature=youtu.be"><img style="width:85%" src="/images/co1.png"></a> | <a href="https://www.youtube.com/watch?v=3aPqUfJOvhQ&amp;feature=youtu.be"><img style="width:85%" src="/images/coc1.png"></a> | <a href="https://www.youtube.com/watch?v=Qxn7S6zhjlA&amp;feature=youtu.be"><img style="width:85%" src="/images/co3.png"></a> |
+| <a href="https://www.youtube.com/watch?v=1z6JVOeBPAk&amp;feature=youtu.be"><img style="width:85%" src="/images/co4.png"></a> | <a href="https://www.youtube.com/watch?v=9fckWw7vCS4&amp;list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&amp;index=10"><img style="width:85%" src="/images/co5.png"></a> | <a href="https://www.youtube.com/watch?v=xQ5b7OvW1w8&amp;list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&amp;index=11"><img style="width:85%" src="/images/coc2.png"></a> |
 
 #### Aesthetics
 
 |  |  |  |
 |---|---|---|
-| <a href="https://www.youtube.com/watch?v=gOWDA5ND4uo&feature=youtu.be"><img style="width:85%" src="/images/coc3.png"></a> | <a href="https://www.youtube.com/watch?v=mNmZuiQ7PnQ&feature=youtu.be"><img style="width:85%" src="/images/co8.png"></a> | <a href="https://www.youtube.com/watch?v=cUnNvdbkb8M&feature=youtu.be"><img style="width:85%" src="/images/co9.png"></a> |
-| <a href="https://www.youtube.com/watch?v=nwZlvgszELM&feature=youtu.be"><img style="width:85%" src="/images/co10.png"></a> | <a href="https://www.youtube.com/watch?v=RNuCe_DRt9s&list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&index=18"><img style="width:85%" src="/images/co11.png"></a> |  |
+| <a href="https://www.youtube.com/watch?v=gOWDA5ND4uo&amp;feature=youtu.be"><img style="width:85%" src="/images/coc3.png"></a> | <a href="https://www.youtube.com/watch?v=mNmZuiQ7PnQ&amp;feature=youtu.be"><img style="width:85%" src="/images/co8.png"></a> | <a href="https://www.youtube.com/watch?v=cUnNvdbkb8M&amp;feature=youtu.be"><img style="width:85%" src="/images/co9.png"></a> |
+| <a href="https://www.youtube.com/watch?v=nwZlvgszELM&amp;feature=youtu.be"><img style="width:85%" src="/images/co10.png"></a> | <a href="https://www.youtube.com/watch?v=RNuCe_DRt9s&amp;list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&amp;index=18"><img style="width:85%" src="/images/co11.png"></a> |  |
 
 #### Uniformed Groups
 
 |  |  |  |
 |---|---|---|
-| <a href="https://www.youtube.com/watch?v=6m0B3xScsik&feature=youtu.be"><img style="width:55%" src="/images/co12.png"></a> | <a href="https://www.youtube.com/watch?v=UtgKzwbjmjU&feature=youtu.be"><img style="width:55%" src="/images/co13.png"></a> |  |
+| <a href="https://www.youtube.com/watch?v=6m0B3xScsik&amp;feature=youtu.be"><img style="width:55%" src="/images/co12.png"></a> | <a href="https://www.youtube.com/watch?v=UtgKzwbjmjU&amp;feature=youtu.be"><img style="width:55%" src="/images/co13.png"></a> |  |
 
 
-#### Clubs & Societies
+#### Clubs &amp; Societies
 
 |  |  |  |
 |---|---|---|
-| <a href="https://www.youtube.com/watch?v=Pi2UEReQzrY&feature=youtu.be"><img style="width:85%" src="/images/co14.png"></a> | <a href="https://www.youtube.com/watch?v=LAmIIr0RIXw&feature=youtu.be"><img style="width:85%" src="/images/co15.png"></a> | <a href="https://www.youtube.com/watch?v=J6_P8z7EgTU&feature=youtu.be"><img style="width:85%" src="/images/co16.png"></a> |
-| <a href="https://www.youtube.com/watch?v=4R62nT87t84&feature=youtu.be"><img style="width:85%" src="/images/co17.png"></a> | <a href="https://www.youtube.com/watch?v=Z8k8-UxC7ik&feature=youtu.be"><img style="width:85%" src="/images/co18.png"></a> |  |
+| <a href="https://www.youtube.com/watch?v=Pi2UEReQzrY&amp;feature=youtu.be"><img style="width:85%" src="/images/co14.png"></a> | <a href="https://www.youtube.com/watch?v=LAmIIr0RIXw&amp;feature=youtu.be"><img style="width:85%" src="/images/co15.png"></a> | <a href="https://www.youtube.com/watch?v=J6_P8z7EgTU&amp;feature=youtu.be"><img style="width:85%" src="/images/co16.png"></a> |
+| <a href="https://www.youtube.com/watch?v=4R62nT87t84&amp;feature=youtu.be"><img style="width:85%" src="/images/co17.png"></a> | <a href="https://www.youtube.com/watch?v=Z8k8-UxC7ik&amp;feature=youtu.be"><img style="width:85%" src="/images/co18.png"></a> |  |
 
 
-Crest offers CCAs from 4 broad categories. These are Sports & Games, Aesthetics, Uniformed Groups, and Clubs & Societies. To cater to students’ diverse interests, every student is assigned a CCA of his/her choice.
+Crest offers CCAs from 4 broad categories. These are Sports &amp; Games, Aesthetics, Uniformed Groups, and Clubs &amp; Societies. To cater to students’ diverse interests, every student is assigned a CCA of his/her choice.
 
 <img src="/images/cca1.png" style="width:100%">
 
 #### Objective
-<img src="/images/cca2.png" style="width:350px;height:575px;margin-right:25px;" align = "left">
+<img src="/images/cca2.png" style="width:350px;height:575px;margin-right:25px;" align="left">
 
 Co-Curricular Activities (CCA) is a key platform for character development and inculcation of values and talent development. These activities range from training sessions and team bonding camps, to external platforms for talent showcase. Crest believes that with an exciting CCA programme, students will have a positive schooling experience.
 
@@ -81,13 +81,16 @@ Due to the Covid-19 situation, the SYF Arts Presentation 2021 was performed with
 
   
 
-Dance (International)  : Accomplishment  
+Dance (International): Accomplishment
 
-Guitar: Accomplishment  
+Guitar: Accomplishment
 
-Popband (Team A - Percussion Ensemble)  : Accomplishment
+Popband (Team A - Percussion Ensemble): Accomplishment
 
-Popband (Team B - Percussion Ensemble) : Commendation
+Popband (Team B - Percussion Ensemble): Commendation
 
-#### CCA Timings
-<img src="/images/cca7.jpeg" style="width:55%">
+  
+
+Please do click on the link below and take a moment to enjoy their performances. We hope they will leave you awestruck - just as we were!
+
+[SYF AP CREST SEC SCH](https://tinyurl.com/SYF-AP-CREST-SEC-SCH)
