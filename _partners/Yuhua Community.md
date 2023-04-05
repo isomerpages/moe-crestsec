@@ -3,6 +3,8 @@ title: Yuhua Community
 permalink: /yuhua-community/partners/
 description: ""
 ---
+### Yuhua Community
+
 We believe every Crestan can contribute to the community. Over the years, the Yuhua community has provided Crestans with bountiful opportunities to contribute to the community through the various events such as Prosperity Rice Distribution, Chinese New Year Celebration Dinner, National Day Observance Ceremony and PAssionArts event.
 
 **Mega Toss 2020 (CNY Celebration Dinner)**
