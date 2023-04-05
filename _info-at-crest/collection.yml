@@ -2,7 +2,6 @@ collections:
   info-at-crest:
     output: true
     order:
-      - Useful Links/.keep
       - Principal's Message.md
       - Board of Directors.md
       - Crest DNA/.keep
@@ -26,8 +25,9 @@ collections:
       - Newsroom/2020.md
       - Newsroom/2019.md
       - Newsroom/2018.md
+      - Career at Crest/.keep
       - Career at Crest/Career @Crest.md
       - Career at Crest/Teaching Positions.md
       - Career at Crest/Non Teaching Positions.md
-      - Career at Crest/.keep
       - Useful Links.md
+      - Useful Links/.keep
