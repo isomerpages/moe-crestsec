@@ -4,3 +4,11 @@ permalink: /info-at-crest/newsroom/
 description: ""
 third_nav_title: Newsroom
 ---
+### Newsroom
+
+Click on the links below to view our yearly media reports:  
+  
+
+*   [2020](https://www.crestsec.edu.sg/info-at-crest/newsroom/2020)
+*   [2019](https://www.crestsec.edu.sg/info-at-crest/newsroom/2019)
+*   [2018](https://www.crestsec.edu.sg/info-at-crest/newsroom/2018)
