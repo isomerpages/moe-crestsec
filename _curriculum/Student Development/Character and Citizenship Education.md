@@ -4,8 +4,8 @@ permalink: /character-and-citizenship-education/programmes/student-development/
 description: ""
 third_nav_title: Student Development
 ---
-Objective
----------
+### Character and Citizenship Education
+#### Objective
 
 The primary objective of Crest’s&nbsp;**Character and Citizenship Education (CCE) Programme**&nbsp;is to support the holistic development of Crestans, anchored on the school values of Integrity, Care, Resilience, Excellence, Self-worth and Teamwork&nbsp;**(i-CREST)**. As they progress from Sec 1 to Sec 4, they develop social-emotional and 21st century competencies, as well as positive work habits that enable them to serve and make a difference in the lives of others, in both local and overseas communities.
 
@@ -24,8 +24,8 @@ The CCE curriculum is taught through&nbsp;**SELF (Social, Emotional and Leadersh
 
 **Values-In-Action (VIA)**&nbsp;is an important CCE component where our students learn to make a difference in the community. The lower secondary classes would make a difference in the school community by promoting sustainable actions of recycling waste and reducing water consumption and food waste. The secondary three classes make a difference overseas through their overseas service-learning projects. The secondary four classes would adopt a beneficiary of their choice and plan their project as a class.&nbsp;
 
-Character Development through Customised CCE Programmes
--------------------------------------------------------
+#### Character Development through Customised CCE Programmes
+
 
 *   **Crest Domino Challenge (Secondary 1 and 2)**
 
