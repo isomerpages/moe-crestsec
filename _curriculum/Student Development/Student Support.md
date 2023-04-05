@@ -28,13 +28,13 @@ third_nav_title: Student Development
 
 School Counsellors in Crest Secondary play an integral role in supporting the social, mental and emotional well-being of Crestans. As Crestans forge ahead in their quest for self-discovery, personal development and fulfillment, we as School Counsellors journey alongside them, providing essential skills and competencies needed to cope with and overcome life's challenges resiliently. Some of the key services we provide are:  
 
-1) Individual and Group counselling
+1\) Individual and Group counselling
 
-2) Psychoeducation on mental, emotional and social well-being
+2\) Psychoeducation on mental, emotional and social well-being
 
-3) Workshops and activities that suit the needs of students (self-esteem, communication skills, coping strategies, etc.).
+3\) Workshops and activities that suit the needs of students (self-esteem, communication skills, coping strategies, etc.).
 
-4) Referrals to external agencies e.g. youth mental health services and family services centres.
+4\) Referrals to external agencies e.g. youth mental health services and family services centres.
 
 As an expression of our indispensable partnership with parents/care-givers, we have consolidated some parenting resources for easy access ([https://sites.google.com/crestsec.edu.sg/resourcesforparents](https://sites.google.com/crestsec.edu.sg/resourcesforparents)).
 
@@ -55,3 +55,16 @@ Allied Educators work collaboratively with key stakeholders such as parents, tea
 * Collaboration with VWOs for itinerant school-based educational support services (e.g. AWWA &amp; SADeaf)
 
 <img src="/images/ss6.png" style="width:100%">
+
+#### Student Welfare Officers (SWOs)
+
+<img src="/images/swofficer.png" style="width:100%">
+
+As a Student Welfare Officer in Crest Secondary, we provide social support to students-at-risk. We work with their families and other community partners to address barriers to learning and strengthen the safety net for these students. Some of our key services are:  
+
+*   Providing student-centric casework support for students-at-risk and their families,
+*   Mentoring students-at-risk and empowering them to make informed life choices,
+*   Conducting home visits to assess the needs of students-at-risk and their families,
+*   Referring students’ families to the relevant agencies for access to community resources e.g. youth agencies, family service centres,
+*   Collaborating with community agencies to mitigate issues for the students-at-risk and their families,
+*   Re-integrating students who have been absent from school.
