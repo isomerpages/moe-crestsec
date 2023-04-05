@@ -6,42 +6,146 @@ description: ""
 
 #### School Leaders
 
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Seet Tiat Hee | Principal |
+| 2 | Chan Teck Hong David | Vice-Principal (Academic) |
+| 3 | Teh Tuan Ann | Vice-Principal (Vocational Education) |
+| 4 | Lee Kee Meng | Vice-Principal (Administration) |
+|  |  |  |
 
 ### Academic
 #### English Language
 
-
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Chee Pey Ling Juliana | Head of Department (English Language) |
+| 2 | Adrian Tan Liang Huat | Head of Department (Discipline) |
+| 3 | Othman Arsan Bin Mohd Abubakar | Year Head |
+| 4 | Chan Lay Ling, Amy | Subject Head (English Language) |
+| 5 | Hedzlyn Hazwany Binte Mohamed Mahrom | Senior Teacher (Special Education Needs) |
+| 6 | Lee Woan Huey Hannah | Senior Teacher (English Language) |
+| 7 | Teo Ee Chian Vanessa | Teacher (English Language) |
+| 8 | Suriani Binte Sulaiman | Teacher (English Language) |
+| 9 | Lee Yue Heng | Teacher (English Language) |
+| 10 | Siti Nurharnani Binte Nahar | Teacher (English Language) |
+| 11 | Betty Boo May Ling | Teacher (English Language) |
+| 12 | Chen Yihan Alyssa | Teacher (English Language) |
+| 13 | Wong Yau Are Youya | Teacher (English Language) |
+| 14 | Mohamad Hisham B Suwandi | Teacher (English Language) |
+| 15 | Pamela Chia Hui Ling (Mrs Pamela Ho) | Teacher (English Language) |
+| 16 | Kalimah Bte Haji Zainuri | Executive (Media Resource Library) |
 
 #### Mother Tongue Language
 
-
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Tan Hui Ying Joycelyn | Head of Department (Character & Citizenship Education) |
+| 2 | Muszalifa Binte Aman | Subject Head (Malay Language) |
+| 3 | Raihanah Beevi | Assistant Year Head |
+| 4 | Tan Chia Chia | Teacher (Chinese Language) |
+| 5 | Ho Yuen Ming Vicky | Teacher (Chinese Language) |
+| 6 | Lim Michelle | Teacher (Chinese Language) |
+| 7 | Maznunnisha Binte Abdul Aziz | Teacher (Malay Language) |
+| 8 | Nadhirah Binte Ismail | Teacher (Malay Language) |
+| 9 | Nur Izziana Binte Kamaruddin | Teacher (Malay Language) |
 
 #### Math & Science
 
-
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Ong Siew Khim | Head of Department (Mathematics & Science) |
+| 2 | Goh Jia Li | Year Head |
+| 3 | Foo Mei Yeng | Assistant Year Head |
+| 4 | Tan Teck Hong (Jason) | Subject Head (Discipline) |
+| 5 | Lin Yuxuan, Den | Subject Head (Info-Communications Technology) |
+| 6 | Ho Su Ching Eunice | Subject Head (Mathematics) [covering] |
+| 7 | Ooi Heng | Subject Head (Science) [covering] |
+| 8 | Lee Joshua | Subject Head (Student Well-Being) |
+| 9 | Pu Siang Beng | Senior Teacher (Student Support) |
+| 10 | Lim Kian Chuan | Teacher (Mathematics) |
+| 11 | Lim Weiming | Teacher (Mathematics) |
+| 12 | Ng Geok Ling Betina | Teacher (Mathematics) |
+| 13 | Rachel Tan Shi Ya | Teacher (Mathematics) |
+| 14 | Shuhadah Binte Suleiman | Teacher (Mathematics) |
+| 15 | Lo Chen Yang Marvin | Teacher (Mathematics) |
+| 16 | Lee Tuck Suen | Teacher (Mathematics) |
+| 17 | Saheeta Nisvaan D/O Syed Maidin | Teacher (Mathematics) |
+| 18 | Hamidah Binte Haji Hamim | Teacher (Mathematics) |
+| 19 | Shariffah Bibi Binte Charagh Din | Technical Support Assistant |
 
 #### Aesthetics
 
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Lok Lai Hoong | Head of Department (Aesthetics & CCA) |
+| 2 | Teo Zhiliang Lucas | Head of Department (Organisational Learning & Development) |
+| 3 | Mutmainnah Binte Saidi | Teacher (Aesthetics) |
+| 4 | Poh Wei Yi, Ian | Teacher (Aesthetics) |
+| 5 | Rischka Syafiqa Putri Jonawi | Teacher (Art) |
+| 6 | Quek Kwan Chern Matthew | Teacher (Music) |
 
 #### Physical Education
 
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Tay Siew Mei Janice | Subject Head (Physical Education & CCA) |
+| 2 | How Wing Cheong Alvin | Subject Head (Character & Citizenship Education) [SELF] |
+| 3 | Muhammad Fareed Bin Hashim | Assistant Year Head |
+| 4 | Mohammed Rohan Bin Ismail | Teacher (Physical Education) |
+| 5 | Lynn Tan Mei Yun | Teacher (Physical Education) |
+| 6 | Wee Pheng Choon Desmond | Teacher (Physical Education) |
+| 7 | Mohamad Rizan Bin Abdullah | Youth Engagement Officer |
 
 #### Info-Communications Technology/ AV
 
-
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Lam Kum Cheong (Andy) | Head of Department (Info-Communications Technology) |
+| 2 | Siti Nooratika Bte Jumaat | Teacher (Info-Communications Technology) |
+| 3 | Pek Su Heng (James) | Senior Officer (Info-Communications Technology) |
+| 4 | Klassen Charles Gerard | Technical Support Officer (AV & ICT) |
 
 ### Vocational
 
 #### Culinary & Restaurant Operations
 
-
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Lee Ching Yong | Head of Department (Culinary & Restaurant Operations) |
+| 2 | Chang Yi Ping | Assistant Year Head |
+| 3 | Ho Wei Lynn Karen | Subject Head (Education & Career Guidance) |
+| 4 | Yuen Wei Dong (Dave) | Teacher (Culinary & Restaurant Operations) |
+| 5 | Ling Chee Kwong | Teacher (Culinary & Restaurant Operations) |
+| 6 | Ong Chin Koon | Teacher (Culinary & Restaurant Operations) |
+| 7 | Law Zhen Xi | Allied Educator (Culinary & Restaurant Operations) |
+| 8 | Natasha Qhalisha Binte Japri | Executive (Culinary & Restaurant Operations) |
+| 9 | Liyanah Binte Samson | Operations Assistant (Culinary & Restaurant Operations) |
 
 #### Retail & E-Commerce
 
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Lee Ching Yong | Head of Department (Retail & E-Commerce) [Covering] |
+| 2 | Ng Wee Kee | Teacher (Retail & E-Commerce) |
+| 3 | Tan Farah Imran | Teacher (Retail & E-Commerce) |
+| 4 | Chan Mei Lian | Teacher (Retail & E-Commerce) |
+| 5 | Chua Choon Hiong | Teacher (Retail & E-Commerce) |
+| 6 | Khairiah Binti Jaafar | Teacher (Retail & E-Commerce) |
+| 7 | Chew Ming Zhe Zack | Allied Educator (Retail & E-Commerce) |
+| 8 | Nurul Fateha Binte Hashim | Technical Support Officer (Retail & E-Commerce) |
 
 #### Mechanical Design & Automation
 
-
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Chang Chow Khin | Head of Department (Mechanical Design & Automation) |
+| 2 | Ang Lay Beng | Senior Teacher (Mechanical Design & Automation) |
+| 3 | Lim Swee Huat | Teacher (Mechanical Design & Automation) |
+| 4 | Tan Eng Choon | Teacher (Mechanical Design & Automation) |
+| 5 | Mohamed Althaf Shathali | Teacher (Mechanical Design & Automation) |
+| 6 | Muhammad Zaki Bin Hosain | Teacher (Mechanical Design & Automation) |
+| 7 | Hisham Bin Md Sabidi | Senior Technical Support Officer (Mechanical Design & Automation) |
 
 #### Internet-Of-Things Applications & Mobile Web Applications
 
@@ -51,14 +155,27 @@ description: ""
 
 #### Operations
 
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Chan Ying Hui | Subject Head (Mobile Web Applications) |
+| 2 | Lim Ming Hui Eugene | Subject Head (Internet-of-Things Applications) |
+| 3 | Chang Choo Liang | Teacher (Internet-of-Things Applications) |
+| 4 | Chua Chin Choon (Desmond) | Teacher (Internet-of-Things Applications) |
+| 5 | Mohammed Hafiez Bin Ali | Teacher (Internet-of-Things Applications) |
+| 6 | Lau Kia Hian | Teacher (Internet-of-Things Applications) |
+| 7 | Osman Farouk S/O Hassan Mohamed | Teacher (Mobile Web Applications) |
+| 8 | Helmy Rozaimi | Teacher (Mobile Web Applications) |
+| 9 | Ong Cheng Soon | Allied Educator (Internet-of-Things Applications) |
+| 10 | Jonathan Tsang Yim Ting | Allied Educator (Mobile Web Applications) |
+|  |  |  |
 
 #### Finance
 
 
-Student Admin
+#### Student Admin
 
 
-Human Resource
+#### Human Resource
 
 
-Student Support
+#### Student Support
