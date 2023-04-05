@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Crest PAL.md
+      - Crest Alumni/Voices of Our Alumni.md
       - Crest Alumni/.keep
       - Crest Alumni/Crest Alumni.md
       - Meridian Twinning Programme.md
