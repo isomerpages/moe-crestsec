@@ -3,6 +3,8 @@ title: Meridian Twinning Programme
 permalink: /meridian-twinning-programme/partners/
 description: ""
 ---
+### Meridian Twinning Programme
+
 **Partnership with Meridian International Learning Experience**  
 
 &nbsp;Since 2014, Crest has been on a twinning programme with Meridian International Learning Experience from Manila, Philippines.&nbsp;
@@ -56,8 +58,7 @@ The theme for the Philippines programme was “Stronger Together”. Together, w
 
 <p style="text-align: center;">Crestans making Banana Turon, a Filipino snack, to better appreciate our similarities. </p><img src="/images/mtp6.png" style="width:100%">
 
-Crest Meridian Teacher Exchange Programme (TEP)
------------------------------------------------
+#### Crest Meridian Teacher Exchange Programme (TEP)
 
 <img src="/images/mtp7.jpg" style="width:325px;height:240px;margin-right:25px;" align="left">Building on the success of our student exchange programme, Crest embarked on a Teacher Exchange Programme with Meridian International Learning Experience in 2018.&nbsp;
 
