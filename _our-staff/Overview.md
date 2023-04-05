@@ -3,7 +3,6 @@ title: Overview
 permalink: /our-staff/
 description: ""
 ---
-
 #### School Leaders
 
 | S/N | Name | Designation |
@@ -149,12 +148,6 @@ description: ""
 
 #### Internet-Of-Things Applications & Mobile Web Applications
 
-
-
-### Administration & Support
-
-#### Operations
-
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
 | 1 | Chan Ying Hui | Subject Head (Mobile Web Applications) |
@@ -169,13 +162,57 @@ description: ""
 | 10 | Jonathan Tsang Yim Ting | Allied Educator (Mobile Web Applications) |
 |  |  |  |
 
+### Administration & Support
+
+#### Operations
+
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Edward Neo Kim Chwee | Operations Manager |
+| 2 | Lee Chuan Hoe | Senior Technical Support Officer (Operations) |
+| 3 | Yeo Rong Hwee | Senior Technical Support Officer (Operations) |
+| 4 | Chandra Segaran S/O Somoo | Senior Technical Support Officer (Operations) |
+| 5 | Lee Yong Guang Peter | Technical Support Officer (Operations) |
+| 6 | Heng Poh Ngeow | Senior Operations Assistant |
+| 7 | Pitchammal w/o Thiagaras | Operations Assistant |
+| 8 | Tan Cho Keng | Operations Assistant |
+| 9 | Pheah Yuen Seng | Operations Assistant |
+
 #### Finance
 
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Lee Chia Ling | Finance Manager |
+| 2 | Wong Pei Zhi (Sabrina) | Officer (Finance) |
+| 3 | Chia Zixin | Senior Executive (Finance) |
+| 4 | Lin Shiting (Stella) | Senior Executive (Finance) |
 
 #### Student Admin
+
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Lee Siu Yuen | Head (Admin) |
+| 2 | Soo Hoo Mei Foong (Alarize) | Senior Executive (Admin) |
+| 3 | Lee Tze Chui (Kenneth) | Senior Executive (Admin) |
+| 4 | Low Siew Li (Ashley) | Senior Executive (Admin) |
 
 
 #### Human Resource
 
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Marina Wong May Li | Head (Human Resource) |
+| 2 | Hamilawati Binte Haji Johari | Executive (HR) |
 
 #### Student Support
+
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Bay Siow Lon | Head (Student Support) |
+| 2 | Chen Suh Shyan (Pauline) | Allied Educator (Learning & Behavioural Support) |
+| 3 | Hafizah Binte Hamzah | Allied Educator (Learning & Behavioural Support) |
+| 4 | Ismaiyah Binte Ismail | Allied Educator (Learning & Behavioural Support) |
+| 5 | Celest Ling Ching Ching | School Counsellor |
+| 6 | Yap Zheng Jie Joseph | School Counsellor |
+| 7 | Wong Teck Boon Anthony | School Counsellor |
+| 8 | Ng Hsiao Huei Hilda | Student Welfare Officer |
