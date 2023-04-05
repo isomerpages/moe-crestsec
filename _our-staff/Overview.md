@@ -5,7 +5,7 @@ description: ""
 ---
 |  |  |  |  |
 |---|---|---|---|
-| [**School Leaders**](https://www.crestsec.edu.sg/our-staff/school-leaders) | [**Key Personnel**](https://www.crestsec.edu.sg/our-staff/key-personnel) | [**Teaching Staff**](https://www.crestsec.edu.sg/our-staff/teaching-staff) | [**Non-Teaching Staff**](https://www.crestsec.edu.sg/our-staff/non-teaching-staff) |
+| [**School Leaders**](/our-staff/school-leaders/) | [**Key Personnel**](/our-staff/key-personnel/) | [**Teaching Staff**](/our-staff/teaching-staff/form-teachers-all-levels/) | [**Non-Teaching Staff**](https://www.crestsec.edu.sg/our-staff/non-teaching-staff) |
 |  |  |  |  |
 
 #### School Leaders
