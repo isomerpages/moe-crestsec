@@ -9,6 +9,4 @@ third_nav_title: Vocational
 |  |  |  |
 |---|---|---|
 | [**Culinary & Restaurant Operations**](/culinary-and-restaurant-operations/programmes/vocational-curriculum/) | [**Internet of Things Applications**](/internet-of-things-applications/programmes/vocational-curriculum/) | [**Mechanical Design & Automation**](/mechanical-design-and-automation/programmes/vocational-curriculum/) |
-|[**Mobile Web Applications**](/mobile-web-applications/programmes/vocational-curriculum/)  |  [**Retail & E-Commerce**](/retail-and-ecommerce/programmes/vocational-curriculum/)| [**InfoComm Technology**](https://www.crestsec.edu.sg/curriculum/vocational/infocomm-technology) |
-
- 
+|[**Mobile Web Applications**](/mobile-web-applications/programmes/vocational-curriculum/)  |  [**Retail & E-Commerce**](/retail-and-ecommerce/programmes/vocational-curriculum/)| [**InfoComm Technology**](/infocommunications-technology/programmes/vocational-curriculum/) |
