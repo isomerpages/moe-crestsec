@@ -33,7 +33,7 @@ third_nav_title: Career at Crest
 #### HOW TO APPLY
 
 *   Please email the application form, together with a detailed resume with a recent photograph, stating your academic/professional qualifications, working experience, and current and expected salaries to Ms Marina Wong at [hr@crestsec.edu.sg](mailto:hr@crestsec.edu.sg). Please indicate the job title on the subject heading of your email.
-*   Click [here](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Career@Crest/Crest%20Secondary%20School%20-%20Job%20Application%20Form%20Direct%20Hire%20-%20Nov%202020.docx) to download the job application form.
+*  Re-upload doc. Click [here](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Career@Crest/Crest%20Secondary%20School%20-%20Job%20Application%20Form%20Direct%20Hire%20-%20Nov%202020.docx) to download the job application form.
 *   We regret that only shortlisted candidates will be notified. Only Singaporeans and Permanent Residents may apply for the above positions.
 *   By submitting any application or resume to us, you will be deemed to have agreed and consented to us collecting and using your personal information to facilitate the processing of your application for employment purposes.
 *   Remuneration will be commensurate with qualifications and experience.
