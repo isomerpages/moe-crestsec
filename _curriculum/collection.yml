@@ -2,12 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Teaching & Learning/.keep
-      - Teaching & Learning/Teaching & Learning.md
-      - Teaching & Learning/Philosophy.md
-      - Teaching & Learning/Fundamental Beliefs.md
-      - Teaching & Learning/Guiding Principles.md
-      - Teaching & Learning/Curriculum Approach.md
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
       - Academic Curriculum/English NA and NT.md
@@ -25,6 +19,12 @@ collections:
       - Vocational Curriculum/Mobile Web Applications.md
       - Vocational Curriculum/Retail and ECommerce.md
       - Vocational Curriculum/Industry Experiential Programme.md
+      - Teaching & Learning/.keep
+      - Teaching & Learning/Teaching & Learning.md
+      - Teaching & Learning/Philosophy.md
+      - Teaching & Learning/Fundamental Beliefs.md
+      - Teaching & Learning/Guiding Principles.md
+      - Teaching & Learning/Curriculum Approach.md
       - Student Development/.keep
       - Student Development/Overview.md
       - Student Development/Co Curricular Activities.md
