@@ -3,6 +3,8 @@ title: Crest Alumni
 permalink: /crest-alumni/partners/
 description: ""
 ---
+### Crest Alumni
+
 <img src="/images/c1.jpg" style="width:75%">
 
 
@@ -17,8 +19,8 @@ description: ""
 |  |  Mr Desmond Chua |  chua_chin_choon_desmond@schools.gov.sg |
 |   |  Mr Dave Yuen |  yuen_wei_dong_dave@schools.gov.sg |
 
-Check out some stories of our alumni
-------------------------------------
+#### Check out some stories of our alumni
+
 <img src="/images/a1.jpg" style="width:75%"> 
 
 [Watch the story of Muhd Suzairee Bin Suhairee](https://www.facebook.com/crestsec/videos/719207211897691/)
@@ -52,8 +54,8 @@ Check out some stories of our alumni
 [Watch the story of Charleston Lim](https://www.facebook.com/crestsec/videos/424745385582002/)
 
 
-Past Events
------------
+#### Past Events
+
 <img src="/images/a9.png" style="width:100%">
 
 <p style="text-align: center;"><b>Alumni in Action during Sec 1 Orientation</b></p>
