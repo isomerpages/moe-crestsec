@@ -1,8 +1,8 @@
 ---
-title: Teaching & Learning
+title: Teaching &amp; Learning
 permalink: /programmes/teaching-and-learning/permalink/
 description: ""
-third_nav_title: Teaching & Learning
+third_nav_title: Teaching &amp; Learning
 ---
 <img src="/images/tl0.png" style="width:75%">
 
@@ -10,5 +10,4 @@ At Crest Secondary School, we have an integrated and authentic Total Curriculum 
 
 |  |  |  |  |
 |---|---|---|---|
-| <a href="https://moe-crestsec-staging.netlify.app/philosophy/programmes/teaching-andlearning/permalink"><img style="width:85%" src="/images/tl1.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/fundamental-beliefs/programmes/teaching-andlearning/permalink"><img style="width:85%" src="/images/tl2.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/guiding-principles/programmes/teaching-andlearning/permalink"><img style="width:85%" src="/images/tl3.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/curriculum-approach/programmes/teaching-andlearning/permalink"><img style="width:85%" src="/images/tl4.png"></a> |
-
+| <a href="https://moe-crestsec-staging.netlify.app/philosophy/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl1.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/fundamental-beliefs/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl2.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/guiding-principles/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl3.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/curriculum-approach/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl4.png"></a> |
