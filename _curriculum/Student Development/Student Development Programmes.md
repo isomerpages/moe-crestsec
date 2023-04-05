@@ -4,8 +4,7 @@ permalink: /student-development-programmes/programmes/student-development/
 description: ""
 third_nav_title: Student Development
 ---
-Overseas Learning Journey
--------------------------
+### Overseas Learning Journey
 
 <img src="/images/stp1.png" style="width:100%">
 
@@ -25,8 +24,7 @@ Regions our Crestans have been to include:
 | 2018 | ●     Batam, Indonesia<br><br>●     Ho Chi Minh City, Vietnam<br><br>●     Malacca, Malaysia<br><br>●     Phnom Penh, Cambodia<br> |
 | 2019 | ●     Batam, Indonesia<br><br>●     Hanoi, Vietnam<br><br>●     Ho Chi Minh City, Vietnam<br><br>●     Phnom Penh, Cambodia |
 
-Peer Support Relationships
---------------------------
+#### Peer Support Relationships
 
 <img src="/images/stp3.jpg" style="width:100%">
 
@@ -44,8 +42,7 @@ This year, our Care Champions also led their classmates in a project to show app
 
 <img src="/images/stp6.png" style="width:100%">
 
-After-School Engagement
------------------------
+#### After-School Engagement
 <img src="/images/stp7.png" style="width:100%">
 
 Crest Secondary School runs an after-school engagement programme in order to leverage on positive relationships with significant adults in the school and positive peer groups, so as to strengthen Crestans’ sense of school connectedness and belonging. Through this programme, we hope to enhance our students’ learning motivation and resilience, and develop their character and decision-making skills. Through community service and learning, we also hope to develop their potential to lead themselves and others.  
