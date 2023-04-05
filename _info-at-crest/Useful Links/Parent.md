@@ -13,23 +13,23 @@ third_nav_title: Useful Links
 
 #### Sec 1 Parents Dialogue 2023
 
-[Sec 1 Parents Dialogue 2023.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Sec%201%20Parents%20Dialogue%202023.pdf)
+[Sec 1 Parents Dialogue 2023.pdf](/files/p1.pdf)
 
 #### MOE FAS Application Form for 2023
 
-[MOE FAS Application Form 2023\_New.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/MOE%20FAS%20Application%20Form%202023_New.pdf)  
-[PG letter to parents\_MOE FAS New.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/PG%20letter%20to%20parents_MOE%20FAS%20New.pdf)  
+[MOE FAS Application Form 2023\_New.pdf](/files/p2.pdf)<br>
+[PG letter to parents\_MOE FAS New.pdf](/files/p3.pdf)
 
 #### Term Letters 2023
 
 **Term 1**  
-[2023 Start of Term 2 Letter to Parents.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/2023%20Start%20of%20Term%202%20Letter%20to%20Parents.pdf)
+[2023 Start of Term 2 Letter to Parents.pdf](/files/p4.pdf)
 
-[2023 Start of Term 1 Letter to Parents.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/2023%20Start%20of%20Term%201%20Letter%20to%20Parents.pdf)
+[2023 Start of Term 1 Letter to Parents.pdf](/files/p5.pdf)
 
 #### School Lockdown Drill
 
-[Lockdown drill Evacuation Exercise Parents Letter.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Lockdown%20drill%20%20Evacuation%20Exercise%20Parents%20Letter.pdf)
+[Lockdown drill Evacuation Exercise Parents Letter.pdf](/files/p6.pdf)
 
 #### Relaxation of the Safe Management Measures
 
@@ -49,39 +49,39 @@ Thank you for your partnership.
 
 #### Conversations with Your Teens by HPB
 
-[Conversations with Your Teens by HPB.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Conversations%20with%20Your%20Teens%20by%20HPB.pdf)
+[Conversations with Your Teens by HPB.pdf](/files/p7.pdf)
 
 #### Colour vision screening for Sec 1 students in Student Health Centre (SHC)
 
-[11.1.22 Colour vision testing at SHC final.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/11.1.22%20%20Colour%20vision%20testing%20at%20SHC%20final.pdf)
+[11.1.22 Colour vision testing at SHC final.pdf](/files/p8.pdf)
 
 #### Subject-Based Banding Info for Parents
 
-[2023 SBB Briefing Slides for Parents.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/2023%20SBB%20Briefing%20Slides%20for%20Parents.pdf)
+[2023 SBB Briefing Slides for Parents.pdf](/files/p9.pdf)
 
 #### Resources for Parents
 
-1.  Equip Parents Series 1
+1\.  Equip Parents Series 1
 
 \- Designing a better Reality to Fight Games Addiction
 
-[Equip Parents Series 1 DESIGNING A BETTER REALITY TO FIGHT GAME ADDICTION.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Equip%20Parents%20Series%201%20DESIGNING%20A%20BETTER%20REALITY%20TO%20FIGHT%20GAME%20ADDICTION.pdf)  
+[Equip Parents Series 1 DESIGNING A BETTER REALITY TO FIGHT GAME ADDICTION.pdf](/files/p10.pdf)
 
   
 
-2.  Equip Parents Series 3
+2\.  Equip Parents Series 3
 
 \- EF e-book
 
-[Equip Parents Series 3 Exec-Function-e-book.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Equip%20Parents%20Series%203%20Exec-Function-e-book.pdf)  
+[Equip Parents Series 3 Exec-Function-e-book.pdf](/files/p11.pdf)
 
 \- Home as an ideal space for strengthening EF  
 
-[Equip Parents Series 3 Home as An Ideal Space for Strengthening EF.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Equip%20Parents%20Series%203%20Home%20as%20An%20Ideal%20Space%20for%20Strengthening%20EF.pdf)  Re-upload PDF
+[Equip Parents Series 3 Home as An Ideal Space for Strengthening EF.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Equip%20Parents%20Series%203%20Home%20as%20An%20Ideal%20Space%20for%20Strengthening%20EF.pdf)  Re-upload PDF P11
 
 \- Morning Evening Routine Checklist  
 
-[Equip Parents Series 3 Morning Evening Routine Checklist.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Equip%20Parents%20Series%203%20Morning%20Evening%20Routine%20Checklist.pdf)  
+[Equip Parents Series 3 Morning Evening Routine Checklist.pdf](/files/p12.pdf)
 
 #### Handbrake Requirement for Bicycles
 
@@ -101,7 +101,7 @@ Please see LTA’s Facebook post and poster on this new rule for your informatio
 
   
 
-[LTA handbrake requirements for bicycles\_web.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/LTA%20handbrake%20requirements%20for%20bicycles_web.pdf)  
+[LTA handbrake requirements for bicycles\_web.pdf](/files/p13.pdf)
 
   
 
@@ -109,6 +109,11 @@ Thank you.
 
 #### Resource Kit - Experiencing Blended Learning BL with Our Children
 
-Click [here](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children.pdf) to download the resource kit
+Click&nbsp;[here](/files/p14.pdf)&nbsp;to download the resource kit
 
-#### Mental Health & Hygiene Resources
+#### Mental Health &amp; Hygiene Resources
+
+| Topic Area | Description | Document Link |
+|:---:|:---:|:---:|
+| Mental Well-being | Stay Strong with these 5 parenting tips.<br>Here are 5 tips to help you get back to the essentials that will help you navigate these bumpy times.<br><br>Transitioning Back to School<br>As our children gradually return to school, we might find ourselves in our period of adaptation. Here is a handy kit to best help our children as they gradually return to school. | <a href="https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy">StayWell#families stay healthy</a> |
+| Hygiene | Practise Good Hygiene<br>Add a touch of style to hand washing with soap and water with our handwashing guide.<br><br>How Germs Spread<br>A gentle reminder to practice hand hygiene to wash our hands regularly to break the chain of infection | <a href="https://www.healthhub.sg/programmes/170/StayWell">https://www.healthhub.sg/programmes/170/StayWell</a><br><br>Video on how do germs spread: |
