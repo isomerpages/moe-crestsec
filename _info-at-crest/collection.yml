@@ -2,7 +2,6 @@ collections:
   info-at-crest:
     output: true
     order:
-      - Career at Crest/.keep
       - Principal's Message.md
       - Board of Directors.md
       - Crest DNA/.keep
@@ -21,10 +20,11 @@ collections:
       - Administration.md
       - Student Admission Info.md
       - School Fees.md
+      - Newsroom/.keep
       - Newsroom/Newsroom.md
       - Newsroom/2020.md
       - Newsroom/2019.md
       - Newsroom/2018.md
-      - Newsroom/.keep
       - Career@Crest.md
+      - Career at Crest/.keep
       - Useful Links.md
