@@ -2,8 +2,8 @@ collections:
   partnership:
     output: true
     order:
-      - Industry Partners.md
       - Crest PAL.md
       - Crest Alumni.md
       - Meridian Twinning Programme.md
       - Yuhua Community.md
+      - Industry Partners.md
