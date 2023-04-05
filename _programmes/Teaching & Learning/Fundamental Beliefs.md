@@ -4,6 +4,8 @@ permalink: /fundamental-beliefs/programmes/teaching-andlearning/
 description: ""
 third_nav_title: Teaching &amp; Learning
 ---
+### Fundamental Beliefs
+
 <img src="/images/fb1.jpg" style="width:75%">
 
 Our Fundamental Beliefs about our students influence the way we interact with them, which in turn influences how our students perceive themselves and relate to others, their attitude towards school and their sense of self-worth.
