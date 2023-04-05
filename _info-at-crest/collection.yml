@@ -1,4 +1,5 @@
 collections:
   info-at-crest:
     output: true
-    order: []
+    order:
+      - Principal's Message.md
