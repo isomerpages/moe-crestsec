@@ -117,3 +117,37 @@ Click&nbsp;[here](/files/p14.pdf)&nbsp;to download the resource kit
 |:---:|:---:|:---:|
 | Mental Well-being | Stay Strong with these 5 parenting tips.<br>Here are 5 tips to help you get back to the essentials that will help you navigate these bumpy times.<br><br>Transitioning Back to School<br>As our children gradually return to school, we might find ourselves in our period of adaptation. Here is a handy kit to best help our children as they gradually return to school. | <a href="https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy">StayWell#families stay healthy</a> |
 | Hygiene | Practise Good Hygiene<br>Add a touch of style to hand washing with soap and water with our handwashing guide.<br><br>How Germs Spread<br>A gentle reminder to practice hand hygiene to wash our hands regularly to break the chain of infection | <a href="https://www.healthhub.sg/programmes/170/StayWell">https://www.healthhub.sg/programmes/170/StayWell</a><br><br>Video on how do germs spread: |
+
+#### Parent Gateway
+
+*   Access all your official school announcements and forms at your fingertips.
+*   Give consent for your child's activities anytime, anywhere.
+*   Receive official announcements directly from schools.
+*   Keep track of upcoming activities for multiple children.
+
+[Click here to download the app.](https://pg.moe.edu.sg/#about)
+
+  
+
+**Who can access Parents Gateway?**
+
+Access to Parents Gateway is granted to parents, legal guardians and authorised caregivers of students studying in MOE schools in Singapore. Parents will need to use SingPass to access Parents Gateway.
+
+  
+
+**My child’s details in Parents Gateway are missing or incorrect.**
+
+Parents need to approach the child's/children’s school to update his/her particulars in the MOE School Records System. Please note that the school may require certain documents for the necessary verification.
+
+  
+
+**How will I be notified if the school has sent an Announcement/Form on Parents Gateway?**
+
+A push notification and/or email notification will provide the alert, if both have been enabled on the phone and in the Parents Gateway app settings.
+
+#### Mental Health &amp; Nutrition Resources
+
+| Topic Area | Description | Document Link |
+|:---:|:---:|:---:|
+| Mental Health | Stay Well To Stay Strong<br>Here are some useful resources that can help you relax, destress and stay positive through it all. When we face challenging situations, it can help to talk to someone who can provide a listening ear and offer you a different perspective.<br><br>Journey to become a better supporter<br>As we weather through COVID-19, there are surely times where we would feel overwhelmed. Join us through an experiential journey on how you can best navigate check in conversations | <a href="https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy">StayWell#families stay healthy</a><br><br><a href="healthhub.sg/justcheckingin/virtualjourney">healthhub.sg/justcheckingin/virtualjourney</a><br><br><a href="go.gov/hivirtualjourney">go.gov/hivirtualjourney</a> |
+| Nutrition | Quarter, Quarter, Half (30 seconds song)<br>Nutrition plays such a big role in our development. My Healthy Plate is an easy-to-understand visual guide designed by Health Promotion to help you to eat healthier, manage your weight, ward off chronic diseases and stay happy and healthy. |  <a href="https://www.youtube.com/watch?v=M-rsruugB3o">https://www.youtube.com/watch?v=M-rsruugB3o</a>|
