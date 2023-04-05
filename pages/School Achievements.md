@@ -3,8 +3,9 @@ title: School Achievements
 permalink: /school-achievements/programmes/permalink/
 description: ""
 ---
-2021
-----
+### School Achievements
+
+#### 2021
 
 | **School Achievements 2021**  |  |
 |:---:|:---:|
@@ -13,8 +14,7 @@ description: ""
 | **Other Achievements** | **IgnITE Skills Challenge 2021**:<br><br>●     A total of 45 teams from Crest participated in this Challenge and 22 teams qualified for the Finals (in 13 out of 15 categories). <br>●     With 2 Gold, 1 Silver, and 3 Bronze awards, Crest Secondary was awarded the Overall Champion trophy again in 2021.<br><img src="/images/aa2.jpg" style="width:100%"> |
 
 
-2020
-----
+#### 2020
 
 | **School Achievements 2020** |  |
 |:---:|---|
@@ -28,8 +28,7 @@ description: ""
 | **UG Achievements** | Girl Guides<br><br>●     Crest’s Girl Guides Company achieved the Puan Noor Aishah Silver Award in 2019. |
 | **Other Achievements** | IgnITE Skills Challenge 2019:<br><br>●     Overall 25 teams from Crest participated in this Challenge and 15 teams qualified for the Finals (in 12 out of 15 categories).<br>●     With 2 Gold, 2 Silver and 2 Bronze awards, Crest Secondary was awarded the Overall Champion trophy again in 2019.<br>●     Sembcorp Marine Greenwave Environmental Competition Merit Award 2019 |
 
-2017 - 2018
------------
+#### 2017 - 2018
 
 | School Achievements 2017 |  |
 |---|---|
@@ -38,8 +37,7 @@ description: ""
 | UG Achievements | **Boy Scouts**<br>● 3 students have been selected for the Singapore Scouts Marching Contingent at the 2017 National Day Parade:<br>Muhd Isyraf B Jamal (2-3); Muhd Noornizam B Hasan (3-6); and Muhd Aqil Bin Kamsani (3-8). <br><br>**Girl Guides**<br>● Crest’s Girl Guides Company achieved the Puan Noor Aishah Silver Award in 2018. |
 | MOE Excelfest | ● The English Language Department’s Check-In @ Crest project, which was presented MOE’s Innergy Award (Silver), was selected to showcase its T&amp;L innovation at the MOE Excel Fest 2017 on 30-31 March.<br><br>● The Hospitality Department’s, To Serve With Love project, was presented with the MOE’s Innergy Award (Silver) for Teaching &amp; Learning innovation at the MOE Excel Fest 2017<br><br>● The Retail Department’s, Scaffolding Authentic Learning Experiences (SALE) project, was presented with the MOE’s Innergy Award (Bronze) for Teaching &amp; Learning innovation at the MOE Excel Fest 2018.<br><br>**F&amp;M / H&amp; R / Science / Innovation Club / Visual Arts Club**<br><br>● IgnITE Skills Challenge 2017 – 9 Teams qualified for Finals and the students emerged with 4 Gold, 2 Silver and 2 Bronze Awards.<br><br>**Innovation Club**<br><br>● Bronze Award for Best Performance Category at the Singapore Amazing Flying Machine Competition 2017<br><br>**New Media Club**<br><br>● Finalists for National Coding Championship 2017<br><br>**Environmental Education**<br><br>● Green Audit - Lotus Sustained Achievement Award 2017<br><br>**MOE SYF 2017 Celebrations**<br><br>● CSS Pop Band has been invited to co-perform at the MOE SYF 2017 Opening Ceremony Concert<br><br>**F&amp;M / H&amp; R / Science / Innovation Club / Visual Arts Club**<br><br>● IgnITE Skills Challenge 2018 –15 Teams qualified for Finals(in 10 out of 13 categories)<br>● Won 3 Golds, 4 Silvers and 3 Bronzes and the Overall Champion Trophy |
 
-2016
-----
+#### 2016
 
 |  |  |
 |---|---|
