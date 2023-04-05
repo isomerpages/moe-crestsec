@@ -2,12 +2,6 @@ collections:
   info-at-crest:
     output: true
     order:
-      - Useful Links.md
-      - Career@Crest.md
-      - Newsroom.md
-      - School Fees.md
-      - Student Admission Info.md
-      - Administration.md
       - Principal's Message.md
       - Board of Directors.md
       - Crest DNA/.keep
@@ -23,3 +17,9 @@ collections:
       - School Policy/.keep
       - School Policy/Data Protection Policy.md
       - School Policy/Whistleblowing Policy.md
+      - Administration.md
+      - School Fees.md
+      - Student Admission Info.md
+      - Newsroom.md
+      - Career@Crest.md
+      - Useful Links.md
