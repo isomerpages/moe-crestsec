@@ -150,3 +150,36 @@ A push notification and/or email notification will provide the alert, if both ha
 |:---:|:---:|:---:|
 | Mental Health | Stay Well To Stay Strong<br>Here are some useful resources that can help you relax, destress and stay positive through it all. When we face challenging situations, it can help to talk to someone who can provide a listening ear and offer you a different perspective.<br><br>Journey to become a better supporter<br>As we weather through COVID-19, there are surely times where we would feel overwhelmed. Join us through an experiential journey on how you can best navigate check in conversations | <a href="https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy">StayWell#families stay healthy</a><br><br><a href="healthhub.sg/justcheckingin/virtualjourney">healthhub.sg/justcheckingin/virtualjourney</a><br><br><a href="go.gov/hivirtualjourney">go.gov/hivirtualjourney</a> |
 | Nutrition | Quarter, Quarter, Half (30 seconds song)<br>Nutrition plays such a big role in our development. My Healthy Plate is an easy-to-understand visual guide designed by Health Promotion to help you to eat healthier, manage your weight, ward off chronic diseases and stay happy and healthy. |  <a href="https://www.youtube.com/watch?v=M-rsruugB3o">https://www.youtube.com/watch?v=M-rsruugB3o</a>|
+
+#### MOE FAS Application Form for 2022
+
+[MOE FAS Application Form for Specialised Schools Sep 21 2021 for 2022 application.pdf](/files/p16.pdf)
+
+#### Parent Communication Guidelines
+
+**Our Guiding Principles**
+
+  
+
+*   We strive to work with our parents for the holistic development and positive well-being of our students.
+
+*   We aim to engage parents as partners to develop our students into confident and caring individuals, equipping them with essential life skills, communication skills and knowledge for the future world.
+
+*   We aim to balance our teachers’ workload in partnering parents with our core professional duties, particularly in teaching and learning.
+
+  
+
+**Communication Guidelines**
+
+  
+
+1\.  Crest Secondary School’s official modes of communication with parents comprise the following:
+
+|  |  |
+|---|---|
+| School Phone (Admin Office) | 68992779 |
+| School Email | [info@crestsec.edu.sg](mailto:info@crestsec.edu.sg) |
+| School Mailing Address | 561 Jurong East St 24 Singapore 609561 |
+| School Website | [https://www.crestsec.edu.sg/](https://www.crestsec.edu.sg/) |
+| Parents Gateway | [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/) |
+| Students’ Handbook | Soft copy is found in the school website |
