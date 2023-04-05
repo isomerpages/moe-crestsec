@@ -2,6 +2,7 @@ collections:
   info-at-crest:
     output: true
     order:
+      - Key Information/Financial Information.md
       - Key Information/Safety & Security.md
       - Key Information/.keep
       - Student Handbook 2023.md
