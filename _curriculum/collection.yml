@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  curriculum:
     output: true
     order:
       - Teaching & Learning/.keep
