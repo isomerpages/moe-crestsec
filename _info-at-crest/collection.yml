@@ -2,10 +2,10 @@ collections:
   info-at-crest:
     output: true
     order:
+      - Principal's Message.md
+      - Board of Directors.md
+      - Crest DNA/.keep
       - Crest DNA/School Achievements.md
       - Crest DNA/Our Success Stories.md
       - Crest DNA/Our School Song.md
       - Crest DNA/Our Facilities.md
-      - Crest DNA/.keep
-      - Board of Directors.md
-      - Principal's Message.md
