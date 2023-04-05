@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic/Aesthetics.md
       - Academic/Physical Education.md
       - Academic/.keep
       - Academic Curriculum/.keep
