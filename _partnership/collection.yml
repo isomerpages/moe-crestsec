@@ -2,7 +2,7 @@ collections:
   partnership:
     output: true
     order:
-      - Crest PAL (Parents' Active Link).md
+      - Crest PAL.md
       - Crest Alumni.md
       - Meridian Twinning Programme.md
       - Yuhua Community.md
