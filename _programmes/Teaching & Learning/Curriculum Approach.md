@@ -4,6 +4,8 @@ permalink: /curriculum-approach/programmes/teaching-andlearning/
 description: ""
 third_nav_title: Teaching &amp; Learning
 ---
+### Curriculum Approach
+
 **Hands-On, Skills-Based, Practice-Oriented**&nbsp;
 
 Authentic settings are deliberately scheduled to allow students to apply and showcase their learning, and to anchor assessment and feedback on observable actions. Learning is situated in immersive real-world settings via the school’s unique vocational training facilities to deepen students’ appreciation of the relevance of the learning.
