@@ -4,26 +4,25 @@ permalink: /student-support/programmes/student-development/
 description: ""
 third_nav_title: Student Development
 ---
-<img src="/images/ss1.jpg" style="width:100%">
-
+### Student Support
 
 | Name | Designation | Email |
-|---|---|---|
-| Mr Bay Siow Lon | Head of Department<br>(Student Support) | bay_siow_lon@schools.gov.sg |
-| Ms Celest Ling | Allied Educator<br>(School Counsellor) | celest_ling@crestsec.edu.sg |
-| Mr Joseph Yap | Allied Educator<br>(School Counsellor) | yap_zheng_jie@schools.gov.sg |
-| Mdm Pauline Chen Suh Shyan | Allied Educator<br>(Learning &amp; Behavioural Support)<br> | chen_suh_shyan_pauline@schools.gov.sg |
-| Ms Hafizah Binte Hamzah | Allied Educator<br>(Learning &amp; Behavioural Support)<br><br> | hafizah_hamzah@schools.gov.sg |
-| Ms Ismaiyah Binte Ismail  | Allied Educator<br>(Learning &amp; Behavioural Support)<br><br> | ismaiyah_binte_ismail@schools.gov.sg |
-| Ms Hilda Ng Hsiao Huei | Student Welfare Officer | hilda_ng@crestsec.edu.sg |
+|:---:|:---:|:---:|
+| Mr Bay Siow Lon | Head of Department<br>(Student Support) | [bay\_siow\_lon@schools.gov.sg](mailto:bay_siow_lon@schools.gov.sg) |
+| Ms Celest Ling | School Counsellor | [celest\_ling@crestsec.edu.sg](mailto:celest_ling@crestsec.edu.sg) |
+| Mr Joseph Yap | School Counsellor | [yap\_zheng\_jie\_joseph@schools.gov.sg](mailto:yap_zheng_jie_joseph@schools.gov.sg) |
+| Mr Anthony Wong | School Counsellor | [wong\_teck\_boon\_anthony@schools.gov.sg](mailto:wong_teck_boon_anthony@schools.gov.sg) |
+| Mdm Pauline Chen Suh Shyan | Special Educational Needs Officer | [chen\_suh\_shyan\_pauline@schools.gov.sg](mailto:chen_suh_shyan_pauline@schools.gov.sg) |
+| Ms Hafizah Binte Hamzah | Special Educational Needs Officer | [hafizah\_hamzah@schools.gov.sg](mailto:hafizah_hamzah@schools.gov.sg) |
+| Ms Ismaiyah Binte Ismail | Special Educational Needs Officer | [ismaiyah\_binte\_ismail@schools.gov.sg](mailto:ismaiyah_binte_ismail@schools.gov.sg) |
+| Ms Hilda Ng Hsiao Huei | Student Welfare Officer | [ng\_hsiao\_huei\_hilda@schools.gov.sg](mailto:ng_hsiao_huei_hilda@schools.gov.sg) |
+| Ms Sanchana Raghavan Naidu | Student Welfare Officer | [sanchana\_raghavan\_naidu@schools.gov.sg](mailto:sanchana_raghavan_naidu@schools.gov.sg) |
 
+#### Objective
 
-Objective
----------
 <img src="/images/ss2.jpg" style="width:300px;height:240px;margin-right:25px;" align="left"> Our department is a conglomeration of helping professionals consisting of Counsellors and Allied Educators. As a newly synergised team, we seek to address the diverse learning and social-emotional needs of the student population at Crest Secondary School. Beyond co-constructing solutions with students for their immediate challenges, the Student Support Department aims to fortify the character and competencies of our students as they trek towards young-adulthood.
 
-Counselling Support
--------------------
+#### Counselling Support
 
 <img src="/images/ss3.jpg" style="width:100%">
 
@@ -41,8 +40,7 @@ As an expression of our indispensable partnership with parents/care-givers, we h
 
 <img src="/images/ss4.png" style="width:100%">
 
-Learning and Behavioural Support
---------------------------------
+#### Learning and Behavioural Support
 
 <img src="/images/ss5.jpg" style="width:100%">
 
