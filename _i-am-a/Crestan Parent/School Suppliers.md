@@ -4,36 +4,75 @@ permalink: /i-am-a/crestan-parent/school-suppliers/
 description: ""
 third_nav_title: Crestan Parent
 ---
-**Purchase of Sec 1 2022 books at school bookshop:**
+### School Supplies
 
-For non-FAS students: 27 and 28 Dec, 9am to 3pm in school.
+#### Books / Uniforms / Shoes / Socks list for 2023
 
-For FAS students: 29 and 30 Dec, 9am to 3pm in school.
+Dear parent/guardian,
 
-**Purchase of Sec 1 2022 school uniforms, shoes and socks:**
+  
 
-For non-FAS students: 27 and 28 Dec, 9am to 3pm in school.
+The 2023 price lists for school textbooks, uniforms/shoes/socks are attached for your reference.
 
-For FAS students: 29 and 30 Dec, 9am to 3pm in school.
+For non-FAS students, the school has arranged for the vendors to provide online purchase and delivery for the items. We encourage you to opt for online modes where possible to minimize the number of visitors to the school.
 
-Booklist for 2022
------------------
+  
 
-[Sec 1 Booklist 2022_08Dec](/files/Sec%201%20Booklist%202022_08Dec.pdf)
+You may access these links to do the online purchase :
 
-[Sec 2 Booklist 2022_16Nov](/files/Sec%202%20Booklist%202022_16Nov.pdf)
+For books:&nbsp;[www.asencio.com.sg](http://www.asencio.com.sg/)
 
-[Sec 3 Booklist 2022_16Nov](/files/Sec%203%20Booklist%202022_16Nov.pdf)
+For uniforms and school shoes:&nbsp;[www.shanghai-uniforms.com](http://www.shanghai-uniforms.com/)
 
-[Sec 4 Booklist 2022_22Nov](/files/Sec%204%20Booklist%202022_22Nov.pdf)
+  
+
+For those who have applied for FAS with the school, you should have received a PG notification on 16 Nov 2022. If your child/ward is on the 3E programme, you will be notified before end November on their allocated course and hence, please do not purchase any textbooks first.
+
+  
+
+**Sale dates:**<br>
+**For Non FAS students**&nbsp;in 2022:  
+
+| Date | Levels (2022) |
+|---|---|
+| 1 Dec | Sec 1 |
+| 2 Dec | Sec 2 |
+| 5 Dec | Sec 3 |
+
+  
+
+Timing: 9am to 3pm
 
 
-Purchase of School shoes and socks
-----------------------------------
-[2022 School Uniform Shoes and Socks Price List](/files/2022%20School%20Uniform%20Shoes%20and%20Socks%20Price%20List.pdf)
+**For FAS students**: (Collection slips to be distributed to parents on the following days at school canteen)
 
-School uniforms
----------------
+| Date | Levels (2022) |
+|---|---|
+| 6 Dec &amp; 7 Dec | Sec 1 |
+| 8 Dec &amp; 9 Dec | Sec 2 |
+| 12 Dec &amp; 13 Dec | Sec 3 |
+
+  
+
+Timing: 9am to 3pm
+
+We seek your understanding and support for these arrangements.
+
+
+Thank you.
+
+
+
+[2023 School Uniform Shoes and Socks Price List.pdf](/files/ss1.pdf)<br>
+[Crest Secondary School Booklist 2023 1NA\_Parents.pdf](/files/ss2.pdf)<br>
+[Crest Secondary School Booklist 2023 1NT\_Parents.pdf](/files/ss3.pdf)<br>
+[Crest Secondary School Booklist 2023 S2\_Parents.pdf](/files/ss4.pdf) <br>
+[Crest Secondary School Booklist 2023 S3\_Parents.pdf](/files/ss5.pdf)<br>
+[Crest Secondary School Booklist 2023 S4\_Parents.pdf](/files/ss6.pdf)
+
+  
+
+#### School Uniforms
 
 Dear parent/guardian,
 
@@ -45,49 +84,10 @@ This message serves to update you on the purchase of school uniforms.
 
 **Non FAS students**
 
-  
+*   You may purchase the uniforms online via https://shop.shanghai-uniforms.com/. Uniforms will be delivered to your home address.
+*   If you wish to purchase direct from the shop, please book an appointment with the shop first via https://shop.shanghai-uniforms.com/appointment-booking-at-ubi/.
+*   The address of the shop is: Shanghai School Uniforms Pte Ltd, 63 Ubi Ave 1, #04-01, Singapore 408937
 
-You may purchase the uniforms online via [https://shop.shanghai-uniforms.com](https://shop.shanghai-uniforms.com/)/. Uniforms will be delivered to your home address.
+#### Bus routes Info
 
-  
-
-If you wish to purchase direct from the shop, please book an appointment with the shop first via [https://shop.shanghai-uniforms.com/appointment-booking-at-ubi](https://shop.shanghai-uniforms.com/appointment-booking-at-ubi)/.
-
-  
-
-The address of the shop is: **Shanghai School Uniforms Pte Ltd, 63 Ubi Ave 1, #04-01, Singapore 408937**
-
-  
-
-**FAS students**
-
-  
-
-Please see the sizes of the uniforms via https://shop.shanghai-uniforms.com/ and inform school of the sizes via [info@crestsec.edu.sg](mailto:info@crestsec.edu.sg)
-
-  
-
-The school will liaise directly with the vendors. 
-
-  
-
-Please indicate name, class, type of uniform and sizes of uniforms when emailing to us.
-
-  
-
-The uniforms will only be made available for sale at the school bookshop from 17th January, Monday onwards.
-
-  
-
-You may ignore this message if you have already purchased the uniforms for your child/ward.
-
-  
-
-We thank you for your understanding and patience.
-
-  
-
-Bus routes Info
----------------
-
-The information on the bus routes can be found [**here**](https://moe-crestsec-staging.netlify.app/shuttle-bus-service/useful-info/permalink).
+The information on the bus routes can be found&nbsp;[here](/i-am-a/crestan-parent/shuttle-bus-service/).
