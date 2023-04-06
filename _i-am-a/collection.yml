@@ -2,9 +2,9 @@ collections:
   i-am-a:
     output: true
     order:
-      - P6 Student Parent/Teaching & Learning.md
       - P6 Student Parent/.keep
       - P6 Student Parent/Student Admission Info.md
+      - P6 Student Parent/Teaching & Learning.md
       - P6 Student Parent/Curriculum.md
       - P6 Student Parent/Student Development.md
       - P6 Student Parent/Sexuality Education.md
