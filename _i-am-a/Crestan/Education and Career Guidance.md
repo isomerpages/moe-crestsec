@@ -4,14 +4,13 @@ permalink: /i-am-a/crestan/education-and-career-guidance/
 description: ""
 third_nav_title: Crestan
 ---
-Who am I? Where am I Going? How do I Get There?
------------------------------------------------
+### Who am I? Where am I Going? How do I Get There?
 
 &nbsp;[ITE Joint Intake Exercise 2022 Booklet](/files/gce-n-admission-booklet-2022_compressed.pdf)
  <br>These are three essential questions our Crestans need to answer as they decide on where they want to go. These are the people and resources that can help in your child’s journey beyond Crest.  
   
 
-* **Education and Career Guidance Counsellor**  
+#### Education and Career Guidance Counsellor
 Our ECG Counsellor, Ms Ismawati, is stationed in Crest every Monday and Thursday to guide students in making informed decisions on subject choices, post-secondary options and career directions. Parents or students who would like to get support can arrange an appointment with her.  
   
 Email:&nbsp;[ismawati\_amar\_mamori@schools.gov.sg](mailto:ismawati_amar_mamori@schools.gov.sg)  
