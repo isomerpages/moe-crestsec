@@ -6,24 +6,19 @@ third_nav_title: Crestan Parent
 ---
 ### Announcements
 
-##### Chinese New Year Celebrations
+##### Start of Term 2 Letter
 
-Dear parents/guardians,
+Please see the Start of Term 2 Letter [here](/info-at-crest/useful-links/parent/).
 
-Please be informed that the school will be having our Chinese New Year celebrations this Friday, 20 January 2023. The students will be dismissed at 11.15 am after the activities. Thank you and we wish you a Happy Lunar New year!
+##### Term 2 Timetable
 
-##### Information for New Secondary 1 Students
+Please check the [latest timetable for Term 2](/info-at-crest/useful-links/student/).
 
-Click [here](https://moe-crestsec-staging.netlify.app/student-admission-info/useful-info/permalink) for more information for New Secondary 1 Students.
+##### Sec 4 Parents Dialogue 2023
+
+Click on [link](/info-at-crest/useful-links/parent/) for the Sec 4 Parents Dialogue 2023 slides and Q&As.
 
 ##### Subject-Based Banding Information for Parents
 
 Click [here](/files/2022%20SBB%20Briefing%20Slides%20for%20Parents%20for%20sch%20website.pdf) for more info.
 
-##### Sec 3 Parents Dialogue 2022 slides and IEP Q&As.
-
-Click [here](https://moe-crestsec-staging.netlify.app/i-am-a-parent/permalink) for the Sec 3 Parents Dialogue 2022 slides and Parents' Q&As on IEP.
-
-##### Sec 2 Parents Dialogue 2022
-
-Click [here](https://moe-crestsec-staging.netlify.app/i-am-a-parent/permalink) for the Sec 2 Parents Dialogue 2022 slides and Q&As.
