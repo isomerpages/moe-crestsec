@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/permalink
+          url: /i-am-a/crestan-parent/announcements/
   - infopic:
       title: 4 Distinctive Experiences
       button: Click here for more
