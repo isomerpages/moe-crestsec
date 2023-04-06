@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Student Admission Info.md
-      - Shuttle Bus Service.md
       - Assessment Matters.md
       - Education and Career Guidance.md
