@@ -2,6 +2,7 @@ collections:
   css:
     output: true
     order:
+      - Skills based Innovative Curriculum.md
       - 3R Experiences.md
       - Authentic Learning.md
       - Industry Experiential Programme.md
