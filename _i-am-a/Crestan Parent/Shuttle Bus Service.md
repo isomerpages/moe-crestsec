@@ -13,4 +13,4 @@ Number of trip: One (1) way trip only
 
 In the event of any unforeseen circumstances or if students missed the bus, students are to take own public transport and make their way to the school. Students are to report such incidents to the Form Teacher or Admin Office when they arrive to the school.
 
-<img src="/images/sb1.jpg" style="width:100%">
+<img src="/images/busroutes.png" style="width:100%">
