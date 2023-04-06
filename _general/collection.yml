@@ -2,5 +2,4 @@ collections:
   general:
     output: true
     order:
-      - Announcements.md
       - News and Events.md
