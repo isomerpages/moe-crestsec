@@ -4,17 +4,19 @@ permalink: /mother-tongue-languages/programmes/academic-curriculum/
 description: ""
 third_nav_title: Academic
 ---
+### Mother Tongue Languages
+
 | Name | Affectionately<br>known as | Designation | Email |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
+| Ms Joycelyn Tan | Ms Tan | Head of Department<br>(Character and Citizenship Education)<br>Teacher (Chinese Language) | joycelyn_hy_tan@schools.gov.sg |
 | Ms Muszalifa Binte Aman | Ms Ifa | Subject Head<br>(Malay Language)<br>Teacher (Malay Language) | muszalifa_aman@schools.gov.sg |
-| Ms Eileen Ong | Ms Ong | Subject Head<br>(Chinese Language &amp;<br>Partnership &amp; Publicity)<br>Teacher (Chinese Language) | ong_sok_eng_eileen@schools.gov.sg |
-| Ms Bibiana Wong | Ms Wong | Subject Head<br>(CCE)[NICE]<br>Teacher (Chinese Language) | wong_ying_ching_bibiana@schools.gov.sg |
 | Ms Raihanah Beevi | Ms Beevi | Assistant Year Head<br>Teacher (Tamil Language) | raihanah_beevi@schools.gov.sg |
 | Mdm Tan Chia Chia | Mdm Tan | Teacher (Chinese Language) | tan_chia_chia@schools.gov.sg |
 | Ms Vicky Ho | Ms Ho | Teacher (Chinese Language) | ho_yuen_ming_vicky@schools.gov.sg |
 | Mdm Mazunnisha Binte Abdul Aziz | Mdm Nisha | Teacher (Malay Language) | maznunnisha_abdul_aziz@schools.gov.sg |
 | Ms Nadhirah Binte Ismail | Ms Nadhirah | Teacher (Malay Language) | nadhirah@crestsec.edu.sg |
 | Ms Nur Izziana Binte Kamaruddin | Ms Izziana | Teacher (Malay Language) | nur_izziana_kamaruddin@schools.gov.sg |
+| Ms Michelle Lim | Ms Lim | Teacher (Chinese Language) | lim_michellen@schools.gov.sg |
 
 Objective
 ---------
@@ -54,7 +56,7 @@ Salah satu fokus utama pengajaran bahasa Melayu di Crest adalah untuk meningkatk
 
 * * *
 
-Tamil Language
---------------
+#### Tamil Language
 
-<img src="/images/mt4.png" style="width:325px;height:525px;margin-right:25px;" align="left">தமிழ்மொழி கற்றல் மாணவர்களுக்கு ஒரு எளிய, இனிய அனுபவமாக அமைவது முக்கியம். நாடக உத்திகள், விளையாட்டுகள், கற்றல் பயணங்கள் போன்ற பல சுவாரசியமான நடவடிக்கைகளின் மூலம் தமிழ் மொழியில் உரையாடும் வாய்ப்புகளை மாணவர்கள் பெறுவர். தங்களின் நண்பர்களோடு உரையாடுவதோடு மட்டுமல்லாது அவர்களின் படைப்புகளை செம்மைப்படுத்த உதவும் கருத்துக்களைத் தெரிவிக்கும் திறனையும் மாணவர்கள் கற்றுக்கொள்வர். சுவாரசியமான கற்றல் கற்பித்தல் முறைகளின்வழி, மாணவர்களின் மொழித்திறனையும் ஆர்வத்தையும் வளர்ப்பதே கிரெஸ்ட் தமிழ்மொழி பிரிவின் முக்கிய நோக்கமாகும்.
+
+<img src="/images/mt4.png" style="width:225px;height:225px;margin-right:25px;" align="left">தமிழ்மொழி கற்றல் மாணவர்களுக்கு ஒரு எளிய, இனிய அனுபவமாக அமைவது முக்கியம். நாடக உத்திகள், விளையாட்டுகள், கற்றல் பயணங்கள் போன்ற பல சுவாரசியமான நடவடிக்கைகளின் மூலம் தமிழ் மொழியில் உரையாடும் வாய்ப்புகளை மாணவர்கள் பெறுவர். தங்களின் நண்பர்களோடு உரையாடுவதோடு மட்டுமல்லாது அவர்களின் படைப்புகளை செம்மைப்படுத்த உதவும் கருத்துக்களைத் தெரிவிக்கும் திறனையும் மாணவர்கள் கற்றுக்கொள்வர். சுவாரசியமான கற்றல் கற்பித்தல் முறைகளின்வழி, மாணவர்களின் மொழித்திறனையும் ஆர்வத்தையும் வளர்ப்பதே கிரெஸ்ட் தமிழ்மொழி பிரிவின் முக்கிய நோக்கமாகும்.
