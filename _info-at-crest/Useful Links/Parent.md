@@ -72,7 +72,7 @@ Thank you for your partnership.
 2\.  Equip Parents Series 3<br>
 \- EF e-book
 
-[Equip Parents Series 3 Exec-Function-e-book.pdf](/files/p11.pdf) Re-upload PDF P11
+[Equip Parents Series 3 Exec-Function-e-book.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Equip%20Parents%20Series%203%20Exec-Function-e-book.pdf) More than 5MB
 
 \- Home as an ideal space for strengthening EF  
 
