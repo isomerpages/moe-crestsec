@@ -13,10 +13,10 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/permalink
-        - title: Happenings
-          description: ""
-          url: /happenings/permalink
-        - title: News and Events
-          description: ""
-          url: /general/resources-on-the-vaccination/permalink/
+  - infopic:
+      title: 4 Distinctive Experiences
+      button: Click here for more
+      url: /css/3r-experiences/
+      image: /images/distinctive.png
+      alt: Image alt text
 ---
