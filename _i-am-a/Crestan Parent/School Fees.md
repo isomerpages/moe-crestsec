@@ -4,6 +4,8 @@ permalink: /i-am-a/crestan-parent/school-fees/
 description: ""
 third_nav_title: Crestan Parent
 ---
+### School Fees
+
 **School &amp; Miscellaneous Fees for 2022**
 
 | Fee Type<br>(Monthly) | Singapore Citizen<br>(Non-Malay) | <br>Singapore Citizen<br><br>(Malay) |
