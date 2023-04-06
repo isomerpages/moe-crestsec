@@ -48,7 +48,7 @@ third_nav_title: Crestan Parent
 
 | Fee Type<br>(Monthly) | International Students (IS)<br>(ASEAN) | <br><br>International Students (IS)<br>(Non - ASEAN) |
 |:---:|:---:|:---:|
-| Standard School Fees | $900 | $1,750 |
+| Standard School Fees | $910 | $1,770 |
 | Misc Fee (Standard) | $10 | $10 |
 | Misc Fee (2nd Tier) | $10 | $10 |
-|  Total | $920 | $1,770 |
+|  Total | $930 | $1,790 |
