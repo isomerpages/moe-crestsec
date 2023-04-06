@@ -4,17 +4,19 @@ permalink: /physical-education/our-people/teaching-staff/permalink/
 description: ""
 third_nav_title: Academic
 ---
-| Name | Affectionately<br>known as | Designation | Email |
-|---|---|---|---|
-| Ms Janice Tay Siew Mei | Ms Tay | Subject Head<br>(PE/CCA) | tay_siew_mei_janice@schools.gov.sg |
-| Mr Alvin How Wing Cheong | Mr How | Subject Head<br>(CCE)[SELF]<br>Teacher <br>(Physical Education) | how_wing_cheong_alvin@schools.gov.sg |
-| Mr Muhammad Fareed Bin Hashim | Mr Fareed  | Assistant Year Head<br>(Sec 3) [covering]<br><br>Teacher <br>(Physical Education) | fareed@crestsec.edu.sg |
-| Mr Mohammed Rohan Bin Ismail | Mr Rohan | Teacher <br>(Physical Education) | mohammed_rohan_ismail@schools.gov.sg |
-| Ms Lynn Tan Mei Yun | Ms Tan | Teacher <br>(Physical Education) | lynn_tan_mei_yun@schools.gov.sg |
-| Mr Wee Pheng Choon Desmond | Mr Desmond | Teacher <br>(Physical Education) | wee_pheng_choon_desmond@schools.gov.sg |
+### Physical Education
 
-Objective
----------
+| Name | Affectionately<br>known as | Designation | Email |
+|:---:|:---:|:---:|:---:|
+| Ms Janice Tay Siew Mei | Ms Tay | Subject Head<br>(Physical Education)<br>(Co-Curricular Activities) | [tay\_siew\_mei\_janice@schools.gov.sg](mailto:tay_siew_mei_janice@schools.gov.sg) |
+| Mr Alvin How Wing Cheong | Mr How | Subject Head<br>(Student Leadership)<br>Teacher<br>(Physical Education) | [how\_wing\_cheong\_alvin@schools.gov.sg](mailto:how_wing_cheong_alvin@schools.gov.sg) |
+| Mr Muhammad Fareed Bin Hashim | Mr Fareed | Assistant Year Head<br>Teacher<br>(Physical Education) | [fareed@crestsec.edu.sg](mailto:fareed@crestsec.edu.sg) |
+| Mr Mohammed Rohan Bin Ismail | Mr Rohan | Teacher<br>(Physical Education) | [mohammed\_rohan\_ismail@schools.gov.sg](mailto:mohammed_rohan_ismail@schools.gov.sg) |
+| Ms Lynn Tan Mei Yun | Ms Tan | Teacher<br>(Physical Education) | [lynn\_tan\_mei\_yun@schools.gov.sg](mailto:lynn_tan_mei_yun@schools.gov.sg) |
+| Mr Wee Pheng Choon Desmond | Mr Desmond | Teacher<br>(Physical Education) | [wee\_pheng\_choon\_desmond@schools.gov.sg](mailto:wee_pheng_choon_desmond@schools.gov.sg) |
+
+#### Objective
+
 <img src="/images/pe1.jpg" style="width:350px;height:240px;margin-right:25px;" align="left">
 
 The Physical Education Department offers a four-year programme for every student to learn a variety of sports skills and game concepts, which hopefully will enable them to adopt a preferred game for lifelong recreation.
@@ -27,8 +29,7 @@ Upon completion of the programme at Crest, students will acquire an understandin
 <br>
 <img src="/images/pe3.png" style="width:100%">
 
-Curriculum
-----------
+#### Curriculum
 
 | 1. Physical |  2. Mental | 3. Social |
 |---|---|---|
