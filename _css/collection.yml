@@ -2,5 +2,6 @@ collections:
   css:
     output: true
     order:
+      - 3R Experiences.md
       - Authentic Learning.md
       - Industry Experiential Programme.md
