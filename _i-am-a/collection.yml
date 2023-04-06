@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - P6 Student Parent/.keep
+      - Crestan/Education and Career Guidance.md
       - Crestan/.keep
       - Crestan Parent/Assessment Matters.md
       - Crestan Parent/Shuttle Bus Service.md
