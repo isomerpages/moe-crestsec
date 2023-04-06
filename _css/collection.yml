@@ -1,0 +1,4 @@
+collections:
+  css:
+    output: true
+    order: []
