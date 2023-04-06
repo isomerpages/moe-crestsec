@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Admission Info.md
-      - School Suppliers.md
       - School Fees.md
       - Shuttle Bus Service.md
       - Assessment Matters.md
