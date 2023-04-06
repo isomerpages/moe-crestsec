@@ -8,18 +8,19 @@ third_nav_title: Academic
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Ms Joycelyn Tan | Ms Tan | Head of Department<br>(Character and Citizenship Education)<br>Teacher (Chinese Language) | joycelyn_hy_tan@schools.gov.sg |
-| Ms Muszalifa Binte Aman | Ms Ifa | Subject Head<br>(Malay Language)<br>Teacher (Malay Language) | muszalifa_aman@schools.gov.sg |
-| Ms Raihanah Beevi | Ms Beevi | Assistant Year Head<br>Teacher (Tamil Language) | raihanah_beevi@schools.gov.sg |
-| Mdm Tan Chia Chia | Mdm Tan | Teacher (Chinese Language) | tan_chia_chia@schools.gov.sg |
-| Ms Vicky Ho | Ms Ho | Teacher (Chinese Language) | ho_yuen_ming_vicky@schools.gov.sg |
-| Mdm Mazunnisha Binte Abdul Aziz | Mdm Nisha | Teacher (Malay Language) | maznunnisha_abdul_aziz@schools.gov.sg |
-| Ms Nadhirah Binte Ismail | Ms Nadhirah | Teacher (Malay Language) | nadhirah@crestsec.edu.sg |
-| Ms Nur Izziana Binte Kamaruddin | Ms Izziana | Teacher (Malay Language) | nur_izziana_kamaruddin@schools.gov.sg |
-| Ms Michelle Lim | Ms Lim | Teacher (Chinese Language) | lim_michellen@schools.gov.sg |
+| Ms Joycelyn Tan | Ms Tan | Head of Department<br>(Character and Citizenship Education)<br>Teacher (Chinese Language) | [joycelyn\_hy\_tan@schools.gov.sg](mailto:joycelyn_hy_tan@schools.gov.sg) |
+| Ms Muszalifa Binte Aman | Ms Ifa | Subject Head<br>(Malay Language)<br>Teacher (Malay Language) | [muszalifa\_aman@schools.gov.sg](mailto:muszalifa_aman@schools.gov.sg) |
+| Ms Raihanah Beevi | Ms Beevi | Assistant Year Head<br>Teacher (Tamil Language) | [raihanah\_beevi@schools.gov.sg](mailto:raihanah_beevi@schools.gov.sg) |
+| Mdm Tan Chia Chia | Mdm Tan | Teacher (Chinese Language) | [tan\_chia\_chia@schools.gov.sg](mailto:tan_chia_chia@schools.gov.sg) |
+| Ms Vicky Ho | Ms Ho | Teacher (Chinese Language) | [ho\_yuen\_ming\_vicky@schools.gov.sg](mailto:ho_yuen_ming_vicky@schools.gov.sg) |
+| Mdm Mazunnisha Binte Abdul Aziz | Mdm Nisha | Teacher (Malay Language) | [maznunnisha\_abdul\_aziz@schools.gov.sg](mailto:maznunnisha_abdul_aziz@schools.gov.sg) |
+| Ms Nadhirah Binte Ismail | Ms Nadhirah | Teacher (Malay Language) | [nadhirah@crestsec.edu.sg](mailto:nadhirah@crestsec.edu.sg) |
+| Ms Nur Izziana Binte Kamaruddin | Ms Izziana | Teacher (Malay Language) | [nur\_izziana\_kamaruddin@schools.gov.sg](mailto:nur_izziana_kamaruddin@schools.gov.sg) |
+| Ms Michelle Lim | Ms Lim | Teacher (Chinese Language) | [lim\_michellen@schools.gov.sg](mailto:lim_michellen@schools.gov.sg) |
 
-Objective
----------
+#### Objective
+
+
 <img src="/images/mt1.jpeg" style="width:325px;height:240px;margin-right:25px;" align="left">The Mother Tongue Languages Department aims to create a unique language learning experience for every Crestan through Experiential Learning.  
 
 We aim for students to:
@@ -40,19 +41,17 @@ At the end of the 4 years, all Crestans would be able to communicate effectively
 
 * * *
 
-Chinese Language  
-------------------------------------------------------------------------------------
+#### Chinese Language  
 
 <img src="/images/mt2.jpg" style="width:325px;height:240px;margin-right:25px;" align="left">针对学生的不同能力，我们通过多元化的教学方式，来激发学生们的学习兴趣。除了培养学生听、说、读、写的技能之外，我们也鼓励学生活学活用，在日常生活中流利地用中文与他人沟通。<br><br><br><br>
 
 * * *
 
-Malay Language  
------------------
+#### Malay Language
 
 Salah satu fokus utama pengajaran bahasa Melayu di Crest adalah untuk meningkatkan kemahiran pertuturan para pelajar. Dengan ini, kami harap dapat memupuk sifat yakin diri dalam pelajar selain daripada cinta akan bahasa dan budaya Melayu. Pelajar akan didedahkan kepada situasi-situasi autentik untuk melatih kemahiran lisan mereka. Pengajaran dan pembelajaran juga akan disediakan dengan menggunakan pelbagai kaedah seperti pembelajaran kooperatif, drama, puisi, nyanyian, unjuk dan ujar serta banyak lagi.
 
-<img src="/images/mt3.png" style="width:100%">
+<img src="/images/malayl.png" style="width:100%">
 
 * * *
 
