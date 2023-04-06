@@ -2,12 +2,12 @@ collections:
   i-am-a:
     output: true
     order:
-      - P6 Student Parent/School Achievements.md
       - P6 Student Parent/.keep
       - P6 Student Parent/Student Admission Info.md
       - P6 Student Parent/Curriculum.md
       - P6 Student Parent/Student Development.md
       - P6 Student Parent/Sexuality Education.md
+      - P6 Student Parent/School Achievements.md
       - Crestan/Education and Career Guidance.md
       - Crestan/.keep
       - Crestan Parent/.keep
