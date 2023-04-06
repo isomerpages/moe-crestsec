@@ -3,6 +3,8 @@ title: Industry Experiential Programme
 permalink: /industry-experiential-programme/programmes/vocational-curriculum/
 description: ""
 ---
+### Industry Experiential Programme
+
 <img src="/images/iep1.png" style="width:100%">
 
   
