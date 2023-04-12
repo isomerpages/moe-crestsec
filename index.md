@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/crestfpgif.gif
+      background: /images/cresthero.gif
       key_highlights:
         - title: Announcements
           description: ""
