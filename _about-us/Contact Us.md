@@ -34,7 +34,7 @@ Bus 188, 868, 990, 176 187, 188E and 188
 
   
 
-Nearest MRT Station:
+Nearest MT Station:
 
 [**Jurong East MRT (EW24)**](https://www.google.com.sg/maps/dir/Jurong+East+MRT+Jurong+Gateway+Road/Crest+Secondary+School/@1.3377245,103.7395109,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x31da100f0aa99d2f:0xd25fb73738ac2582!2m2!1d103.7422884!2d1.3331336!1m5!1m1!1s0x31da101709c924b3:0x5104dbd93122047f!2m2!1d103.7428639!2d1.3436637)
 
