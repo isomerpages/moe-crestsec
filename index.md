@@ -14,8 +14,8 @@ sections:
           description: ""
           url: /i-am-a/crestan-parent/announcements/
   - resources:
-      title: ANNOUNCEMENTS
       button: Click to Learn More
+      subtitle: ANNOUNCEMENTS
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
