@@ -13,6 +13,14 @@ sections:
         - title: Announcements
           description: ""
           url: /i-am-a/crestan-parent/announcements/
+  - resources:
+      title: ANNOUNCEMENTS
+      button: Click to Learn More
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: 4 Distinctive Experiences
       button: Click here for more
@@ -29,13 +37,4 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
