@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Click [here](https://www.crestsec.edu.sg/info-at-crest/useful-links/student) for Term 2 timetable.
