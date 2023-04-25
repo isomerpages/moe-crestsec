@@ -6,4 +6,4 @@ layout: post
 description: Click here for more info.
 image: ""
 ---
-Click here for Sec 4 Parents Dialogue 2023.
+Click [here](/files/2022%20SBB%20Briefing%20Slides%20for%20Parents%20for%20sch%20website.pdf) for Sec 4 Parents Dialogue 2023.
