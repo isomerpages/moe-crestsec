@@ -8,5 +8,5 @@ third_nav_title: Academic
 
 |  |  |  |  |
 |---|---|---|---|
-|[Teaching & Learning](/english-language/programmes/na-and-nt/)  | [English NA & NT](/english-language/programmes/na-and-nt/) | [Mathematics NA & NT](/mathematics/programmes/academic-curriculum/na-and-nt/) | [Science](https://www.crestsec.edu.sg/curriculum/academic/science) |
-| [MTL](https://www.crestsec.edu.sg/curriculum/academic/mtl) | [Aesthetics](https://www.crestsec.edu.sg/curriculum/academic/aesthetics) | [PE](https://www.crestsec.edu.sg/curriculum/academic/pe)|  |
+|[Teaching & Learning](/programmes/academic-curriculum/english/)  | [English NA & NT](/programmes/academic-curriculum/english/) | [Mathematics NA & NT](/programmes/academic-curriculum/mathematics/) | [Science](/programmes/academic-curriculum/science/) |
+| [MTL](/programmes/academic-curriculum/mother-tongue-languages/) | [Aesthetics](/programmes/academic-curriculum/aesthetics/) | [PE](/programmes/academic-curriculum/physical-education/)|  |
