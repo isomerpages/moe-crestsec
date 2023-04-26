@@ -8,5 +8,5 @@ third_nav_title: Vocational
 
 |  |  |  |
 |---|---|---|
-| [**Culinary & Restaurant Operations**](/culinary-and-restaurant-operations/programmes/vocational-curriculum/) | [**Internet of Things Applications**](/internet-of-things-applications/programmes/vocational-curriculum/) | [**Mechanical Design & Automation**](/mechanical-design-and-automation/programmes/vocational-curriculum/) |
-|[**Mobile Web Applications**](/mobile-web-applications/programmes/vocational-curriculum/)  |  [**Retail & E-Commerce**](/retail-and-ecommerce/programmes/vocational-curriculum/)| [**InfoComm Technology**](/infocommunications-technology/programmes/vocational-curriculum/) |
+| [**Culinary & Restaurant Operations**](/programmes/vocational-curriculum/culinary-and-restaurant-operations/) | [**Internet of Things Applications**](/programmes/vocational-curriculum/internet-of-things-applications/) | [**Mechanical Design & Automation**](/programmes/vocational-curriculum/mechanical-design-and-automation/) |
+|[**Mobile Web Applications**](/programmes/vocational-curriculum/mobile-web-applications/)  |  [**Retail & E-Commerce**](/programmes/vocational-curriculum/retail-and-ecommerce/)| [**InfoComm Technology**](/programmes/vocational-curriculum/infocommunications-technology/) |
