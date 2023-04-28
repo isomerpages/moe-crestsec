@@ -8,5 +8,5 @@ third_nav_title: P6 Student Parent
 
 |  |  |  |
 |---|---|---|
-| [**Academic Curriculum**](/programmes/academic-curriculum/overview/) | **[Vocational Curriculum](/programmes/vocational-curriculum/)** | **[Other Curriculum](/programmes/vocational-curriculum/)** |
+| [**Academic Curriculum**](/programmes/academic-curriculum/overview/) | **[Vocational Curriculum](/programmes/vocational-curriculum/)** |
 |  |  |  |
