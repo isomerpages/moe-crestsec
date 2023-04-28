@@ -4,7 +4,7 @@ permalink: /programmes/academic-curriculum/english/
 description: ""
 third_nav_title: Academic
 ---
-### English NA &amp; NT
+### English
 
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
