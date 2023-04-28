@@ -33,8 +33,8 @@ sections:
       description: Infobar description
       button: Button Text
   - infopic:
-      title: 4 Distinctive
-      description: Infopic description
-      button: Button Text
+      title: 4 Distinctive Experiences
+      button: Learn More
       alt: Image alt text
+      url: /css/3r-experiences/
 ---
