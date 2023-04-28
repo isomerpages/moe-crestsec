@@ -29,10 +29,10 @@ sections:
       url: /css/3r-experiences/
       image: /images/distinctive-3r.png
   - infopic:
-      title: 4 Distinctive Experiences
+      title: Skills Based Curriculum
       button: Click here for more
-      url: /css/3r-experiences/
-      image: /images/distinctive.png
+      url: css/vocational/
+      image: /images/distinctive-skills-based.png
       alt: Image alt text
   - infopic:
       title: Authentic Learning
