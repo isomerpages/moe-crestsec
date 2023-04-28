@@ -14,7 +14,7 @@ sections:
           description: ""
           url: /i-am-a/crestan-parent/announcements/
         - title: Crestan
-          description: Key Highlight description
+          description: ""
           url: ""
   - resources:
       button: Click to Learn More
