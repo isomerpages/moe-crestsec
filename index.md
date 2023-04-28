@@ -18,7 +18,7 @@ sections:
           url: /i-am-a/crestan/education-and-career-guidance/
         - title: Crestan's Parent
           description: ""
-          url: /css/
+          url: /i-am-a/crestan-parent/announcements/
   - resources:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
