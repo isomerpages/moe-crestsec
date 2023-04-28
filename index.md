@@ -10,9 +10,12 @@ sections:
   - hero:
       background: /images/cresthero.gif
       key_highlights:
-        - title: Announcements
+        - title: P6 Student / Parent
           description: ""
           url: /i-am-a/crestan-parent/announcements/
+        - title: Crestan
+          description: Key Highlight description
+          url: ""
   - resources:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
