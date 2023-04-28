@@ -23,6 +23,12 @@ sections:
       button: Button Text
   - infopic:
       title: 4 Distinctive Experiences
+      button: Learn More
+      alt: Image alt text
+      url: /css/3r-experiences/
+      image: /images/distinction_final.gif
+  - infopic:
+      title: 4 Distinctive Experiences
       button: Click here for more
       url: /css/3r-experiences/
       image: /images/distinctive.png
@@ -34,8 +40,7 @@ sections:
       button: Button Text
   - infopic:
       title: 4 Distinctive Experiences
-      button: Learn More
+      subtitle: Infopic Subtitle
+      button: Button Text
       alt: Image alt text
-      url: /css/3r-experiences/
-      image: /images/distinction_final.gif
 ---
