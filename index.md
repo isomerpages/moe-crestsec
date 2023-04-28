@@ -19,11 +19,6 @@ sections:
   - resources:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
   - infopic:
       title: 4 Distinctive Experiences
       button: Learn More
@@ -35,5 +30,17 @@ sections:
       button: Click here for more
       url: /css/3r-experiences/
       image: /images/distinctive.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Industry Experience Programme
+      button: Find Out More
+      url: sdasd
+      image: /images/distinctive_4.png
       alt: Image alt text
 ---
