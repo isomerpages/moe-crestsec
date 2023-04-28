@@ -16,6 +16,9 @@ sections:
         - title: Crestan
           description: ""
           url: ""
+        - title: Crestan's Parent
+          description: ""
+          url: /css/
   - resources:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
