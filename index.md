@@ -27,6 +27,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: /css/3r-experiences/
+      image: /images/distinctive-3r.png
   - infopic:
       title: 4 Distinctive Experiences
       button: Click here for more
