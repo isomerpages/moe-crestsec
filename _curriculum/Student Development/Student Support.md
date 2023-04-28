@@ -20,7 +20,7 @@ third_nav_title: Student Development
 
 #### Objective
 
-<img src="/images/ss2.jpg" style="width:300px;height:240px;margin-right:25px;" align="left"> Our department is a conglomeration of helping professionals consisting of Counsellors and Allied Educators. As a newly synergised team, we seek to address the diverse learning and social-emotional needs of the student population at Crest Secondary School. Beyond co-constructing solutions with students for their immediate challenges, the Student Support Department aims to fortify the character and competencies of our students as they trek towards young-adulthood.
+<img src="/images/ss2.jpg" style="width:100%"> Our department is a conglomeration of helping professionals consisting of Counsellors and Allied Educators. As a newly synergised team, we seek to address the diverse learning and social-emotional needs of the student population at Crest Secondary School. Beyond co-constructing solutions with students for their immediate challenges, the Student Support Department aims to fortify the character and competencies of our students as they trek towards young-adulthood.
 
 #### Counselling Support
 
@@ -40,18 +40,15 @@ As an expression of our indispensable partnership with parents/care-givers, we h
 
 <img src="/images/ss4.png" style="width:100%">
 
-#### Learning and Behavioural Support
+#### Special Educational Needs Officers
 
 <img src="/images/ss5.jpg" style="width:100%">
 
-Allied Educators work collaboratively with key stakeholders such as parents, teachers, school leadership team, and professionals to maximize the potential of Crestans with mild Special Educational Needs (SEN). Our passion working with young persons with SEN puts them at the heart of everything we do. We strive to create an inclusive school system, systematize and coordinate various levels of support, and design customized intervention (individual/group) to equip our students with skills beyond the secondary school years. Some of the key interventions we provide are:
+Special Educational Needs (SEN) Officers work collaboratively with key stakeholders such as parents, teachers, school leadership team, and professionals to maximize the potential of Crestans with mild SEN. Our passion working with young persons with SEN puts them at the heart of everything we do. We strive to create an inclusive school system, systematize and coordinate various levels of support, and design customized intervention (individual/group) to equip our students with skills beyond the secondary school years. Some of the key interventions we provide are:
 
 * Literacy support
-
 * Social and communication skills
-
 * Application for Assistive Technology Devices
-
 * Collaboration with VWOs for itinerant school-based educational support services (e.g. AWWA &amp; SADeaf)
 
 <img src="/images/ss6.png" style="width:100%">
