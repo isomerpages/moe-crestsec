@@ -32,7 +32,7 @@ sections:
       title: Skills Based Curriculum
       button: Learn More
       url: css/vocational/
-      image: /images/distinctive-skills-based.png
+      image: /images/distinctive-skills-based1.png
       alt: Image alt text
   - infopic:
       title: Authentic Learning
