@@ -39,7 +39,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: /css/authentic-learning
-      image: /images/distinctive-authentic-learning.png
+      image: /images/distinctive-authentic-learning1.png
   - infopic:
       title: Industry Experience Programme
       button: Learn More
