@@ -32,11 +32,11 @@ sections:
       image: /images/distinctive.png
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Authentic Learning
+      button: Learn More
       alt: Image alt text
+      url: /css/authentic-learning
+      image: /images/distinctive_3.png
   - infopic:
       title: Industry Experience Programme
       button: Find Out More
