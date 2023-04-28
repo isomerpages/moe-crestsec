@@ -42,7 +42,7 @@ sections:
       image: /images/distinctive-authentic-learning.png
   - infopic:
       title: Industry Experience Programme
-      button: Find Out More
+      button: Learn More
       url: /css/industry-experiential-programme
       image: /images/distinctive-iep.png
       alt: Image alt text
