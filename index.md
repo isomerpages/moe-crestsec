@@ -23,11 +23,10 @@ sections:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
   - infopic:
-      title: 4 Distinctive Experiences
+      title: 3R Experiences
       button: Learn More
       alt: Image alt text
       url: /css/3r-experiences/
-      image: /images/distinction_final.gif
   - infopic:
       title: 4 Distinctive Experiences
       button: Click here for more
