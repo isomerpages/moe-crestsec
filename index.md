@@ -27,7 +27,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: /css/3r-experiences/
-      image: /images/distinctive-3r.png
+      image: /images/distinctive-3r1.png
   - infopic:
       title: Skills Based Curriculum
       button: Learn More
