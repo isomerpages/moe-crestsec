@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: P6 Student / Parent
           description: ""
-          url: /i-am-a/crestan-parent/announcements/
+          url: /i-am-a/p6-student-parent/student-admission-info/
         - title: Crestan
           description: ""
           url: ""
