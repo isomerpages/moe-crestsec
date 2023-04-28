@@ -30,7 +30,7 @@ sections:
       image: /images/distinctive-3r.png
   - infopic:
       title: Skills Based Curriculum
-      button: Click here for more
+      button: Learn More
       url: css/vocational/
       image: /images/distinctive-skills-based.png
       alt: Image alt text
