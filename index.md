@@ -37,4 +37,5 @@ sections:
       button: Learn More
       alt: Image alt text
       url: /css/3r-experiences/
+      image: /images/distinction_final.gif
 ---
