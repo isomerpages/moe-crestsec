@@ -40,7 +40,7 @@ sections:
   - infopic:
       title: Industry Experience Programme
       button: Find Out More
-      url: /css/3r-experiences/
+      url: /css/industry-experiential-programme
       image: /images/distinctive_4.png
       alt: Image alt text
 ---
