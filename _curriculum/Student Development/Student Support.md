@@ -24,7 +24,7 @@ third_nav_title: Student Development
 
 #### Counselling Support
 
-<img src="/images/ss3.jpg" style="width:100%">
+<img src="/images/school_councillors.jpg" style="width:100%">
 
 School Counsellors in Crest Secondary play an integral role in supporting the social, mental and emotional well-being of Crestans. As Crestans forge ahead in their quest for self-discovery, personal development and fulfillment, we as School Counsellors journey alongside them, providing essential skills and competencies needed to cope with and overcome life's challenges resiliently. Some of the key services we provide are:  
 
