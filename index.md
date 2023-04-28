@@ -44,6 +44,6 @@ sections:
       title: Industry Experience Programme
       button: Find Out More
       url: /css/industry-experiential-programme
-      image: /images/distinctive_4a.png
+      image: /images/distinctive-iep.png
       alt: Image alt text
 ---
