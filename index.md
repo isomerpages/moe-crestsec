@@ -32,4 +32,9 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - infopic:
+      title: 4 Distinctive
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
