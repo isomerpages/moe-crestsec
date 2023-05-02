@@ -51,7 +51,7 @@ sections:
       alt: Image alt text
       description: IEP
   - infopic:
-      title: Crest Numbers
+      title: Our Crest Stats
       image: /images/crest-numbers.jpg
       alt: Image alt text
 ---
