@@ -1,0 +1,27 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - Overview.md
+      - School Leaders.md
+      - Key Personnel.md
+      - Teaching Staff/Form Teachers (All Levels).md
+      - Teaching Staff/Aesthetics.md
+      - Teaching Staff/English Language.md
+      - Teaching Staff/Mathematics.md
+      - Teaching Staff/Mother Tongue Languages.md
+      - Teaching Staff/Science.md
+      - Teaching Staff/Culinary and Restaurant Operations.md
+      - Teaching Staff/Internet of Things Applications.md
+      - Teaching Staff/Mechanical Design and Automation.md
+      - Teaching Staff/Mobile Web Applications.md
+      - Teaching Staff/Retail and E Commerce.md
+      - Teaching Staff/.keep
+      - Non Teaching Staff/Overview.md
+      - Non Teaching Staff/.keep
+      - Non Teaching Staff/Administrative.md
+      - Non Teaching Staff/Finance.md
+      - Non Teaching Staff/Human Resource.md
+      - Non Teaching Staff/ICT & AV.md
+      - Non Teaching Staff/Operations.md
+      - Non Teaching Staff/Vocational.md

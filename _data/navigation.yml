@@ -1,13 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/crestlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Curriculum
+    collection: curriculum
+  - title: Partners
+    collection: partners
+  - title: Our Staff
+    collection: our-staff
+  - title: Info @ Crest
+    collection: info-at-crest
+  - title: I AM A
+    collection: i-am-a

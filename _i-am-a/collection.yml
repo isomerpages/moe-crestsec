@@ -1,0 +1,29 @@
+collections:
+  i-am-a:
+    output: true
+    order:
+      - P6 Student Parent/.keep
+      - P6 Student Parent/Student Admission Info.md
+      - P6 Student Parent/Teaching & Learning.md
+      - P6 Student Parent/Curriculum.md
+      - P6 Student Parent/Student Development.md
+      - P6 Student Parent/Sexuality Education.md
+      - P6 Student Parent/School Achievements.md
+      - P6 Student Parent/School Fees.md
+      - P6 Student Parent/2021 Open House.md
+      - Crestan/.keep
+      - Crestan/Crestan's Virtual Assistant.md
+      - Crestan/Education and Career Guidance.md
+      - Crestan/School Supplies.md
+      - Crestan/Shuttle Bus Service.md
+      - Crestan/Assessment Matters.md
+      - Crestan/Vaccination Matters.md
+      - Crestan/Useful Links.md
+      - Crestan Parent/.keep
+      - Crestan Parent/School Suppliers.md
+      - Crestan Parent/Announcements.md
+      - Crestan Parent/School Fees.md
+      - Crestan Parent/Shuttle Bus Service.md
+      - Crestan Parent/Assessment Matters.md
+      - Crestan Parent/Vaccination Matters.md
+      - Crestan Parent/Useful Links.md

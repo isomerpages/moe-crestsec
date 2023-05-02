@@ -1,0 +1,9 @@
+---
+title: Information for New Secondary 1 Students
+permalink: /announcements/announcements/information-for-new-sec-1-students/
+date: 2023-01-02
+layout: post
+description: Click here for more information for New Secondary 1 Students.
+image: ""
+---
+Click [here](https://www-crestsec-edu-sg-admin.cwp.sg/info-at-crest/student-admission-info) for more information for New Secondary 1 Students.
