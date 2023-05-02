@@ -47,8 +47,9 @@ sections:
       title: Industry Experience Programme
       button: Learn More
       url: /css/industry-experiential-programme
-      image: /images/distinctive-iep1.png
+      image: /images/distinctive--iep.JPG
       alt: Image alt text
+      description: IEP
   - infopic:
       title: Crest Numbers
       image: /images/crest-numbers.jpg
