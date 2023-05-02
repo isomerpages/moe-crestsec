@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/cresthero.gif
+      background: /images/crest-hero.gif
       key_highlights:
         - title: P6 Student / Parent
           description: ""
