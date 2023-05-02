@@ -49,7 +49,6 @@ sections:
       url: /css/industry-experiential-programme
       image: /images/distinctive--iep.JPG
       alt: Image alt text
-      description: IEP
   - infopic:
       title: Our Crest Stats
       image: /images/crest-numbers.jpg
