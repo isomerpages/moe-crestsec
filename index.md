@@ -28,7 +28,7 @@ sections:
       alt: Image alt text
       url: /css/3r-experiences/
       image: /images/distinctive--3r.jpg
-      description: Reboot, Re-condition & Restore through special programmes.
+      description: Reboot, Re-condition & Restore through special programmes
   - infopic:
       title: Skills Based Curriculum
       button: Learn More
