@@ -49,6 +49,7 @@ sections:
       url: /css/industry-experiential-programme
       image: /images/distinctive--iep.JPG
       alt: Image alt text
+      description: Students experience working in real-life businesses for one month
   - infopic:
       title: Our Crest Stats
       image: /images/crest-numbers.jpg
