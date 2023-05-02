@@ -27,13 +27,15 @@ sections:
       button: Learn More
       alt: Image alt text
       url: /css/3r-experiences/
-      image: /images/distinctive-3r1.png
+      image: /images/distinctive--3r.jpg
+      description: Reboot, Re-condition & Restore through special programmes.
   - infopic:
       title: Skills Based Curriculum
       button: Learn More
       url: css/vocational/
-      image: /images/distinctive-skills-based1.png
+      image: /images/distinctive--skills based curriculum.jpg
       alt: Image alt text
+      description: 5 ITE ISS subjects
   - infopic:
       title: Authentic Learning
       button: Learn More
