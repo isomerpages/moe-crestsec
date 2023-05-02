@@ -41,7 +41,8 @@ sections:
       button: Learn More
       alt: Image alt text
       url: /css/authentic-learning
-      image: /images/distinctive-authentic-learning1.png
+      image: /images/distinctive--authentic-learning.jpg
+      description: Academic integration with vocational subjects
   - infopic:
       title: Industry Experience Programme
       button: Learn More
