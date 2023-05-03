@@ -46,7 +46,7 @@ sections:
   - infopic:
       title: Industry Experience Programme
       button: Learn More
-      url: /css/industry-experiential-programme
+      url: https://www.crestsec.edu.sg/industry-experiential-programme/programmes/vocational-curriculum/
       image: /images/distinctive--iep.JPG
       alt: Image alt text
       description: Students experience working in companies for one month
