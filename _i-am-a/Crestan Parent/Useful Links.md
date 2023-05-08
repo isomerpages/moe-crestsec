@@ -14,7 +14,7 @@ third_nav_title: Crestan Parent
 
 #### Home Based Learning Dates 2023
 
-[[2023 HBL Dates.pdf](/files/2023%20hbl%20dates.pdf)]
+[2023 HBL Dates.pdf](/files/2023%20hbl%20dates.pdf)]
 
 #### MOE FAS Application Form for 2023
 
