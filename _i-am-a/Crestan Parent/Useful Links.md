@@ -6,14 +6,15 @@ third_nav_title: Crestan Parent
 ---
 ### Parent
 
-#### Sec 4 Parents Dialogue 2023
+#### Parents Dialogue 2023
 
-[Sec 4 Parents Dialogue 2023.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/Sec%204%20Parents%20Dialogue%202023.pdf)  MORE THAN 5 MB
+[Sec 1 Parents Dialogue 2023.pdf](/files/p1.pdf)<br>
+[Sec 4 Parents Dialogue 2023.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/Sec%204%20Parents%20Dialogue%202023.pdf)  
 
 
-#### Sec 1 Parents Dialogue 2023
+#### Home Based Learning Dates 2023
 
-[Sec 1 Parents Dialogue 2023.pdf](/files/p1.pdf)
+[2023 HBL Dates.pdf](/files/2023%20hbl%20dates.pdf)]
 
 #### MOE FAS Application Form for 2023
 
@@ -21,10 +22,8 @@ third_nav_title: Crestan Parent
 [PG letter to parents\_MOE FAS New.pdf](/files/p3.pdf)
 
 #### Term Letters 2023
-
-**Term 1**  
-[2023 Start of Term 2 Letter to Parents.pdf](/files/p4.pdf)
-
+  
+[2023 Start of Term 2 Letter to Parents.pdf](/files/p4.pdf)<br>
 [2023 Start of Term 1 Letter to Parents.pdf](/files/p5.pdf)
 
 #### School Lockdown Drill
@@ -151,9 +150,7 @@ A push notification and/or email notification will provide the alert, if both ha
 | Mental Health | Stay Well To Stay Strong<br>Here are some useful resources that can help you relax, destress and stay positive through it all. When we face challenging situations, it can help to talk to someone who can provide a listening ear and offer you a different perspective.<br><br>Journey to become a better supporter<br>As we weather through COVID-19, there are surely times where we would feel overwhelmed. Join us through an experiential journey on how you can best navigate check in conversations | <a href="https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy">StayWell#families stay healthy</a><br><br><a href="healthhub.sg/justcheckingin/virtualjourney">healthhub.sg/justcheckingin/virtualjourney</a><br><br><a href="go.gov/hivirtualjourney">go.gov/hivirtualjourney</a> |
 | Nutrition | Quarter, Quarter, Half (30 seconds song)<br>Nutrition plays such a big role in our development. My Healthy Plate is an easy-to-understand visual guide designed by Health Promotion to help you to eat healthier, manage your weight, ward off chronic diseases and stay happy and healthy. |  <a href="https://www.youtube.com/watch?v=M-rsruugB3o">https://www.youtube.com/watch?v=M-rsruugB3o</a>|
 
-#### MOE FAS Application Form for 2022
 
-[MOE FAS Application Form for Specialised Schools Sep 21 2021 for 2022 application.pdf](/files/p16.pdf)
 
 #### Parent Communication Guidelines
 
