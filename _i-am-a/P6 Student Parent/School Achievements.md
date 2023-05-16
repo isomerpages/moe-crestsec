@@ -12,7 +12,7 @@ third_nav_title: P6 Student Parent
 |:---:|:---:|
 | **Aesthetics / CCA Achievements** | ●     Innovation Club - International E-Waste Day School Collection Drive 2022 <br> - Certificate Of Achievement for collecting the highest weight of e-waste<br>●     Visual Art Band - Singapore Youth Festival Arts Presentation 2022<br> - Certificate of Accomplishment were presented to 2 student art sculptures<br>●     Pop Band, Dance &amp; Service Club - National Day Celebrations at Yu Hua SMC <br>- Rousing performances at the 2022 Nation Day Grassroots Dinner<br>●     Badminton CCA - Taman Jurong Yuva Shuttle Fest 2022<br>- 1st Position for Under 16 Category (Female)<br>- 3rd Position for Under 14 Category (Female)<br>  |
 | **Uniform Group Achievements** | ●     Girl Guides - Puan Noor Aishah Award 2022<br> - Bronze Award<br>
-| **IgnITE Skills Challenge 2022** | **IgnITE Skills Challenge 2021**:<br><br>●     With 5 Gold and 1 Bronze awards, Crest Secondary was awarded the Overall Champion Trophy 2022 (5 times since 2017). This is also the best set of results that Crest has achieved to-date. <br>●     Overall, 43 teams from Crest participated in this year’s Challenge and 13 teams qualified for the Finals (in 8 out of 16 categories).<br><img src="/images/aa2.jpg" style="width:100%"> |
+| **IgnITE Skills Challenge 2022** | **IgnITE Skills Challenge 2021**:<br><br>●     With 5 Gold and 1 Bronze awards, Crest Secondary was awarded the Overall Champion Trophy 2022 (5 times since 2017). This is also the best set of results that Crest has achieved to-date. <br>●     Overall, 43 teams from Crest participated in this year’s Challenge and 13 teams qualified for the Finals (in 8 out of 16 categories).<br><img src="/images/ig2022.png" style="width:100%"> |
 
 #### 2021
 
