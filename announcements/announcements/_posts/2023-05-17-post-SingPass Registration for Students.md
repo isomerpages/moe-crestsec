@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Click here https://www.crestsec.edu.sg/i-am-a/crestan-parent/useful-links/ for information and guide for SingPass registration for students.
