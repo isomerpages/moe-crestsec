@@ -6,7 +6,7 @@ third_nav_title: Crestan Parent
 ---
 ### Parent
 
-#### SingPass Registration
+#### Singpass Registration
 
 [Information Note on Singpass for Secondary School.pdf](/files/information-note-singpass.pdf)<br>
 [Singpass Registration guide for Students.pdf](/files/singpass-registration-guide.pdf)  
