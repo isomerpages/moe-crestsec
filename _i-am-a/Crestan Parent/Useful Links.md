@@ -8,8 +8,8 @@ third_nav_title: Crestan Parent
 
 #### SingPass Registration
 
-[Sec 1 Parents Dialogue 2023.pdf](/files/p1.pdf)<br>
-[Sec 4 Parents Dialogue 2023.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/Sec%204%20Parents%20Dialogue%202023.pdf)  
+[Information Note on Singpass for Secondary School.pdf](/files/Information Note on Singpass for Secondary School.pdf)<br>
+[Singpass Registration guide for Students.pdf](/files/Singpass Registration guide for Students.pdf)  
 
 #### Parents Dialogue 2023
 
