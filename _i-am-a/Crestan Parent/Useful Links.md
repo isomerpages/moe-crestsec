@@ -8,8 +8,8 @@ third_nav_title: Crestan Parent
 
 #### SingPass Registration
 
-[Information Note on Singpass for Secondary School.pdf](/files/Information Note on Singpass for Secondary School.pdf)<br>
-[Singpass Registration guide for Students.pdf](/files/Singpass Registration guide for Students.pdf)  
+[Information Note on Singpass for Secondary School.pdf](/files/information-note-singpass.pdf)<br>
+[Singpass Registration guide for Students.pdf](/files/singpass-registration-guide.pdf)  
 
 #### Parents Dialogue 2023
 
