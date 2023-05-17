@@ -6,6 +6,11 @@ third_nav_title: Crestan Parent
 ---
 ### Parent
 
+#### Singpass Registration
+
+[Information Note on Singpass for Secondary School.pdf](/files/information-note-singpass.pdf)<br>
+[Singpass Registration guide for Students.pdf](/files/singpass-registration-guide.pdf)  
+
 #### Parents Dialogue 2023
 
 [Sec 1 Parents Dialogue 2023.pdf](/files/p1.pdf)<br>
@@ -14,7 +19,7 @@ third_nav_title: Crestan Parent
 
 #### Home Based Learning Dates 2023
 
-[2023 HBL Dates.pdf](/files/2023%20hbl%20dates.pdf)]
+[2023 HBL Dates.pdf](/files/2023%20hbl%20dates.pdf)
 
 #### MOE FAS Application Form for 2023
 
