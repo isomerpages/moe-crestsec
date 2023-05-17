@@ -6,6 +6,11 @@ third_nav_title: Crestan Parent
 ---
 ### Parent
 
+#### SingPass Registration
+
+[Sec 1 Parents Dialogue 2023.pdf](/files/p1.pdf)<br>
+[Sec 4 Parents Dialogue 2023.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/Sec%204%20Parents%20Dialogue%202023.pdf)  
+
 #### Parents Dialogue 2023
 
 [Sec 1 Parents Dialogue 2023.pdf](/files/p1.pdf)<br>
@@ -14,7 +19,7 @@ third_nav_title: Crestan Parent
 
 #### Home Based Learning Dates 2023
 
-[2023 HBL Dates.pdf](/files/2023%20hbl%20dates.pdf)]
+[2023 HBL Dates.pdf](/files/2023%20hbl%20dates.pdf)
 
 #### MOE FAS Application Form for 2023
 
