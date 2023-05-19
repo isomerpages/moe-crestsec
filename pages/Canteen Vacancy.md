@@ -56,52 +56,51 @@ description: ""
 
 **Application Procedure**
 
-1.&nbsp;&nbsp;&nbsp; Download and complete the application form. &nbsp;You may also request for a hardcopy from the School’s General Office.
+1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+* [Application Form](canteen-stall-application-form.pdf)
 
-§&nbsp; [Application Form](Canteen%20Stall%20Application%20Form.pdf)
 
 2\. Attached the following documents together with the application form:
+* Photocopy of the NRIC (front and back)
 
-§&nbsp; Photocopy of the NRIC (front and back)
+* List of proposed menu and pricing for all items
 
-§&nbsp; List of proposed menu and pricing for all items
-
-§&nbsp; Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-§&nbsp; Address: 561 Jurong East Street 24, Singapore 609561
+* Address: 561 Jurong East Street 24, Singapore 609561
 
-§&nbsp; Contact No: 68992779
+* Contact No: 68992779
 
-§&nbsp; Contact Person: Miss Wong
+* Contact Person: Miss Wong
 
 **How to get there?**
 
-§&nbsp; Nearest MRT: Bukit Batok MRT (NS2 line) or Jurong East MRT (NS1/EW24)
+* Nearest MRT: Bukit Batok MRT (NS2 line) or Jurong East MRT (NS1/EW24)
 
-§&nbsp; Bus number: 41, 52, 98, 105, 176, 183, 187, 188, 333, 990 - 3 minutes walking distance
+* Bus number: 41, 52, 98, 105, 176, 183, 187, 188, 333, 990 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
 
-§&nbsp; Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant(s).
+* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant(s).
 
-§&nbsp; Able to provide good service and variety of quality food with prices determined in consultation with the school.
+* Able to provide good service and variety of quality food with prices determined in consultation with the school.
 
-§&nbsp; Able to provide cooked food and fruits that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to provide cooked food and fruits that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 
-§&nbsp; Able to maintain high standard of food safety and personal hygiene.
+* Able to maintain high standard of food safety and personal hygiene.
 
-§&nbsp; Healthy and fit to operate the stall.
+* Healthy and fit to operate the stall.
 
-§&nbsp; Able to operate stall personally during school operations hours and special events.
+* Able to operate stall personally during school operations hours and special events.
 
 **Applicants should preferably fulfil the following criteria:**
 
-§&nbsp; Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 
-§&nbsp; Possess have some experience operating in a school environment.
+* Possess have some experience operating in a school environment.
 
-§&nbsp; Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
+* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 _Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense._
