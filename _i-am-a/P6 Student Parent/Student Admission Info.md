@@ -6,28 +6,6 @@ third_nav_title: P6 Student Parent
 ---
 ### Student Admission Info
 
-#### Information for New Secondary 1 Students
-
-Congratulations on being accepted into Crest Secondary School. Please be informed that you will need to report to school on 3 January 2023 (Tuesday) by 7:45am. There will be direction signs, staff and student leaders around to guide you.
-
-  
-
-**Start Right Programme (Orientation):**<br>
-Dates: 3 to 5 January 2023 (Tuesday to Thursday)<br>
-Time: 7:45am to 12:15pm
-
-  
-
-**Attire:**<br>
-Crest School Uniform with plain black socks and shoes
-
-  
-
-**Things to bring:** <br>
-Writing materials, water bottle and a storybook
-
-  
-
 #### Subject-based banding (SBB) Briefing
 
 There will be a briefing on SBB for students who are eligible. Parents will be contacted through SMS with further details.  
