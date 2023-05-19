@@ -57,7 +57,7 @@ description: ""
 **Application Procedure**
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form](canteen-stall-application-form.pdf)
+* [Application Form](/files/canteen-stall-application-form.pdf)
 
 
 2\. Attached the following documents together with the application form:
