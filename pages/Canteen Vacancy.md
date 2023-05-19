@@ -39,9 +39,9 @@ description: ""
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:44.5pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal;background:white"><span style="font-size:
-  12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Fusion Stall</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Fusion Stall</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:
   white"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">eg: Thai/Japanese/Korea/Indian (Halal / Non-halal)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="162" style="width:121.5pt;border-top:none;border-left:none;
+  color:black;mso-color-alt:windowtext">eg: Thai/Japanese/Korean/Indian (Halal / Non-halal)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="162" style="width:121.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:44.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
@@ -53,6 +53,55 @@ description: ""
   inter-ideograph;line-height:normal;background:white"><span style="font-size:
   12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Both rice or noodle stalls are acceptable</span><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
+	
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="655" style="width:550pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="265" valign="top" style="width:198.9pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal;background:white"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Type of Stall</span></b><b><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td><td width="162" style="width:121.5pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal;background:white"><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Closing Date</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td><td width="228" valign="top" style="width:171.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal;background:white"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Requirements</span></b><b><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:29.65pt"><td width="265" style="width:198.9pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:29.65pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal;background:white"><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Noodle Stall (Halal / Non-halal)</span><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif"></span></p></td><td width="162" style="width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:29.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal;background:white"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">16 June 2023</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="228" style="width:171.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:29.65pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal;background:white"><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">NIL</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:44.5pt"><td width="265" style="width:198.9pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:44.5pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal;background:white"><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Fusion Stall</span><br><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">eg: Thai / Japanese / Korean / Indian (Halal / Non-halal)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="162" style="width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:44.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal;background:white"><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">16 June 2023</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="228" style="width:171.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:44.5pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal;background:white"><span style="font-size:
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Both rice or noodle stalls are acceptable</span><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
+	
 
 **Application Procedure**
 
@@ -60,7 +109,7 @@ description: ""
 * [Application Form](/files/canteen-stall-application-form.pdf)
 
 
-2\. Attached the following documents together with the application form:
+2\. Attach the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 
 * List of proposed menu and pricing for all items
