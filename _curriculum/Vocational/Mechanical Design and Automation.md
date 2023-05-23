@@ -4,7 +4,7 @@ permalink: /programmes/vocational-curriculum/mechanical-design-and-automation/
 description: ""
 third_nav_title: Vocational
 ---
-### Mechanical Design and Automation
+### Mechanical Design &amp; Automation
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
