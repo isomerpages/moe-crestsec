@@ -57,8 +57,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Read our 10th Anniversary Commemorative e-Book!
-      description: Join Nadia and Sparrow as they discover what it means to be a
-        Crestan, through interactions with a teacher and students!
+      description: Join Nadia and Sparrow as they explore Crest Secondary School.
+        Experience their captivating journey firsthand and discover the essence
+        of being a Crestan!
       button: Read Now!
       url: https://heyzine.com/flip-book/fbb12b2c1a.html
       image: /images/crest_commemorative_ebook.png
