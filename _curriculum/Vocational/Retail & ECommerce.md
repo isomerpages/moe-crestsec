@@ -1,25 +1,25 @@
 ---
-title: Retail and ECommerce
+title: Retail & ECommerce
 permalink: /programmes/vocational-curriculum/retail-and-ecommerce/
 description: ""
 third_nav_title: Vocational
 ---
-###  Retail and ECommerce
+###  Retail &amp; E-Commerce
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Lee Ching Yong | Mr Lee | Head of Department<br>(Culinary Restaurant Operations, CRO)<br>(Retail &amp; E-Commerce, REC)<br> | [lee\_ching\_yong@schools.gov.sg](mailto:lee_ching_yong@schools.gov.sg) |
-| Mr Ng Wee Kee | Mr Ng | Teacher (ReC) | [ng\_wee\_kee@schools.gov.sg](mailto:ng_wee_kee@schools.gov.sg) |
-| Ms Tan Farah Imran | Ms Farah | Teacher (ReC) | [tan\_farah\_imran@schools.gov.sg](mailto:tan_farah_imran@schools.gov.sg) |
-| Ms Chan Mei Lian | Ms Chan | Teacher (ReC) | [chan\_mei\_lian@schools.gov.sg](mailto:chan_mei_lian@schools.gov.sg) |
-| Mr Chua Choon Hiong | Mr Chua | Teacher (ReC) | [chua\_choon\_hiong@schools.gov.sg](mailto:chua_choon_hiong@schools.gov.sg) |
-| Ms Khairiah Binti Jaafar | Ms Khairiah | Teacher (ReC) | [khairiah\_jaafar@schools.gov.sg](mailto:khairiah_jaafar@schools.gov.sg) |
-| Mr Chew Ming Zhe Zack | Mr Zack | Allied Educator (ReC) | [chew\_ming\_zhe\_zack@schools.gov.sg](mailto:chew_ming_zhe_zack@schools.gov.sg) |
-| Ms Fateha Binte Hashim | Ms Fateha | Technical Support Officer (ReC) | [Nurul\_fateha\_Hashim@schools.gov.sg](mailto:Nurul_fateha_Hashim@schools.gov.sg) |
+| Mr Lee Ching Yong | Mr Lee | Head of Department | lee_ching_yong@schools.gov.sg |
+| Mr Ng Wee Kee | Mr Ng | Teacher | ng_wee_kee@schools.gov.sg |
+| Ms Tan Farah Imran | Ms Farah | Teacher | tan_farah_imran@schools.gov.sg |
+| Ms Chan Mei Lian | Ms Chan | Teacher | chan_mei_lian@schools.gov.sg |
+| Mr Chua Choon Hiong Gordon | Mr Chua | Teacher | chua_choon_hiong@schools.gov.sg |
+| Ms Khairiah Binti Jaafar | Ms Khairiah | Teacher | khairiah_jaafar@schools.gov.sg |
+| Mr Chew Ming Zhe Zack | Mr Zack | Allied Educator | chew_ming_zhe_zack@schools.gov.sg |
+| Ms Fateha Binte Hashim | Ms Fateha | Technical Support Officer | nurul_fateha_hashim@schools.gov.sg |
 
 #### Objective
 
-<img src="/images/retail.jpg" style="width:290px;height:240px;margin-right:25px;" align="left">Retail &amp; eCommerce (REC) is one of the 5 ITE Skills Subjects (ISS) offered to Secondary 3 and 4 students in Crest Secondary School.&nbsp; When students select this subject as one of the two Skills Subjects to study, they will learn about the emerging trends of the retail landscape, especially the growth of e-commerce and new methods of shopping. In this subject, students will learn to perform retail selling using both on-site and online shops. They will learn to produce promotional collaterals and brochures, handle logistics in inventory control, and display merchandise.
+<img src="/images/retail.jpg" style="width:290px;height:240px;margin-right:25px;" align="left">Retail &amp; E-Commerce (REC) is one of the 5 ITE Skills Subjects (ISS) offered to Secondary 3 and 4 students in Crest Secondary School.&nbsp; When students select this subject as one of the two Skills Subjects to study, they will learn about the emerging trends of the retail landscape, especially the growth of e-commerce and new methods of shopping. In this subject, students will learn to perform retail selling using both on-site and online shops. They will learn to produce promotional collaterals and brochures, handle logistics in inventory control, and display merchandise.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MIIX9Q-0Iqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -80,7 +80,7 @@ Click here to&nbsp;**[watch our Signature activities@Retail -Farmers Market](htt
 
 #### Sypnosis of Retail &amp; E-Commerce
 
-| Fabulous Merchandise Display<br>(Taster Modules) | Service With A Smile (Taster Modules) | Retail &amp; e-Commerce (ISSC subject)  |
+| Fabulous Merchandise Display<br>(Taster Modules) | Service With A Smile (Taster Modules) | Retail &amp; E-Commerce (ISSC subject)  |
 |---|---|---|
 | Understanding Basic Retail Concepts - Retail and its Importance in Singapore         - Retail Distribution Methods |  Identify sectors in the service industry:  - Accommodation - Food &amp; Beverage - Travel Agents - Attractions - Retail - Transportation - MICE (Events) - Support Services | Work safely by observing good personal hygiene, safety and housekeeping rules according to the latest WSH regulations |
 | IN-STORE MERCHANDISE DISPLAY        - Retail Display Fixtures and Equipment       - Workplace Safety and Hygiene |  Define ‘hospitality industry’ -Give examples of types of accommodation -List departments in a hotel -Describe roles and duties of hotel employees -Name different types of F&amp;B outlets | Introduce the retail business environment; e.g Brick &amp; Mortar / E-Retail  Develop basic functional skills and knowledge in a variety of retail store scenarios;  |

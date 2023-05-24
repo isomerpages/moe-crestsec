@@ -6,9 +6,9 @@ third_nav_title: Vocational
 ---
 | Teachers | Affectionately<br>known as | Designation | Email |
 |---|---|---|---|
-| Mr Andy Lam Kum Cheong | Mr Lam | Head of Department<br>(ICT &amp; Mobile Web Applications, MWA) | andy_lam_kum_cheong@schools.gov.sg |
-| Mr Lin Yuxuan, Den | Mr Lin | Subject Head(ICT)<br>Teacher (Science) | lin_yuxuan_den@schools.gov.sg |
-| Ms Siti Nooratika Binte Jumaat | Ms Atika | Teacher (ICT) | siti_nooratika_jumaat@schools.gov.sg |
+| Mr Andy Lam Kum Cheong | Mr Lam | Head of Department | andy_lam_kum_cheong@schools.gov.sg |
+| Mr Lin Yuxuan, Den | Mr Lin | Subject Head | lin_yuxuan_den@schools.gov.sg |
+| Ms Siti Nooratika Binte Jumaat | Ms Atika | Teacher | siti_nooratika_jumaat@schools.gov.sg |
 | Mr James Pek | Mr James | Senior Officer (ICT) | james_pek@crestsec.edu.sg |
 | Mr Klassen Charles Gerard | Mr Charles | Technical Support Officer (AV &amp; ICT) | klassen_charles_gerard@schools.gov.sg |
 

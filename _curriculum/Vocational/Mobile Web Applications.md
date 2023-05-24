@@ -8,10 +8,10 @@ third_nav_title: Vocational
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Ms Chan Ying Hui | Ms Chan | Subject Head<br>(Mobile Web Applications, MWA) | [chan\_ying\_hui@schools.gov.sg](mailto:chan_ying_hui@schools.gov.sg) |
-| Mr Osman Farouk S/O Hassan Mohamed | Mr Farouk | Teacher (MWA) | [osman\_farouk@schools.gov.sg](mailto:osman_farouk@schools.gov.sg) |
-| Mr Helmy Rozaimi Bin Husaimi | Mr Helmy | Teacher (MWA) | [helmy\_rozaimi\_husaimi@schools.gov.sg](mailto:helmy_rozaimi_husaimi@schools.gov.sg) |
-| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L (MWA &amp; IoTA) | [jonathan\_tsang\_yim\_ting@schools.gov.sg](mailto:Jonathan_Tsang_Yim_Ting@schools.gov.sg) |
+| Ms Chan Ying Hui | Ms Chan | Subject Head | chan_ying_hui@schools.gov.sg |
+| Mr Osman Farouk S/O Hassan Mohamed | Mr Farouk | Teacher | osman_farouk@schools.gov.sg |
+| Mr Helmy Rozaimi Bin Husaimi | Mr Helmy | Teacher | helmy_rozaimi_husaimi@schools.gov.sg |
+| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L | jonathan_tsang_yim_ting@schools.gov.sg |
 
 #### Objective
 

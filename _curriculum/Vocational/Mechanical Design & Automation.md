@@ -1,25 +1,25 @@
 ---
-title: Mechanical Design and Automation
+title: Mechanical Design & Automation
 permalink: /programmes/vocational-curriculum/mechanical-design-and-automation/
 description: ""
 third_nav_title: Vocational
 ---
-### Mechanical Design and Automation
+### Mechanical Design &amp; Automation
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Kong Chee Chong Justin | Mr Kong | Head of Department (Mechanical &amp; Design A) | [kong\_chee\_chong\_justin@schools.gov.sg](mailto:kong_chee_chong_justin@schools.gov.sg) |
-| Ms Ang Lay Beng | Ms Ang | Senior Teacher (MDA) | [ang\_lay\_beng@schools.gov.sg](mailto:ang_lay_beng@schools.gov.sg) |
-| Mr Tan Eng Choon | Mr Tan | Teacher (MDA) | [tan\_eng\_choon@schools.gov.sg](mailto:tan_eng_choon@schools.gov.sg) |
-| Mr Lim Swee Huat | Mr Lim | Teacher (MDA) | [lim\_swee\_huat@schools.gov.sg](mailto:lim_swee_huat@schools.gov.sg) |
-| Mr Althaf Shathali | Mr Althaf | Teacher (MDA) | [md\_althaf@crestsec.edu.sg](mailto:md_althaf@crestsec.edu.sg) |
-| Mr Zaki B Hosain | Mr Zaki | Teacher (MDA) | [muhammad\_zaki\_hosain@schools.gov.sg](mailto:muhammad_zaki_hosain@schools.gov.sg) |
+| Mr Kong Chee Chong Justin | Mr Kong | Head of Department  | kong_chee_chong_justin@schools.gov.sg |
+| Ms Ang Lay Beng | Ms Ang | Senior Teacher | ang_lay_beng@schools.gov.sg |
+| Mr Tan Eng Choon | Mr Tan | Teacher | tan_eng_choon@schools.gov.sg |
+| Mr Lim Swee Huat | Mr Lim | Teacher | lim_swee_huat@schools.gov.sg |
+| Mr Althaf Shathali | Mr Althaf | Teacher | md_althaf@crestsec.edu.sg |
+| Mr Zaki B Hosain | Mr Zaki | Teacher | muhammad_zaki_hosain@schools.gov.sg |
 
 #### Objective
 
 <img src="/images/mda1.png" style="width:100%">
 
-Mechanical Design and Automation (MDA) is one of the 5 ITE Skills Subjects (ISS) offered to Secondary 3 and 4 students in Crest Secondary School.&nbsp; When students select this subject as one of the two Skills Subjects to study, they will learn skills and knowledge in designing, making and assembling parts to form simple movable products. They will design simple 3D products, create the 3D models and 3D print the prototypes. They will also perform basic mechanical fitting work and assembly, and assemble parts and components to complete an automated pneumatic system. Students who obtain a pass in this NT equivalent subject will be considered to have passed a science equivalent subject when applying to ITE courses.
+Mechanical Design &amp; Automation (MDA) is one of the 5 ITE Skills Subjects (ISS) offered to Secondary 3 and 4 students in Crest Secondary School.&nbsp; When students select this subject as one of the two Skills Subjects to study, they will learn skills and knowledge in designing, making and assembling parts to form simple movable products. They will design simple 3D products, create the 3D models and 3D print the prototypes. They will also perform basic mechanical fitting work and assembly, and assemble parts and components to complete an automated pneumatic system. Students who obtain a pass in this NT equivalent subject will be considered to have passed a science equivalent subject when applying to ITE courses.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tupAmUWsmys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 

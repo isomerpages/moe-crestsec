@@ -8,17 +8,17 @@ third_nav_title: Vocational
 
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Lim Ming Hui Eugene | Mr Lim | Subject Head (Internet of Things Applications) (IoTA) | [lim\_ming\_hui\_eugene@schools.gov.sg](mailto:lim_ming_hui_eugene@schools.gov.sg) |
-| Mr Chang Choo Liang | Mr Chang | Teacher (Internet of Things Applications) (IoTA) | [chang\_choo\_liang@schools.gov.sg](mailto:chang_choo_liang@schools.gov.sg) |
-| Mr Desmond Chua | Mr Chua | Teacher (Internet of Things Applications) (IoTA) | [chua\_chin\_choon\_desmond@schools.gov.sg](mailto:chua_chin_choon_desmond@schools.gov.sg) |
-| Mr Mohammed Hafiez Bin Ali | Mr Hafiez | Teacher (Internet of Things Applications) (IoTA) | [mohammed\_hafiez\_ali@schools.gov.sg](mailto:mohammed_hafiez_ali@schools.gov.sg) |
-| Mr Lau Kia Hian | Mr Lau | Teacher (Internet of Things Applications) (IoTA) | [lau\_kia\_hian@schools.gov.sg](mailto:lau_kia_hian@schools.gov.sg) |
-| Mr Ong Cheng Soon | Mr Ong | Allied Educator T&amp;L (Internet of Things Applications)(IoTA) | [ong\_cheng\_soon@schools.gov.sg](mailto:ong_cheng_soon@schools.gov.sg) |
-| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L (Mobile Web Applications &amp; Internet of Things Applications) (MWA &amp; IoTA) | [jonathan\_tsang@crestsec.edu.sg](mailto:jonathan_tsang@crestsec.edu.sg) |
+| Mr Lim Ming Hui Eugene | Mr Lim | Subject Head | lim_ming_hui_eugene@schools.gov.sg |
+| Mr Chang Choo Liang | Mr Chang | Teacher | chang_choo_liang@schools.gov.sg |
+| Mr Desmond Chua | Mr Chua | Teacher | chua_chin_choon_desmond@schools.gov.sg |
+| Mr Mohammed Hafiez Bin Ali | Mr Hafiez | Teacher | mohammed_hafiez_ali@schools.gov.sg |
+| Mr Lau Kia Hian | Mr Lau | Teacher | lau_kia_hian@schools.gov.sg |
+| Mr Ong Cheng Soon | Mr Ong | Allied Educator T&amp;L | ong_cheng_soon@schools.gov.sg |
+| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L | jonathan_tsang@crestsec.edu.sg |
 
 #### Objective
 
-<img src="/images/ita1.jpg" style="width:300px;height:240px;margin-right:25px;" align="left">Internet of Things Applications (IOTA) is one of the 5 ITE Skills Subjects (ISS) offered to Secondary 3 and 4 students in Crest Secondary School. When students select this subject as one of the two Skills Subjects to study, they will learn the skills and knowledge to deploy Internet of Things (IoT) technology for a smart home or workplace environment. As Singapore develops towards smart living and a smart nation, taking this subject will allow the students to understand how IoT works and develop students’ interest in post-secondary electronic-based education. Students who obtain a pass in this NT equivalent subject will be considered to have passed a science equivalent subject when applying to ITE courses.&nbsp;
+<img src="/images/ita1.jpg" style="width:300px;height:240px;margin-right:25px;" align="left"><br>Internet of Things Applications (IOTA) is one of the 5 ITE Skills Subjects (ISS) offered to Secondary 3 and 4 students in Crest Secondary School. When students select this subject as one of the two Skills Subjects to study, they will learn the skills and knowledge to deploy Internet of Things (IoT) technology for a smart home or workplace environment. As Singapore develops towards smart living and a smart nation, taking this subject will allow the students to understand how IoT works and develop students’ interest in post-secondary electronic-based education. Students who obtain a pass in this NT equivalent subject will be considered to have passed a science equivalent subject when applying to ITE courses.&nbsp;
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/42WA9sRQJiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -44,7 +44,7 @@ Our department aims to empower Crestans with the&nbsp;skills&nbsp;and&nbsp;knowl
 
 #### SYNOPSIS OF IoT Applications
 
-| Let's Get Connected(Taster Modules)  | Link Up The World(Taster Modules)  | IoT Applications(ISSC subject) |
+| Let's Get Connected (Taster Modules)  | Link Up The World (Taster Modules)  | IoT Applications (ISSC subject) |
 |:---:|:---:|:---:|
 | Understanding Electrical &amp; Electronics Principles  | Understand how to perform remote and automatic control of a robotic vehicle | Work safely by observing good safety and 5S rules according to the latest WSH regulations |
 | Connecting Electronic Circuitries | More automatic &amp; smart control over the internet | Set up a basic wired and wireless network to enable devices to interact for control purposes. |
