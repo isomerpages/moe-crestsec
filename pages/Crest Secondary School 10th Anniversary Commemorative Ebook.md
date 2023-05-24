@@ -3,11 +3,10 @@ title: Crest Secondary School 10th Anniversary Commemorative Ebook
 permalink: /10a-ebook/
 description: ""
 ---
-As we celebrate our 10th Anniversary, we have come up with .....
-
-<img src="/images/10a-ebook-qr.png" style="width:230px;height:230px;margin-right:25px;" align="centre">
-
-
-
+Read our 10th Anniversary Commemorative e-Book!
 
 [https://heyzine.com/flip-book/fbb12b2c1a.html](https://heyzine.com/flip-book/fbb12b2c1a.html)
+
+Nadia and Sparrow visit Crest Secondary School to find out more about the school. Through interactions with a teacher and students, the two friends find themselves exploring the school’s history, and its many facilities. Join them on this journey and discover what it means to be a Crestan!
+
+![crest commemorative ebook](/images/crest_commemorative_ebook.png)
