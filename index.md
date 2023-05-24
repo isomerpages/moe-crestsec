@@ -55,4 +55,12 @@ sections:
       title: Our Crest Stats
       image: /images/crest-numbers.jpg
       alt: Image alt text
+  - infopic:
+      title: Read our 10th Anniversary Commemorative e-Book!
+      description: Join Nadia and Sparrow as they discover what it means to be a
+        Crestan, through interactions with a teacher and students!
+      button: Read Now!
+      url: https://heyzine.com/flip-book/fbb12b2c1a.html
+      image: /images/crest_commemorative_ebook.png
+      alt: Image alt text
 ---
