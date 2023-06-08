@@ -6,6 +6,10 @@ third_nav_title: Crestan Parent
 ---
 ### Parent
 
+
+#### GPA Fact Sheet 
+[GPA Fact Sheet 2023.pdf](/files/gpa%20fact%20sheet%202023.pdf)
+
 #### Singpass Registration
 
 [Information Note on Singpass for Secondary School.pdf](/files/information-note-singpass.pdf)<br>
