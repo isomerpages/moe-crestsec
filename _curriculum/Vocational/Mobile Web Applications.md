@@ -15,8 +15,8 @@ third_nav_title: Vocational
 
 #### Objective
 
-<img src="/images/wwa1.jpg" style="width:65%">
-
+<img src="/images/mwa_page_1.jpg" style="float: left;width:48%"> 
+<img src="/images/mwa_page_2.jpg" style="width:48%">
 Mobile Web Applications (MWA) is one of the 5 ITE Skills Subjects (ISS) offered to Secondary 3 and 4 students in Crest Secondary School.&nbsp; When students select this subject as one of the two Skills Subjects to study, they will learn to create interactive and responsive websites, using tools such as HTML and Javascript. In the process of creating those websites, students will need to learn how to edit photos and create short video clips to add to their websites. We have strategically placed the learning of these skills in Secondary 2 and 3, using industry-leading software Adobe Photoshop and Adobe Premier. This will allow our students to learn MWA, armed with the acquired ICT skills, in a more focused and fruitful manner.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FpdjPzItzoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -25,7 +25,7 @@ Prior to choosing MWA, students get to decide if this subject is suitable for th
 
 #### Taster Modules
 
-<img src="/images/wwa2.jpg" style="width:65%">
+<img src="/images/mwa_page_3.jpg" style="width:65%">
 <br>
 
 | Taster Module | Description |  |  |
