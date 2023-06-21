@@ -32,6 +32,7 @@ third_nav_title: Crestan Parent
 
 #### Term Letters 2023
   
+[2023 Start of Term 3 Letter to Parents.pdf](/files/2023-start-of-term-3-letter-to-parents.pdf)<br>
 [2023 Start of Term 2 Letter to Parents.pdf](/files/p4.pdf)<br>
 [2023 Start of Term 1 Letter to Parents.pdf](/files/p5.pdf)
 
