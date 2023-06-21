@@ -42,9 +42,8 @@ third_nav_title: Key Information
 | Operating &amp; Administration Expenses | 16,705 | 17,840 | 7% |
 |  Others | 1,572 | 1,629 | 4% |
 |  **Total Expenses** |  **18,277** |  **19,469** | **7%** |
-
 | Surplus / (Deficit) | 1,662 | 1,430 | -14% |
-|:---:|:---:|:---:|:---:|
+
 
 
 **Statement of Financial Position**
