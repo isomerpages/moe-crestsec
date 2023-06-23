@@ -9,6 +9,6 @@ third_nav_title: Non Teaching Staff
 | Name | Designation | Email |
 |:---:|:---:|:---:|
 | Mr Klassen Charles Gerard | Technical Support Officer<br>(ICT &amp; Audio-Visual) | [klassen\_charles\_gerard@schools.gov.sg](mailto:klassen_charles_gerard@schools.gov.sg)<br> |
-| Mr James Pek | ICT Senior Officer | james_pek@crestse[james\_pek@crestsec.edu.sg](mailto:james_pek@crestsec.edu.sg).edu.sg |
+| Mr James Pek | ICT Senior Officer | [james\_pek@crestsec.edu.sg](mailto:james_pek@crestsec.edu.sg) |
 | Mr Amirul | Desktop Engineer (NCS) | [cssde@crestsec.edu.sg](mailto:cssde@crestsec.edu.sg) |
 | Mr Muneer | Desktop Engineer (NCS) | [muneer@crestsec.edu.sg](mailto:muneer@crestsec.edu.sg) |
