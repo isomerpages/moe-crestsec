@@ -14,7 +14,7 @@ third_nav_title: Teaching Staff
 | Ms Chan Mei Lian | Ms Chan | Teacher (ReC) | [chan\_mei\_lian@schools.gov.sg](mailto:chan_mei_lian@schools.gov.sg) |
 | Mr Chua Choon Hiong | Mr Chua | Teacher (ReC) | [chua\_choon\_hiong@schools.gov.sg](mailto:chua_choon_hiong@schools.gov.sg) |
 | Ms Khairiah Binti Jaafar | Ms Khairiah | Teacher (ReC) | [khairiah\_jaafar@schools.gov.sg](mailto:khairiah_jaafar@schools.gov.sg) |
-| Mr Chew Ming Zhe Zack | Mr Zack | Allied Educator (ReC) | [chew\_ming\_zhe\_zack@schools.gov.sg](mailto:chew_ming_zhe_zack@schools.gov.sg) |
+| Mr Chew Ming Zhe Zack | Mr Zack | Teacher (ReC) | [chew\_ming\_zhe\_zack@schools.gov.sg](mailto:chew_ming_zhe_zack@schools.gov.sg) |
 | Ms Fateha Binte Hashim | Ms Fateha | Technical Support Officer (ReC) | [Nurul\_fateha\_Hashim@schools.gov.sg](mailto:Nurul_fateha_Hashim@schools.gov.sg) |
 
 #### Objective
