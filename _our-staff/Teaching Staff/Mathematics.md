@@ -11,7 +11,7 @@ third_nav_title: Teaching Staff
 | Mdm Ong Siew Khim | Mdm Ong | Head of Department<br>(Maths)<br>(Science) | [ong\_siew\_khim\_b@schools.gov.sg](mailto:ong_siew_khim_b@schools.gov.sg) |
 | Ms Goh Jia Li | Ms Goh | Year Head<br>Teacher (Maths) | [goh\_jia\_li@schools.gov.sg](mailto:goh_jia_li@schools.gov.sg) |
 | Ms Ho Su Ching Eunice | Ms Ho | Subject Head (Maths)<br>Teacher (Maths) | [ho\_su\_ching\_eunice@schools.gov.sg](mailto:ho_su_ching_eunice@schools.gov.sg) |
-| Mr Lee Joshua | Mr Joshua | Subject Head<br>(Character and Citizenship Education)<br>Teacher (Maths) | [lee\_joshua@schools.gov.sg](mailto:lee_joshua@schools.gov.sg) |
+| Mr Lee Joshua | Mr Joshua | Head pof Department<br>(Character and Citizenship Education)<br> [covering] | [lee\_joshua@schools.gov.sg](mailto:lee_joshua@schools.gov.sg) |
 | Mr Pu Siang Beng | Mr Pu | Senior Teacher<br>(Student Support &amp; Maths) | [pu\_siang\_beng@schools.gov.sg](mailto:pu_siang_beng@schools.gov.sg) |
 | Mr Lim Kian Chuan | Mr Lim | Teacher (Maths) | [lim\_kian\_chuan@schools.gov.sg](mailto:lim_kian_chuan@schools.gov.sg) |
 | Mr Lim Weiming | Mr Lim | Teacher (Maths) | [lim\_weiming@schools.gov.sg](mailto:lim_weiming@schools.gov.sg) |
