@@ -15,7 +15,6 @@ third_nav_title: Teaching Staff
 | Mr Dave Yuen Wei Dong | Mr Yuen | Teacher (CRO) | [yuen\_wei\_dong\_dave@schools.gov.sg](mailto:yuen_wei_dong_dave@schools.gov.sg) |
 | Mr Paul Ling | Mr Ling | Teacher (CRO) | [ling\_chee\_kwong@schools.gov.sg](mailto:ling_chee_kwong@schools.gov.sg) |
 | Mr Ong Chin Koon | Mr Ong | Teacher (CRO) | [ong\_chin\_koon@schools.gov.sg](mailto:ong_chin_koon@schools.gov.sg) |
-| Mr Tham Kah Thong Thomas | Mr Tham | Teacher (CRO) | [tham\_kah\_thong\_thomas@schools.gov.sg](mailto:tham_kah_thong_thomas@schools.gov.sg) |
 | Ms Cherish Law | Ms Law | Allied Educator (CRO) | [law\_zhen\_xi@schools.gov.sg](mailto:law_zhen_xi@schools.gov.sg) |
 | Ms Natasha Qhalisha | Ms Natasha | Executive (CRO) | [natasha\_qhalisha\_japri@schools.gov.sg](mailto:natasha_qhalisha_japri@schools.gov.sg) |
 | Ms Liyana Binte Samson | Ms Yana | Operations Support Officer (CRO) | na |
