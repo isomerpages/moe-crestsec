@@ -219,4 +219,5 @@ description: ""
 | 5 | Celest Ling Ching Ching | School Counsellor |
 | 6 | Yap Zheng Jie Joseph | School Counsellor |
 | 7 | Wong Teck Boon Anthony | School Counsellor |
-| 8 | Ng Hsiao Huei Hilda | Student Welfare Officer |
+| 8 | Ng Hsiao Huei Hilda | Student Welfare Officer 
+| 9 | Ms Sanchana Raghavan Naidu | Student Welfare Officer |
