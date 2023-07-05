@@ -44,15 +44,14 @@ description: ""
 
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
-| 1 | Tan Hui Ying Joycelyn | Head of Department (Character & Citizenship Education) |
-| 2 | Muszalifa Binte Aman | Subject Head (Malay Language) |
-| 3 | Raihanah Beevi | Assistant Year Head |
+| 1 | Muszalifa Binte Aman | Subject Head (Malay Language) |
+| 2 | Raihanah Beevi | Assistant Year Head |
+| 3 | Lim Michelle | Subject Head (Chinese Language) [covering]|
 | 4 | Tan Chia Chia | Teacher (Chinese Language) |
 | 5 | Ho Yuen Ming Vicky | Teacher (Chinese Language) |
-| 6 | Lim Michelle | Teacher (Chinese Language) |
-| 7 | Maznunnisha Binte Abdul Aziz | Teacher (Malay Language) |
-| 8 | Nadhirah Binte Ismail | Teacher (Malay Language) |
-| 9 | Nur Izziana Binte Kamaruddin | Teacher (Malay Language) |
+| 6 | Maznunnisha Binte Abdul Aziz | Teacher (Malay Language) |
+| 7 | Nadhirah Binte Ismail | Teacher (Malay Language) |
+| 8 | Nur Izziana Binte Kamaruddin | Teacher (Malay Language) |
 
 #### Math & Science
 
@@ -60,12 +59,12 @@ description: ""
 |:---:|:---:|:---:|
 | 1 | Ong Siew Khim | Head of Department (Mathematics & Science) |
 | 2 | Goh Jia Li | Year Head |
-| 3 | Foo Mei Yeng | Assistant Year Head |
-| 4 | Tan Teck Hong (Jason) | Subject Head (Discipline) |
-| 5 | Lin Yuxuan, Den | Subject Head (Info-Communications Technology) |
-| 6 | Ho Su Ching Eunice | Subject Head (Mathematics) [covering] |
-| 7 | Ooi Heng | Subject Head (Science) [covering] |
-| 8 | Lee Joshua | Subject Head (Student Well-Being) |
+| 3 | Lee Joshua | Head of Department (Character & Citizenship Education) [covering] |
+| 4 | Foo Mei Yeng | Assistant Year Head |
+| 5 | Tan Teck Hong (Jason) | Subject Head (Discipline) |
+| 6 | Lin Yuxuan, Den | Subject Head (Info-Communications Technology) |
+| 7 | Ho Su Ching Eunice | Subject Head (Mathematics) |
+| 8 | Ooi Heng | Subject Head (Science & Environmental Education) |
 | 9 | Pu Siang Beng | Senior Teacher (Student Support) |
 | 10 | Lim Kian Chuan | Teacher (Mathematics) |
 | 11 | Lim Weiming | Teacher (Mathematics) |
