@@ -9,6 +9,7 @@ third_nav_title: Academic
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
 | Ms Janice Tay Siew Mei | Ms Tay | Subject Head<br>(Physical Education)<br>(Co-Curricular Activities) | [tay\_siew\_mei\_janice@schools.gov.sg](mailto:tay_siew_mei_janice@schools.gov.sg) |
+| Mr Ryan Wong | Mr Wong | Subject Head<br>(Physical Education)<br>(Co-Curricular Activities) | [wong\_pee\_wah@schools.gov.sg](mailto:wong_pee_wah@schools.gov.sg) |
 | Mr Alvin How Wing Cheong | Mr How | Subject Head<br>(Student Leadership)<br>Teacher<br>(Physical Education) | [how\_wing\_cheong\_alvin@schools.gov.sg](mailto:how_wing_cheong_alvin@schools.gov.sg) |
 | Mr Muhammad Fareed Bin Hashim | Mr Fareed | Assistant Year Head<br>Teacher<br>(Physical Education) | [fareed@crestsec.edu.sg](mailto:fareed@crestsec.edu.sg) |
 | Mr Mohammed Rohan Bin Ismail | Mr Rohan | Teacher<br>(Physical Education) | [mohammed\_rohan\_ismail@schools.gov.sg](mailto:mohammed_rohan_ismail@schools.gov.sg) |
