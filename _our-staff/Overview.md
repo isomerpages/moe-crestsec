@@ -131,25 +131,24 @@ description: ""
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
 | 1 | Lee Ching Yong | Head of Department (Retail &amp; E-Commerce) [Covering] |
-| 2 | Ng Wee Kee | Teacher (Retail &amp; E-Commerce) |
-| 3 | Tan Farah Imran | Teacher (Retail &amp; E-Commerce) |
-| 4 | Chan Mei Lian | Teacher (Retail &amp; E-Commerce) |
+| 2 | Chan Mei Lian | Subject Head (Retail &amp; E-Commerce) [covering] |
+| 3 | Ng Wee Kee | Teacher (Retail &amp; E-Commerce) |
+| 4 | Tan Farah Imran | Teacher (Retail &amp; E-Commerce) |
 | 5 | Chua Choon Hiong | Teacher (Retail &amp; E-Commerce) |
 | 6 | Khairiah Binti Jaafar | Teacher (Retail &amp; E-Commerce) |
-| 7 | Chew Ming Zhe Zack | Allied Educator (Retail &amp; E-Commerce) |
+| 7 | Chew Ming Zhe Zack | Teacher (Retail &amp; E-Commerce) |
 | 8 | Nurul Fateha Binte Hashim | Technical Support Officer (Retail &amp; E-Commerce) |
 
 #### Mechanical Design &amp; Automation
 
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
-| 1 | Chang Chow Khin | Head of Department (Mechanical Design &amp; Automation) |
-| 2 | Ang Lay Beng | Senior Teacher (Mechanical Design &amp; Automation) |
-| 3 | Lim Swee Huat | Teacher (Mechanical Design &amp; Automation) |
-| 4 | Tan Eng Choon | Teacher (Mechanical Design &amp; Automation) |
-| 5 | Mohamed Althaf Shathali | Teacher (Mechanical Design &amp; Automation) |
-| 6 | Muhammad Zaki Bin Hosain | Teacher (Mechanical Design &amp; Automation) |
-| 7 | Hisham Bin Md Sabidi | Senior Technical Support Officer (Mechanical Design &amp; Automation) |
+| 1 | Ang Lay Beng | Senior Teacher (Mechanical Design &amp; Automation) |
+| 2 | Lim Swee Huat | Teacher (Mechanical Design &amp; Automation) |
+| 3 | Tan Eng Choon | Teacher (Mechanical Design &amp; Automation) |
+| 4 | Mohamed Althaf Shathali | Teacher (Mechanical Design &amp; Automation) |
+| 5 | Muhammad Zaki Bin Hosain | Teacher (Mechanical Design &amp; Automation) |
+| 6 | Hisham Bin Md Sabidi | Senior Technical Support Officer (Mechanical Design &amp; Automation) |
 
 #### Internet-Of-Things Applications &amp; Mobile Web Applications
 
