@@ -8,7 +8,6 @@ third_nav_title: Teaching Staff
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Kong Chee Chong Justin | Mr Kong | Head of Department (Mechanical &amp; Design A) | [kong\_chee\_chong\_justin@schools.gov.sg](mailto:kong_chee_chong_justin@schools.gov.sg) |
 | Ms Ang Lay Beng | Ms Ang | Senior Teacher (MDA) | [ang\_lay\_beng@schools.gov.sg](mailto:ang_lay_beng@schools.gov.sg) |
 | Mr Tan Eng Choon | Mr Tan | Teacher (MDA) | [tan\_eng\_choon@schools.gov.sg](mailto:tan_eng_choon@schools.gov.sg) |
 | Mr Lim Swee Huat | Mr Lim | Teacher (MDA) | [lim\_swee\_huat@schools.gov.sg](mailto:lim_swee_huat@schools.gov.sg) |
