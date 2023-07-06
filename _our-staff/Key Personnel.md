@@ -9,15 +9,15 @@ description: ""
 
 | Name | Designation | Email |
 |:---:|:---:|:---:|
-| Ms Juliana Chee | Head of Department<br>(English Language) | chee_pey_ling_juliana@schools.gov.sg |
-| Ms Lisa Lok | Head of Department<br>(Aesthetics)<br>(Co-Curricular Activities) | lok_lai_hoong@schools.gov.sg |
-| Mr Adrian Tan | Head of Department<br>(Discipline) | adrian_tan@schools.gov.sg |
-| Mr Lucas Teo | Head of Department<br>(Organisational Learning &amp; Development) | teo_zhiliang@schools.gov.sg |
-| Mdm Ong Siew Khim | Head of Department<br>(Maths)<br>(Science) | ong_siew_khim_b@schools.gov.sg |
-| Mr Bay Siow Lon | Head of Department<br>(Student Support) | bay_siow_lon@schools.gov.sg |
-| Mr Lee Ching Yong | Head of Department<br>(Culinary Restaurant Operations)<br>(Retail &amp; E-Commerce)<br> | lee_ching_yong@schools.gov.sg |
-| Mr Andy Lam | Head of Department<br>(Information and Communications Technology) | andy_lam_kum_cheong@schools.gov.sg |
-| Mr Lee Joshua | Head pof Department<br>(Character and Citizenship Education)<br> [covering] | lee_joshua@schools.gov.sg |
+| Ms Juliana Chee | HOD<br>(English Language) | chee_pey_ling_juliana@schools.gov.sg |
+| Ms Lisa Lok | HOD<br>(Aesthetics)<br>(Co-Curricular Activities) | lok_lai_hoong@schools.gov.sg |
+| Mr Adrian Tan | HOD<br>(Discipline) | adrian_tan@schools.gov.sg |
+| Mr Lucas Teo | HOD<br>(Organisational Learning &amp; Development) | teo_zhiliang@schools.gov.sg |
+| Mdm Ong Siew Khim | HOD<br>(Maths)<br>(Science) | ong_siew_khim_b@schools.gov.sg |
+| Mr Bay Siow Lon | HOD<br>(Student Support) | bay_siow_lon@schools.gov.sg |
+| Mr Lee Ching Yong | HOD<br>(Culinary Restaurant Operations)<br>(Retail &amp; E-Commerce)<br> | lee_ching_yong@schools.gov.sg |
+| Mr Andy Lam | HOD<br>(Information and Communications Technology) | andy_lam_kum_cheong@schools.gov.sg |
+| Mr Lee Joshua | HOD<br>(Character and Citizenship Education)<br> [covering] | lee_joshua@schools.gov.sg |
 
  
 #### Year Heads/ASST Year Heads
@@ -49,7 +49,7 @@ description: ""
 | Ms Amy Chan  | Subject Head<br>(English Language) | chan_lay_ling_amy@schools.gov.sg |
 | Ms Muszalifa Binte Aman | Subject Head<br>(Malay Language)| muszalifa_aman@schools.gov.sg |
 | Ms Eunice Ho | Subject Head (Maths)| ho_su_ching_eunice@schools.gov.sg |
-| Mr Den Lin | Subject Head<br>(Infocomm Technology) | lin_yuxuan_den@schools.gov.sg |
+| Mr Den Lin | Subject Head<br>(Information and Communications Technology) | lin_yuxuan_den@schools.gov.sg |
 | Mr Ooi Heng | Subject Head (Science &amp; Environmental Education) | ooi_heng@schools.gov.sg |
 | Mr Jason Tan | Subject Head (Discipline) | tan_teck_hong@schools.gov.sg |
 | Mr Eugene Lim | Subject Head (Internet of Things Applications) | lim_ming_hui_eugene@schools.gov.sg |
