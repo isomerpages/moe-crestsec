@@ -4,7 +4,7 @@ permalink: /programmes/academic-curriculum/mathematics/
 description: ""
 third_nav_title: Academic
 ---
-### Mathematics NA and NT
+### Mathematics
 
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
