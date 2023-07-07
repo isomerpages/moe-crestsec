@@ -9,7 +9,7 @@ third_nav_title: Academic
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
 | Ms Chee Pey Ling Juliana | Ms Juliana | Head of Department<br>(English Language) | [chee\_pey\_ling\_juliana@schools.gov.sg](mailto:chee_pey_ling_juliana@schools.gov.sg) |
-| Mr Adrian Tan Liang Huat | Mr Tan | Head of Department(Discipline) | [adrian\_tan@schools.gov.sg](mailto:adrian_tan@schools.gov.sg) |
+| Mr Adrian Tan Liang Huat | Mr Tan | Head of Department<br>(Discipline) | [adrian\_tan@schools.gov.sg](mailto:adrian_tan@schools.gov.sg) |
 | Mr Othman Arsan Bin Mohd Abubakar | Mr Othman | Year Head<br>Teacher (English Language) | [othman\_arsan\_mohd\_abubakar@schools.gov.sg](mailto:othman_arsan_mohd_abubakar@schools.gov.sg) |
 | Ms Chan Lay Ling, Amy | Ms Chan | Subject Head<br>(English Language) | [chan\_lay\_ling\_amy@schools.gov.sg](mailto:chan_lay_ling_amy@schools.gov.sg) |
 | Ms Siti Nurharnani Binte Nahar | Ms Siti | Subject Head<br>(Character and Citizenship Education)<br>[covering]<br>Teacher (English Language) | [siti\_nurharnani\_nahar@schools.gov.sg](mailto:siti_nurharnani_nahar@schools.gov.sg) |
