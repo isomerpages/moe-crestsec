@@ -16,7 +16,7 @@ description: ""
 | Mdm Ong Siew Khim | HOD<br>(Maths)<br>(Science) | ong_siew_khim_b@schools.gov.sg |
 | Mr Bay Siow Lon | HOD<br>(Student Support) | bay_siow_lon@schools.gov.sg |
 | Mr Lee Ching Yong | HOD<br>(Culinary Restaurant Operations)<br>(Retail &amp; E-Commerce)<br> | lee_ching_yong@schools.gov.sg |
-| Mr Andy Lam | HOD<br>(Information and Communications Technology) | andy_lam_kum_cheong@schools.gov.sg |
+| Mr Andy Lam | HOD<br>(Infocommunications Technology) | andy_lam_kum_cheong@schools.gov.sg |
 | Mr Lee Joshua | HOD<br>(Character and Citizenship Education)<br> [covering] | lee_joshua@schools.gov.sg |
 
  
