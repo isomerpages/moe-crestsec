@@ -8,7 +8,6 @@ third_nav_title: Vocational
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Kong Chee Chong Justin | Mr Kong | Head of Department  | kong_chee_chong_justin@schools.gov.sg |
 | Ms Ang Lay Beng | Ms Ang | Senior Teacher | ang_lay_beng@schools.gov.sg |
 | Mr Tan Eng Choon | Mr Tan | Teacher | tan_eng_choon@schools.gov.sg |
 | Mr Lim Swee Huat | Mr Lim | Teacher | lim_swee_huat@schools.gov.sg |
