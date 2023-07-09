@@ -35,7 +35,7 @@ Parent and Child Activities
 
 <em>"The teachers at Crest are really passionate and caring! I appreciate that they go out of the way to keep us informed of our child’s progress. The parent-child bonding activities have most certainly brought me closer to my child."</em><br><b>-&nbsp;Mdm Sharon Tan (Crest PAL ExCo Chairperson, Year 2019-2020)</b>
 
-&nbsp;<em>“I feel that Crest Secondary is best suited for N(T) students because of the unique curriculum that allows for more experiential learning beyond the classroom. I also like the culture of the school where emphasis is on character building and teamwork.”</em><br><b>-&nbsp;Mdm Fanny Cheong (Crest PAL ExCo Vice-Chairperson, Year 2019-2020)</b>
+&nbsp;<em>“I feel that Crest Secondary is best suited for the students because of the unique curriculum that allows for more experiential learning beyond the classroom. I also like the culture of the school where emphasis is on character building and teamwork.”</em><br><b>-&nbsp;Mdm Fanny Cheong (Crest PAL ExCo Vice-Chairperson, Year 2019-2020)</b>
 
 	
 #### Crest PAL Interviews
