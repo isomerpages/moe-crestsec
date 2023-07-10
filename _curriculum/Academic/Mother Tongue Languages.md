@@ -8,7 +8,7 @@ third_nav_title: Academic
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Muszalifa Binte Aman | Ms Ifa | Subject Head<br>(Malay Language) | [muszalifa\_aman@schools.gov.sg](mailto:muszalifa_aman@schools.gov.sg)|
+| Ms Muszalifa Binte Aman | Ms Ifa | Subject Head<br>(Malay Language) | [muszalifa\_aman@schools.gov.sg](mailto:muszalifa_aman@schools.gov.sg)|
 | Ms Michelle Lim | Ms Lim | Subject Head (Chinese Language) [covering] | [lim\_michellen@schools.gov.sg](mailto:lim_michellen@schools.gov.sg)|
 | Ms Raihanah Beevi | Ms Beevi | Assistant Year Head<br>Teacher (Tamil Language) | [raihanah\_beevi@schools.gov.sg](mailto:raihanah_beevi@schools.gov.sg) |
 | Mdm Tan Chia Chia | Mdm Tan | Teacher (Chinese Language) | [tan\_chia\_chia@schools.gov.sg](mailto:tan_chia_chia@schools.gov.sg) |

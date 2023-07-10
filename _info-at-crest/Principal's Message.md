@@ -25,7 +25,7 @@ Crest Secondary is also a home to all the teachers as none them are posted here 
 
   
 
-In Crest Secondary, we help our students re-define success in life as we recognise that many of them are&nbsp;**N**aturally&nbsp;**T**alented (another abbreviation for NT) and are good with their hands. As the first Specialised School for&nbsp;**N**ormal&nbsp;**T**echnical (NT) stream, we are able to innovate and do things differently with our "**3R**" mission:
+In Crest Secondary, we help our students re-define success in life as we recognise that many of them are naturally talented and are good with their hands. As a school that offers a hybrid academic-vocational curriculum, we are able to innovate and do things differently with our "**3R**" mission:
 
   
 
@@ -41,7 +41,7 @@ In Crest Secondary, we help our students re-define success in life as we recogni
 
   
 
-It is my pleasure to work alongside my team of dedicated teachers and staff who have a big heart for NT students and who have joined Crest to play a role in this exceptional “life-giving” and “life-changing” work. I am so glad we all share a common vision, and a strong conviction and belief that every student can become someone significant with strength of character who can contribute to our community, Singapore and beyond. This is why our school vision is “Advocating a Promising Future for Every Student” in Crest.
+It is my pleasure to work alongside my team of dedicated teachers and staff who have a big heart for our students and who have joined Crest to play a role in this exceptional “life-giving” and “life-changing” work. I am so glad we all share a common vision, and a strong conviction and belief that every student can become someone significant with strength of character who can contribute to our community, Singapore and beyond. This is why our school vision is “Advocating a Promising Future for Every Student” in Crest.
 
   
 

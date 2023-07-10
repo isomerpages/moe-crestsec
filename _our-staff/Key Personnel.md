@@ -16,7 +16,7 @@ description: ""
 | Mdm Ong Siew Khim | HOD<br>(Maths)<br>(Science) | ong_siew_khim_b@schools.gov.sg |
 | Mr Bay Siow Lon | HOD<br>(Student Support) | bay_siow_lon@schools.gov.sg |
 | Mr Lee Ching Yong | HOD<br>(Culinary Restaurant Operations)<br>(Retail &amp; E-Commerce)<br> | lee_ching_yong@schools.gov.sg |
-| Mr Andy Lam | HOD<br>(Information and Communications Technology) | andy_lam_kum_cheong@schools.gov.sg |
+| Mr Andy Lam | HOD<br>(Infocommunications Technology) | andy_lam_kum_cheong@schools.gov.sg |
 | Mr Lee Joshua | HOD<br>(Character and Citizenship Education)<br> [covering] | lee_joshua@schools.gov.sg |
 
  
@@ -60,4 +60,4 @@ description: ""
 | Mr Ryan Wong | Subject Head<br>(Physical Education)<br>(Co-Curricular Activities) | wong_pee_wah@schools.gov.sg |
 | Ms Siti Nurharnani Binte Nahar | Subject Head<br>(Character and Citizenship Education)<br>[covering]| siti_nurharnani_nahar@schools.gov.sg |
 | Ms Michelle Lim | Subject Head <br> (Chinese Language) <br>[covering] | lim_michellen@schools.gov.sg|
-| Ms Chan Mei Lian | Subject Head (Retail &amp; E-Commerce) [covering] | chan_mei_lian@schools.gov.sgols.gov.sg
+| Ms Chan Mei Lian | Subject Head <br>(Retail &amp; E-Commerce) [covering] | chan_mei_lian@schools.gov.sgols.gov.sg
