@@ -25,7 +25,7 @@ Crest Secondary is also a home to all the teachers as none them are posted here 
 
   
 
-In Crest Secondary, we help our students re-define success in life as we recognise that many of them are naturally talented and are good with their hands. We are able to innovate and do things differently with our "**3R**" mission:
+In Crest Secondary, we help our students re-define success in life as we recognise that many of them are naturally talented and are good with their hands. As a school that offers a hybrid academic-vocational curriculum, we are able to innovate and do things differently with our "**3R**" mission:
 
   
 
