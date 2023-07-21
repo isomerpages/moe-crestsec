@@ -51,4 +51,4 @@ Our department aims to empower Crestans with the&nbsp;skills&nbsp;and&nbsp;knowl
 | Making circuits work |   | Set up various types of input sensors and output devices and actuators so that these various I/O can interact and perform manual or automatic control via an internet gateway.  |
 |   |   | Set up and implement a small-scale IOT project to enable and transform a typical Home/Office into a Smart Home/Office that can be controlled via a mobile device.  |
 |   |   | Develop students’ interest in post-secondary electronics and ICT-based education. |
-|   |   | Upon getting a Pass in this ISS, the student will be recognized by ITE to have met the Nitec course minimum entry requirement in lieu of an N(T) Science subject.   |
+|   |   | Upon getting a Pass in this ISS, the student will be recognized by ITE to have met the Nitec course minimum entry requirement in lieu of a Science subject.   |

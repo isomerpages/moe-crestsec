@@ -56,7 +56,7 @@ With conviction , passion and perseverance , anyone can be empowered to make a d
 
 <img src="/images/retail6.png" style="width:100%">
 
-Words like ‘big data analytics’ and ‘drone technology’ might be daunting to most youths. However this is not the case for the participants of the IgnITE Skills Challenge 2019.The competition which was organised by the Institute Technical of Education (ITE) and supported by the Ministry of Education (MOE), is the only competition which assesses the skills of students who are in the Normal streams. In this 4th edition of the competition, more than 1,800 students took part. This is a significant increase in numbers as compared to previous years.  
+Words like ‘big data analytics’ and ‘drone technology’ might be daunting to most youths. However this is not the case for the participants of the IgnITE Skills Challenge 2019. The competition which was organised by the Institute Technical of Education (ITE) and supported by the Ministry of Education (MOE). In this 4th edition of the competition, more than 1,800 students took part. This is a significant increase in numbers as compared to previous years.  
 
 Crest Secondary School (CSS) emerged as the overall champion this year. Two teams from CSS attained the top positions in two categories. Team ‘J.A.S’ won the Retail Pop-Up challenge while another team, T.X.T., won the challenge for Social Media Retailing.&nbsp;
 
