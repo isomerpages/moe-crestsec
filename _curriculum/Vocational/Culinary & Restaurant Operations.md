@@ -47,7 +47,7 @@ The taster modules will give students an idea of what CRO will be like in Upper 
 
 #### Authentic Lunch
 
-Modelled after a fine dining concept, this signature programme is a collaborative effort by Secondary 3 and 4 CRO students. Staff and partners are invited for a two-course set meal cooked by the Secondary 3 and served by the Secondary 4 students. This allows the students to practice what they have learnt in an authentic, non-scripted environment.
+Modelled after a fine dining concept, this signature programme is a collaborative effort by CRO students. Staff and partners are invited for a two-course set meal cooked by the students. This allows the students to practice what they have learnt in an authentic, non-scripted environment.
 
 <img src="/images/cro3.png" style="width:100%">
 
@@ -55,7 +55,7 @@ Modelled after a fine dining concept, this signature programme is a collaborativ
 
 #### Makan @ Bistro
 
-<img src="/images/cro4.jpg" style="width:285px;height:240px;margin-right:25px;" align="left">Modelled after a casual dining establishment, this is an authentic learning event where the Secondary 4 CRO students cook and serve simple fare from an ala carte menu, to guests who are usually our own school staff. This allows the students to put into practice what they have learnt and acts as a lead-up to the Authentic Lunches.
+<img src="/images/cro4.jpg" style="width:285px;height:240px;margin-right:25px;" align="left">Modelled after a casual dining establishment, this is an authentic learning event where the CRO students cook and serve simple fare from an ala carte menu, to guests who are usually our own school staff. This allows the students to put into practice what they have learnt and acts as a lead-up to the Authentic Lunches.
 
 #### Sypnosis OF Culinary &amp; Restaurant Operations
 
