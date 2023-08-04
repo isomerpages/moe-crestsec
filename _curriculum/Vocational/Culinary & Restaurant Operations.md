@@ -47,7 +47,7 @@ The taster modules will give students an idea of what CRO will be like in Upper 
 
 #### Authentic Lunch
 
-Modelled after a fine dining concept, this signature programme is a collaborative effort by CRO students. Staff and partners are invited for a two-course set meal cooked by the students. This allows the students to practice what they have learnt in an authentic, non-scripted environment.
+Modelled after a fine dining concept, this signature programme is a collaborative effort by the CRO students. Staff and partners are invited for a two-course set meal cooked by the students. This allows the students to practice what they have learnt in an authentic, non-scripted environment.
 
 <img src="/images/cro3.png" style="width:100%">
 
