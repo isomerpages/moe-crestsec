@@ -10,6 +10,10 @@ third_nav_title: Useful Links
 
 [Sec 4 Parents Dialogue 2023.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/Sec%204%20Parents%20Dialogue%202023.pdf)  MORE THAN 5 MB
 
+#### Sec 2 Parents Dialogue 2023
+
+[Sec 4 Parents Dialogue 2023.pdf]
+
 
 #### Sec 1 Parents Dialogue 2023
 
