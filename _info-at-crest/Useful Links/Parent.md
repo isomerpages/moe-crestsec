@@ -8,17 +8,17 @@ third_nav_title: Useful Links
 
 #### Sec 4 Parents Dialogue 2023
 
-[Sec 4 Parents Dialogue 2023.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/Sec%204%20Parents%20Dialogue%202023.pdf)  MORE THAN 5 MB
+[Sec 4 Parents Dialogue 2023.pdf](/files/Sec%204%20Parents%20Dialogue%202023.pdf)  MORE THAN 5 MB
 
 #### Sec 2 Parents Dialogue 2023
 
-[Sec 2 Selection of ISS](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/ssec_2_parents_dialogue_2023.pdf)
+[Sec 2 Selection of ISS](/files/sec_2_parents_dialogue_2023.pdf)
 <br>
-[ISS FAQs](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/iss_faqs_8_Aug.pdf)
+[ISS FAQs](/files/iss_faqs_8_Aug.pdf)
 <br>
-[GOAL 2023](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/goal_2023_briefing.pdf)
+[GOAL 2023](/files/goal_2023_briefing.pdf)
 <br>
-[GOAL 2023 Q&amp;A](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/qa_goal.pdf)
+[GOAL 2023 Q&amp;A](/files/qa_goal.pdf)
 #### Sec 1 Parents Dialogue 2023
 
 [Sec 1 Parents Dialogue 2023.pdf](/files/p1.pdf)
