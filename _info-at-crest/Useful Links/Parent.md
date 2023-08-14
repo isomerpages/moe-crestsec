@@ -14,7 +14,7 @@ third_nav_title: Useful Links
 
 [Sec 2 Selection of ISS](/files/sec_2_parents_dialogue_2023.pdf)
 <br>
-[ISS FAQs](/files/iss_faqs_8_Aug.pdf)
+[ISS FAQs](/files/iss_faqs_8_aug.pdf)
 <br>
 [GOAL 2023](/files/goal_2023_briefing.pdf)
 <br>
