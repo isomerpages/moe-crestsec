@@ -12,7 +12,7 @@ Click the image to watch the CCA videos.
 |  |  |  |
 |---|---|---|
 | <a href="https://www.youtube.com/watch?v=2mIOcpBge98&amp;feature=youtu.be"><img style="width:85%" src="/images/co1.png"></a> | <a href="https://www.youtube.com/watch?v=3aPqUfJOvhQ&amp;feature=youtu.be"><img style="width:85%" src="/images/coc1.png"></a> | <a href="https://www.youtube.com/watch?v=Qxn7S6zhjlA&amp;feature=youtu.be"><img style="width:85%" src="/images/co3.png"></a> |
-| <a href="https://www.youtube.com/watch?v=1z6JVOeBPAk&amp;feature=youtu.be"><img style="width:85%" src="/images/co4.png"></a> | <a href="https://www.youtube.com/watch?v=9fckWw7vCS4&amp;list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&amp;index=10"><img style="width:85%" src="/images/co5.png"></a> | <a href="https://www.youtube.com/watch?v=xQ5b7OvW1w8&amp;list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&amp;index=11"><img style="width:85%" src="/images/coc2.png"></a> |
+| <a href="https://www.youtube.com/watch?v=9fckWw7vCS4&amp;list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&amp;index=10"><img style="width:85%" src="/images/co5.png"></a> | <a href="https://www.youtube.com/watch?v=xQ5b7OvW1w8&amp;list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&amp;index=11"><img style="width:85%" src="/images/coc2.png"></a> |  |
 
 #### Aesthetics
 
