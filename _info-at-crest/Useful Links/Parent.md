@@ -8,7 +8,7 @@ third_nav_title: Useful Links
 
 #### Sec 4 Parents Dialogue 2023
 
-[Sec 4 Parents Dialogue 2023](/files/sec_4_parents_dialogue_2023.pdf)  MORE THAN 5 MB
+[Sec 4 Parents Dialogue 2023](https://tinyurl.com/s4pd2023)  MORE THAN 5 MB
 
 #### Sec 3 Parents Dialogue 2023
 
