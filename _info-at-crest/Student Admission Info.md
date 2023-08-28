@@ -49,7 +49,7 @@ There are free one-way shuttle buses to ferry students to Crest Secondary School
 #### Frequently Asked Questions on Crest Secondary School (CSS)
 
   
-**1) Why is CSS set up as a Specialised School for Normal (Technical) students?**  
+**1) Why is CSS set up?**  
 MOE is committed to supporting the learning needs of all students. The establishment of CSS complements MOE’s on-going efforts in providing students with an engaging learning experience, such as a curriculum that emphasises the building of students’ self-motivation and self-esteem, character development, and literacy and numeracy skills. CSS offers a&nbsp;**customised four-year curriculum that integrates both academic learning and vocational training**&nbsp;to provide students with skills-based, practice-oriented learning experiences. In addition, Character and Citizenship Education undergirds CSS’ holistic education approach, with a strong focus on values education and social and emotional learning to prepare students for future learning, employment and adulthood.  
   
 **2) What is the curriculum offered at CSS?**  
