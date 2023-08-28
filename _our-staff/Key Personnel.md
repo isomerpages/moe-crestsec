@@ -59,5 +59,5 @@ description: ""
 | Ms Janice Tay | Subject Head<br>(Physical Education)<br>(Co-Curricular Activities) | tay_siew_mei_janice@schools.gov.sg |
 | Mr Ryan Wong | Subject Head<br>(Physical Education)<br>(Co-Curricular Activities) | wong_pee_wah@schools.gov.sg |
 | Ms Siti Nurharnani Binte Nahar | Subject Head<br>(Character and Citizenship Education)<br>[covering]| siti_nurharnani_nahar@schools.gov.sg |
-| Ms Michelle Lim | Subject Head <br> (Chinese Language) <br>[covering] | lim_michellen@schools.gov.sg|
+| Ms Michelle Lim | Subject Head <br> (Chinese Language) <br>[covering] | lim_michelle@schools.gov.sg|
 | Ms Chan Mei Lian | Subject Head <br>(Retail &amp; E-Commerce) [covering] | chan_mei_lian@schools.gov.sgols.gov.sg
