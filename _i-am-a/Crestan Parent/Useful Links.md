@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /i-am-a/crestan-parent/useful-links/
+permalink: /info-at-crest/useful-links/parent/
 description: ""
 third_nav_title: Crestan Parent
 ---
