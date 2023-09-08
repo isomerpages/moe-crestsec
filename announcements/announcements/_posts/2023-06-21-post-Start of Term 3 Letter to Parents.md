@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-Please click [here](https://www.crestsec.edu.sg/i-am-a/crestan-parent/useful-links/) to view the 2023 Start of Term 3 Letter to Parents.
+Please click [here](https://www.crestsec.edu.sg/info-at-crest/useful-links/parent/) to view the 2023 Start of Term 3 Letter to Parents.
