@@ -34,9 +34,8 @@ third_nav_title: Useful Links
 
 #### Term Letters 2023
 
-**Term 1**  
-[2023 Start of Term 2 Letter to Parents.pdf](/files/p4.pdf)
-
+[2023 Start of Term 4 Letter to Parents.pdf](/files/2023-t4-letter.pdf)<br>
+[2023 Start of Term 2 Letter to Parents.pdf](/files/p4.pdf)<br>
 [2023 Start of Term 1 Letter to Parents.pdf](/files/p5.pdf)
 
 #### School Lockdown Drill
