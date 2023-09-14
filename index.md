@@ -63,4 +63,12 @@ sections:
       title: Our Crest Stats
       image: /images/crest-numbers.jpg
       alt: Image alt text
+  - infopic:
+      title: NIE Caring Teacher Award
+      id: infopic
+      description: Nominate your favourite teacher for the NIE Caring Teacher Award!
+      button: Click to find out more
+      url: /nie-cta-2024/
+      image: /images/poster-cta-2024.jpg
+      alt: Image alt text
 ---
