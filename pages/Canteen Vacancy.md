@@ -1,6 +1,6 @@
 ---
 title: Canteen Vacancy
-permalink: /canteen-vacancy/
+permalink: /no-canteen-vacancy/
 description: ""
 ---
 **School Canteen Advertisement**
