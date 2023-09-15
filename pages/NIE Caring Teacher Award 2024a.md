@@ -8,7 +8,7 @@ description: ""
 <p>
 The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools who go beyond the call of duty, nurturing the holistic development of their students and ensuring their charges grow up to be confident, independent and resilient learners for our nation.
 <br><br>
-Please log in to [www.cta.nie.edu.sg](www.cta.nie.edu.sg) to nominate your favourite teacher! Alternatively, you may click [here](/files/nom-form-cta2024.pdf) to download the hardcopy and write on the nomination form.
+Please go to https://www.cta.nie.edu.sg/nominate to nominate your favourite teacher! Alternatively, you may download and write on the hardcopy nomination form.
 <br><br>
 Hard copy nomination forms are to be submitted to the school upon completion.
 </p>
