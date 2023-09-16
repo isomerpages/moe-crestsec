@@ -1,6 +1,6 @@
 ---
-title: NIE Caring Teacher Award 2024a
-permalink: /nie-cta-2024a/
+title: NIE Caring Teacher Award 2024
+permalink: /nie-cta-2024/
 description: ""
 ---
 <img src="/images/poster-cta-2024.jpg" style="width:100%">
