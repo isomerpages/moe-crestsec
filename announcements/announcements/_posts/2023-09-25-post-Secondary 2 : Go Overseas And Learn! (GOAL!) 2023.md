@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Please click [here](https://www.crestsec.edu.sg/goal2023/) for briefing slides and FAQs on **Secondary 2 : Go Overseas And Learn! (GOAL!) 2023**
