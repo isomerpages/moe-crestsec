@@ -6,8 +6,8 @@ third_nav_title: Crestan
 ---
 ### Assessment Matters
 
-Please click the link below for the Secondary 1 to 3 Examination Timetable.  
-[Sec 1 to 3 Student Exam Timetable 2022.pd](/files/examtimetable.pdf)
+Please click the link below for the Secondary 3 End-of-year Examination Schedule.  
+[Sec 3 End-of-Year Exam Schedule 2023](/files/s3-eoy-exam-schedule-2023.pdf)
 
 #### Overview
 
