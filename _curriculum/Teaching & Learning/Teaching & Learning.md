@@ -1,8 +1,8 @@
 ---
-title: Teaching &amp; Learning
+title: Teaching & Learning
 permalink: /programmes/teaching-and-learning/
 description: ""
-third_nav_title: Teaching &amp; Learning
+third_nav_title: Teaching & Learning
 ---
 ### Teaching &amp; Learning
 
@@ -12,4 +12,4 @@ At Crest Secondary School, we have an integrated and authentic Total Curriculum 
 
 |  |  |  |  |
 |---|---|---|---|
-| <a href="https://moe-crestsec-staging.netlify.app/philosophy/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl1.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/fundamental-beliefs/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl2.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/guiding-principles/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl3.png"></a> | <a href="https://moe-crestsec-staging.netlify.app/curriculum-approach/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl4.png"></a> |
+| <a href="https://www.crestsec.edu.sg/philosophy/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl1.png"></a> | <a href="https://www.crestsec.edu.sg/fundamental-beliefs/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl2.png"></a> | <a href="https://www.crestsec.edu.sg/guiding-principles/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl3.png"></a> | <a href="https://www.crestsec.edu.sg/curriculum-approach/programmes/teaching-andlearning/"><img style="width:85%" src="/images/tl4.png"></a> |
