@@ -12,7 +12,8 @@ description: ""
 [https://drive.google.com/drive/folders/1\_\_fRzc0excL4dAQa4Tp6JuXBtntEEnHI?usp=sharing](https://drive.google.com/drive/folders/1__fRzc0excL4dAQa4Tp6JuXBtntEEnHI?usp=sharing)
 
 **Sarawak** :<br>
-[https://drive.google.com/drive/folders/1jPzQ87rxYZpRVyZbhFV-XdjkcJQQotfX?usp=sharing](https://drive.google.com/drive/folders/1jPzQ87rxY
+[https://drive.google.com/drive/folders/1jPzQ87rxYZpRVyZbhFV-XdjkcJQQotfX?usp=sharing](https://drive.google.com/drive/folders/1jPzQ87rxYZpRVyZbhFV-XdjkcJQQotfX?usp=sharing)
+
 
 ##### Frequently Asked Questions
-[Frquently Asked Questions](/files/goal-faq-2023.pdf)  
+[Frquently Asked Questions](/files/goal-faq-2023.pdf)
