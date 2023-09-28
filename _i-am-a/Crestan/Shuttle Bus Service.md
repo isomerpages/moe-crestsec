@@ -4,13 +4,4 @@ permalink: /i-am-a/crestan/shuttle-bus-service/
 description: ""
 third_nav_title: Crestan
 ---
-### Shuttle Bus Service
-
-Type of Buses: (i) One (1) unit of 45 seater bus<br>
-Number of trip: One (1) way trip only
-
-  
-
-In the event of any unforeseen circumstances or if students missed the bus, students are to take own public transport and make their way to the school. Students are to report such incidents to the Form Teacher or Admin Office when they arrive to the school.
-
-<img src="/images/busroutes.png" style="width:100%">
+Due to a persistent island wide shortage of drivers for both private and public buses, the school is unable to procure shuttle bus services for the school from 2 Jan 2024 onwards.  The one-way shuttle bus service will hence be ceased from year 2024 onwards. Students are to consider alternative transportation arrangements, such as utilizing public transportation options or carpooling. We appreciate support and understanding from students and parents/guardians.

@@ -3,7 +3,7 @@ title: About Crest
 permalink: /about-crest/
 description: ""
 ---
-<img src="/images/aboutcrest.jpg" style="width:450px;height:240px;margin-right: 25px;" align="left"> Crest Secondary School is a Specialised School offering a customised curriculum for students in the Normal (Technical) Stream. As a Specialised School, the school operates similar to an independent school.  
+<img src="/images/aboutcrest.jpg" style="width:450px;height:240px;margin-right: 25px;" align="left"> Crest Secondary School offers a customised curriculum for students in the G1 stream. The school operates similar to an independent school.  
 
   
 
@@ -16,11 +16,11 @@ The school is part of MOE’s West 4 Cluster of Schools.
 Our Background
 --------------
 
-Crest Secondary School, a Specialised School for Normal (Technical) students, took in its first batch of Secondary One students in January 2013. First announced by Prime Minister Lee Hsien Loong at the 2010 National Day Rally, the pioneering school team has selected Crest as the school’s name to underline the aspirational aim of helping every Crestan develop and rise to his/her potential, regardless of background, and to graduate as a confident individual, anchored in sound values and equipped with the skills to succeed in future learning, employment and life.
+Crest Secondary School, which offers a customised curriculum for G1 students, took in its first batch of Secondary One students in January 2013. First announced by Prime Minister Lee Hsien Loong at the 2010 National Day Rally, the pioneering school team has selected Crest as the school’s name to underline the aspirational aim of helping every Crestan develop and rise to his/her potential, regardless of background, and to graduate as a confident individual, anchored in sound values and equipped with the skills to succeed in future learning, employment and life.
 
   
 
-Crest’s pioneering team comprises experienced School Leaders, Heads of Department and Teachers seconded from the Ministry of Education and the Institute of Technical Education. Their decision to come on-board the school is motivated by their strong passion for working with N(T) students and making a significant difference in their lives.
+Crest’s pioneering team comprises experienced School Leaders, Heads of Department and Teachers seconded from the Ministry of Education and the Institute of Technical Education. Their decision to come on-board the school is motivated by their strong passion for working with G1 students and making a significant difference in their lives.
 
   
 
@@ -32,7 +32,7 @@ A key cornerstone of the school’s holistic education is the approach in buildi
 
   
 
-At the end of their four-year journey, Crestans will graduate with the GCE N(T) Level Certificate and the ITE Skills Subject Certificate (ISSC).
+At the end of their four-year journey, Crestans will graduate with the Singapore-Cambridge Secondary Education Certificate (SEC) and the ITE Skills Subject Certificate (ISSC).
 
 School Values
 -------------

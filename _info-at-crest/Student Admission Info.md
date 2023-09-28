@@ -38,11 +38,7 @@ There will be a briefing on SBB for students who are eligible. Parents will be c
 
 #### Bus Routes
 
-There are free one-way shuttle buses to ferry students to Crest Secondary School in the morning. To find out more information on the 3 bus routes, please click the link below.
-
-  
-
-[https://www.crestsec.edu.sg/crestan/shuttle-bus-service](https://www.crestsec.edu.sg/crestan/shuttle-bus-service)
+Due to a persistent island wide shortage of drivers for both private and public buses, the school is unable to procure shuttle bus services for the school from 2 Jan 2024 onwards.  The one-way shuttle bus service will hence be ceased from year 2024 onwards. Students are to consider alternative transportation arrangements, such as utilizing public transportation options or carpooling. We appreciate support and understanding from students and parents/guardians.
 
   
 
@@ -78,7 +74,7 @@ Starting from 2024, Crest Secondary School will participate in MOE’s S1 Postin
 Singapore Citizen students may apply for MOE Financial Assistance Scheme (MOE-FAS) if they meet the gross household income or per capital income criteria. The MOE-FAS provides needy students with free school textbooks and stationery, school uniform and vocational attire, shoes and socks, waiver of school and standard miscellaneous fees, and daily school meal and transport subsidies. Students can approach the school’s Administration Office for a MOE-FAS application form or download the application&nbsp;[from the website](https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Student%20Admission%20Info/MOE%20FAS%20Application%20Form%20for%20Specialised%20Schools1.pdf). Needy students who do not meet the eligibility criteria for MOE FAS may be considered for the School-Based FAS. Approval will be given on a case-by-case basis.  
   
 **9\. Does CSS provide bus shuttle service for students?**  
-Yes, CSS will provide free one-way morning bus shuttle services for students. The three bus shuttle service routes to CSS are from Chua Chu Kang Drive/Yew Tee (Route A), Jurong West/ Pioneer Road North (Route B) and Commonwealth/Clementi (Route C) respectively. Please refer to the insert in the brochure distributed to P6 Foundation students for details of the bus shuttle services.  
+Due to a persistent island wide shortage of drivers for both private and public buses, the school is unable to procure shuttle bus services for the school from 2 Jan 2024 onwards.  The one-way shuttle bus service will hence be ceased from year 2024 onwards. Students are to consider alternative transportation arrangements, such as utilizing public transportation options or carpooling. We appreciate support and understanding from students and parents/guardians.
   
 **10\. What are the school hours at CSS?**  
 The school hours in 2023 are as follows:  

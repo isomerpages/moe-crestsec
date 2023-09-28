@@ -1,19 +1,16 @@
 ---
-title: School Achievements
-permalink: /i-am-a/p6-student-parent/school-achievements/
+title: CCA draft
+permalink: /cca-draft/
 description: ""
-third_nav_title: P6 Student Parent
 ---
 ### School Achievements
 
 #### 2023
 
-| **School Achievements 2023**  |  |
-|:---:|:---:|
-| **Aesthetics / CCA Achievements** | ●     **INNOVATION CLUB - International E-Waste Day School Collection Drive 2023** <br> - Certificate Of Achievement for collecting the highest weight of e-waste<br>●     **DANCE  - Singapore Youth Festival Arts Presentation 2023**<br> - Accomplishment Award<br>- National Day Dinner Celebrations at Yuhua SMC<br>●     **POP BAND  - Singapore Youth Festival Arts Presentation 2023**<br> - Mallet Group: Commendation Award<br>- Percussion Group: Accomplishment<br>**GUITAR CLUB  - Singapore Youth Festival Arts Presentation 2023**<br> - Commendation Award<br><br> **COMMUNITY ENGAGEMENT:** ●     **ARTS &amp; EVENTS MANAGEMENT** - Emcees for Yuhua Chinese New Year Rice Distribution Event<br>●     **ENTREPRENEURSHIP CLUB** - Yuhua Chinese New Year Rice Distribution (Craft Booth)<br>- Mid-Autumn Festival (Craft Booth)<br>●     **SERVICE CLUB** - Mid-Autumn Festival Circus Arts Performance<br>●     **EXPLORER CLUB** - Mid-Autumn Festival (Craft Booth)<br><br>  ||
-| **Sports Group Achievements** | ●     **BASKETBALL** <br>- B and C boys and girls West Zone round 1<br> - Play Inclusive 2023 Male (13-15 Age Group) 1st place<br> - Play Inclusive 2023 Open (13-15 Age Group) 2nd place<br> - Participated in Pesta Sukan 2023 3-on-3 competition<br>●     **ATHLETICS** <br>- Participated in C Div 100m boys<br> - B Div 100m, 200m, 400m, 800m, 4x100m boys<br> - 4x100m B boys reached Semifinals<br>●     **FOOTBALL** <br>- League 1 B Division<br> - League 5 C Division Quarterfinals<br>●     **FLOORBALL** <br>- B boys Nationals round 1<br> - C boys Nationals Quarterfinals<br>●     **BADMINTON** <br>- B and C boys and girls west zone round 1<br> - Play Inclusive (10-15 Age Group) 3rd place<br> - Play Inclusive Open 4th place<br><br>
-| **Uniform Group Achievements** | ●     **GIRL GUIDES**<br> - National Day Observance Ceremony<br>●     **SCOUTS**<br> - National Day Observance Ceremony<br>
-| **IgnITE Skills Challenge 2023** | - Crest Secondary School was awarded **4 Gold, 1 Silver and 2 Bronze awards** in IgnITE Skills Challenge 2023. <br>- Overall, 42 teams from Crest participated in this year’s Challenge and 22 teams qualified for the Finals (in 11 out of 15 categories).<br><img src="/images/ig2023.jpg" style="width:100%"> |
+##### Aesthetics / CCA Achievements
+<br>**INNOVATION CLUB:** <br>●     **International E-Waste Day School Collection Drive 2023** <br> - Certificate Of Achievement for collecting the highest weight of e-waste<br><br>**DANCE:** <br>●     **Singapore Youth Festival Arts Presentation 2023**<br> - Accomplishment Award<br>- National Day Dinner Celebrations at Yuhua SMC<br><br>**POP BAND:**<br>●     **Singapore Youth Festival Arts Presentation 2023**<br> - Mallet Group: Commendation Award<br>- Percussion Group: Accomplishment <br><br>**GUITAR CLUB:**<br>●     **Singapore Youth Festival Arts Presentation 2023**<br> - Commendation Award<br><br>●     Badminton CCA - Taman Jurong Yuva Shuttle Fest 2022<br>- 1st Position for Under 16 Category (Female)<br>- 3rd Position for Under 14 Category (Female)<br>  |
+| **Uniform Group Achievements** | ●     Girl Guides - Puan Noor Aishah Award 2022<br> - Bronze Award<br>
+| **IgnITE Skills Challenge 2022** | ●     With 5 Gold and 1 Bronze awards, Crest Secondary was awarded the Overall Champion Trophy 2022 (5 times since 2017). This is also the best set of results that Crest has achieved to-date. <br>●     Overall, 43 teams from Crest participated in this year’s Challenge and 13 teams qualified for the Finals (in 8 out of 16 categories).<br><img src="/images/ig2022.png" style="width:100%"> |
 
 #### 2022
 
@@ -21,7 +18,7 @@ third_nav_title: P6 Student Parent
 |:---:|:---:|
 | **Aesthetics / CCA Achievements** | ●     Innovation Club - International E-Waste Day School Collection Drive 2022 <br> - Certificate Of Achievement for collecting the highest weight of e-waste<br>●     Visual Art Band - Singapore Youth Festival Arts Presentation 2022<br> - Certificate of Accomplishment were presented to 2 student art sculptures<br>●     Pop Band, Dance &amp; Service Club - National Day Celebrations at Yu Hua SMC <br>- Rousing performances at the 2022 Nation Day Grassroots Dinner<br>●     Badminton CCA - Taman Jurong Yuva Shuttle Fest 2022<br>- 1st Position for Under 16 Category (Female)<br>- 3rd Position for Under 14 Category (Female)<br>  |
 | **Uniform Group Achievements** | ●     Girl Guides - Puan Noor Aishah Award 2022<br> - Bronze Award<br>
-| **IgnITE Skills Challenge 2022** | **IgnITE Skills Challenge 2021**:<br><br>●     With 5 Gold and 1 Bronze awards, Crest Secondary was awarded the Overall Champion Trophy 2022 (5 times since 2017). This is also the best set of results that Crest has achieved to-date. <br>●     Overall, 43 teams from Crest participated in this year’s Challenge and 13 teams qualified for the Finals (in 8 out of 16 categories).<br><img src="/images/ig2022.png" style="width:100%"> |
+| **IgnITE Skills Challenge 2022** | ●     With 5 Gold and 1 Bronze awards, Crest Secondary was awarded the Overall Champion Trophy 2022 (5 times since 2017). This is also the best set of results that Crest has achieved to-date. <br>●     Overall, 43 teams from Crest participated in this year’s Challenge and 13 teams qualified for the Finals (in 8 out of 16 categories).<br><img src="/images/ig2022.png" style="width:100%"> |
 
 #### 2021
 
