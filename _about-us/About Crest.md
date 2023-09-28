@@ -32,7 +32,7 @@ A key cornerstone of the school’s holistic education is the approach in buildi
 
   
 
-At the end of their four-year journey, Crestans will graduate with the GCE N(T) Level Certificate and the ITE Skills Subject Certificate (ISSC).
+At the end of their four-year journey, Crestans will graduate with the Singapore-Cambridge Secondary Education Certificate (SEC) and the ITE Skills Subject Certificate (ISSC).
 
 School Values
 -------------
