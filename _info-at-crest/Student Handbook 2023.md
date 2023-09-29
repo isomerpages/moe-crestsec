@@ -5,4 +5,4 @@ description: ""
 ---
 ### Student Handbook 2023
 
-[Crest Sec HB 2023.pdf](/files/crest%20sec%20hb%202023.pdf)
+[Crest Sec HB 2023.pdf](/files/crestsec-hb-2023.pdf)
