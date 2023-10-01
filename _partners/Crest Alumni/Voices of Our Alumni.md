@@ -11,19 +11,19 @@ third_nav_title: Crest Alumni
   
 
 **Dayang Nur Indah Bte Mohamad Zaidi (Class of 2018)**
-<br>
+<br><br>
 <img align="right" style="width:183px;height:280px;margin-left:15px;" src="/images/voa2.png"> Crest has given me many opportunities to grow and I had many new experiences in Crest. The most memorable one was my first overseas trip with the school. It was my first time on an airplane and away from home without my parents. I learnt to be independent and work with others to achieve a common goal through this trip. The teachers in Crest are also very supportive. They constantly encouraged me not to give up and gave me practical advice to put my problems aside so that I can focus on my studies.
 
   
 **Siti Nur Qaidah Hutabarat Karel Julianus  
 (Class of 2017)**
-<br>
+<br><br>
 <img align="left" style="width:183px;height:310px;margin-right:15px;" src="/images/voa3.png"> I have many fond memories in Crest, especially the time spent with my teachers. I feel at ease when I talk to them and I can even crack jokes around them. I hope to be like my teachers, to be that positive influence to my juniors. That is why I volunteered to come back during the Secondary 1 orientation to help out.
 
   
 
 **Muhammad Aqil Bin Kamsani (Class of 2018)**
-<br>
+<br><br>
 <img align="right" style="width:200px;height:280px;margin-left:15px;" src="/images/voa4.png"> 
 
 **Why did you join Crest Alumni?** 
