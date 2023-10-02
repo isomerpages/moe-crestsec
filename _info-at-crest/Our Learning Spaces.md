@@ -3,9 +3,8 @@ title: Our Learning Spaces
 permalink: /learning-spaces/
 description: ""
 ---
-### Our Facilities
+### Our Learning Spaces
 
-Insert 3D browser here.
 
 |  |  |
 |---|---|
