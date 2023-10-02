@@ -6,8 +6,10 @@ third_nav_title: Crestan
 ---
 ### Assessment Matters
 
-Please click the link below for the Secondary 3 End-of-year Examination Schedule.  
+Please click the link below for the End-of-year Examination Schedules.  
 [Sec 3 End-of-Year Exam Schedule 2023](/files/s3-eoy-exam-schedule-2023.pdf)
+<br>
+[Sec 1 and Secc 2 End-of-Year Exam Schedule 2023](/files/s1and2-eoy-2023.pdf)
 
 #### Overview
 
