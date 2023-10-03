@@ -1,11 +1,10 @@
 ---
-title: Our Facilities
-permalink: /our-facilities-draft/
+title: Our Learning Spaces
+permalink: /info-at-crest/learning-spaces/
 description: ""
 ---
-### Our Facilities
+### Our Learning Spaces
 
-Insert 3D browser here.
 
 |  |  |
 |---|---|
