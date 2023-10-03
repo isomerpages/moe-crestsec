@@ -10,15 +10,17 @@ third_nav_title: Crest Alumni
 
 
 <p style="text-align: center;"><b>Calling all Crest Graduates!</b><br>As an alumnus of Crest, you are part of the Crest Family.<br>We welcome you to join the Crest Alumni and be updated with upcoming activities and events!<br>You’ll get opportunities to contribute to your alma mater by supporting school events as well as developing your juniors.<br>At the same time, you’ll be able to stay connected with ex-teachers and fellow alumni.</p>
-
+<br>
+<!--
 [Sign Up Now!](https://docs.google.com/forms/d/e/1FAIpQLScWZvPdJc85ffd3ZhE5wzCSntWF0EQh7z2uahGgb-BbpgPGWA/viewform)
+\-->
 
-
-| Subject Head of Chinese Language<br>and Partnership and Publicity |  Ms Eileen Ong |  ong_sok_eng_eileen@schools.gov.sg |
+| Head of Department (CRO and REC) |  Mr Lee Ching Yong |  lee_ching_yong@schools.gov.sg |
 |---|---|---|
-| Teachers in charge |  Ms Eunice Ho |  ho_su_ching_eunice@schools.gov.sg |
-|  |  Mr Desmond Chua |  chua_chin_choon_desmond@schools.gov.sg |
-|   |  Mr Dave Yuen |  yuen_wei_dong_dave@schools.gov.sg |
+| Teachers in charge |  Mr Eugene Lim |  lim_ming_hui_eugene@schools.gov.sg |
+|  |  Ms Vicky Ho |  ho_yuen_ming_vicky@schools.gov.sg |
+|   |  Ms Inna |  mutmainnah_saidi@schools.gov.sg |
+|   |  Mr Gordon Chua |  chua_choon_hiong@schools.gov.sg |
 
 #### Check out some stories of our alumni
 
