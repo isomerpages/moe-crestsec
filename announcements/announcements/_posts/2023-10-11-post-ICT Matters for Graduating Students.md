@@ -9,4 +9,4 @@ image: ""
 Graduating students, please click [here](https://www.crestsec.edu.sg/ict-graduating-students/) for the instructions for the following:
 
 - Backup your student iCON data, which MOE will remove on 31st December 2023.
-- Remove DMA restrictions on your PLD laptop, so that you can use the laptop without any limitations. 
+- Remove DMA restrictions on your PLD laptop, so that you can use the laptop without any limitations.
