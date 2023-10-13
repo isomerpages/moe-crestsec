@@ -18,5 +18,6 @@ Click [here](/files/takeout-guide-2023.pdf) to download the instructions on how 
 **2. Removing DMA from your laptop**
 <br>
 Click [here](/files/dma-offboard.pdf) to download the guide on how to remove DMA restrictions on your PLD laptop.
+<br>Note that you need to do the uninstallation of DMA before 31st December 2023.
 <br><br>
 If you require any assistance, please approach the ICT team at the ICT room on Level 5.
