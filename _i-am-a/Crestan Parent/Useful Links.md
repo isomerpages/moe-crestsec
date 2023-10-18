@@ -31,10 +31,12 @@ third_nav_title: Crestan Parent
 [PG letter to parents\_MOE FAS New.pdf](/files/p3.pdf)
 
 #### Term Letters 2023
-  
+
+[2023 End of Term 4 Letter to Parents.pdf](/files/2023-end-t4-letter.pdf)<br>[2023 Start of Term 4 Letter to Parents.pdf](/files/2023-t4-letter.pdf)<br>
 [2023 Start of Term 3 Letter to Parents.pdf](/files/2023-start-of-term-3-letter-to-parents.pdf)<br>
 [2023 Start of Term 2 Letter to Parents.pdf](/files/p4.pdf)<br>
 [2023 Start of Term 1 Letter to Parents.pdf](/files/p5.pdf)
+
 
 #### School Lockdown Drill
 
