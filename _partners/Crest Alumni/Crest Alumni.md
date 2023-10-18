@@ -6,8 +6,8 @@ third_nav_title: Crest Alumni
 ---
 ### Crest Alumni
 
-<img src="/images/c1.jpg" style="width:75%">
 <img src="/images/crest-alumni-10a.jpg" style="width:75%">
+
 
 
 <p style="text-align: center;"><b>Calling all Crest Graduates!</b><br>As an alumnus of Crest, you are part of the Crest Family.<br>We welcome you to join the Crest Alumni and be updated with upcoming activities and events!<br>You’ll get opportunities to contribute to your alma mater by supporting school events as well as developing your juniors.<br>At the same time, you’ll be able to stay connected with ex-teachers and fellow alumni.</p>
