@@ -23,6 +23,11 @@ sections:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
   - infopic:
+      title: Crest Open House 2023
+      id: infopic
+      image: /images/css-oh-2023.jpg
+      alt: Image alt text
+  - infopic:
       title: NIE Caring Teacher Award
       id: infopic
       description: Nominate your favourite teacher for the NIE Caring Teacher Award!
@@ -70,10 +75,5 @@ sections:
   - infopic:
       title: Our Crest Stats
       image: /images/crest-numbers.jpg
-      alt: Image alt text
-  - infopic:
-      title: Crest Open House 2023
-      id: infopic
-      image: /images/css-oh-2023.jpg
       alt: Image alt text
 ---
