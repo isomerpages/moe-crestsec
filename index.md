@@ -71,4 +71,9 @@ sections:
       title: Our Crest Stats
       image: /images/crest-numbers.jpg
       alt: Image alt text
+  - infopic:
+      title: Crest Open House 2023
+      id: infopic
+      image: /images/css-oh-2023.jpg
+      alt: Image alt text
 ---
