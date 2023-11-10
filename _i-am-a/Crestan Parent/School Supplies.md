@@ -1,8 +1,8 @@
 ---
 title: School Supplies
-permalink: /i-am-a/crestan/school-supplies/
+permalink: /i-am-a/crestan-parent/school-supplies/
 description: ""
-third_nav_title: Crestan
+third_nav_title: Crestan Parent
 variant: markdown
 ---
 ### School Supplies
