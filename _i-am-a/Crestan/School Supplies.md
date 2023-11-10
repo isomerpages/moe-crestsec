@@ -58,7 +58,7 @@ Thank you.
 
 
 
-[2023 School Uniform Shoes and Socks Price List](/files/2023-uniform-shoes-socks-pricelist.pdf)<br>
+[School Uniform Shoes and Socks Price List](/files/2023-uniform-shoes-socks-pricelist.pdf)<br>
 [Crest Secondary School 2024 Booklist Sec 1 G1](/files/css-booklist-sec1-g1.pdf)<br>
 [Crest Secondary School 2024 Booklist Sec 1 G2](/files/css-booklist-sec1-g2.pdf)<br>
 [Crest Secondary School 2024 Booklist Sec 2 G1/G2](/files/css-booklist-sec2-g1g2.pdf) <br>
