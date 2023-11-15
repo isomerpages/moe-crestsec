@@ -15,25 +15,25 @@ Special Rooms
 		</tr>
 		<tr>
 			<td style="width:208px;">
-			<p>Test 1</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 2</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 3</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 		</tr>
 		<tr>
 			<td style="width:208px;">
-			<p>Test 4</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 5</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 6</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -49,19 +49,19 @@ Special Rooms
 		</tr>
 		<tr>
 			<td style="width:312px;">
-			<p align="center">Cell 1</p>
-			</td>
+			<p align="center"><img src="/images/co1.png">
+			</p></td>
 			<td style="width:312px;">
-			<p align="center">Cell 2</p>
-			</td>
+			<p align="center"><img src="/images/co1.png">
+			</p></td>
 		</tr>
 		<tr>
 			<td style="width:312px;">
-			<p align="center">Cell 3</p>
-			</td>
+			<p align="center"><img src="/images/co1.png">
+			</p></td>
 			<td style="width:312px;">
-			<p align="center">Cell 4</p>
-			</td>
+			<p align="center"><img src="/images/co1.png">
+			</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -75,11 +75,11 @@ Special Rooms
 		</tr>
 		<tr>
 			<td style="width:312px;">
-			<p align="center">Cell 1</p>
-			</td>
+			<p align="center"><img src="/images/co1.png">
+			</p></td>
 			<td style="width:312px;">
-			<p align="center">Cell 2</p>
-			</td>
+			<p align="center"><img src="/images/co1.png">
+			</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -91,30 +91,31 @@ Special Rooms
 			<p align="center">Culinary and Restaurant Operations (CRO)</p>
 			</td>
 		</tr>
-		<tr>
+	<tr>
 			<td style="width:208px;">
-			<p>Test 1</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 2</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 3</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 		</tr>
 		<tr>
 			<td style="width:208px;">
-			<p>Test 4</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 5</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 6</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 		</tr>
 	</tbody>
 </table>
+
 
 <table cellspacing="0" cellpadding="0" border="1" align="right">
 	<tbody>
@@ -123,27 +124,27 @@ Special Rooms
 			<p align="center">Mechanical Design and Automation (MDA)</p>
 			</td>
 		</tr>
-		<tr>
+			<tr>
 			<td style="width:208px;">
-			<p>Test 1</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 2</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 3</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 		</tr>
 		<tr>
 			<td style="width:208px;">
-			<p>Test 4</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 5</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 			<td style="width:208px;">
-			<p>Test 6</p>
-			</td>
+			<p><img src="/images/co1.png">
+			</p></td>
 		</tr>
 	</tbody>
 </table>
