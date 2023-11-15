@@ -14,27 +14,21 @@ Special Rooms
 			</td>
 		</tr>
 		<tr>
-			<td style="width:208px;">
-			<p><img src="/images/co1.png">
-			</p></td>
-			<td style="width:208px;">
-			<p><img src="/images/co1.png">
-			</p></td>
-			<td style="width:208px;">
-			<p><img src="/images/co1.png">
-			</p></td>
-		</tr>
+			<td style="width:800px;">
+			<img src="/images/facilities_rec1.jpg">
+			</td><td style="width:800px;">
+			<img src="/images/facilities_rec2.jpg">
+			</td><td style="width:800px;">
+			<img src="/images/facilities_rec3.jpg">
+		</td></tr>
 		<tr>
-			<td style="width:208px;">
-			<p><img src="/images/co1.png">
-			</p></td>
-			<td style="width:208px;">
-			<p><img src="/images/co1.png">
-			</p></td>
-			<td style="width:208px;">
-			<p><img src="/images/co1.png">
-			</p></td>
-		</tr>
+			<td style="width:800px;">
+			<img src="/images/facilities_rec4.jpg">
+			</td><td style="width:800px;">
+			<img src="/images/facilities_rec5.jpg">
+			</td><td style="width:800px;">
+			<img src="/images/facilities_rec6.jpg">
+		</td></tr>
 	</tbody>
 </table>
 
