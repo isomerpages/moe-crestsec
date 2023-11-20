@@ -3,6 +3,7 @@ title: Co Curricular Activities
 permalink: /programmes/student-development/cca/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ### Co Curricular Activities
 
@@ -19,21 +20,21 @@ Click the image to watch the CCA videos.
 
 |  |  |  |
 |---|---|---|
-| <a href="https://www.youtube.com/watch?v=gOWDA5ND4uo&amp;feature=youtu.be"><img style="width:85%" src="/images/coc3.png"></a> | <a href="https://www.youtube.com/watch?v=mNmZuiQ7PnQ&amp;feature=youtu.be"><img style="width:85%" src="/images/co8.png"></a> | <a href="https://www.youtube.com/watch?v=cUnNvdbkb8M&amp;feature=youtu.be"><img style="width:85%" src="/images/co9.png"></a> |
-| <a href="https://www.youtube.com/watch?v=nwZlvgszELM&amp;feature=youtu.be"><img style="width:85%" src="/images/co10.png"></a> | <a href="https://www.youtube.com/watch?v=RNuCe_DRt9s&amp;list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&amp;index=18"><img style="width:85%" src="/images/co11.png"></a> |  |
+| <a href="https://www.youtube.com/watch?v=nwZlvgszELM&amp;feature=youtu.be"><img style="width:85%" src="/images/co10.png"></a> | <a href="https://www.youtube.com/watch?v=mNmZuiQ7PnQ&amp;feature=youtu.be"><img style="width:85%" src="/images/co8.png"></a> | <a href="https://www.youtube.com/watch?v=RNuCe_DRt9s&amp;list=PL8KJx-9KSZM-qjI7aoqAnmhfs4WcEHzGl&amp;index=18"><img style="width:85%" src="/images/co11.png"></a> |
+
 
 #### Uniformed Groups
 
 |  |  |  |
 |---|---|---|
-| <a href="https://www.youtube.com/watch?v=6m0B3xScsik&amp;feature=youtu.be"><img style="width:55%" src="/images/co12.png"></a> | <a href="https://www.youtube.com/watch?v=UtgKzwbjmjU&amp;feature=youtu.be"><img style="width:55%" src="/images/co13.png"></a> |  |
+| <a href="https://www.youtube.com/watch?v=6m0B3xScsik&amp;feature=youtu.be"><img style="width:55%" src="/images/co12.png"></a> |  |  |
 
 
 #### Clubs &amp; Societies
 
 |  |  |  |
 |---|---|---|
-| <a href="https://www.youtube.com/watch?v=Pi2UEReQzrY&amp;feature=youtu.be"><img style="width:85%" src="/images/co14.png"></a> | <a href="https://www.youtube.com/watch?v=LAmIIr0RIXw&amp;feature=youtu.be"><img style="width:85%" src="/images/co15.png"></a> | <a href="https://www.youtube.com/watch?v=J6_P8z7EgTU&amp;feature=youtu.be"><img style="width:85%" src="/images/co16.png"></a> |
+| <a href="https://www.youtube.com/watch?v=Pi2UEReQzrY&amp;feature=youtu.be"><img style="width:85%" src="/images/co14.png"></a> | <a href="https://www.youtube.com/watch?v=Z8k8-UxC7ik&amp;feature=youtu.be"><img style="width:85%" src="/images/co18.png"></a> | <a href="https://www.youtube.com/watch?v=J6_P8z7EgTU&amp;feature=youtu.be"><img style="width:85%" src="/images/co16.png"></a> |
 | <a href="https://www.youtube.com/watch?v=4R62nT87t84&amp;feature=youtu.be"><img style="width:85%" src="/images/co17.png"></a> | <a href="https://www.youtube.com/watch?v=Z8k8-UxC7ik&amp;feature=youtu.be"><img style="width:85%" src="/images/co18.png"></a> |  |
 
 
