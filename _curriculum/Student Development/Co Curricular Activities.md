@@ -35,7 +35,7 @@ Click the image to watch the CCA videos.
 |  |  |  |
 |---|---|---|
 | <a href="https://www.youtube.com/watch?v=Pi2UEReQzrY&amp;feature=youtu.be"><img style="width:85%" src="/images/co14.png"></a> | <a href="https://www.youtube.com/watch?v=Z8k8-UxC7ik&amp;feature=youtu.be"><img style="width:85%" src="/images/co18.png"></a> | <a href="https://www.youtube.com/watch?v=J6_P8z7EgTU&amp;feature=youtu.be"><img style="width:85%" src="/images/co16.png"></a> |
-| <a href="https://www.youtube.com/watch?v=4R62nT87t84&amp;feature=youtu.be"><img style="width:85%" src="/images/co17.png"></a> | <a href="https://www.youtube.com/watch?v=Z8k8-UxC7ik&amp;feature=youtu.be"><img style="width:85%" src="/images/co18.png"></a> |  |
+| <a href="https://www.youtube.com/watch?v=4R62nT87t84&amp;feature=youtu.be"><img style="width:85%" src="/images/co17.png"></a> |  |  |
 
 
 Crest offers CCAs from 4 broad categories. These are Sports &amp; Games, Aesthetics, Uniformed Groups, and Clubs &amp; Societies. To cater to students’ diverse interests, every student is assigned a CCA of his/her choice.
