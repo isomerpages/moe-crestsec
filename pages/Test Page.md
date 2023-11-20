@@ -4,7 +4,7 @@ permalink: /test-page/
 variant: markdown
 description: ""
 ---
-Special Rooms
+****Special Rooms****
 
 <table cellspacing="0" cellpadding="0" border="1" align="right">
 	<tbody>
@@ -32,8 +32,6 @@ Special Rooms
 	</tbody>
 </table>
 
-
-
 <table cellspacing="0" cellpadding="0" border="1">
 	<tbody>
 		<tr>
@@ -56,11 +54,12 @@ Special Rooms
 	</tbody>
 </table>
 
-<table cellspacing="0" cellpadding="0" border="1">
+
+<table cellspacing="0" cellpadding="0" border="1" align="right">
 	<tbody>
 		<tr>
-			<td style="width:623px;" colspan="2">
-				<p align="center"><b>Internet of Things Applications (iOTA)</b></p>
+			<td style="width:623px;" colspan="3">
+				<p align="center"><b>Internet of Things Applications (IOTA)</b></p>
 			</td>
 		</tr>
 		<tr>
@@ -73,6 +72,7 @@ Special Rooms
 		</td></tr>
 	</tbody>
 </table>
+
 
 <table cellspacing="0" cellpadding="0" border="1" align="center">
 	<tbody>
