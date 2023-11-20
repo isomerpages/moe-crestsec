@@ -2,18 +2,19 @@
 title: Student Admission Info
 permalink: /info-at-crest/student-admission-info/
 description: ""
+variant: markdown
 ---
 ### Student Admission Info
 
 #### Information for New Secondary 1 Students
 
-Congratulations on being accepted into Crest Secondary School. Please be informed that you will need to report to school on 3 January 2023 (Tuesday) by 7:45am. There will be direction signs, staff and student leaders around to guide you.
+Congratulations on being accepted into Crest Secondary School. Please be informed that you will need to report to school on 2 January 2024 (Tuesday) by 7:45am. There will be direction signs, staff and student leaders around to guide you.
 
   
 
 **Start Right Programme (Orientation):**
 
-Dates: 3 to 5 January 2023 (Tuesday to Thursday)
+Dates: 2 to 5 January 2024 (Tuesday to Friday)
 
 Time: 7:45am to 12:15pm
 
