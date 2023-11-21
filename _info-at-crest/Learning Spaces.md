@@ -1,10 +1,9 @@
 ---
-title: Test Page
-permalink: /test-page/
+title: Learning Spaces
+permalink: /info-at-crest/learning-spaces/
 variant: markdown
 description: ""
 ---
-****Special Rooms****
 
 <table cellspacing="0" cellpadding="0" border="1" align="right">
 	<tbody>

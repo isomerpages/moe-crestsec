@@ -3,18 +3,19 @@ title: Student Admission Info
 permalink: /i-am-a/p6-student-parent/student-admission-info/
 description: ""
 third_nav_title: P6 Student Parent
+variant: markdown
 ---
 ### Student Admission Info
 
 #### Information for New Secondary 1 Students
 
-Congratulations on being accepted into Crest Secondary School. Please be informed that you will need to report to school on 3 January 2023 (Tuesday) by 7:45am. There will be direction signs, staff and student leaders around to guide you.
+Congratulations on being accepted into Crest Secondary School. Please be informed that you will need to report to school on 2 January 2024 (Tuesday) by 7:45am. There will be direction signs, staff and student leaders around to guide you.
 
   
 
 **Start Right Programme (Orientation):**
 
-Dates: 3 to 5 January 2023 (Tuesday to Thursday)
+Dates: 2 to 5 January 2024 (Tuesday to Friday)
 
 Time: 7:45am to 12:15pm
 
@@ -61,7 +62,7 @@ Sec 4 students with special talent and skills aptitude e.g. sports, performing a
 **5) What Co-Curricular Activities (CCAs) does CSS offer?**  
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: none; border-collapse: collapse; width: 834px; height: 146px;" class="ive_eobj_center iveo_table ives_tab_blue"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(236, 250, 255);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0); width: 252px;">Sports &amp; Games<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0); width: 581px;">Athletics, Badminton, Basketball, Floorball, Football<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(255, 252, 229);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Aesthetics<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Arts &amp; Events Management, Dance, Guitar, Pop Band, Visual Arts<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(236, 250, 255);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Clubs<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Entrepreneurship Club, Innovation Club, Explorer’s Club, New Media Club, Service Club<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(255, 252, 229);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Uniformed Groups<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Scouts, Girl Guide</td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: none; border-collapse: collapse; width: 834px; height: 146px;" class="ive_eobj_center iveo_table ives_tab_blue"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(236, 250, 255);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0); width: 252px;">Sports &amp; Games<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0); width: 581px;">Athletics, Badminton, Basketball, Floorball, Football<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(255, 252, 229);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Aesthetics<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Dance, Pop Band, Visual Arts<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(236, 250, 255);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Clubs<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Entrepreneurship Club, Innovation Club, New Media Club, Circus Arts<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(255, 252, 229);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Uniformed Groups<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: transparent; color: rgb(0, 0, 0);">Scouts (Boys &amp; Girls)</td></tr></tbody></table>
 
   
 **6\. What are the criteria for student admission into CSS?**  
@@ -82,7 +83,7 @@ The school hours in 2023 are as follows:
 
 | **Day** | **Reporting  
 Time** | **Dismissal (Sec 1)** | **Dismissal (Sec 2)** | **Dismissal (Sec 3)** | **Dismissal (Sec 4)** |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Monday | 7.55am | 3:15pm | 3:15pm | 3:15pm | 3:15pm |
 | Tuesday | 7.55am | 2:45pm | 2:45pm | 3:15pm | 3:15pm |
 | Wednesday | 7.55am | 2:45pm | 2:45pm | 2:45pm | 2:45pm |

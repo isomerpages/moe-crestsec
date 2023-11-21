@@ -1,8 +1,9 @@
 ---
 title: Teaching & Learning
-permalink: /programmes/teaching-and-learning/
+permalink: /teaching-learning/programmes/teaching-andlearning/
 description: ""
 third_nav_title: Teaching & Learning
+variant: tiptap
 ---
 ### Teaching &amp; Learning
 

@@ -1,8 +1,8 @@
 ---
-title: Announcements
+title: Old Parents Announcements
 permalink: /i-am-a/crestan-parent/announcements/
 description: ""
-third_nav_title: Crestan Parent
+variant: tiptap
 ---
 ### Announcements
 
