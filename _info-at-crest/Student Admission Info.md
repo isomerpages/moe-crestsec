@@ -81,9 +81,8 @@ Due to a persistent island wide shortage of drivers for both private and public 
 The school hours in 2023 are as follows:  
   
 
-| **Day** | **Reporting  
-Time** | **Dismissal (Sec 1)** | **Dismissal (Sec 2)** | **Dismissal (Sec 3)** | **Dismissal (Sec 4)** |
-| --- | --- | --- | --- | --- |
+| **Day** | **Reporting  Time** | **Dismissal (Sec 1)** | **Dismissal (Sec 2)** | **Dismissal (Sec 3)** | **Dismissal (Sec 4)** |
+| --- | --- | --- | --- | --- | --- |
 | Monday | 7.55am | 3:15pm | 3:15pm | 3:15pm | 3:15pm |
 | Tuesday | 7.55am | 2:45pm | 2:45pm | 3:15pm | 3:15pm |
 | Wednesday | 7.55am | 2:45pm | 2:45pm | 2:45pm | 2:45pm |
