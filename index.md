@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: Crest Open House 2023
       id: infopic
-      image: /images/css-oh-2023.jpg
+      image: /images/cssoh2023_ptalk.jpg
       alt: Image alt text
       description: "View our Crest Information Booklet here:
         https://go.gov.sg/css-info-booklet-2024"
