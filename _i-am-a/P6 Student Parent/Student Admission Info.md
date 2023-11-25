@@ -174,6 +174,7 @@ The school hours in 2024 are as follows:
 	</tbody>
 </table>
 
+
 <p>The latest dismissal time for Mon, Tue and Thur will be 3:15 p.m. Parents are to check the students’ timetable for details.</p>
 <p>^ Please note that the above dismissal times will only take effect from 8 January 2024 (Monday) onwards.</p>
   
