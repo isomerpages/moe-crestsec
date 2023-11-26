@@ -78,20 +78,106 @@ Singapore Citizen students may apply for MOE Financial Assistance Scheme (MOE-FA
 Due to a persistent island wide shortage of drivers for both private and public buses, the school is unable to procure shuttle bus services for the school from 2 Jan 2024 onwards.  The one-way shuttle bus service will hence be ceased from year 2024 onwards. Students are to consider alternative transportation arrangements, such as utilizing public transportation options or carpooling. We appreciate support and understanding from students and parents/guardians.
   
 **10\. What are the school hours at CSS?**  
-The school hours in 2023 are as follows:  
+The school hours in 2024 are as follows:  
   
+<table cellspacing="0" cellpadding="0" border="1">
+	<tbody>
+		<tr>
+			<td style="width:156px;" rowspan="2">
+			<p align="center">Day</p>
+			</td>
+			<td style="width:156px;" rowspan="2">
+			<p align="center">2024 School Starting Time</p>
+			</td>
+			<td style="width:312px;" colspan="2">
+			<p align="center">2024 School Dismissal Time ^</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:156px;">
+			<p align="center">Secondary 1 and 2</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">Secondary 3 and 4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:156px;">
+			<p align="center">Monday</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">7:45 a.m.</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">3:15 p.m.</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">3:15 p.m.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:156px;">
+			<p align="center">Tuesday</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">7:45 a.m.</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">2:45 p.m.</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">3:15 p.m.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:156px;">
+			<p align="center">Wednesday</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">7:45 a.m.</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">2:45 p.m.</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">2:45 p.m.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:156px;">
+			<p align="center">Thursday</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">7:45 a.m.</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">3:15 p.m.</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">3:15 p.m.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:156px;">
+			<p align="center">Friday</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">7:45 a.m.</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">12:30 p.m.</p>
+			</td>
+			<td style="width:156px;">
+			<p align="center">12:30 p.m.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-| **Day** | **Reporting  Time** | **Dismissal (Sec 1)** | **Dismissal (Sec 2)** | **Dismissal (Sec 3)** | **Dismissal (Sec 4)** |
-| --- | --- | --- | --- | --- | --- |
-| Monday | 7.55am | 3:15pm | 3:15pm | 3:15pm | 3:15pm |
-| Tuesday | 7.55am | 2:45pm | 2:45pm | 3:15pm | 3:15pm |
-| Wednesday | 7.55am | 2:45pm | 2:45pm | 2:45pm | 2:45pm |
-| Thursday | 7.55am | 2:45pm | 2:45pm | 3:15pm | 3:15pm |
-| Friday | 7.55am | 12:45pm | 12:45pm | 12:45pm | 12:45pm |
+<p>The latest dismissal time for Mon, Tue and Thur will be 3:15 p.m. Parents are to check the students’ timetable for details.</p>
+<p>^ Please note that the above dismissal times will only take effect from 8 January 2024 (Monday) onwards.</p>
 
-_Note: These dismissal times will only commence from 9 January 2023 (Monday) onwards._
-
-  
+ 
 **11\. What are the progression pathways after Crest?**  
 As our students study the ITE Skills Subjects, it will provide them with a skills and aptitude advantage when they apply to ITE under the Early Admission Scheme as they will have developed their foundation skills for many Nitec courses at Crest.  
 Students in Crest specialises in 2 ITE Skills Subjects (which will be equivalent to 2 G1 passes). This means that they will be equipped with vocational and technical skills advantage when they apply to ITE under the ITE Early Admission Scheme. They will be able to apply to a wide range of related Nitec courses in ITE if they meet the respective entry requirements. More than 90% of our graduated students can progress to ITE for a skills course at the Nitec level. From there, depending on how well they perform, many will be able to progress to a Diploma or Higher Nitec programme at ITE or a Polytechnic.  
