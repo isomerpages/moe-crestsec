@@ -13,21 +13,20 @@ Congratulations on being accepted into Crest Secondary School. Please be informe
   
 
 **Start Right Programme (Orientation):**
-
+<br>
 Dates: 2 to 5 January 2024 (Tuesday to Friday)
 
 Time: 7:45am to 12:15pm
 
   
-
 **Attire:**
-
+<br>
 Crest School Uniform with plain black socks and shoes
 
   
 
 **Things to bring:**
-
+<br>
 Writing materials, water bottle and a storybook
 
 **Sec 1 Booklists:**<br>
