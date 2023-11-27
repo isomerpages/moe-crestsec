@@ -30,7 +30,18 @@ Crest School Uniform with plain black socks and shoes
 
 Writing materials, water bottle and a storybook
 
-  
+**Sec 1 Booklists:**<br>
+[Crest Secondary School 2024 Booklist Sec 1 G1](/files/css-booklist-sec1-g1.pdf)<br>
+[Crest Secondary School 2024 Booklist Sec 1 G2](/files/css-booklist-sec1-g2.pdf)<br>
+
+Sale/Collection of books for Sec 1 2024:<br>
+**Dec 26, Tuesday** - Purchase of books and uniforms (Non FAS)
+**Dec 27 and 28, Wed and Thurs** - Collection of books and uniforms (FAS)<br>
+**Time: 9am to 3pm**
+
+**FAS Application:**<br>
+[MOE FAS Application Form for Specialised Schools 2024](/files/fas-application-2024.pdf)<br><br>
+For FAS application, please email the above application form and the supporting documents to crestsec@schools.gov.sg by **22 Dec 2023**, Friday. Thank you.
 
 #### Subject-based banding (SBB) Briefing
 
