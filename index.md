@@ -25,10 +25,10 @@ sections:
   - infopic:
       title: CNA938 Interview
       id: infopic
-      description: Tune in tonight (26/11/23) at 10pm as CNA938 interviews our
-        Principal and two alumni on "Turning dreams into reality".
-      button: Tune in here
-      url: https://live.melisten.sg/liveradio/cna938?embedded=cna938
+      description: Listen to our Principal and two alumni being interviewed by CNA938
+        on "Turning dreams into reality".
+      button: Listen here
+      url: https://drive.google.com/file/d/1AW9dwrZN2KJj7LMe0oC3XEeL21UVrQoj/view?usp=sharing
       image: /images/cna_ourtown.jpg
       alt: Image alt text
   - infopic:
