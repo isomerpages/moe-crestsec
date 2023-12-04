@@ -34,7 +34,7 @@ Writing materials, water bottle and a storybook
 [Crest Secondary School 2024 Booklist Sec 1 G2](/files/css-booklist-sec1-g2.pdf)<br>
 
 Sale/Collection of books for Sec 1 2024:<br>
-**Dec 26, Tuesday** - Purchase of books and uniforms (Non FAS)
+**Dec 26, Tuesday** - Purchase of books and uniforms (Non FAS)<br>
 **Dec 27 and 28, Wed and Thurs** - Collection of books and uniforms (FAS)<br>
 **Time: 9am to 3pm**
 
