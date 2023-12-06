@@ -4,6 +4,27 @@ permalink: /test-page/
 variant: markdown
 description: ""
 ---
+### Teacher
+
+| Useful Inks |
+| --- |
+| [AV/ICT Resources Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe6EG_2VX7imC1fpvU26VSZN9VvWYdJRkZTdQbZfxf4hWh7_g/formResponse) |
+| [ICT T-VA](https://sites.google.com/crestsec.edu.sg/ict/home) | 
+| [Student Laptop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfYenEe3w9ctmZTOsKhmmBpu-chpMNaAQt1u3tfvkQXsU6CBA/viewform) |
+| [Crest Finance ePortal (via VPN)](http://10.175.104.143:8080/ess/web/ess/login) |
+| [Crest HR ePortal (via VPN)](http://10.175.104.144/eportal) |
+| [iCON (log in via MIMS)](icon.moe.edu.sg) |
+| [iEXAMS2](https://iexams.seab.gov.sg/login) |
+| [MIMS Portal](https://idp.mims.moe.gov.sg/) |
+| [MOE Human Resource Online](https://www.hrp.gov.sg/) |
+| [MOE Intranet](https://intranet.moe.gov.sg/) |
+| [MOE OPAL 2.0](https://opal2.moe.edu.sg/) |
+| [Parents Gateway](https://pg.moe.edu.sg/) |
+| [Resource Booking Service (RBS)](https://rbs.avero-tech.com/) |
+| [School Cockpit Mobile](https://scmobile.moe.edu.sg/) |
+| [School Cockpit Plus](https://schoolcockpit.moe.gov.sg/) |
+| [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login) |
+<br><br>
 ****Special Rooms****
 
 <table cellspacing="0" cellpadding="0" border="1" align="right">
