@@ -8,10 +8,9 @@ description: ""
 
 | Useful Inks |
 | --- |
-| [Crest Absence Reporting 2.0 (CARe2.0)](https://docs.google.com/forms/d/e/1FAIpQLSdpAHalJDY8u_4-d3NP-Qeuso7byJ3C4hRiB1HLYqYAZbkzgA/viewform?pli=1&amp;pli=1) |
-| [Student Laptop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfYenEe3w9ctmZTOsKhmmBpu-chpMNaAQt1u3tfvkQXsU6CBA/viewform) |
 | [AV/ICT Resources Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe6EG_2VX7imC1fpvU26VSZN9VvWYdJRkZTdQbZfxf4hWh7_g/formResponse) |
-| [ICT T-VA](https://sites.google.com/crestsec.edu.sg/ict/home) |
+| [ICT T-VA](https://sites.google.com/crestsec.edu.sg/ict/home) | 
+| [Student Laptop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfYenEe3w9ctmZTOsKhmmBpu-chpMNaAQt1u3tfvkQXsU6CBA/viewform) |
 | [Crest Finance ePortal (via VPN)](http://10.175.104.143:8080/ess/web/ess/login) |
 | [Crest HR ePortal (via VPN)](http://10.175.104.144/eportal) |
 | [iCON (log in via MIMS)](icon.moe.edu.sg) |
