@@ -47,5 +47,5 @@ variant: markdown
 | Fee Type<br>(Monthly) | International Students (IS)<br>(ASEAN) | International Students (IS)<br>(Non - ASEAN) |
 |:---:|:---:|:---:|
 | Standard School Fees | $970 | $1,910 |
-| Single Tier Misc Fee | $20 | $20 |
-|  Total | $990 | $1,930 |
+| Single Tier Misc Fee | $21.80 | $21.80 |
+|  Total | $991.80 | $1,931.80 |
