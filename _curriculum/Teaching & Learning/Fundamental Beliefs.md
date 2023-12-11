@@ -2,7 +2,7 @@
 title: Fundamental Beliefs
 permalink: /fundamental-beliefs/programmes/teaching-andlearning/
 description: ""
-third_nav_title: Teaching &amp; Learning
+third_nav_title: Teaching & Learning
 ---
 ### Fundamental Beliefs
 

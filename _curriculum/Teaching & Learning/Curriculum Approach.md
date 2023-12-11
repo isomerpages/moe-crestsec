@@ -2,7 +2,7 @@
 title: Curriculum Approach
 permalink: /curriculum-approach/programmes/teaching-andlearning/
 description: ""
-third_nav_title: Teaching &amp; Learning
+third_nav_title: Teaching & Learning
 ---
 ### Curriculum Approach
 

@@ -2,7 +2,7 @@
 title: Guiding Principles
 permalink: /guiding-principles/programmes/teaching-andlearning/
 description: ""
-third_nav_title: Teaching &amp; Learning
+third_nav_title: Teaching & Learning
 ---
 ### Guiding Principles
 
