@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Click [here](<a href="https://www.crestsec.edu.sg/release-of-2023-gce-n-level-examination-results/" rel="noopener noreferrer nofollow" target="_blank">https://www.crestsec.edu.sg/info-at-crest/useful-links/parent/</a>) for more information on the release of 2023 GCE N-Level and ISSC examination results.</p>
+<p>Click <a href="https://www.crestsec.edu.sg/release-of-2023-gce-n-level-examination-results/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information on the release of 2023 GCE N-Level and ISSC examination results.</p>
