@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Key Personnel
 
-#### Head of Departments
+#### Heads of Department / School Staff Developer
 
 | Name | Designation | Email |
 |:---:|:---:|:---:|
@@ -15,21 +15,22 @@ variant: markdown
 | Tan Teck Hong Jason | HOD<br>(Discipline) | tan_teck_hong@schools.gov.sg |
 | Mdm Ong Siew Khim | HOD<br>(Maths)<br>(Science) | ong_siew_khim_b@schools.gov.sg |
 | Mr Lee Ching Yong | HOD<br>(Culinary Restaurant Operations)<br>(Retail &amp; E-Commerce) [covering]<br> | lee_ching_yong@schools.gov.sg |
-| Mr Andy Lam | HOD<br>(School Staff Developer) | andy_lam_kum_cheong@schools.gov.sg |
 | Mr Philip Yeo Choon Huat | HOD<br>(Character and Citizenship Education) |  |
 | Mr Eugene Lim | HOD<br>(Infocommunications Technology) | lim_ming_hui_eugene@schools.gov.sg |
+| Mr Andy Lam | School Staff Developer | andy_lam_kum_cheong@schools.gov.sg |
 
  
 #### Year Heads/ASST Year Heads
 
 | Name | Designation | Email |
 |:---:|:---:|:---:|
-| Mr Othman Arsan Bin Mohd Abubakar | Year Head | othman_arsan_mohd_abubakar@schools.gov.sg |
-| Ms Goh Jia Li | Year Head | goh_jia_li@schools.gov.sg |
-| Ms Raihanah Beevi |Assistant Year Head | raihanah_beevi@schools.gov.sg |
-| Ms Foo Mei Yeng |  Assistant Year Head | foo_mei_yeng@schools.gov.sg |
-| Ms Chang Yi Ping |  Assistant Year Head | chang_yi_ping@schools.gov.sg |
-| Mr Muhammad Fareed Bin Hashim | Assistant Year Head | fareed@crestsec.edu.sg |
+| Mr Muhammad Fareed Bin Hashim | Year Head (Sec 1) [covering] | fareed@crestsec.edu.sg |
+| Mr Othman Arsan Bin Mohd Abubakar | Year Head (Sec 2 and 3) | othman_arsan_mohd_abubakar@schools.gov.sg |
+| Mr Alvin How | Year Head (Sec 4) | how_wing_cheong_alvin@schools.gov.sg |
+| Ms Liew Jia Meng | Assistant Year Head (Sec 1) |  |
+| Ms Chang Yi Ping |  Assistant Year Head (Sec 2) | chang_yi_ping@schools.gov.sg |
+| Ms Raihanah Beevi |Assistant Year Head (Sec 3) | raihanah_beevi@schools.gov.sg |
+| Ms Foo Mei Yeng |  Assistant Year Head (Sec 4) | foo_mei_yeng@schools.gov.sg |
 
 
 #### Managers/Heads (Admin)
@@ -52,13 +53,14 @@ variant: markdown
 | Ms Eunice Ho | Subject Head (Maths)| ho_su_ching_eunice@schools.gov.sg |
 | Mr Den Lin | Subject Head<br>(Information and Communications Technology) | lin_yuxuan_den@schools.gov.sg |
 | Mr Ooi Heng | Subject Head (Science &amp; Environmental Education) | ooi_heng@schools.gov.sg |
-| Mr Jason Tan | Subject Head (Discipline) | tan_teck_hong@schools.gov.sg |
-| Mr Eugene Lim | Subject Head (Internet of Things Applications) | lim_ming_hui_eugene@schools.gov.sg |
+| Mr Chua Choon Hiong Gordon | Subject Head (Discipline)<br>[covering] | chua_choon_hiong@schools.gov.sg |
+| Mr Rudie Asmara Bin Rahman | Subject Head (Internet of Things Applications) |  |
 | Ms Chan Ying Hui | Subject Head<br>(Mobile Web Applications) | chan_ying_hui@schools.gov.sg)|
 | Ms Karen Ho | Subject Head<br>(ECG) | ho_wei_lynn_karen@schools.gov.sg |
-| Mr Alvin How | Subject Head<br>(Student Leadership) | how_wing_cheong_alvin@schools.gov.sg |
-| Ms Janice Tay | Subject Head<br>(Physical Education)<br>(Co-Curricular Activities) | tay_siew_mei_janice@schools.gov.sg |
-| Mr Ryan Wong | Subject Head<br>(Physical Education)<br>(Co-Curricular Activities) | wong_pee_wah@schools.gov.sg |
-| Ms Siti Nurharnani Binte Nahar | Subject Head<br>(Character and Citizenship Education)<br>[covering]| siti_nurharnani_nahar@schools.gov.sg |
+| Ms Janice Tay | Subject Head<br>(Co-Curricular Activities) | tay_siew_mei_janice@schools.gov.sg |
+| Mr Wee Pheng Choon Desmond | Subject Head<br>(Physical Education) | wee_pheng_choon_desmond@schools.gov.sg |
+| Ms Siti Nurharnani Binte Nahar | Subject Head<br>(Character and Citizenship Education) | siti_nurharnani_nahar@schools.gov.sg |
 | Ms Michelle Lim | Subject Head <br> (Chinese Language) <br>[covering] | lim_michelle@schools.gov.sg|
-| Ms Chan Mei Lian | Subject Head <br>(Retail &amp; E-Commerce) [covering] | chan_mei_lian@schools.gov.sgols.gov.sg
+| Ms Chan Mei Lian | Subject Head <br>(Retail &amp; E-Commerce) | chan_mei_lian@schools.gov.sgols.gov.sg
+| Ms Ang Lay Beng | Subject Head <br> (Mechanical Design &amp; Automation) <br>[covering] | ang_lay_beng@schools.gov.sg|
+| Ms Rischka Syafiqa Putri Jonawi | Subject Head <br> (Student Leadership Development) <br>[covering] | rischka_syafiqa_putri_jonawi@schools.gov.sg|
