@@ -24,13 +24,13 @@ variant: markdown
 
 | Name | Designation | Email |
 |:---:|:---:|:---:|
-| Mr Muhammad Fareed Bin Hashim | Year Head (Sec 1) [covering] | fareed@crestsec.edu.sg |
-| Mr Othman Arsan Bin Mohd Abubakar | Year Head (Sec 2 and 3) | othman_arsan_mohd_abubakar@schools.gov.sg |
-| Mr Alvin How | Year Head (Sec 4) | how_wing_cheong_alvin@schools.gov.sg |
-| Ms Liew Jia Meng | Assistant Year Head (Sec 1) |  |
-| Ms Chang Yi Ping |  Assistant Year Head (Sec 2) | chang_yi_ping@schools.gov.sg |
-| Ms Raihanah Beevi |Assistant Year Head (Sec 3) | raihanah_beevi@schools.gov.sg |
-| Ms Foo Mei Yeng |  Assistant Year Head (Sec 4) | foo_mei_yeng@schools.gov.sg |
+| Mr Muhammad Fareed Bin Hashim | Year Head <br>(Sec 1) [covering] | fareed@crestsec.edu.sg |
+| Mr Othman Arsan Bin Mohd Abubakar | Year Head <br>(Sec 2 and 3) | othman_arsan_mohd_abubakar@schools.gov.sg |
+| Mr Alvin How | Year Head <br>(Sec 4) | how_wing_cheong_alvin@schools.gov.sg |
+| Ms Liew Jia Meng | Assistant Year Head <br>(Sec 1) |  |
+| Ms Chang Yi Ping |  Assistant Year Head <br>(Sec 2) | chang_yi_ping@schools.gov.sg |
+| Ms Raihanah Beevi |Assistant Year Head <br>(Sec 3) | raihanah_beevi@schools.gov.sg |
+| Ms Foo Mei Yeng |  Assistant Year Head <br>(Sec 4) | foo_mei_yeng@schools.gov.sg |
 
 
 #### Managers/Heads (Admin)

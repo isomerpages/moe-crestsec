@@ -56,14 +56,13 @@ We seek your understanding and support for these arrangements.
 
 Thank you.
 
+[School Uniform Shoes and Socks Price List](/files/2023_uniform_shoes_socks_pricelist.pdf)  
+[Crest Secondary School 2024 Booklist Sec 1 G1](/files/css_booklist_sec1_g1.pdf)  
+[Crest Secondary School 2024 Booklist Sec 1 G2](/files/css_booklist_sec1_g2.pdf)  
+[Crest Secondary School 2024 Booklist Sec 2 G1/G2](/files/css_booklist_sec2_g1g2.pdf)  
+[Crest Secondary School 2024 Booklist Sec 3 G1/G2](/files/css_booklist_sec3_g1g2.pdf)  
+[Crest Secondary School 2024 Booklist Sec 4 G1/G2](/files/css_booklist_sec4_g1g2.pdf)
 
-
-[School Uniform Shoes and Socks Price List](/files/2023-uniform-shoes-socks-pricelist.pdf)<br>
-[Crest Secondary School 2024 Booklist Sec 1 G1](/files/css-booklist-sec1-g1.pdf)<br>
-[Crest Secondary School 2024 Booklist Sec 1 G2](/files/css-booklist-sec1-g2.pdf)<br>
-[Crest Secondary School 2024 Booklist Sec 2 G1/G2](/files/css-booklist-sec2-g1g2.pdf) <br>
-[Crest Secondary School 2024 Booklist Sec 3 G1/G2](/files/css-booklist-sec3-g1g2.pdf)<br>
-[Crest Secondary School 2024 Booklist Sec 4 G1/G2](/files/css-booklist-sec4-g1g2.pdf)
 
   
 
