@@ -64,3 +64,10 @@ variant: markdown
 | Ms Chan Mei Lian | Subject Head <br>(Retail &amp; E-Commerce) | chan_mei_lian@schools.gov.sgols.gov.sg
 | Ms Ang Lay Beng | Subject Head <br> (Mechanical Design &amp; Automation) <br>[covering] | ang_lay_beng@schools.gov.sg|
 | Ms Rischka Syafiqa Putri Jonawi | Subject Head <br> (Student Leadership Development) <br>[covering] | rischka_syafiqa_putri_jonawi@schools.gov.sg|
+
+#### Lead Teachers/Senior Teachers
+
+| Name | Designation | Email |
+|:---:|:---:|:---:|
+| Mr Adrian Tan Liang Huat  | Lead Teacher<br>(Educational Support) | chan_lay_ling_amy@schools.gov.sg |
+| Ms Hannah Lee Woan Huey | Senior Teacher<br>(English Language)| lee_woan_huey_hannahn@schools.gov.sg |
