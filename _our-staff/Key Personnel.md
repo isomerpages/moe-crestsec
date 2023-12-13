@@ -14,10 +14,9 @@ variant: markdown
 | Ms Lisa Lok | HOD<br>(Aesthetics)<br>(Co-Curricular Activities) | lok_lai_hoong@schools.gov.sg |
 | Tan Teck Hong Jason | HOD<br>(Discipline) | tan_teck_hong@schools.gov.sg |
 | Mdm Ong Siew Khim | HOD<br>(Maths)<br>(Science) | ong_siew_khim_b@schools.gov.sg |
-| Mr Bay Siow Lon | HOD<br>(Student Support) | bay_siow_lon@schools.gov.sg |
-| Mr Lee Ching Yong | HOD<br>(Culinary Restaurant Operations)<br>(Retail &amp; E-Commerce)<br> | lee_ching_yong@schools.gov.sg |
+| Mr Lee Ching Yong | HOD<br>(Culinary Restaurant Operations)<br>(Retail &amp; E-Commerce) [covering]<br> | lee_ching_yong@schools.gov.sg |
 | Mr Andy Lam | HOD<br>(School Staff Developer) | andy_lam_kum_cheong@schools.gov.sg |
-| Mr Lee Joshua | HOD<br>(Character and Citizenship Education)<br> [covering] | lee_joshua@schools.gov.sg |
+| Mr Philip Yeo Choon Huat | HOD<br>(Character and Citizenship Education)<br> [covering] |  |
 | Mr Eugene Lim | HOD<br>(Infocommunications Technology) | lim_ming_hui_eugene@schools.gov.sg |
 
  
