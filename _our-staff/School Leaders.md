@@ -2,6 +2,7 @@
 title: School Leaders
 permalink: /our-staff/school-leaders/
 description: ""
+variant: markdown
 ---
 ### School Leaders
 
