@@ -2,6 +2,7 @@
 title: Overview
 permalink: /our-staff/
 description: ""
+variant: markdown
 ---
 |  |  |  |  |
 |---|---|---|---|
@@ -12,10 +13,10 @@ description: ""
 
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
-| 1 | Seet Tiat Hee | Principal |
-| 2 | Chan Teck Hong David | Vice-Principal (Academic) |
-| 3 | Teh Tuan Ann | Vice-Principal (Vocational Education) |
-| 4 | Lee Kee Meng | Vice-Principal (Administration) |
+| 1 | Mr Benjamin Kwok | Principal |
+| 2 | Mr David Chan | Vice-Principal (Academic) |
+| 3 | Mr Teh Tuan Ann | Vice-Principal (Vocational Education) |
+| 4 | Mdm Lee Kee Meng | Vice-Principal (Administration) |
 |  |  |  |
 
 ### Academic
