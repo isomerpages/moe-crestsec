@@ -32,15 +32,6 @@ sections:
       image: /images/cna_ourtown.jpg
       alt: Image alt text
   - infopic:
-      title: Crest Open House 2023
-      id: infopic
-      image: /images/cssoh2023_ptalk.jpg
-      alt: Image alt text
-      description: "View our Crest Information Booklet here:
-        https://go.gov.sg/css-info-booklet-2024"
-      button: previous open house microsite
-      url: https://crestseceopenhouse.wixsite.com/css-site
-  - infopic:
       title: NIE Caring Teacher Award
       id: infopic
       description: Nominate your favourite teacher for the NIE Caring Teacher Award!
