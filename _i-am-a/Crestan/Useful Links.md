@@ -7,10 +7,6 @@ variant: markdown
 ---
 ### Student
 
-#### 2022 Application to ITE
-
-[Application to ITE 2022.pdf](/files/ul1.pdf)
-
 #### Class list for 2023
 
 [Sec 1 2023\_Class\_List.pdf](/files/ul2.pdf) <br>
