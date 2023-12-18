@@ -34,16 +34,13 @@ variant: markdown
 
 
 **Useful Information:**<br>
-[2024 GCE N Admission Booklet](https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Useful%20Links/UL%20Students/2024%20gce%20n%20admission%20booklet.pdf)
+[2024 GCE N Admission Booklet](/files/2024-gce-n-admission-booklet.pdf)
 
 **JIE Resource for Students:**<br>
-[ITE Application &amp; Admission Matters](https://drive.google.com/file/d/1Oxs7VQVNNf69GzwVF9BakrrUDgynS__F/view?usp=drive_link)
+[ITE Application &amp; Admission Matters](/files/2023-jie-resources.pdf)
 
 **ITE Course Booklet:**<br>
-[2024 ITE Course Booklet](https://staging.d3sil9pzbw3lij.amplifyapp.com/files/Useful%20Links/UL%20Students/2024%20ite%20course%20booklet.pdf)
+[2024 ITE Course Booklet](/files/2024-ite-course-booklet.pdf)
 
 **Other (JIE ‘N’) Info:**<br>
 [https://www.ite.edu.sg/apply-for-ITE-courses/full-time-3-year-higher-nitec-and-2-year-nitec/for-gce-n-applicants](https://www.ite.edu.sg/apply-for-ITE-courses/full-time-3-year-higher-nitec-and-2-year-nitec/for-gce-n-applicants)
-
-
-
