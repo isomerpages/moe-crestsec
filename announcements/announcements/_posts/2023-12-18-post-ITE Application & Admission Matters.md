@@ -8,7 +8,7 @@ image: ""
 variant: markdown
 ---
 **Useful Information:**<br>
-[2024 GCE N Admission Booklet](/files/2024_gce-n_admission_booklet.pdf)
+[2024 GCE N Admission Booklet](/files/2024_gce_n_admission_booklet.pdf)
 
 **JIE Resource for Students:**<br>
 [ITE Application &amp; Admission Matters](/files/2023_jie_resources.pdf)
