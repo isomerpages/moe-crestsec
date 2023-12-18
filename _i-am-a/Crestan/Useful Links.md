@@ -3,12 +3,9 @@ title: Useful Links
 permalink: /i-am-a/crestan/useful-links/
 description: ""
 third_nav_title: Crestan
+variant: markdown
 ---
 ### Student
-
-#### 2022 Application to ITE
-
-[Application to ITE 2022.pdf](/files/ul1.pdf)
 
 #### Class list for 2023
 
@@ -27,3 +24,19 @@ third_nav_title: Crestan
 #### Classrooms allocation for 2023
 
 <img style="width:80%" src="/images/class2023.png">
+
+
+### Graduating Students
+
+
+**Useful Information:**<br>
+[2024 GCE N Admission Booklet](/files/2024-gce-n-admission-booklet.pdf)
+
+**JIE Resource for Students:**<br>
+[ITE Application &amp; Admission Matters](/files/2023-jie-resources.pdf)
+
+**ITE Course Booklet:**<br>
+[2024 ITE Course Booklet](/files/2024-ite-course-booklet.pdf)
+
+**Other (JIE ‘N’) Info:**<br>
+[https://www.ite.edu.sg/apply-for-ITE-courses/full-time-3-year-higher-nitec-and-2-year-nitec/for-gce-n-applicants](https://www.ite.edu.sg/apply-for-ITE-courses/full-time-3-year-higher-nitec-and-2-year-nitec/for-gce-n-applicants)
