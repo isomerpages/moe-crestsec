@@ -33,7 +33,7 @@ variant: markdown
 [2024 GCE N Admission Booklet](/files/2024_gce_n_admission_booklet.pdf)
 
 **JIE Resource for Students:**<br>
-[ITE Application &amp; Admission Matters](/files/2023_jie_resources.pdf)
+[ITE Application &amp; Admission Matters](/files/2023_jie_resources_v2.pdf)
 
 **ITE Course Booklet:**<br>
 [2024 ITE Course Booklet](/files/2024_ite_course_booklet.pdf)

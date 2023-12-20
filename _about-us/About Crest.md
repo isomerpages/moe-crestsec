@@ -2,12 +2,13 @@
 title: About Crest
 permalink: /about-crest/
 description: ""
+variant: markdown
 ---
 <img src="/images/aboutcrest.jpg" style="width:450px;height:240px;margin-right: 25px;" align="left"> Crest Secondary School offers a customised curriculum for students in the G1 stream. The school operates similar to an independent school.  
 
   
 
-The school, which is legally owned by the Institute of Technical Education (ITE), is registered as a Company with Limited Guarantee with ACRA and is granted the Charity and Institution of Public Character status under the Charities Act from 2 Jan 2020 to 1 Jan 2023. It is managed by a Board of Directors chaired by Mr Wilson Tan Wee Yan and is led by Principal Mr Seet Tiat Hee.
+The school, which is legally owned by the Institute of Technical Education (ITE), is registered as a Company with Limited Guarantee with ACRA and is granted the Charity and Institution of Public Character status under the Charities Act from 2 Jan 2020 to 1 Jan 2023. It is managed by a Board of Directors chaired by Mr Wilson Tan Wee Yan and is led by Principal Mr Benjamin Kwok.
 
   
 
