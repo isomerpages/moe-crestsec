@@ -3,9 +3,13 @@ title: Useful Links
 permalink: /info-at-crest/useful-links/parent/
 description: ""
 third_nav_title: Crestan Parent
+variant: markdown
 ---
 ### Parent
 
+#### Subject-Based Banding Info for Parents
+
+[2024 SBB Briefing Slides for Parents.pdf](/files/2024_sbb_briefing_slides.pdf)
 
 #### GPA Fact Sheet 
 [GPA Fact Sheet 2023.pdf](/files/gpa%20fact%20sheet%202023.pdf)
@@ -67,9 +71,6 @@ Thank you for your partnership.
 
 [11.1.22 Colour vision testing at SHC final.pdf](/files/p8.pdf)
 
-#### Subject-Based Banding Info for Parents
-
-[2023 SBB Briefing Slides for Parents.pdf](/files/p9.pdf)
 
 #### Resources for Parents
 
