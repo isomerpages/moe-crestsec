@@ -15,7 +15,7 @@ variant: markdown
 | Mr Jason Tan | HOD<br>(Discipline) | tan_teck_hong@schools.gov.sg |
 | Mdm Ong Siew Khim | HOD<br>(Maths)<br>(Science) | ong_siew_khim_b@schools.gov.sg |
 | Mr Lee Ching Yong | HOD<br>(Culinary Restaurant Operations)<br>(Retail &amp; E-Commerce)<br> | lee_ching_yong@schools.gov.sg |
-| Mr Philip Yeo Choon Huat | HOD<br>(Character and Citizenship Education) | yeo_choon_huat@schools.gov.sg |
+| Mr Philip Yeo | HOD<br>(Character and Citizenship Education) | yeo_choon_huat@schools.gov.sg |
 | Mr Eugene Lim | HOD<br>(Infocommunications Technology)<br> [covering] | lim_ming_hui_eugene@schools.gov.sg |
 | Mr Andy Lam | School Staff Developer | andy_lam_kum_cheong@schools.gov.sg |
 
