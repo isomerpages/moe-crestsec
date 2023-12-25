@@ -41,7 +41,7 @@ variant: markdown
 | Ms Marina Wong | Head (Human Resource) | marina_wong_may_li@schools.gov.sg |
 | Ms Lee Siu Yuen | Head (Admin) | lee_siu_yuen@schools.gov.sg |
 | Mr Edward Neo | Operations Manager |edward_neo_kim_chwee@schools.gov.sg |
-| Ms Bay Siow Lon | Head (Student Support) | bay_siow_lon@schools.gov.sg |
+| Mr Bay Siow Lon | Head (Student Support) | bay_siow_lon@schools.gov.sg |
 
 
 #### Subject Heads
