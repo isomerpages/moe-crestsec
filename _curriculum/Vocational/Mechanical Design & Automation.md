@@ -3,12 +3,13 @@ title: Mechanical Design & Automation
 permalink: /programmes/vocational-curriculum/mechanical-design-and-automation/
 description: ""
 third_nav_title: Vocational
+variant: markdown
 ---
 ### Mechanical Design &amp; Automation
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Ms Ang Lay Beng | Ms Ang | Senior Teacher | ang_lay_beng@schools.gov.sg |
+| Ms Ang Lay Beng | Ms Ang | Subject Head | ang_lay_beng@schools.gov.sg |
 | Mr Tan Eng Choon | Mr Tan | Teacher | tan_eng_choon@schools.gov.sg |
 | Mr Lim Swee Huat | Mr Lim | Teacher | lim_swee_huat@schools.gov.sg |
 | Mr Althaf Shathali | Mr Althaf | Teacher | md_althaf@crestsec.edu.sg |
