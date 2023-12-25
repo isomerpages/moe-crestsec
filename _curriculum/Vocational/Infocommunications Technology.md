@@ -8,7 +8,7 @@ variant: markdown
 | Teachers | Affectionately<br>known as | Designation | Email |
 |---|---|---|---|
 | Mr Eugene Lim | Mr Lim | Head of Department<br>(Information and Communications Technology)<br>[covering] | lim_ming_hui_eugene@schools.gov.sg |
-| Mr Lin Yuxuan, Den | Mr Lin | Subject Head<br>(Information and Communications Technology) | lin_yuxuan_den@schools.gov.sg |
+| Mr Den Lin | Mr Lin | Subject Head<br>(Information and Communications Technology) | lin_yuxuan_den@schools.gov.sg |
 | Ms Siti Nooratika Binte Jumaat | Ms Atika | Teacher<br>(Information and Communications Technology) | siti_nooratika_jumaat@schools.gov.sg |
 | Mr James Pek | Mr James | Senior Officer<br>(Information and Communications Technology) | pek_su_heng@schools.gov.sg |
 | Mr Klassen Charles Gerard | Mr Charles | Technical Support Officer <br>(Audio Visuals &amp; Information and Communications Technology) | klassen_charles_gerard@schools.gov.sg |
