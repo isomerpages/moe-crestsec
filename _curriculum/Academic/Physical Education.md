@@ -9,12 +9,12 @@ variant: markdown
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Ms Janice Tay Siew Mei | Ms Tay | Subject Head<br>(Physical Education) | [tay\_siew\_mei\_janice@schools.gov.sg](mailto:tay_siew_mei_janice@schools.gov.sg) |
-| Mr Wee Pheng Choon Desmond | Mr Desmond | Subject Head<br>(Physical Education) | [wee\_pheng\_choon\_desmond@schools.gov.sg](mailto:wee_pheng_choon_desmond@schools.gov.sg) |
-| Mr Alvin How Wing Cheong | Mr How | Year Head<br>(Sec 3 and 4) | [how\_wing\_cheong\_alvin@schools.gov.sg](mailto:how_wing_cheong_alvin@schools.gov.sg) |
-| Mr Muhammad Fareed Bin Hashim | Mr Fareed | Year Head<br>(Sec 1 and 2)<br>[covering] | fareed_hashim_muhammad@schools.gov.sg |
+| Ms Janice Tay | Ms Tay | Subject Head<br>(Physical Education) | [tay\_siew\_mei\_janice@schools.gov.sg](mailto:tay_siew_mei_janice@schools.gov.sg) |
+| Mr Desmond Wee | Mr Desmond | Subject Head<br>(Physical Education) | [wee\_pheng\_choon\_desmond@schools.gov.sg](mailto:wee_pheng_choon_desmond@schools.gov.sg) |
+| Mr Alvin How | Mr How | Year Head<br>(Secondary 3 and 4) | [how\_wing\_cheong\_alvin@schools.gov.sg](mailto:how_wing_cheong_alvin@schools.gov.sg) |
+| Mr Muhammad Fareed Bin Hashim | Mr Fareed | Year Head<br>(Secondary 1 and 2)<br>[covering] | fareed_hashim_muhammad@schools.gov.sg |
 | Mr Mohammed Rohan Bin Ismail | Mr Rohan | Teacher<br>(Physical Education) | [mohammed\_rohan\_ismail@schools.gov.sg](mailto:mohammed_rohan_ismail@schools.gov.sg) |
-| Ms Lynn Tan Mei Yun | Ms Tan | Teacher<br>(Physical Education) | [lynn\_tan\_mei\_yun@schools.gov.sg](mailto:lynn_tan_mei_yun@schools.gov.sg) |
+| Ms Lynn Tan | Ms Tan | Teacher<br>(Physical Education) | [lynn\_tan\_mei\_yun@schools.gov.sg](mailto:lynn_tan_mei_yun@schools.gov.sg) |
 
 
 #### Objective
