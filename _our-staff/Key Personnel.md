@@ -12,7 +12,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | Ms Juliana Chee | HOD<br>(English Language) | chee_pey_ling_juliana@schools.gov.sg |
 | Ms Lisa Lok | HOD<br>(Aesthetics)<br>(Co-Curricular Activities) | lok_lai_hoong@schools.gov.sg |
-| Tan Teck Hong Jason | HOD<br>(Discipline) | tan_teck_hong@schools.gov.sg |
+| Mr Jason Tan | HOD<br>(Discipline) | tan_teck_hong@schools.gov.sg |
 | Mdm Ong Siew Khim | HOD<br>(Maths)<br>(Science) | ong_siew_khim_b@schools.gov.sg |
 | Mr Lee Ching Yong | HOD<br>(Culinary Restaurant Operations)<br>(Retail &amp; E-Commerce)<br> | lee_ching_yong@schools.gov.sg |
 | Mr Philip Yeo Choon Huat | HOD<br>(Character and Citizenship Education) | yeo_choon_huat@schools.gov.sg |
