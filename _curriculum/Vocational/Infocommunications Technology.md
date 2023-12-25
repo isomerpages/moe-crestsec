@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Teachers | Affectionately<br>known as | Designation | Email |
 |---|---|---|---|
-| Mr Eugene Lim | Mr Lim | Head of Department | lim_ming_hui_eugene@schools.gov.sg |
+| Mr Eugene Lim | Mr Lim | Head of Department<br>[covering] | lim_ming_hui_eugene@schools.gov.sg |
 | Mr Lin Yuxuan, Den | Mr Lin | Subject Head | lin_yuxuan_den@schools.gov.sg |
 | Ms Siti Nooratika Binte Jumaat | Ms Atika | Teacher | siti_nooratika_jumaat@schools.gov.sg |
 | Mr James Pek | Mr James | Senior Officer (ICT) | pek_su_heng@schools.gov.sg |
