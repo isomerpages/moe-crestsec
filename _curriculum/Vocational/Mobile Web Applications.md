@@ -3,13 +3,14 @@ title: Mobile Web Applications
 permalink: /programmes/vocational-curriculum/mobile-web-applications/
 description: ""
 third_nav_title: Vocational
+variant: markdown
 ---
 ###  Mobile Web Applications
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
 | Ms Chan Ying Hui | Ms Chan | Subject Head | chan_ying_hui@schools.gov.sg |
-| Mr Osman Farouk S/O Hassan Mohamed | Mr Farouk | Teacher | osman_farouk_hassan_mohamed@schools.gov.sg@schools.gov.sg |
+| Mr Osman Farouk S/O Hassan Mohamed | Mr Farouk | Teacher | osman_farouk_hassan_mohamed@schools.gov.sg |
 | Mr Helmy Rozaimi Bin Husaimi | Mr Helmy | Teacher | helmy_rozaimi_husaimi@schools.gov.sg |
 | Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L | jonathan_tsang_yim_ting@schools.gov.sg |
 
