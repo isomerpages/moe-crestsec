@@ -9,15 +9,15 @@ variant: markdown
 
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mdm Ong Siew Khim | Mdm Ong | Head of Department<br>(Maths)<br>(Science) | [ong\_siew\_khim\_b@schools.gov.sg](mailto:ong_siew_khim_b@schools.gov.sg) |
-| Ms Ho Su Ching Eunice | Ms Ho | Subject Head (Maths) | [ho\_su\_ching\_eunice@schools.gov.sg](mailto:ho_su_ching_eunice@schools.gov.sg) |
-| Mr Lim Kian Chuan | Mr Lim | Teacher (Maths) | [lim\_kian\_chuan@schools.gov.sg](mailto:lim_kian_chuan@schools.gov.sg) |
-| Mr Lim Weiming | Mr Lim | Teacher (Maths) | [lim\_weiming@schools.gov.sg](mailto:lim_weiming@schools.gov.sg) |
-| Ms Hamidah Haji Hamim | Ms Hamidah | Teacher (Maths) | [hamidah\_haji\_hamim@schools.gov.sg](mailto:hamidah_haji_hamim@schools.gov.sg) |
-| Ms Shuhadah Binte Suleiman | Ms Shuhadah | Teacher (Maths) | [shuhadah@schools.gov.sg](mailto:shuhadah@schools.gov.sg) |
-| Mr Lo Chen Yang Marvin | Mr Lo | Teacher (Maths) | [lo\_chen\_yang\_marvin@schools.gov.sg](mailto:lo_chen_yang_marvin@schools.gov.sg) |
-| Mr Lee Tuck Suen | Mr Lee | Teacher (Maths) | [lee\_tuck\_suen@schools.gov.sg](mailto:lee_tuck_suen@schools.gov.sg) |
-| Ms Saheeta Nisvaan | Ms Saheeta | Teacher (Maths) | [saheeta\_nisvaan@schools.gov.sg](mailto:saheeta_nisvaan@schools.gov.sg) |
+| Mdm Ong Siew Khim | Mdm Ong | Head of Department<br>(Mathematics)<br>(Science) | [ong\_siew\_khim\_b@schools.gov.sg](mailto:ong_siew_khim_b@schools.gov.sg) |
+| Ms Eunice Ho  | Ms Ho | Subject Head <br>(Mathematics) | [ho\_su\_ching\_eunice@schools.gov.sg](mailto:ho_su_ching_eunice@schools.gov.sg) |
+| Mr Lim Kian Chuan | Mr Lim | Teacher <br>(Mathematics) | [lim\_kian\_chuan@schools.gov.sg](mailto:lim_kian_chuan@schools.gov.sg) |
+| Mr Lim Weiming | Mr Lim | Teacher <br>(Mathematics) | [lim\_weiming@schools.gov.sg](mailto:lim_weiming@schools.gov.sg) |
+| Ms Hamidah Haji Hamim | Ms Hamidah | Teacher <br>(Mathematics) | [hamidah\_haji\_hamim@schools.gov.sg](mailto:hamidah_haji_hamim@schools.gov.sg) |
+| Ms Shuhadah Binte Suleiman | Ms Shuhadah | Teacher<br>(Mathematics) | [shuhadah@schools.gov.sg](mailto:shuhadah@schools.gov.sg) |
+| Mr Marvin Lo | Mr Lo | Teacher <br>(Mathematics) | [lo\_chen\_yang\_marvin@schools.gov.sg](mailto:lo_chen_yang_marvin@schools.gov.sg) |
+| Mr Lee Tuck Suen | Mr Lee | Teacher<br>(Mathematics) | [lee\_tuck\_suen@schools.gov.sg](mailto:lee_tuck_suen@schools.gov.sg) |
+| Ms Saheeta Nisvaan | Ms Saheeta | Teacher<br>(Mathematics) | [saheeta\_nisvaan@schools.gov.sg](mailto:saheeta_nisvaan@schools.gov.sg) |
 
 
 #### Objective
