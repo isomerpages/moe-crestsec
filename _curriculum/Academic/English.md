@@ -9,20 +9,20 @@ variant: markdown
 
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Ms Chee Pey Ling Juliana | Ms Juliana | Head of Department<br>(English Language) | [chee\_pey\_ling\_juliana@schools.gov.sg](mailto:chee_pey_ling_juliana@schools.gov.sg) |
-| Ms Chan Lay Ling, Amy | Ms Chan | Subject Head<br>(English Language) | [chan\_lay\_ling\_amy@schools.gov.sg](mailto:chan_lay_ling_amy@schools.gov.sg) |
+| Ms Juliana Chee | Ms Juliana | Head of Department<br>(English Language) | [chee\_pey\_ling\_juliana@schools.gov.sg](mailto:chee_pey_ling_juliana@schools.gov.sg) |
+| Ms Amy Chan | Ms Chan | Subject Head<br>(English Language) | [chan\_lay\_ling\_amy@schools.gov.sg](mailto:chan_lay_ling_amy@schools.gov.sg) |
 | Mr Othman Arsan Bin Mohd Abubakar | Mr Othman | Dean<br>(Student Development) | [othman\_arsan\_mohd\_abubakar@schools.gov.sg](mailto:othman_arsan_mohd_abubakar@schools.gov.sg) |
-| Mr Adrian Tan Liang Huat | Mr Tan | Lead Teacher<br>(Educational Support) | [adrian\_tan@schools.gov.sg](mailto:adrian_tan@schools.gov.sg) |
-| Ms Siti Nurharnani Binte Nahar | Ms Siti | Subject Head<br>(Character and Citizenship Education) | [siti\_nurharnani\_nahar@schools.gov.sg](mailto:siti_nurharnani_nahar@schools.gov.sg) |
-| Ms Lee Woan Huey, Hannah | Ms Hannah | Senior Teacher<br>(English Language) | [lee\_woan\_huey\_hannah@schools.gov.sg](mailto:lee_woan_huey_hannah@schools.gov.sg) |
-| Ms Suriani Binte Sulaiman | Ms Su | Teacher (English Language) | [suriani\_sulaiman\_a@schools.gov.sg](mailto:suriani_sulaiman_a@schools.gov.sg) |
-| Ms Pamela Chia Hui Ling | Mrs Ho | Teacher (English Language) | [pamela\_chia\_hui\_ling@schools.gov.sg](mailto:pamela_chia_hui_ling@schools.gov.sg) |
-| Mr Lee Yue Heng | Mr Lee | Teacher (English Language) | [lee\_yue\_heng@schools.gov.sg](mailto:lee_yue_heng@schools.gov.sg) |
-| Ms Betty Boo May Ling | Ms Betty | Teacher (English Language) | [betty\_boo\_may\_ling@schools.gov.sg](mailto:betty_boo_may_ling@schools.gov.sg) |
-| Ms Chen Yihan Alyssa | Ms Alyssa | Teacher (English Language) | [chen\_yihan\_alys@schools.gov.sg](mailto:chen_yihan_alys@schools.gov.sg) |
-| Ms Wong Yau Are | Ms Wong | Teacher (English Language) | [huang\_you\_ya@schools.gov.sg](mailto:huang_you_ya@schools.gov.sg) |
-| Mr Mohamad Hisham B Suwandi | Mr Hisham | Teacher (English Language) | [mohd\_hisham\_b\_suwandi@schools.gov.sg](mailto:mohd_hisham_b_suwandi@schools.gov.sg) |
-| Ms Vanessa Teo | Ms Vanessa | Teacher (English Language) | [teo\_ee\_chian\_vanessa@schools.gov.sg](mailto:teo_ee_chian_vanessa@schools.gov.sg) |
+| Mr Adrian Tan | Mr Tan | Lead Teacher<br>(Educational Support) | [adrian\_tan@schools.gov.sg](mailto:adrian_tan@schools.gov.sg) |
+| Ms Siti Nurharnani Binte Nahar | Ms Siti | Subject Head<br>(Character &amp; Citizenship Education) | [siti\_nurharnani\_nahar@schools.gov.sg](mailto:siti_nurharnani_nahar@schools.gov.sg) |
+| Ms Hannah Lee | Ms Hannah | Senior Teacher<br>(English Language) | [lee\_woan\_huey\_hannah@schools.gov.sg](mailto:lee_woan_huey_hannah@schools.gov.sg) |
+| Ms Suriani Binte Sulaiman | Ms Su | Teacher <br>(English Language) | [suriani\_sulaiman\_a@schools.gov.sg](mailto:suriani_sulaiman_a@schools.gov.sg) |
+| Ms Pamela Chia | Mrs Ho | Teacher<br>(English Language) | [pamela\_chia\_hui\_ling@schools.gov.sg](mailto:pamela_chia_hui_ling@schools.gov.sg) |
+| Mr Lee Yue Heng | Mr Lee | Teacher<br> (English Language) | [lee\_yue\_heng@schools.gov.sg](mailto:lee_yue_heng@schools.gov.sg) |
+| Ms Betty Boo | Ms Betty | Teacher <br>(English Language) | [betty\_boo\_may\_ling@schools.gov.sg](mailto:betty_boo_may_ling@schools.gov.sg) |
+| Ms Alyssa Chen | Ms Alyssa | Teacher <br>(English Language) | [chen\_yihan\_alys@schools.gov.sg](mailto:chen_yihan_alys@schools.gov.sg) |
+| Ms Wong Yau Are | Ms Wong | Teacher <br>(English Language) | [huang\_you\_ya@schools.gov.sg](mailto:huang_you_ya@schools.gov.sg) |
+| Mr Mohamad Hisham B Suwandi | Mr Hisham | Teacher <br>(English Language) | [mohd\_hisham\_b\_suwandi@schools.gov.sg](mailto:mohd_hisham_b_suwandi@schools.gov.sg) |
+| Ms Vanessa Teo | Ms Vanessa | Teacher <br>(English Language) | [teo\_ee\_chian\_vanessa@schools.gov.sg](mailto:teo_ee_chian_vanessa@schools.gov.sg) |
 | Mdm Kalimah Bte Haji Zainuri | Mdm Kalimah | Librarian | [kalimah\_h\_zainuri@schools.gov.sg](mailto:kalimah_h_zainuri@schools.gov.sg) |
 
 #### Objective
