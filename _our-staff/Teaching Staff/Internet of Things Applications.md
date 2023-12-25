@@ -3,18 +3,18 @@ title: Internet of Things Applications
 permalink: /our-staff/teaching-staff/internet-of-things-applications/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ### Internet of Things Applications
 
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Lim Ming Hui Eugene | Mr Lim | Subject Head (Internet of Things Applications) (IoTA) | [lim\_ming\_hui\_eugene@schools.gov.sg](mailto:lim_ming_hui_eugene@schools.gov.sg) |
-| Mr Chang Choo Liang | Mr Chang | Teacher (Internet of Things Applications) (IoTA) | [chang\_choo\_liang@schools.gov.sg](mailto:chang_choo_liang@schools.gov.sg) |
-| Mr Desmond Chua | Mr Chua | Teacher (Internet of Things Applications) (IoTA) | [chua\_chin\_choon\_desmond@schools.gov.sg](mailto:chua_chin_choon_desmond@schools.gov.sg) |
-| Mr Mohammed Hafiez Bin Ali | Mr Hafiez | Teacher (Internet of Things Applications) (IoTA) | [mohammed\_hafiez\_ali@schools.gov.sg](mailto:mohammed_hafiez_ali@schools.gov.sg) |
-| Mr Lau Kia Hian | Mr Lau | Teacher (Internet of Things Applications) (IoTA) | [lau\_kia\_hian@schools.gov.sg](mailto:lau_kia_hian@schools.gov.sg) |
-| Mr Ong Cheng Soon | Mr Ong | Allied Educator T&amp;L (Internet of Things Applications)(IoTA) | [ong\_cheng\_soon@schools.gov.sg](mailto:ong_cheng_soon@schools.gov.sg) |
-| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L (Mobile Web Applications &amp; Internet of Things Applications) (MWA &amp; IoTA) | [jonathan\_tsang@crestsec.edu.sg](mailto:jonathan_tsang@crestsec.edu.sg) |
+| Mr Rudie Asmara Bin Rahman | Mr Rudie | Subject Head <br>(Internet of Things Applications) |  |
+| Mr Desmond Chua | Mr Chua | Teacher <br>(Internet of Things Applications) | [chua\_chin\_choon\_desmond@schools.gov.sg](mailto:chua_chin_choon_desmond@schools.gov.sg) |
+| Mr Mohammed Hafiez Bin Ali | Mr Hafiez | Teacher <br>(Internet of Things Applications) | [mohammed\_hafiez\_ali@schools.gov.sg](mailto:mohammed_hafiez_ali@schools.gov.sg) |
+| Mr Lau Kia Hian | Mr Lau | Teacher <br>(Internet of Things Applications) | [lau\_kia\_hian@schools.gov.sg](mailto:lau_kia_hian@schools.gov.sg) |
+| Mr Ong Cheng Soon | Mr Ong | Allied Educator T&amp;L <br>(Internet of Things Applications) | [ong\_cheng\_soon@schools.gov.sg](mailto:ong_cheng_soon@schools.gov.sg) |
+| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L <br>(Mobile Web Applications) <br>(Internet of Things Applications) | [jonathan\_tsang@crestsec.edu.sg](mailto:jonathan_tsang@crestsec.edu.sg) |
 
 #### Objective
 
