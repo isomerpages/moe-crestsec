@@ -53,12 +53,12 @@ variant: markdown
 | Ms Eunice Ho | Subject Head (Maths)| ho_su_ching_eunice@schools.gov.sg |
 | Mr Den Lin | Subject Head<br>(Information and Communications Technology) | lin_yuxuan_den@schools.gov.sg |
 | Mr Ooi Heng | Subject Head (Science &amp; Environmental Education) | ooi_heng@schools.gov.sg |
-| Mr Chua Choon Hiong Gordon | Subject Head (Discipline)<br>[covering] | chua_choon_hiong@schools.gov.sg |
+| Mr Gordon Chua | Subject Head (Discipline)<br>[covering] | chua_choon_hiong@schools.gov.sg |
 | Mr Rudie Asmara Bin Rahman | Subject Head (Internet of Things Applications) |  |
 | Ms Chan Ying Hui | Subject Head<br>(Mobile Web Applications) | chan_ying_hui@schools.gov.sg|
 | Ms Karen Ho | Subject Head<br>(ECG) | ho_wei_lynn_karen@schools.gov.sg |
 | Ms Janice Tay | Subject Head<br>(Co-Curricular Activities) | tay_siew_mei_janice@schools.gov.sg |
-| Mr Wee Pheng Choon Desmond | Subject Head<br>(Physical Education) | wee_pheng_choon_desmond@schools.gov.sg |
+| Mr Desmond Wee | Subject Head<br>(Physical Education) | wee_pheng_choon_desmond@schools.gov.sg |
 | Ms Siti Nurharnani Binte Nahar | Subject Head<br>(Character and Citizenship Education) | siti_nurharnani_nahar@schools.gov.sg |
 | Ms Michelle Lim | Subject Head <br> (Chinese Language) | lim_michelle@schools.gov.sg|
 | Ms Chan Mei Lian | Subject Head <br>(Retail &amp; E-Commerce) | chan_mei_lian@schools.gov.sg
@@ -69,5 +69,5 @@ variant: markdown
 
 | Name | Designation | Email |
 |:---:|:---:|:---:|
-| Mr Adrian Tan Liang Huat  | Lead Teacher<br>(Educational Support) | adrian_tan@schools.gov.sg |
-| Ms Hannah Lee Woan Huey | Senior Teacher<br>(English Language)| lee_woan_huey_hannah@schools.gov.sg |
+| Mr Adrian Tan | Lead Teacher<br>(Educational Support) | adrian_tan@schools.gov.sg |
+| Ms Hannah Lee | Senior Teacher<br>(English Language)| lee_woan_huey_hannah@schools.gov.sg |
