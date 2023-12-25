@@ -3,15 +3,16 @@ title: Culinary & Restaurant Operations
 permalink: /programmes/vocational-curriculum/culinary-and-restaurant-operations/
 description: ""
 third_nav_title: Vocational
+variant: markdown
 ---
 ### Culinary &amp; Restaurant Operations
 
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Lee Ching Yong | Mr Lee | Head of Department | lee_ching_yong@schools.gov.sg |
+| Mr Lee Ching Yong | Mr Lee | Head of Department<br>(Culinary Restaurant Operations) <br>(Retail &amp; E-Commerce) | lee_ching_yong@schools.gov.sg |
 | Ms Chang Yi Ping | Ms Chang | Assistant Year Head | chang_yi_ping@schools.gov.sg |
-| Ms Ho Wei Lynn Karen | Ms Ho | Subject Head | ho_wei_lynn_karen@schools.gov.sg |
+| Ms Ho Wei Lynn Karen | Ms Ho | Subject Head<br>(ECG) | ho_wei_lynn_karen@schools.gov.sg |
 | Mr Dave Yuen Wei Dong | Mr Yuen | Teacher | yuen_wei_dong_dave@schools.gov.sg |
 | Mr Paul Ling | Mr Ling | Teacher | ling_chee_kwong@schools.gov.sg |
 | Mr Ong Chin Koon | Mr Ong | Teacher | ong_chin_koon@schools.gov.sg |
