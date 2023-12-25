@@ -27,7 +27,7 @@ variant: markdown
 | Mr Othman Arsan Bin Mohd Abubakar | Dean <br>(Student Development) | othman_arsan_mohd_abubakar@schools.gov.sg |
 | Mr Muhammad Fareed Bin Hashim | Year Head <br>(Seccondary 1 &amp; 2) [covering] | fareed_hashim_muhammad@schools.gov.sg |
 | Mr Alvin How | Year Head <br>(Seccondary 3 &amp; 4) | how_wing_cheong_alvin@schools.gov.sg |
-| Ms Liew Jia Meng | Assistant Year Head <br>(Seccondary 1) |  |
+| Ms Liew Jia Meng | Assistant Year Head <br>(Seccondary 1) | liew_jia_meng@schools.gov.sg |
 | Ms Chang Yi Ping |  Assistant Year Head <br>(Seccondary 2) | chang_yi_ping@schools.gov.sg |
 | Ms Raihanah Beevi |Assistant Year Head <br>(Seccondary 3) | raihanah_beevi@schools.gov.sg |
 | Ms Foo Mei Yeng |  Assistant Year Head <br>(Seccondary 4) | foo_mei_yeng@schools.gov.sg |
@@ -54,7 +54,7 @@ variant: markdown
 | Mr Den Lin | Subject Head<br>(Information and Communications Technology) | lin_yuxuan_den@schools.gov.sg |
 | Mr Ooi Heng | Subject Head (Science &amp; Environmental Education) | ooi_heng@schools.gov.sg |
 | Mr Gordon Chua | Subject Head (Discipline)<br>[covering] | chua_choon_hiong@schools.gov.sg |
-| Mr Rudie Asmara Bin Rahman | Subject Head (Internet of Things Applications) |  |
+| Mr Rudie Asmara Bin Rahman | Subject Head (Internet of Things Applications) |  rudie_asmara_rahman@schools.gov.sg |
 | Ms Chan Ying Hui | Subject Head<br>(Mobile Web Applications) | chan_ying_hui@schools.gov.sg|
 | Ms Karen Ho | Subject Head<br>(Education and Career Guidance) | ho_wei_lynn_karen@schools.gov.sg |
 | Ms Janice Tay | Subject Head<br>(Co-Curricular Activities) | tay_siew_mei_janice@schools.gov.sg |
