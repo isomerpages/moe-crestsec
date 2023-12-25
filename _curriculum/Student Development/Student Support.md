@@ -3,12 +3,13 @@ title: Student Support
 permalink: /student-support/programmes/student-development/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ### Student Support
 
 | Name | Designation | Email |
 |:---:|:---:|:---:|
-| Mr Bay Siow Lon | Head of Department<br>(Student Support) | [bay\_siow\_lon@schools.gov.sg](mailto:bay_siow_lon@schools.gov.sg) |
+| Mr Bay Siow Lon | Head<br>(Student Support) | [bay\_siow\_lon@schools.gov.sg](mailto:bay_siow_lon@schools.gov.sg) |
 | Ms Celest Ling | School Counsellor | [celest\_ling@crestsec.edu.sg](mailto:celest_ling@crestsec.edu.sg) |
 | Mr Joseph Yap | School Counsellor | [yap\_zheng\_jie\_joseph@schools.gov.sg](mailto:yap_zheng_jie_joseph@schools.gov.sg) |
 | Mr Anthony Wong | School Counsellor | [wong\_teck\_boon\_anthony@schools.gov.sg](mailto:wong_teck_boon_anthony@schools.gov.sg) |
