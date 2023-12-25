@@ -3,18 +3,18 @@ title: Retail & ECommerce
 permalink: /programmes/vocational-curriculum/retail-and-ecommerce/
 description: ""
 third_nav_title: Vocational
+variant: markdown
 ---
 ###  Retail &amp; E-Commerce
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Lee Ching Yong | Mr Lee | Head of Department | lee_ching_yong@schools.gov.sg |
-| Ms Chan Mei Lian | Ms Chan | Subject Head<br>[covering] | chan_mei_lian@schools.gov.sg |
+| Mr Lee Ching Yong | Mr Lee | Head of Department<br>Culinary Restaurant Operations) <br>(Retail &amp; E-Commerce) | lee_ching_yong@schools.gov.sg |
+| Ms Chan Mei Lian | Ms Chan | Subject Head | chan_mei_lian@schools.gov.sg |
+| Mr Chua Choon Hiong Gordon | Mr Chua | Subject Head <br>(Discipline) <br>[covering] | chua_choon_hiong@schools.gov.sg |
 | Mr Ng Wee Kee | Mr Ng | Teacher | ng_wee_kee@schools.gov.sg |
 | Ms Tan Farah Imran | Ms Farah | Teacher | tan_farah_imran@schools.gov.sg |
-| Mr Chua Choon Hiong Gordon | Mr Chua | Teacher | chua_choon_hiong@schools.gov.sg |
 | Ms Khairiah Binti Jaafar | Ms Khairiah | Teacher | khairiah_jaafar@schools.gov.sg |
-| Mr Chew Ming Zhe Zack | Mr Zack | Teacher | chew_ming_zhe_zack@schools.gov.sg |
 | Ms Fateha Binte Hashim | Ms Fateha | Technical Support Officer | nurul_fateha_hashim@schools.gov.sg |
 
 #### Objective
