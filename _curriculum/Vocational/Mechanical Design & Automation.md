@@ -9,11 +9,10 @@ variant: markdown
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Ms Ang Lay Beng | Ms Ang | Subject Head | ang_lay_beng@schools.gov.sg |
-| Mr Tan Eng Choon | Mr Tan | Teacher | tan_eng_choon@schools.gov.sg |
-| Mr Lim Swee Huat | Mr Lim | Teacher | lim_swee_huat@schools.gov.sg |
-| Mr Althaf Shathali | Mr Althaf | Teacher | md_althaf@crestsec.edu.sg |
-| Mr Zaki B Hosain | Mr Zaki | Teacher | muhammad_zaki_hosain@schools.gov.sg |
+| Ms Ang Lay Beng | Ms Ang | Subject Head <br>(Mechanical Design &amp; Automation) | ang_lay_beng@schools.gov.sg |
+| Mr Tan Eng Choon | Mr Tan | Teacher<br>(Mechanical Design &amp; Automation) | tan_eng_choon@schools.gov.sg |
+| Mr Althaf Shathali | Mr Althaf | Teacher<br>(Mechanical Design &amp; Automation) | md_althaf@crestsec.edu.sg |
+| Mr Zaki B Hosain | Mr Zaki | Teacher<br>(Mechanical Design &amp; Automation) | muhammad_zaki_hosain@schools.gov.sg |
 
 #### Objective
 
