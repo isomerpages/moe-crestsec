@@ -3,6 +3,7 @@ title: Science
 permalink: /programmes/academic-curriculum/science/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 ### Science
 
