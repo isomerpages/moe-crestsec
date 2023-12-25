@@ -14,7 +14,7 @@ variant: markdown
 | Mr Mohammed Hafiez Bin Ali | Mr Hafiez | Teacher | mohammed_hafiez_ali@schools.gov.sg |
 | Mr Lau Kia Hian | Mr Lau | Teacher | lau_kia_hian@schools.gov.sg |
 | Mr Ong Cheng Soon | Mr Ong | Allied Educator T&amp;L | ong_cheng_soon@schools.gov.sg |
-| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L | jonathan_tsang@crestsec.edu.sg |
+| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L | jonathan_tsang_yim_ting@schools.gov.sg |
 
 #### Objective
 
