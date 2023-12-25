@@ -16,7 +16,7 @@ variant: markdown
 | Mr Lim Weiming | Mr Lim | Teacher (Maths) | [lim\_weiming@schools.gov.sg](mailto:lim_weiming@schools.gov.sg) |
 | Ms Hamidah Haji Hamim | Ms Hamidah | Teacher (Mathematics) | [hamidah\_haji\_hamim@schools.gov.sg](mailto:hamidah_haji_hamim@schools.gov.sg) |
 | Ms Shuhadah Binte Suleiman | Ms Shuhadah | Teacher (Mathematics) | [shuhadah@schools.gov.sg](mailto:shuhadah@schools.gov.sg) |
-| Mr Lo Chen Yang Marvin | Mr Lo | Teacher (Mathematics) | [lo\_chen\_yang\_marvin@schools.gov.sg](mailto:lo_chen_yang_marvin@schools.gov.sg) |
+| Mr Marvin Lo  | Mr Lo | Teacher (Mathematics) | [lo\_chen\_yang\_marvin@schools.gov.sg](mailto:lo_chen_yang_marvin@schools.gov.sg) |
 | Mr Lee Tuck Suen | Mr Lee | Teacher (Mathematics) | [lee\_tuck\_suen@schools.gov.sg](mailto:lee_tuck_suen@schools.gov.sg) |
 | Ms Saheeta Nisvaan | Ms Saheeta | Teacher (Mathematics) | [saheeta\_nisvaan@schools.gov.sg](mailto:saheeta_nisvaan@schools.gov.sg) |
 
