@@ -3,19 +3,19 @@ title: Retail and E Commerce
 permalink: /our-staff/teaching-staff/retail-and-ecommerce/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ###  Retail and ECommerce
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Lee Ching Yong | Mr Lee | Head of Department<br>(Culinary Restaurant Operations, CRO)<br>(Retail &amp; E-Commerce, REC)<br> | [lee\_ching\_yong@schools.gov.sg](mailto:lee_ching_yong@schools.gov.sg) |
-| Ms Chan Mei Lian | Ms Chan | Subject Head (ReC) [covering] | [chan\_mei\_lian@schools.gov.sg](mailto:chan_mei_lian@schools.gov.sg) |
-| Mr Ng Wee Kee | Mr Ng | Teacher (ReC) | [ng\_wee\_kee@schools.gov.sg](mailto:ng_wee_kee@schools.gov.sg) |
-| Ms Tan Farah Imran | Ms Farah | Teacher (ReC) | [tan\_farah\_imran@schools.gov.sg](mailto:tan_farah_imran@schools.gov.sg) |
-| Mr Chua Choon Hiong | Mr Chua | Teacher (ReC) | [chua\_choon\_hiong@schools.gov.sg](mailto:chua_choon_hiong@schools.gov.sg) |
-| Ms Khairiah Binti Jaafar | Ms Khairiah | Teacher (ReC) | [khairiah\_jaafar@schools.gov.sg](mailto:khairiah_jaafar@schools.gov.sg) |
-| Mr Chew Ming Zhe Zack | Mr Zack | Teacher (ReC) | [chew\_ming\_zhe\_zack@schools.gov.sg](mailto:chew_ming_zhe_zack@schools.gov.sg) |
-| Ms Fateha Binte Hashim | Ms Fateha | Technical Support Officer (ReC) | [Nurul\_fateha\_Hashim@schools.gov.sg](mailto:Nurul_fateha_Hashim@schools.gov.sg) |
+| Mr Lee Ching Yong | Mr Lee | Head of Department<br>(Culinary &amp; Restaurant Operations)<br>(Retail &amp; E-commerce)<br> | [lee\_ching\_yong@schools.gov.sg](mailto:lee_ching_yong@schools.gov.sg) |
+| Ms Chan Mei Lian | Ms Chan | Subject Head (Retail &amp; E-commerce) | [chan\_mei\_lian@schools.gov.sg](mailto:chan_mei_lian@schools.gov.sg) |
+| Mr Gordon Chua | Mr Chua | Subject Head <br>(Discipline)<br> [covering] | [chua\_choon\_hiong@schools.gov.sg](mailto:chua_choon_hiong@schools.gov.sg) |
+| Mr Ng Wee Kee | Mr Ng | Teacher (Retail &amp; E-commerce) | [ng\_wee\_kee@schools.gov.sg](mailto:ng_wee_kee@schools.gov.sg) |
+| Ms Tan Farah Imran | Ms Farah | Teacher (Retail &amp; E-commerce) | [tan\_farah\_imran@schools.gov.sg](mailto:tan_farah_imran@schools.gov.sg) |
+| Ms Khairiah Binti Jaafar | Ms Khairiah | Teacher (Retail &amp; E-commerce) | [khairiah\_jaafar@schools.gov.sg](mailto:khairiah_jaafar@schools.gov.sg) |
+| Ms Fateha Binte Hashim | Ms Fateha | Technical Support Officer (Retail &amp; E-commerce) | [Nurul\_fateha\_Hashim@schools.gov.sg](mailto:Nurul_fateha_Hashim@schools.gov.sg) |
 
 #### Objective
 
