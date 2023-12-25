@@ -13,6 +13,7 @@ variant: markdown
 | Mr Tan Eng Choon | Mr Tan | Teacher <br>(Mechanical Design &amp; Automation) | [tan\_eng\_choon@schools.gov.sg](mailto:tan_eng_choon@schools.gov.sg) |
 | Mr Althaf Shathali | Mr Althaf | Teacher <br>(Mechanical Design &amp; Automation) | [md\_althaf@crestsec.edu.sg](mailto:md_althaf@crestsec.edu.sg) |
 | Mr Zaki B Hosain | Mr Zaki | Teacher <br>(Mechanical Design &amp; Automation) | [muhammad\_zaki\_hosain@schools.gov.sg](mailto:muhammad_zaki_hosain@schools.gov.sg) |
+| Mr Hisham Bin Md Sabidi | Mr Zaki | Senior Technical Support <br>(Mechanical Design &amp; Automation) | hisham_md_sabidi@schools.gov.sg |
 
 #### Objective
 
