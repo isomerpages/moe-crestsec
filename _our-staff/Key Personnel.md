@@ -70,4 +70,4 @@ variant: markdown
 | Name | Designation | Email |
 |:---:|:---:|:---:|
 | Mr Adrian Tan Liang Huat  | Lead Teacher<br>(Educational Support) | adrian_tan@schools.gov.sg |
-| Ms Hannah Lee Woan Huey | Senior Teacher<br>(English Language)| lee_woan_huey_hannahn@schools.gov.sg |
+| Ms Hannah Lee Woan Huey | Senior Teacher<br>(English Language)| lee_woan_huey_hannah@schools.gov.sg |
