@@ -11,7 +11,7 @@ variant: markdown
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
 | Mr Lee Ching Yong | Mr Lee | Head of Department<br>(Culinary Restaurant Operations) <br>(Retail &amp; E-Commerce) | lee_ching_yong@schools.gov.sg |
-| Ms Chang Yi Ping | Ms Chang | Assistant Year Head | chang_yi_ping@schools.gov.sg |
+| Ms Chang Yi Ping | Ms Chang | Assistant Year Head<br>(Sec 2) | chang_yi_ping@schools.gov.sg |
 | Ms Ho Wei Lynn Karen | Ms Ho | Subject Head<br>(ECG) | ho_wei_lynn_karen@schools.gov.sg |
 | Mr Dave Yuen Wei Dong | Mr Yuen | Teacher | yuen_wei_dong_dave@schools.gov.sg |
 | Mr Paul Ling | Mr Ling | Teacher | ling_chee_kwong@schools.gov.sg |
