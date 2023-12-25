@@ -3,13 +3,13 @@ title: Internet of Things Applications
 permalink: /programmes/vocational-curriculum/internet-of-things-applications/
 description: ""
 third_nav_title: Vocational
+variant: markdown
 ---
 ### Internet of Things Applications
 
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Lim Ming Hui Eugene | Mr Lim | Subject Head | lim_ming_hui_eugene@schools.gov.sg |
-| Mr Chang Choo Liang | Mr Chang | Teacher | chang_choo_liang@schools.gov.sg |
+| Mr Rudie Asmara Bin Rahman | Mr Rudie | Subject Head |  |
 | Mr Desmond Chua | Mr Chua | Teacher | chua_chin_choon_desmond@schools.gov.sg |
 | Mr Mohammed Hafiez Bin Ali | Mr Hafiez | Teacher | mohammed_hafiez_ali@schools.gov.sg |
 | Mr Lau Kia Hian | Mr Lau | Teacher | lau_kia_hian@schools.gov.sg |
