@@ -15,7 +15,7 @@ variant: markdown
 | Mr Muhammad Fareed Bin Hashim | Mr Fareed | Year Head<br>(Secondary 1 and 2)<br>[covering] | fareed_hashim_muhammad@schools.gov.sg |
 | Mr Mohammed Rohan Bin Ismail | Mr Rohan | Teacher<br>(Physical Education) | [mohammed\_rohan\_ismail@schools.gov.sg](mailto:mohammed_rohan_ismail@schools.gov.sg) |
 | Ms Lynn Tan | Ms Tan | Teacher<br>(Physical Education) | [lynn\_tan\_mei\_yun@schools.gov.sg](mailto:lynn_tan_mei_yun@schools.gov.sg) |
-
+| Mr Mohamad Nor Rizan Abdullah | Mr Rizan | Youth Engagement Officer | mohamad_nor_rizan_abdullah@schools.gov.sg) |
 
 #### Objective
 
