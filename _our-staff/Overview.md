@@ -70,7 +70,8 @@ variant: markdown
 | 11 | Mr Lee Tuck Suen | Teacher (Mathematics) |
 | 12 | Ms Saheeta Nisvaan D/O Syed Maidin | Teacher (Mathematics) |
 | 13 | Ms Hamidah Binte Haji Hamim | Teacher (Mathematics) |
-| 14 | Ms Shariffah Bibi Binte Charagh Din | Technical Support Assistant |
+| 14 | Mr Nathaniel Chia | Teacher (Mathematics) |
+| 15 | Ms Shariffah Bibi Binte Charagh Din | Technical Support Assistant |
 
 #### Aesthetics
 
