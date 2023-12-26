@@ -88,7 +88,7 @@ variant: markdown
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
 | 1 | Ms Janice Tay | Subject Head (Co-Curricular Activities) |
-| 2 | Mr Desmond  | Subject Head (Physical Education) |
+| 2 | Mr Desmond Wee | Subject Head (Physical Education) |
 | 3 | Mr Muhammad Fareed Bin Hashim | Year Head (Sec 1 and 2) [covering] |
 | 4 | Mr Alvin How | Year Head (Sec 3 and 4) |
 | 5 | Mr Mohammed Rohan Bin Ismail | Teacher (Physical Education) |
@@ -205,9 +205,9 @@ variant: markdown
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
 | 1 | Mr Bay Siow Lon | Head (Student Support) |
-| 2 | Ms Pauline Chen | Allied Educator (Learning &amp; Behavioural Support) |
-| 3 | Ms Hafizah Binte Hamzah | Allied Educator (Learning &amp; Behavioural Support) |
-| 4 | Ms Ismaiyah Binte Ismail | Allied Educator (Learning &amp; Behavioural Support) |
+| 2 | Mdm Pauline Chen | Special Educational Needs Officer |
+| 3 | Ms Hafizah Binte Hamzah | Special Educational Needs Officer |
+| 4 | Ms Ismaiyah Binte Ismail | Special Educational Needs Officer |
 | 5 | Ms Celest Ling | School Counsellor |
 | 6 | Mr Joseph Yap | School Counsellor |
 | 7 | Mr Anthony Wong | School Counsellor |
