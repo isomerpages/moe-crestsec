@@ -3,23 +3,23 @@ title: English Language
 permalink: /our-staff/teaching-staff/english-language/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ### English NA &amp; NT
 
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Ms Chee Pey Ling Juliana | Ms Juliana | Head of Department<br>(English Language) | chee_pey_ling_juliana@schools.gov.sg |
-| Mr Adrian Tan Liang Huat | Mr Tan | Head of Department(Discipline) | adrian_tan@schools.gov.sg |
-| Mr Othman Arsan Bin Mohd Abubakar | Mr Othman | Year Head<br>Teacher (English Language) | othman_arsan_mohd_abubakar@schools.gov.sg |
-| Ms Chan Lay Ling, Amy | Ms Chan | Subject Head<br>(English Language) | chan_lay_ling_amy@schools.gov.sg |
-| Ms Siti Nurharnani Binte Nahar | Ms Siti | Subject Head<br>(Character and Citizenship Education)<br>[covering]<br>Teacher (English Language) | siti_nurharnani_nahar@schools.gov.sg |
-| Ms Lee Woan Huey, Hannah | Ms Hannah | Senior Teacher<br>(English Language) | lee_woan_huey_hannah@schools.gov.sg |
-| Ms Hedzlyn Hazwany Binte Mohamed Mahrom | Ms Wany | Senior Teacher<br>(Educational Support)<br>Teacher (English Language) | hedzlyn_hazwany_mohamed_mahrom@schools.gov.sg |
+| Ms Juliana Chee | Ms Juliana | Head of Department<br>(English Language) | chee_pey_ling_juliana@schools.gov.sg |
+| Ms Amy Chan | Ms Chan | Subject Head<br>(English Language) | chan_lay_ling_amy@schools.gov.sg |
+| Mr Adrian Tan | Mr Tan | Lead Teacher <br>(Educational Support) | adrian_tan@schools.gov.sg |
+| Mr Othman Arsan Bin Mohd Abubakar | Mr Othman | Dean <br>(Student Development) | othman_arsan_mohd_abubakar@schools.gov.sg |
+| Ms Siti Nurharnani Binte Nahar | Ms Siti | Subject Head<br>(Character &amp; Citizenship Education) | siti_nurharnani_nahar@schools.gov.sg |
+| Ms Hannah Lee | Ms Hannah | Senior Teacher<br>(English Language) | lee_woan_huey_hannah@schools.gov.sg |
 | Ms Suriani Binte Sulaiman | Ms Su | Teacher (English Language) | suriani_sulaiman_a@schools.gov.sg |
-| Ms Pamela Chia Hui Ling | Mrs Ho | Teacher (English Language) | pamela_chia_hui_ling@schools.gov.sg |
+| Ms Pamela Chia | Mrs Ho | Teacher (English Language) | pamela_chia_hui_ling@schools.gov.sg |
 | Mr Lee Yue Heng | Mr Lee | Teacher (English Language) | lee_yue_heng@schools.gov.sg |
-| Ms Betty Boo May Ling | Ms Betty | Teacher (English Language) | betty_boo_may_ling@schools.gov.sg |
-| Ms Chen Yihan Alyssa | Ms Alyssa | Teacher (English Language) | chen_yihan_alys@schools.gov.sg |
+| Ms Betty Boo | Ms Betty | Teacher (English Language) | betty_boo_may_ling@schools.gov.sg |
+| Ms Alyssa Chen  | Ms Alyssa | Teacher (English Language) | chen_yihan_alys@schools.gov.sg |
 | Ms Wong Yau Are | Ms Wong | Teacher (English Language) | huang_you_ya@schools.gov.sg |
 | Mr Mohamad Hisham B Suwandi | Mr Hisham | Teacher (English Language) | mohd_hisham_b_suwandi@schools.gov.sg |
 | Ms Vanessa Teo | Ms Vanessa | Teacher (English Language) | teo_ee_chian_vanessa@schools.gov.sg |
@@ -117,4 +117,3 @@ _‘The story was fantastic and taught us to respect other people's privacy.’_
 **Review Project (Secondary 3)**  
 
 Through the process of writing reviews and recommendations, the Review Project gave students an authentic platform to improve their writing while concurrently promoting the canteen stalls which featured their favourite dishes. Their completed reviews were placed on canteen tables to showcase the featured food dishes and encourage staff and students to try out the recommended dishes.
-

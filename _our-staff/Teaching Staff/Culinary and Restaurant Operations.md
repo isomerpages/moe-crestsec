@@ -3,21 +3,22 @@ title: Culinary and Restaurant Operations
 permalink: /our-staff/teaching-staff/culinary-and-restaurant-operations/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ### Culinary and Restaurant Operations
 
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Lee Ching Yong | Mr Lee | Head of Department<br>(Culinary Restaurant Operations, CRO)<br>(Retail &amp; E-Commerce, REC)<br> | [lee\_ching\_yong@schools.gov.sg](mailto:lee_ching_yong@schools.gov.sg) |
-| Ms Chang Yi Ping | Ms Chang | Assistant Year Head | [chang\_yi\_ping@schools.gov.sg](mailto:chang_yi_ping@schools.gov.sg) |
-| Ms Ho Wei Lynn Karen | Ms Ho | Subject Head<br>(ECG)<br>Teacher (CRO) | [ho\_wei\_lynn\_karen@schools.gov.sg](mailto:ho_wei_lynn_karen@schools.gov.sg) |
-| Mr Dave Yuen Wei Dong | Mr Yuen | Teacher (CRO) | [yuen\_wei\_dong\_dave@schools.gov.sg](mailto:yuen_wei_dong_dave@schools.gov.sg) |
-| Mr Paul Ling | Mr Ling | Teacher (CRO) | [ling\_chee\_kwong@schools.gov.sg](mailto:ling_chee_kwong@schools.gov.sg) |
-| Mr Ong Chin Koon | Mr Ong | Teacher (CRO) | [ong\_chin\_koon@schools.gov.sg](mailto:ong_chin_koon@schools.gov.sg) |
-| Ms Cherish Law | Ms Law | Allied Educator (CRO) | [law\_zhen\_xi@schools.gov.sg](mailto:law_zhen_xi@schools.gov.sg) |
-| Ms Natasha Qhalisha | Ms Natasha | Executive (CRO) | [natasha\_qhalisha\_japri@schools.gov.sg](mailto:natasha_qhalisha_japri@schools.gov.sg) |
-| Ms Liyana Binte Samson | Ms Yana | Operations Support Officer (CRO) | na |
+| Mr Lee Ching Yong | Mr Lee | Head of Department<br>(Culinary &amp; Restaurant Operations)<br>(Retail &amp; E-commerce)<br> | [lee\_ching\_yong@schools.gov.sg](mailto:lee_ching_yong@schools.gov.sg) |
+| Ms Chang Yi Ping | Ms Chang | Assistant Year Head<br>(Secondary 2) | [chang\_yi\_ping@schools.gov.sg](mailto:chang_yi_ping@schools.gov.sg) |
+| Ms Karen Ho | Ms Ho | Subject Head<br>(Education and Career Guidance) | [ho\_wei\_lynn\_karen@schools.gov.sg](mailto:ho_wei_lynn_karen@schools.gov.sg) |
+| Mr Dave Yuen | Mr Yuen | Teacher<br>(Culinary &amp; Restaurant Operations) | [yuen\_wei\_dong\_dave@schools.gov.sg](mailto:yuen_wei_dong_dave@schools.gov.sg) |
+| Mr Paul Ling | Mr Ling | Teacher<br>(Culinary &amp; Restaurant Operations) | [ling\_chee\_kwong@schools.gov.sg](mailto:ling_chee_kwong@schools.gov.sg) |
+| Mr Ong Chin Koon | Mr Ong | Teacher<br>(Culinary &amp; Restaurant Operations) | [ong\_chin\_koon@schools.gov.sg](mailto:ong_chin_koon@schools.gov.sg) |
+| Ms Cherish Law | Ms Law | Allied Educator<br>(Culinary &amp; Restaurant Operations) | [law\_zhen\_xi@schools.gov.sg](mailto:law_zhen_xi@schools.gov.sg) |
+| Ms Natasha Qhalisha | Ms Natasha | Executive<br>(Culinary &amp; Restaurant Operations) | [natasha\_qhalisha\_japri@schools.gov.sg](mailto:natasha_qhalisha_japri@schools.gov.sg) |
+| Ms Liyana Binte Samson | Ms Yana | Operations Support Officer<br>(Culinary &amp; Restaurant Operations) | liyanah@crestsec.edu.sg |
 
 #### Objective
 

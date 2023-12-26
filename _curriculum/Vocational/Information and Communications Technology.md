@@ -1,16 +1,17 @@
 ---
-title: Infocommunications Technology
+title: Information and Communications Technology
 permalink: /programmes/vocational-curriculum/infocommunications-technology/
 description: ""
 third_nav_title: Vocational
+variant: markdown
 ---
 | Teachers | Affectionately<br>known as | Designation | Email |
 |---|---|---|---|
-| Mr Andy Lam Kum Cheong | Mr Lam | Head of Department | andy_lam_kum_cheong@schools.gov.sg |
-| Mr Lin Yuxuan, Den | Mr Lin | Subject Head | lin_yuxuan_den@schools.gov.sg |
-| Ms Siti Nooratika Binte Jumaat | Ms Atika | Teacher | siti_nooratika_jumaat@schools.gov.sg |
-| Mr James Pek | Mr James | Senior Officer (ICT) | james_pek@crestsec.edu.sg |
-| Mr Klassen Charles Gerard | Mr Charles | Technical Support Officer (AV &amp; ICT) | klassen_charles_gerard@schools.gov.sg |
+| Mr Eugene Lim | Mr Lim | Head of Department<br>(Information and Communications Technology)<br>[covering] | lim_ming_hui_eugene@schools.gov.sg |
+| Mr Den Lin | Mr Lin | Subject Head<br>(Information and Communications Technology) | lin_yuxuan_den@schools.gov.sg |
+| Ms Siti Nooratika Binte Jumaat | Ms Atika | Teacher<br>(Information and Communications Technology) | siti_nooratika_jumaat@schools.gov.sg |
+| Mr James Pek | Mr James | Senior Officer<br>(Information and Communications Technology) | pek_su_heng@schools.gov.sg |
+| Mr Klassen Charles Gerard | Mr Charles | Technical Support Officer <br>(Audio Visuals &amp; Information and Communications Technology) | klassen_charles_gerard@schools.gov.sg |
 
 
 Objective

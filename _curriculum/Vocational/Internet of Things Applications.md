@@ -3,18 +3,18 @@ title: Internet of Things Applications
 permalink: /programmes/vocational-curriculum/internet-of-things-applications/
 description: ""
 third_nav_title: Vocational
+variant: markdown
 ---
 ### Internet of Things Applications
 
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Mr Lim Ming Hui Eugene | Mr Lim | Subject Head | lim_ming_hui_eugene@schools.gov.sg |
-| Mr Chang Choo Liang | Mr Chang | Teacher | chang_choo_liang@schools.gov.sg |
-| Mr Desmond Chua | Mr Chua | Teacher | chua_chin_choon_desmond@schools.gov.sg |
-| Mr Mohammed Hafiez Bin Ali | Mr Hafiez | Teacher | mohammed_hafiez_ali@schools.gov.sg |
-| Mr Lau Kia Hian | Mr Lau | Teacher | lau_kia_hian@schools.gov.sg |
-| Mr Ong Cheng Soon | Mr Ong | Allied Educator T&amp;L | ong_cheng_soon@schools.gov.sg |
-| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L | jonathan_tsang@crestsec.edu.sg |
+| Mr Rudie Asmara Bin Rahman | Mr Rudie | Subject Head<br>(Internet of Things Applications) | rudie_asmara_rahman@schools.gov.sg |
+| Mr Desmond Chua | Mr Chua | Teacher<br>(Internet of Things Applications) | chua_chin_choon_desmond@schools.gov.sg |
+| Mr Mohammed Hafiez Bin Ali | Mr Hafiez | Teacher<br>(Internet of Things Applications) | mohammed_hafiez_ali@schools.gov.sg |
+| Mr Lau Kia Hian | Mr Lau | Teacher<br>(Internet of Things Applications) | lau_kia_hian@schools.gov.sg |
+| Mr Ong Cheng Soon | Mr Ong | Allied Educator T&amp;L<br>(Internet of Things Applications) | ong_cheng_soon@schools.gov.sg |
+| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L<br>(Internet of Things Applications) | jonathan_tsang_yim_ting@schools.gov.sg |
 
 #### Objective
 

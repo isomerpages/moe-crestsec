@@ -3,16 +3,17 @@ title: Student Support
 permalink: /student-support/programmes/student-development/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ### Student Support
 
 | Name | Designation | Email |
 |:---:|:---:|:---:|
-| Mr Bay Siow Lon | Head of Department<br>(Student Support) | [bay\_siow\_lon@schools.gov.sg](mailto:bay_siow_lon@schools.gov.sg) |
-| Ms Celest Ling | School Counsellor | [celest\_ling@crestsec.edu.sg](mailto:celest_ling@crestsec.edu.sg) |
+| Mr Bay Siow Lon | Head<br>(Student Support) | [bay\_siow\_lon@schools.gov.sg](mailto:bay_siow_lon@schools.gov.sg) |
+| Ms Celest Ling | School Counsellor | [ling_ching_ching_celest@schools.gov.sg](mailto:celest_ling@crestsec.edu.sg) |
 | Mr Joseph Yap | School Counsellor | [yap\_zheng\_jie\_joseph@schools.gov.sg](mailto:yap_zheng_jie_joseph@schools.gov.sg) |
 | Mr Anthony Wong | School Counsellor | [wong\_teck\_boon\_anthony@schools.gov.sg](mailto:wong_teck_boon_anthony@schools.gov.sg) |
-| Mdm Pauline Chen Suh Shyan | Special Educational Needs Officer | [chen\_suh\_shyan\_pauline@schools.gov.sg](mailto:chen_suh_shyan_pauline@schools.gov.sg) |
+| Mdm Pauline Chen | Special Educational Needs Officer | [chen\_suh\_shyan\_pauline@schools.gov.sg](mailto:chen_suh_shyan_pauline@schools.gov.sg) |
 | Ms Hafizah Binte Hamzah | Special Educational Needs Officer | [hafizah\_hamzah@schools.gov.sg](mailto:hafizah_hamzah@schools.gov.sg) |
 | Ms Ismaiyah Binte Ismail | Special Educational Needs Officer | [ismaiyah\_binte\_ismail@schools.gov.sg](mailto:ismaiyah_binte_ismail@schools.gov.sg) |
 | Ms Hilda Ng Hsiao Huei | Student Welfare Officer | [ng\_hsiao\_huei\_hilda@schools.gov.sg](mailto:ng_hsiao_huei_hilda@schools.gov.sg) |

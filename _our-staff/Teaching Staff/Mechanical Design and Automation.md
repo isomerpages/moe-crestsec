@@ -3,16 +3,18 @@ title: Mechanical Design and Automation
 permalink: /our-staff/teaching-staff/mechanical-design-and-automation/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ### Mechanical Design and Automation
 
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
-| Ms Ang Lay Beng | Ms Ang | Senior Teacher (MDA) | [ang\_lay\_beng@schools.gov.sg](mailto:ang_lay_beng@schools.gov.sg) |
-| Mr Tan Eng Choon | Mr Tan | Teacher (MDA) | [tan\_eng\_choon@schools.gov.sg](mailto:tan_eng_choon@schools.gov.sg) |
-| Mr Lim Swee Huat | Mr Lim | Teacher (MDA) | [lim\_swee\_huat@schools.gov.sg](mailto:lim_swee_huat@schools.gov.sg) |
-| Mr Althaf Shathali | Mr Althaf | Teacher (MDA) | [md\_althaf@crestsec.edu.sg](mailto:md_althaf@crestsec.edu.sg) |
-| Mr Zaki B Hosain | Mr Zaki | Teacher (MDA) | [muhammad\_zaki\_hosain@schools.gov.sg](mailto:muhammad_zaki_hosain@schools.gov.sg) |
+| Ms Ang Lay Beng | Ms Ang | Subject Head <br>(Mechanical Design &amp; Automation) | [ang\_lay\_beng@schools.gov.sg](mailto:ang_lay_beng@schools.gov.sg) |
+| Mr Tan Chwee Leong | Mr Tan | Teacher <br>(Mechanical Design &amp; Automation) | tan_chwee_leong@schools.gov.sg |
+| Mr Tan Eng Choon | Mr Tan | Teacher <br>(Mechanical Design &amp; Automation) | [tan\_eng\_choon@schools.gov.sg](mailto:tan_eng_choon@schools.gov.sg) |
+| Mr Althaf Shathali | Mr Althaf | Teacher <br>(Mechanical Design &amp; Automation) | mohamed_althaf_shathali@schools.gov.sg |
+| Mr Zaki B Hosain | Mr Zaki | Teacher <br>(Mechanical Design &amp; Automation) | [muhammad\_zaki\_hosain@schools.gov.sg](mailto:muhammad_zaki_hosain@schools.gov.sg) |
+| Mr Hisham Bin Md Sabidi | Mr Zaki | Senior Technical Support Officer <br>(Mechanical Design &amp; Automation) | hisham_md_sabidi@schools.gov.sg |
 
 #### Objective
 

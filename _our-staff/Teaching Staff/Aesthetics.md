@@ -3,17 +3,17 @@ title: Aesthetics
 permalink: /our-staff/teaching-staff/aesthetics/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ### Aesthetics
 
 | Teachers | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
 | Ms Lisa Lok | Ms Lok | Head of Department (Aesthetics)<br>(Co-Curricular Activities) | [lok\_lai\_hoong@schools.gov.sg](mailto:lok_lai_hoong@schools.gov.sg) |
-| Mr Lucas Teo | Mr Teo | Head of Department<br>(Organisational Learning &amp; Development) | [teo\_zhiliang@schools.gov.sg](mailto:teo_zhiliang@schools.gov.sg) |
+| Ms Rischka Syafiqa Putri Jonawi | Ms Rischka | Subject Head <br>(Student Leadership Development) <br>[covering] | [rischka\_syafiqa\_putri\_jonawi@schools.gov.sg](mailto:rischka_syafiqa_putri_jonawi@schools.gov.sg) |
 | Ms Mutmainnah Bte Saidi | Ms Mutmainnah | Teacher (Aesthetics) | [mutmainnah\_saidi@schools.gov.sg](mailto:mutmainnah_saidi@schools.gov.sg) |
-| Mr Poh Wei Yi, Ian | Mr Ian | Teacher (Aesthetics) | [poh\_wei\_yi\_ian@schools.gov.sg](mailto:poh_wei_yi_ian@schools.gov.sg) |
-| Ms Rischka Syafiqa Putri Jonawi | Ms Rischka | Teacher (Aesthetics) | [rischka\_syafiqa\_putri\_jonawi@schools.gov.sg](mailto:rischka_syafiqa_putri_jonawi@schools.gov.sg) |
-| Mr Quek Kwan Chern Matthew | Mr Quek | Teacher (Music) | [quek\_kwan\_chern\_matthew@schools.gov.sg](mailto:quek_kwan_chern_matthew@schools.gov.sg) |
+| Mr Ian Poh| Mr Ian | Teacher (Aesthetics) | [poh\_wei\_yi\_ian@schools.gov.sg](mailto:poh_wei_yi_ian@schools.gov.sg) |
+| Mr Matthew Quek  | Mr Quek | Teacher (Music) | [quek\_kwan\_chern\_matthew@schools.gov.sg](mailto:quek_kwan_chern_matthew@schools.gov.sg) |
 
 #### Objective
 
