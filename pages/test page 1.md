@@ -1,12 +1,9 @@
 ---
-title: Board of Directors
-permalink: /info-at-crest/board-of-directors/
-description: ""
+title: test page 1
+permalink: /permalink/
 variant: markdown
+description: ""
 ---
-### Board of Directors
-
-
 <table border="1">
       <tbody><tr>
         <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_wilson2.jpg"><br><b>Mr Tan Wee Yan Wilson</b><br>Chairman</td>
@@ -36,4 +33,3 @@ variant: markdown
 		<tr>
 			<td>
 		</td></tr></tbody></table>
-		
