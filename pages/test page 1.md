@@ -6,8 +6,8 @@ description: ""
 ---
 <table border="1">
       <tbody><tr>
-        <td style="text-align: center; vertical-align: middle; width:188px; height:250px;"><img src="/images/bod_wilson2.jpg"><br><b>Mr Tan Wee Yan Wilson</b><br>Chairman</td>
-        <td style="text-align: center; vertical-align: middle; width:188px; height:250px;"><img src="/images/bod_dr_mok2.jpg"><br><b>Dr Mok Ying Jang</b><br>Vice-Chairman</td>
+        <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_wilson2.jpg"><br><b>Mr Tan Wee Yan Wilson</b><br>Chairman</td>
+        <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_dr_mok2.jpg"><br><b>Dr Mok Ying Jang</b><br>Vice-Chairman</td>
       </tr>
 	</tbody></table>
 		
@@ -23,9 +23,9 @@ description: ""
 				<td style="text-align: center; vertical-align: middle;"><img src="/images/bod_yasmin2.jpg"><br><b>Ms Yasmin Hannah Ramle</b><br>Member</td>
       </tr>
 	      <tr>
-        <td style="text-align: center; vertical-align: middle; width:188px; height:250px;"><img src="/images/bod_chandrasekar2.jpg"><br><b>Mr Chandrasekar s/o Palanisamy</b><br>Member</td>
-        <td style="text-align: center; vertical-align: middle; width:188px; height:250px;"><img src="/images/bod_lee_yee_hern2.jpg"><br><b>Mr Lee Yee Hern</b><br>Member</td>
-				<td style="text-align: center; vertical-align: middle; width:188px; height:250px;"><img src="/images/bod_ng_yi_xian2.jpg"><br><b>Mr Ng Yi-Xian</b><br>Member</td>
+        <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_chandrasekar2.jpg"><br><b>Mr Chandrasekar s/o Palanisamy</b><br>Member</td>
+        <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_lee_yee_hern2.jpg"><br><b>Mr Lee Yee Hern</b><br>Member</td>
+				<td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_ng_yi_xian2.jpg"><br><b>Mr Ng Yi-Xian</b><br>Member</td>
       </tr>
     </tbody></table>
 <table style="width: 500px; text-align: center;" cellspacing="1" cellpadding="1" border="1">
