@@ -58,20 +58,23 @@ variant: markdown
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
 | 1 | Mdm Ong Siew Khim | Head of Department (Mathematics) (Science) |
-| 2 | Ms Foo Mei Yeng | Assistant Year Head (Secondary 4) |
-| 3 | Ms Eunice Ho | Subject Head (Mathematics) |
-| 4 | Mr Jason Tan | Head of Department (Discipline) |
-| 5 | Mr Den Lin  | Subject Head (Information and Communications Technology) |
-| 6 | Mr Ooi Heng | Subject Head (Science &amp; Environmental Education) |
-| 7 | Mr Lim Kian Chuan | Teacher (Mathematics) |
+| 2 | Mr Jason Tan | Head of Department (Discipline) |
+| 3 | Mr Philip Yeo | Head of Department (Character and Citizenship Education) |
+| 4 | Mr Andy Lam | School Staff Developer |
+| 5 | Ms Eunice Ho | Subject Head (Mathematics) |
+| 6 | Mr Den Lin  | Subject Head (Information and Communications Technology) |
+| 7 | Mr Ooi Heng | Subject Head (Science &amp; Environmental Education) |
+| 8 | Ms Liew Jia Meng | Assistant Year Head (Secondary 1) |
+| 9 | Ms Foo Mei Yeng | Assistant Year Head (Secondary 4) |
+| 10 | Mr Lim Kian Chuan | Teacher (Mathematics) |
 | 8 | Mr Lim Weiming | Teacher (Mathematics) |
-| 9 | Ms Shuhadah Binte Suleiman | Teacher (Mathematics) |
-| 10 | Mr Marvin Lo | Teacher (Mathematics) (Science) |
-| 11 | Mr Lee Tuck Suen | Teacher (Mathematics) |
-| 12 | Ms Saheeta Nisvaan D/O Syed Maidin | Teacher (Mathematics) |
-| 13 | Ms Hamidah Binte Haji Hamim | Teacher (Mathematics) |
-| 14 | Mr Nathaniel Chia | Teacher (Mathematics) |
-| 15 | Ms Shariffah Bibi Binte Charagh Din | Technical Support Assistant |
+| 11 | Ms Shuhadah Binte Suleiman | Teacher (Mathematics) |
+| 12 | Mr Marvin Lo | Teacher (Mathematics) (Science) |
+| 13 | Mr Lee Tuck Suen | Teacher (Mathematics) |
+| 14 | Ms Saheeta Nisvaan D/O Syed Maidin | Teacher (Mathematics) |
+| 15 | Ms Hamidah Binte Haji Hamim | Teacher (Mathematics) |
+| 16 | Mr Nathaniel Chia | Teacher (Mathematics) |
+| 17 | Ms Shariffah Bibi Binte Charagh Din | Technical Support Assistant |
 
 #### Aesthetics
 
