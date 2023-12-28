@@ -11,6 +11,7 @@ variant: markdown
 |:---:|:---:|:---:|:---:|
 | Mdm Ong Siew Khim | Mdm Ong | Head of Department<br>(Mathematics)<br>(Science) | [ong\_siew\_khim\_b@schools.gov.sg](mailto:ong_siew_khim_b@schools.gov.sg) |
 | Ms Eunice Ho  | Ms Ho | Subject Head <br>(Mathematics) | [ho\_su\_ching\_eunice@schools.gov.sg](mailto:ho_su_ching_eunice@schools.gov.sg) |
+| Mr Andy Lam | Mr Lam | School Staff Developer | andy_lam_kum_cheong@schools.gov.sg |
 | Mr Lim Kian Chuan | Mr Lim | Teacher <br>(Mathematics) | [lim\_kian\_chuan@schools.gov.sg](mailto:lim_kian_chuan@schools.gov.sg) |
 | Mr Lim Weiming | Mr Lim | Teacher <br>(Mathematics) | [lim\_weiming@schools.gov.sg](mailto:lim_weiming@schools.gov.sg) |
 | Ms Hamidah Haji Hamim | Ms Hamidah | Teacher <br>(Mathematics) | [hamidah\_haji\_hamim@schools.gov.sg](mailto:hamidah_haji_hamim@schools.gov.sg) |
