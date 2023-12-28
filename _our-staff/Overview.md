@@ -67,14 +67,14 @@ variant: markdown
 | 8 | Ms Liew Jia Meng | Assistant Year Head (Secondary 1) |
 | 9 | Ms Foo Mei Yeng | Assistant Year Head (Secondary 4) |
 | 10 | Mr Lim Kian Chuan | Teacher (Mathematics) |
-| 8 | Mr Lim Weiming | Teacher (Mathematics) |
-| 11 | Ms Shuhadah Binte Suleiman | Teacher (Mathematics) |
-| 12 | Mr Marvin Lo | Teacher (Mathematics) (Science) |
-| 13 | Mr Lee Tuck Suen | Teacher (Mathematics) |
-| 14 | Ms Saheeta Nisvaan D/O Syed Maidin | Teacher (Mathematics) |
-| 15 | Ms Hamidah Binte Haji Hamim | Teacher (Mathematics) |
-| 16 | Mr Nathaniel Chia | Teacher (Mathematics) |
-| 17 | Ms Shariffah Bibi Binte Charagh Din | Technical Support Assistant |
+| 11 | Mr Lim Weiming | Teacher (Mathematics) |
+| 12 | Ms Shuhadah Binte Suleiman | Teacher (Mathematics) |
+| 13 | Mr Marvin Lo | Teacher (Mathematics) (Science) |
+| 14 | Mr Lee Tuck Suen | Teacher (Mathematics) |
+| 15 | Ms Saheeta Nisvaan D/O Syed Maidin | Teacher (Mathematics) |
+| 16 | Ms Hamidah Binte Haji Hamim | Teacher (Mathematics) |
+| 17 | Mr Nathaniel Chia | Teacher (Mathematics) |
+| 18 | Ms Shariffah Bibi Binte Charagh Din | Technical Support Assistant |
 
 #### Aesthetics
 
