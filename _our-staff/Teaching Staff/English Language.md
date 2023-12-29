@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Teaching Staff
 variant: markdown
 ---
-### English NA &amp; NT
+### English
 
 | Name | Affectionately known as | Designation | Email |
 |:---:|:---:|:---:|:---:|

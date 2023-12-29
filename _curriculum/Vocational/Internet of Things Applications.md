@@ -7,14 +7,6 @@ variant: markdown
 ---
 ### Internet of Things Applications
 
-| Name | Affectionately known as | Designation | Email |
-|:---:|:---:|:---:|:---:|
-| Mr Rudie Asmara Bin Rahman | Mr Rudie | Subject Head<br>(Internet of Things Applications) | rudie_asmara_rahman@schools.gov.sg |
-| Mr Desmond Chua | Mr Chua | Teacher<br>(Internet of Things Applications) | chua_chin_choon_desmond@schools.gov.sg |
-| Mr Mohammed Hafiez Bin Ali | Mr Hafiez | Teacher<br>(Internet of Things Applications) | mohammed_hafiez_ali@schools.gov.sg |
-| Mr Lau Kia Hian | Mr Lau | Teacher<br>(Internet of Things Applications) | lau_kia_hian@schools.gov.sg |
-| Mr Ong Cheng Soon | Mr Ong | Allied Educator T&amp;L<br>(Internet of Things Applications) | ong_cheng_soon@schools.gov.sg |
-| Mr Jonathan Tsang | Mr Jonathan | Allied Educator T&amp;L<br>(Internet of Things Applications) | jonathan_tsang_yim_ting@schools.gov.sg |
 
 #### Objective
 

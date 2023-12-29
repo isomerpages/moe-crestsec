@@ -7,15 +7,6 @@ variant: markdown
 ---
 ###  Retail &amp; E-commerce
 
-| Name | Affectionately<br>known as | Designation | Email |
-|:---:|:---:|:---:|:---:|
-| Mr Lee Ching Yong | Mr Lee | Head of Department<br>Culinary Restaurant Operations) <br>(Retail &amp; E-commerce) | lee_ching_yong@schools.gov.sg |
-| Ms Chan Mei Lian | Ms Chan | Subject Head<br>(Retail &amp; E-commerce) | chan_mei_lian@schools.gov.sg |
-| Mr Gordon Chua | Mr Chua | Subject Head <br>(Discipline) <br>[covering] | chua_choon_hiong@schools.gov.sg |
-| Mr Ng Wee Kee | Mr Ng | Teacher<br>(Retail &amp; E-commerce) | ng_wee_kee@schools.gov.sg |
-| Ms Tan Farah Imran | Ms Farah | Teacher<br>(Retail &amp; E-commerce) | tan_farah_imran@schools.gov.sg |
-| Ms Khairiah Binti Jaafar | Ms Khairiah | Teacher<br>(Retail &amp; E-commerce) | khairiah_jaafar@schools.gov.sg |
-| Ms Fateha Binte Hashim | Ms Fateha | Technical Support Officer<br>(Retail &amp; E-commerce) | nurul_fateha_hashim@schools.gov.sg |
 
 #### Objective
 

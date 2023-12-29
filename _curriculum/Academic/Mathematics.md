@@ -6,21 +6,6 @@ third_nav_title: Academic
 variant: markdown
 ---
 ### Mathematics
-
-| Name | Affectionately known as | Designation | Email |
-|:---:|:---:|:---:|:---:|
-| Mdm Ong Siew Khim | Mdm Ong | Head of Department<br>(Mathematics)<br>(Science) | [ong\_siew\_khim\_b@schools.gov.sg](mailto:ong_siew_khim_b@schools.gov.sg) |
-| Ms Eunice Ho  | Ms Ho | Subject Head <br>(Mathematics) | [ho\_su\_ching\_eunice@schools.gov.sg](mailto:ho_su_ching_eunice@schools.gov.sg) |
-| Mr Lim Kian Chuan | Mr Lim | Teacher <br>(Mathematics) | [lim\_kian\_chuan@schools.gov.sg](mailto:lim_kian_chuan@schools.gov.sg) |
-| Mr Lim Weiming | Mr Lim | Teacher <br>(Mathematics) | [lim\_weiming@schools.gov.sg](mailto:lim_weiming@schools.gov.sg) |
-| Ms Hamidah Haji Hamim | Ms Hamidah | Teacher <br>(Mathematics) | [hamidah\_haji\_hamim@schools.gov.sg](mailto:hamidah_haji_hamim@schools.gov.sg) |
-| Ms Shuhadah Binte Suleiman | Ms Shuhadah | Teacher<br>(Mathematics) | [shuhadah@schools.gov.sg](mailto:shuhadah@schools.gov.sg) |
-| Mr Marvin Lo | Mr Lo | Teacher <br>(Mathematics) | [lo\_chen\_yang\_marvin@schools.gov.sg](mailto:lo_chen_yang_marvin@schools.gov.sg) |
-| Mr Lee Tuck Suen | Mr Lee | Teacher<br>(Mathematics) | [lee\_tuck\_suen@schools.gov.sg](mailto:lee_tuck_suen@schools.gov.sg) |
-| Ms Saheeta Nisvaan | Ms Saheeta | Teacher<br>(Mathematics) | [saheeta\_nisvaan@schools.gov.sg](mailto:saheeta_nisvaan@schools.gov.sg) |
-| Mr Nathaniel Chia  | Mr Chia | Teacher<br>(Mathematics) | nathaniel_chia_wei_long@schools.gov.sg |
-
-
 #### Objective
 
 The Mathematics Department pedagogical framework is designed to reboot, recondition and restore Crestans’ confidence for Mathematics through positive teacher-student relationship and effective teaching strategies.&nbsp;
