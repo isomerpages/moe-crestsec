@@ -23,15 +23,6 @@ sections:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
   - infopic:
-      title: CNA938 Interview
-      id: infopic
-      description: Listen to our Principal and two alumni being interviewed by CNA938
-        on "Turning dreams into reality".
-      button: Listen here
-      url: https://drive.google.com/file/d/1AW9dwrZN2KJj7LMe0oC3XEeL21UVrQoj/view?usp=sharing
-      image: /images/cna_ourtown.jpg
-      alt: Image alt text
-  - infopic:
       title: NIE Caring Teacher Award
       id: infopic
       description: Nominate your favourite teacher for the NIE Caring Teacher Award!
