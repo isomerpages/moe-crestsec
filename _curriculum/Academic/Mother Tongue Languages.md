@@ -10,7 +10,7 @@ variant: markdown
 | Name | Affectionately<br>known as | Designation | Email |
 |:---:|:---:|:---:|:---:|
 | Ms Muszalifa Binte Aman | Ms Ifa | Subject Head<br>(Malay Language) | [muszalifa\_aman@schools.gov.sg](mailto:muszalifa_aman@schools.gov.sg)|
-| Ms Michelle Lim | Ms Lim | Subject Head <br>(Chinese Language) | [lim\_michellen@schools.gov.sg](mailto:lim_michellen@schools.gov.sg)|
+| Ms Michelle Lim | Ms Lim | Subject Head <br>(Chinese Language) | lim_michelle@schools.gov.sg |
 | Ms Raihanah Beevi | Ms Beevi | Assistant Year Head<br>(Secondary 3)<br>Teacher  <br>(Tamil Language) | [raihanah\_beevi@schools.gov.sg](mailto:raihanah_beevi@schools.gov.sg) |
 | Mdm Tan Chia Chia | Mdm Tan | Teacher  <br>(Chinese Language) | [tan\_chia\_chia@schools.gov.sg](mailto:tan_chia_chia@schools.gov.sg) |
 | Ms Vicky Ho | Ms Ho | Teacher  <br>(Chinese Language) | [ho\_yuen\_ming\_vicky@schools.gov.sg](mailto:ho_yuen_ming_vicky@schools.gov.sg) |
