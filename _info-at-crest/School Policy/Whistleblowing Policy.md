@@ -3,6 +3,7 @@ title: Whistleblowing Policy
 permalink: /info-at-crest/school-policy/whistleblowing-policy/
 description: ""
 third_nav_title: School Policy
+variant: markdown
 ---
 ### Whistleblowing Policy
 
@@ -71,7 +72,7 @@ _b. Confidentiality – Whistleblowers are encouraged to disclose their identity
 |:---:|:---:|
 | Chairman | whistleblowing1@crestsec.edu.sg |
 | Vice-Chairman | whistleblowing2@crestsec.edu.sg |
-| Principal | seet_tiat_hee@schools.gov.sg |
+| Principal | benjamin_kwok@schools.gov.sg |
 
 12\. For reporting by mail – The whistleblower can send the letter to the following address and attention the investigation members in accordance with paragraph 10:
 
