@@ -8,8 +8,8 @@ variant: markdown
 
 <table border="1">
       <tbody><tr>
-        <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_wilson2.jpg" style="width:45%"><br><b>Mr Tan Wee Yan Wilson</b><br>Chairman</td>
-        <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_dr_mok2.jpg" style="width:45%"><br><b>Dr Mok Ying Jang</b><br>Vice-Chairman</td>
+        <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_wilson2.jpg" style="width:50%"><br><b>Mr Tan Wee Yan Wilson</b><br>Chairman</td>
+        <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_dr_mok2.jpg" style="width:50%"><br><b>Dr Mok Ying Jang</b><br>Vice-Chairman</td>
       </tr>
 	</tbody></table>
 		
