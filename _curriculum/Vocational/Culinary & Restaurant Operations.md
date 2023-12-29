@@ -8,17 +8,6 @@ variant: markdown
 ### Culinary &amp; Restaurant Operations
 
 
-| Name | Affectionately<br>known as | Designation | Email |
-|:---:|:---:|:---:|:---:|
-| Mr Lee Ching Yong | Mr Lee | Head of Department<br>(Culinary &amp; Restaurant Operations) <br>(Retail &amp; E-commerce) | lee_ching_yong@schools.gov.sg |
-| Ms Chang Yi Ping | Ms Chang | Assistant Year Head<br>(Secondary 2) | chang_yi_ping@schools.gov.sg |
-| Ms Karen Ho | Ms Ho | Subject Head<br>(Education and Career Guidance) | ho_wei_lynn_karen@schools.gov.sg |
-| Mr Dave Yuen | Mr Yuen | Teacher<br>(Culinary &amp; Restaurant Operations) | yuen_wei_dong_dave@schools.gov.sg |
-| Mr Paul Ling | Mr Ling | Teacher<br>(Culinary &amp; Restaurant Operations) | ling_chee_kwong@schools.gov.sg |
-| Mr Ong Chin Koon | Mr Ong | Teacher<br>(Culinary &amp; Restaurant Operations) | ong_chin_koon@schools.gov.sg |
-| Ms Cherish Law | Ms Law | Allied Educator<br>(Culinary &amp; Restaurant Operations) | law_zhen_xi@schools.gov.sg |
-| Ms Natasha Qhalisha | Ms Natasha | Executive<br>(Culinary &amp; Restaurant Operations) | natasha_qhalisha_japri@schools.gov.sg |
-| Ms Liyana Binte Samson | Ms Yana | Operations Support Officer<br>(Culinary &amp; Restaurant Operations) | liyanah@crestsec.edu.sg |
 
 #### Objective
 
