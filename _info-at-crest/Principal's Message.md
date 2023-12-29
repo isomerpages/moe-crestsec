@@ -4,6 +4,8 @@ permalink: /principals-message/
 description: ""
 variant: markdown
 ---
+### Principal's Message
+
 I am delighted to embrace the role of Principal at Crest Secondary School, where our dedication to education transcends conventional boundaries.
 
 Our distinctive curriculum not only explores academic subjects but also integrates vocational skills, fostering robust partnerships with industries. As part of our vocational programme, students will undergo transformative industrial exposure, immersing themselves in authentic working environments. Each student will be attached to a company, enabling them to apply technical and life skills acquired during their lessons. This hands-on experience will enrich their education and prepare them for real-world challenges in their future careers.
