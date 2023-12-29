@@ -7,15 +7,6 @@ variant: markdown
 ---
 ### Science
 
-| Teachers | Affectionately<br>known as | Designation | Email |
-|:---:|:---:|:---:|:---:|
-| Mdm Ong Siew Khim | Mdm Ong | Head of Department<br>(Mathematics)<br>(Science) | [ong\_siew\_khim\_b@schools.gov.sg](mailto:ong_siew_khim_b@schools.gov.sg) |
-| Ms Foo Mei Yeng | Ms Foo | Assistant Year Head<br>(Secondary 4) | [foo\_mei\_yeng@schools.gov.sg](mailto:foo_mei_yeng@schools.gov.sg) |
-| Mr Lin Yuxuan, Den | Mr Lin | Subject Head<br>(Information and Communications Technology) | [lin\_yuxuan\_den@schools.gov.sg](mailto:lin_yuxuan_den@schools.gov.sg) |
-| Mr Ooi Heng | Mr Ooi | Subject Head (Science &amp; Environmental Education) | [ooi\_heng@schools.gov.sg](mailto:ooi_heng@schools.gov.sg) |
-| Mr Marvin Lo | Mr Lo | Teacher (Science) | [lo\_chen\_yang\_marvin@schools.gov.sg](mailto:lo_chen_yang_marvin@schools.gov.sg) |
-| Mdm Shariffah Bibi Charag Din | Mdm Shariffah | Technical Support Assistant (Science) | [shariffah\_bibi\_charag\_din@schools.gov.sg](mailto:shariffah_bibi_charag_din@schools.gov.sg) |
-
 #### Objective
 
 The Science Department pedagogical framework aims to instil the joy of learning Science and use the scientific knowledge they acquire to guide Crestans make better decisions in life.
