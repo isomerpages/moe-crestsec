@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Student Handbook 2024 is available now.</p><p>Click <a href="https://www.crestsec.edu.sg/info-at-crest/student-handbook/" rel="noopener noreferrer nofollow" target="_blank">here</a> to download the handbook.</p>
+<p>Click <a href="https://www.crestsec.edu.sg/info-at-crest/student-handbook/" rel="noopener noreferrer nofollow" target="_blank">here</a> to download the Student Handbook 2024.</p>
