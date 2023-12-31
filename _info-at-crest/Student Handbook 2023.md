@@ -1,8 +1,0 @@
----
-title: Student Handbook 2023
-permalink: /info-at-crest/student-handbook-2023/
-description: ""
----
-### Student Handbook 2023
-
-[Crest Sec HB 2023.pdf](/files/crestsec-hb-2023.pdf)
