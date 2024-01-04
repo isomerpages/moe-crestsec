@@ -7,23 +7,14 @@ variant: markdown
 ---
 ### Student
 
-#### Class list for 2023
+#### Timetable for 2024
 
-[Sec 1 2023\_Class\_List.pdf](/files/ul2.pdf) <br>
-[Sec 2 2023\_Class\_List.pdf](/files/ul3.pdf) <br>
-[Sec 3 2023\_Class\_List.pdf](/files/ul4.pdf)<br>
-[Sec 4 2023\_Class\_List.pdf](/files/ul5.pdf)
+[Sec 1 2024 Timetable Term 1.pdf](/files/2024_timetable_sec1_term1.pdf) <br>
+[Sec 2 2024 Timetable Term 1.pdf](/files/2024_timetable_sec2_term1.pdf)<br>
+[Sec 3 2024 Timetable Term 1.pdf](/files/2024_timetable_sec3_term1.pdf)<br>
+[Sec 4 2024 Timetable Term 1.pdf](/files/2024_timetable_sec4_term1.pdf)
 
-#### Timetable for 2023
 
-[Sec 1 2023 Timetable Term 2.pdf](/files/ul6.pdf) <br>
-[Sec 2 2023 Timetable Term 2.pdf](/files/ul7.pdf)<br>
-[Sec 3 2023 Timetable Term 2.pdf](/files/ul8.pdf)<br>
-[Sec 4 2023 Timetable Term 2.pdf](/files/ul9.pdf)
-
-#### Classrooms allocation for 2023
-
-<img style="width:80%" src="/images/class2023.png">
 
 
 ### Graduating Students
