@@ -7,6 +7,12 @@ variant: markdown
 ---
 ### Parent
 
+#### Parents Dialogue 2024
+
+[Sec 1 Parents Dialogue 2024.pdf](/files/2024_sec_1_parents_dialogue.pdf)<br>
+
+
+
 #### Subject-Based Banding Info for Parents
 
 [2024 SBB Briefing Slides for Parents.pdf](/files/2024_sbb_briefing_slides.pdf)
@@ -18,11 +24,6 @@ variant: markdown
 
 [Information Note on Singpass for Secondary School.pdf](/files/information-note-singpass.pdf)<br>
 [Singpass Registration guide for Students.pdf](/files/singpass-registration-guide.pdf)  
-
-#### Parents Dialogue 2023
-
-[Sec 1 Parents Dialogue 2023.pdf](/files/p1.pdf)<br>
-[Sec 4 Parents Dialogue 2023.pdf](https://www.crestsec.edu.sg/qql/slot/u1374/2023/i_am_parent/Sec%204%20Parents%20Dialogue%202023.pdf)  
 
 
 #### Home Based Learning Dates 2023
