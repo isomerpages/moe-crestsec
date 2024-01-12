@@ -6,8 +6,8 @@ variant: markdown
 ---
 ##### Briefing Slides for Parents
 
-[GOAL! Briefing for Parents](/files/2024_goal_briefing)
+[GOAL! Briefing for Parents](/files/2024_goal_briefing.pdf)
 
 
 ##### Frequently Asked Questions
-[Frquently Asked Questions](/files/2024_goal_qa)
+[Frquently Asked Questions](/files/2024_goal_qa.pdf)
