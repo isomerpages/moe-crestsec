@@ -4,17 +4,10 @@ permalink: /goal2024/
 description: ""
 variant: markdown
 ---
-##### Briefing Slides and Photos for Parents
+##### Briefing Slides for Parents
 
-**Cambodia** :<br>
-[https://drive.google.com/drive/folders/1ew4rZ7p-iwJ7W1TZg2OpMcSENnDRrybY?usp=sharing](https://drive.google.com/drive/folders/1ew4rZ7p-iwJ7W1TZg2OpMcSENnDRrybY?usp=sharing)
-
-**Vietnam** :<br>
-[https://drive.google.com/drive/folders/1\_\_fRzc0excL4dAQa4Tp6JuXBtntEEnHI?usp=sharing](https://drive.google.com/drive/folders/1__fRzc0excL4dAQa4Tp6JuXBtntEEnHI?usp=sharing)
-
-**Sarawak** :<br>
-[https://drive.google.com/drive/folders/1jPzQ87rxYZpRVyZbhFV-XdjkcJQQotfX?usp=sharing](https://drive.google.com/drive/folders/1jPzQ87rxYZpRVyZbhFV-XdjkcJQQotfX?usp=sharing)
+[GOAL! Briefing for Parents](/files/2024_goal_briefing)
 
 
 ##### Frequently Asked Questions
-[Frquently Asked Questions](/files/goal-faq-2023.pdf)
+[Frquently Asked Questions](/files/2024_goal_qa)
