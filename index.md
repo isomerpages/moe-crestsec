@@ -18,7 +18,7 @@ sections:
           url: /i-am-a/crestan/education-and-career-guidance/
         - title: Crestan's Parent
           description: ""
-          url: /i-am-a/crestan-parent/announcements/
+          url: https://www.crestsec.edu.sg/i-am-a/crestan-parent/school-supplies/
   - resources:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
