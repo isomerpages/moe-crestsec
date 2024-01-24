@@ -25,9 +25,9 @@ sections:
   - infopic:
       title: Nominate Your English Teacher
       id: infopic
-      description: All students, their parents and fellow teachers are invited to send
-        in nominations. Nominations open on 1 February 2024 and ends on 5 April
-        2024 at 5pm.
+      description: All students, their parents and fellow teachers are invited to
+        nominate the most inspiring English teachers. Nominations open on 1
+        February 2024.
       button: Find Out more
       url: www.goodenglish.org.sg
       image: /images/nomiate_english_teacher_2024.jpg
