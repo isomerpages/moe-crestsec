@@ -23,6 +23,16 @@ sections:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
   - infopic:
+      title: Nominate Your English Teacher
+      id: infopic
+      description: All students, their parents and fellow teachers are invited to send
+        in nominations. Nominations open on 1 February 2024 and ends on 5 April
+        2024 at 5pm.
+      button: Find Out more
+      url: www.goodenglish.org.sg
+      image: /images/nomiate_english_teacher_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Read our 10th Anniversary Commemorative e-Book!
       description: Join Nadia and Sparrow as they explore Crest Secondary School.
         Experience their captivating journey firsthand and discover the essence
@@ -62,15 +72,5 @@ sections:
   - infopic:
       title: Our Crest Stats
       image: /images/crest-numbers.jpg
-      alt: Image alt text
-  - infopic:
-      title: Nominate Your English Teacher
-      id: infopic
-      description: All students, their parents and fellow teachers are invited to send
-        in nominations. Nominations open on 1 February 2024 and ends on 5 April
-        2024 at 5pm.
-      button: Find Out more
-      url: www.goodenglish.org.sg
-      image: /images/nomiate_english_teacher_2024.jpg
       alt: Image alt text
 ---
