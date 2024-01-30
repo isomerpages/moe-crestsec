@@ -2,6 +2,7 @@ collections:
   info-at-crest:
     output: true
     order:
+      - About Us/.keep
       - Principal's Message.md
       - Board of Directors.md
       - Crest DNA/.keep
