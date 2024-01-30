@@ -3,6 +3,7 @@ title: About Crest
 permalink: /about-crest/
 description: ""
 variant: markdown
+third_nav_title: About Us
 ---
 <img src="/images/aboutcrest.jpg" style="width:450px;height:240px;margin-right: 25px;" align="left"> Crest Secondary School offers a customised curriculum for students in the G1 stream. The school operates similar to an independent school.  
 

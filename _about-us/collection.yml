@@ -2,8 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - About Crest.md
-      - Our Success Stories.md
-      - Our School Song.md
       - Our Facilities.md
-      - Contact Us.md
