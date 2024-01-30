@@ -2,11 +2,11 @@ collections:
   info-at-crest:
     output: true
     order:
-      - About Us/Contact Us.md
-      - About Us/Our School Song.md
-      - About Us/Our Success Stories.md
-      - About Us/About Crest.md
       - About Us/.keep
+      - About Us/About Crest.md
+      - About Us/Our Success Stories.md
+      - About Us/Our School Song.md
+      - About Us/Contact Us.md
       - Principal's Message.md
       - Board of Directors.md
       - Crest DNA/.keep
