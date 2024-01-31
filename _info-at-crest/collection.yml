@@ -2,6 +2,7 @@ collections:
   info-at-crest:
     output: true
     order:
+      - About Us/School Achievements.md
       - About Us/.keep
       - About Us/About Crest.md
       - About Us/Our Success Stories.md
