@@ -2,13 +2,15 @@
 title: Sexuality Education
 permalink: /sexuality-education/programmes/
 description: ""
+variant: markdown
 ---
 ### Sexuality Education
 
-[2023 Info on SEd .pdf](/files/2023%20Info%20on%20SEd%20.pdf)
+[2024 Info on SEd .pdf](/files/2024_info_on_sed_Crest.pdf)
 
-<p style="line-height: 19.6px;"><b><u>Opt Out forms:</u></b></p>
+<br>
+<p style="line-height: 19.6px;"><b><u>Opt Out Forms:</u></b></p>
 
-[ANNEX A_2023.pdf](/files/ANNEX%20A_2023.pdf) 
+[ANNEX A_2024.pdf](/files/annex_a_opt_out_form_2024.pdf) 
 
-[ANNEX_B_2023.pdf](/files/ANNEX_B_2023.pdf)
+[ANNEX_B_2024.pdf](/files/annex_b_crest_2024.pdf)

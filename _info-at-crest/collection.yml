@@ -4,17 +4,12 @@ collections:
     order:
       - About Us/.keep
       - About Us/About Crest.md
+      - About Us/School Achievements.md
       - About Us/Our Success Stories.md
       - About Us/Our School Song.md
       - About Us/Contact Us.md
       - Principal's Message.md
       - Board of Directors.md
-      - Crest DNA/.keep
-      - Crest DNA/School Achievements.md
-      - Crest DNA/Our Success Stories.md
-      - Crest DNA/Our School Song.md
-      - Crest DNA/Crest Videos.md
-      - Get in Touch.md
       - Student Handbook.md
       - Key Information/.keep
       - Key Information/Financial Information.md
