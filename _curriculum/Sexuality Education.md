@@ -13,4 +13,4 @@ variant: markdown
 
 [ANNEX A_2024.pdf](/files/annex_a_opt_out_form_2024.pdf) 
 
-[ANNEX_B_2023.pdf](/files/annex_b_crest_2024.pdf)
+[ANNEX_B_2024.pdf](/files/annex_b_crest_2024.pdf)
