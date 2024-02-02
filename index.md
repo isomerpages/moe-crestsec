@@ -28,8 +28,8 @@ sections:
       description: All students, their parents and fellow teachers are invited to
         nominate the most inspiring English teachers. Nominations open on 1
         February 2024.
-      button: Find Out more
-      url: www.goodenglish.org.sg
+      button: find out more
+      url: http://www.goodenglish.org.sg/
       image: /images/nomiate_english_teacher_2024.jpg
       alt: Image alt text
   - infopic:
