@@ -15,7 +15,7 @@ Please click on the below link to find out more information on:
 https://drive.google.com/drive/u/2/folders/1kE6zTQsAwK4oPm5yXRAOz6XmfQZ3kF1U
 
 #### Briefing Slides for Parents Session 1
-GOAL! Briefing for Parents
+[GOAL! Briefing for Parents](/files/2024_goal_briefing.pdf) <br>
 
 #### Frequently Asked Questions
-Frequently Asked Questions
+[Frequently Asked Questions](/files/2024_goal_qa.pdf) 
