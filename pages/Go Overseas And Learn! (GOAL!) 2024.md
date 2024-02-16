@@ -18,4 +18,4 @@ https://drive.google.com/drive/u/2/folders/1kE6zTQsAwK4oPm5yXRAOz6XmfQZ3kF1U
 [GOAL! Briefing for Parents](/files/2024_goal_briefing.pdf) <br>
 
 #### Frequently Asked Questions
-[Frequently Asked Questions](/files/2024_goal_qa.pdf) 
+[Frequently Asked Questions](/files/2024_goal_qa.pdf)
