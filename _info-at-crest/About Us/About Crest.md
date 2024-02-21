@@ -26,7 +26,7 @@ Crest’s pioneering team comprises experienced School Leaders, Heads of Departm
 
   
 
-Crest will offer a customized Sec One to Sec Four curriculum that integrates both&nbsp;[academic learning](https://moe-crestsec-staging.netlify.app/aesthetics/programmes/academic-curriculum/permalink)&nbsp;and&nbsp;[vocational training.](https://moe-crestsec-staging.netlify.app/programmes/vocational-curriculum/permalink)&nbsp;Learning will be practice-oriented, with an emphasis on skills development to prepare students for progression to post-secondary skills training at the ITE and for employment. Industrial attachment will be an important component of the ISSC learning experience for the students, spanning about 200 hours from Sec Three to Sec Four. In addition, the school will adopt innovative pedagogies to strengthen students’ literacy and numeracy skills through real-world, ICT-enriched learning contexts.
+Crest will offer a customized Sec One to Sec Four curriculum that integrates both&nbsp;[academic learning](/programmes/vocational-curriculum/permalink)&nbsp;Learning will be practice-oriented, with an emphasis on skills development to prepare students for progression to post-secondary skills training at the ITE and for employment. Industrial attachment will be an important component of the ISSC learning experience for the students, spanning about 200 hours from Sec Three to Sec Four. In addition, the school will adopt innovative pedagogies to strengthen students’ literacy and numeracy skills through real-world, ICT-enriched learning contexts.
 
   
 
