@@ -43,7 +43,7 @@ Students will be encouraged to reflect on their learning experience in an online
 
 **What do students need to do during HBL days for lessons?**
 
-For student's reference on what he needs to do during HBL, please click [**here**](https://moe-crestsec-staging.netlify.app/HBL-Instructions/crestan-virtual-assistant/HBL/permalink) to view the easy-to-follow guide.
+For student's reference on what he needs to do during HBL, please click [**here**](/HBL-Instructions/crestan-virtual-assistant/HBL/permalink) to view the easy-to-follow guide.
 
 
 **Frequently Asked Questions**
