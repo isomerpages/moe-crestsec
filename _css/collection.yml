@@ -1,0 +1,8 @@
+collections:
+  css:
+    output: true
+    order:
+      - 3R Experiences.md
+      - Skills based Innovative Curriculum.md
+      - Authentic Learning.md
+      - Industry Experiential Programme.md

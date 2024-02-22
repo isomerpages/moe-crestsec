@@ -1,0 +1,14 @@
+collections:
+  our-success-stories:
+    output: true
+    order:
+      - Our Alumni/Overview.md
+      - Our Alumni/.keep
+      - Our Alumni/Our Stories.md
+      - Our Alumni/Motivations.md
+      - Current Crestans.md
+      - ignITE Skills.md
+      - Media Reports/.keep
+      - Media Reports/2020.md
+      - Media Reports/2019.md
+      - Media Reports/2018.md

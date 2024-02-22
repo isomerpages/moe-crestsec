@@ -1,0 +1,17 @@
+collections:
+  crestan-virtual-assistant:
+    output: true
+    order:
+      - Crestan's Virtual Assistant (CVA).md
+      - HBL/.keep
+      - HBL/Home Based Learning.md
+      - HBL/HBL Instructions.md
+      - DMA Matters.md
+      - For Parents.md
+      - For Students.md
+      - PDLP/.keep
+      - PDLP/EHanbook.md
+      - PDLP/Laptop.md
+      - PDLP/Frequently Asked Questions.md
+      - PDLP/Troubleshoot.md
+      - PDLP/Downloads.md
