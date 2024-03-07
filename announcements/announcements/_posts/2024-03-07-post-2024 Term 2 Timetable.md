@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Timetable for 2024 term 2 is out. Click <a href="https://www.crestsec.edu.sg/i-am-a/crestan/useful-links/" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+view them.</p>
