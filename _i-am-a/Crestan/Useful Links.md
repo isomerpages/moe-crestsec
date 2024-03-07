@@ -9,10 +9,10 @@ variant: markdown
 
 #### Timetable for 2024
 
-[Sec 1 2024 Timetable Term 1.pdf](/files/2024_timetable_sec1_term1_v2.pdf) <br>
-[Sec 2 2024 Timetable Term 1.pdf](/files/2024_timetable_sec2_term1_v2.pdf)<br>
-[Sec 3 2024 Timetable Term 1.pdf](/files/2024_timetable_sec3_term1_v2.pdf)<br>
-[Sec 4 2024 Timetable Term 1.pdf](/files/2024_timetable_sec4_term1_v2.pdf)
+[Sec 1 2024 Timetable Term 2.pdf](/files/2024_timetable_sec1_term2.pdf) <br>
+[Sec 2 2024 Timetable Term 2.pdf](/files/2024_timetable_sec2_term2.pdf)<br>
+[Sec 3 2024 Timetable Term 3.pdf](/files/2024_timetable_sec3_term2.pdf)<br>
+[Sec 4 2024 Timetable Term 4.pdf](/files/2024_timetable_sec4_term2.pdf)
 
 
 
