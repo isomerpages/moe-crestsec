@@ -23,16 +23,6 @@ sections:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
   - infopic:
-      title: Nominate Your English Teacher
-      id: infopic
-      description: All students, their parents and fellow teachers are invited to
-        nominate the most inspiring English teachers. Nominations open on 1
-        February 2024.
-      button: find out more
-      url: http://www.goodenglish.org.sg/
-      image: /images/nomiate_english_teacher_2024.jpg
-      alt: Image alt text
-  - infopic:
       title: Read our 10th Anniversary Commemorative e-Book!
       description: Join Nadia and Sparrow as they explore Crest Secondary School.
         Experience their captivating journey firsthand and discover the essence
