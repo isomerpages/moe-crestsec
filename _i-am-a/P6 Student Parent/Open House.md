@@ -5,4 +5,5 @@ description: ""
 third_nav_title: P6 Student Parent
 variant: tiptap
 ---
-Please click here [here](https://crestseceopenhouse.wixsite.com/css-site) to view the 2021 Open House website.
+<p>Please click here <a href="https://crestseceopenhouse.wixsite.com/css-site" rel="noopener noreferrer nofollow" target="_blank">here</a> to view
+the Open House website.</p>
