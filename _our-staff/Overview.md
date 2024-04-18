@@ -103,9 +103,8 @@ variant: markdown
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
 | 1 | Mr Eugene Lim | Head of Department (Information and Communications Technology) [covering] |
-| 2 | Ms Siti Nooratika Bte Jumaat | Teacher (Information and Communications Technology) |
-| 3 | Mr James Pek | Senior Officer (Information and Communications Technology) |
-| 4 | Mr Klassen Charles Gerard | Technical Support Officer (Audio Visuals & Information and Communications Technology) |
+| 2 | Mr James Pek | Senior Officer (Information and Communications Technology) |
+| 3 | Mr Klassen Charles Gerard | Technical Support Officer (Audio Visuals & Information and Communications Technology) |
 
 ### Vocational
 
@@ -146,18 +145,26 @@ variant: markdown
 | 5 | Mr Muhammad Zaki Bin Hosain | Teacher (Mechanical Design &amp; Automation) |
 | 6 | Mr Hisham Bin Md Sabidi | Senior Technical Support Officer (Mechanical Design &amp; Automation) |
 
-#### Internet-Of-Things Applications &amp; Mobile Web Applications
+#### Internet-Of-Things Applications
+
+| S/N | Name | Designation |
+|:---:|:---:|:---:|
+| 1 | Mr Rudie Asmara Bin Rahman | Subject Head (Internet-of-Things Applications) |
+| 2 | Mr Chua Chin Choon (Desmond) | Teacher (Internet-of-Things Applications) |
+| 3 | Mr Mohammed Hafiez Bin Ali | Teacher (Internet-of-Things Applications) |
+| 4 | Mr Lau Kia Hian | Teacher (Internet-of-Things Applications) |
+| 5 | Mr Ong Cheng Soon | Allied Educator (Internet-of-Things Applications) |
+| 6 | Mr Jonathan Tsang Yim Ting | Allied Educator (Mobile Web Applications) (Internet-of-Things Applications) |
+|  |  |  |
+
+#### Mobile Web Applications
 
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
 | 1 | Ms Chan Ying Hui | Subject Head (Mobile Web Applications) |
-| 2 | Mr Rudie Asmara Bin Rahman | Subject Head (Internet-of-Things Applications) |
-| 3 | Mr Chua Chin Choon (Desmond) | Teacher (Internet-of-Things Applications) |
-| 4 | Mr Mohammed Hafiez Bin Ali | Teacher (Internet-of-Things Applications) |
-| 5 | Mr Lau Kia Hian | Teacher (Internet-of-Things Applications) |
-| 6 | Mr Osman Farouk S/O Hassan Mohamed | Teacher (Mobile Web Applications) |
-| 7 | Mr Helmy Rozaimi | Teacher (Mobile Web Applications) |
-| 8 | Mr Ong Cheng Soon | Allied Educator (Internet-of-Things Applications) |
+| 2 | Mr Osman Farouk S/O Hassan Mohamed | Teacher (Mobile Web Applications) |
+| 3 | Mr Helmy Rozaimi | Teacher (Mobile Web Applications) |
+| 4 | Ms Siti Nooratika Bte Jumaat | Teacher (Mobile Web Applications) |
 | 9 | Mr Jonathan Tsang Yim Ting | Allied Educator (Mobile Web Applications) (Internet-of-Things Applications) |
 |  |  |  |
 
