@@ -98,7 +98,7 @@ variant: markdown
 | 6 | Ms Lynn Tan | Teacher (Physical Education) |
 | 7 | Mr Mohamad Rizan Bin Abdullah | Youth Engagement Officer |
 
-#### Infornation and Communications Technology/ Audio Visuals
+#### Information and Communications Technology/ Audio Visuals
 
 | S/N | Name | Designation |
 |:---:|:---:|:---:|
