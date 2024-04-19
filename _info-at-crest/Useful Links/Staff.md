@@ -25,6 +25,8 @@ variant: tiptap
 </p>
 <p><a href="http://10.175.104.143:8080/ess/web/ess/login" rel="noopener noreferrer nofollow" target="_blank">Crest Finance Portal</a>
 </p>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a>
+</p>
 <p><a href="https://sites.google.com/crestsec.edu.sg/staffhub/" rel="noopener noreferrer nofollow" target="_blank">Staff Hub</a>
 </p>
 <p><a href="https://sites.google.com/crestsec.edu.sg/ict/home" rel="noopener noreferrer nofollow" target="_blank">ICT Virtual Assistant (T-VA)</a>
