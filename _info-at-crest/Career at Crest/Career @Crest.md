@@ -3,6 +3,7 @@ title: Career @Crest
 permalink: /career-at-crest/
 description: ""
 third_nav_title: Career at Crest
+variant: markdown
 ---
 ### Career@Crest
 
