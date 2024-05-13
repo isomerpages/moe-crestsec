@@ -11,6 +11,6 @@ variant: markdown
 
   
 
-Crest Secondary School offers the G1 curriculum. To support the learning needs of our students, we are looking for individuals with positive dispositions, who are creative, driven and committed, to join our pool of passionate teaching and non-teaching staff in 2023 / 2024.
+Crest Secondary School offers the G1 curriculum. To support the learning needs of our students, we are looking for individuals with positive dispositions, who are creative, driven and committed, to join our pool of passionate teaching and non-teaching staff in 2025.
 
 **[Teaching Positions](/info-at-crest/teaching-positions/) I [Non-Teaching Positions](/info-at-crest/non-teaching-positions/)**
