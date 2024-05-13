@@ -118,7 +118,7 @@ to the department’s programmes.</p>
 <p><em>Please email the application form, together with a detailed resume with a recent photograph, stating your academic/professional qualifications, working experience, and current and expected salaries to Ms Marina Wong at <a rel="noopener noreferrer nofollow" target="_blank">marina_wong_may_li@schools.gov.sg</a>. &nbsp;Please indicate the job title on the subject heading of your email.</em>
 </p>
 <p></p>
-Click here[here](Application_Form_Secondment_Teaching.pdf) to download the job application form.
+Click [here](Application_Form_Secondment_Teaching.pdf) to download the job application form.
 <p></p>
 <p><strong><em>We regret that only shortlisted candidates will be notified.</em></strong><em> Only Singaporeans and Permanent Residents may apply for the above positions.</em>
 </p>
