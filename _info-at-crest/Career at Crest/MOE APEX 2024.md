@@ -57,8 +57,8 @@ team spirit.</p>
 <p>Interested MOE Teachers are encouraged to email the application form,
 together with your MOE resume, to <strong>Ms Marina Wong</strong> at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank"><u>marina_wong_may_li@schools.gov.sg</u></a></strong>.
 Please indicate the job title on the subject heading of your email.</p>
-<p>Click&nbsp;<a href="/files/Application_Form_Secondment_Teaching.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-<a href="/files/careers/Application_Form_Secondment_Teaching.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>to download the job application form.</p>
+<p>Click&nbsp;<a href="/files/Application_Form_Secondment_Teaching.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the job application form.</p>
 <p>We regret that only shortlisted candidates will be notified.</p>
 <p>By submitting any application and resume to us, you will be deemed to
 have agreed and consented to us collecting and using your personal information
