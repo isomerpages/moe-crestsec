@@ -10,9 +10,9 @@ sections:
   - hero:
       background: /images/crest-hero.gif
       key_highlights:
-        - title: P6 Student / Parent
+        - title: Frequently Asked Questions
           description: ""
-          url: /i-am-a/p6-student-parent/student-admission-info/
+          url: /info-at-crest/student-admission-info/
         - title: Crestan
           description: ""
           url: /i-am-a/crestan/education-and-career-guidance/
