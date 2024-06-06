@@ -3,6 +3,7 @@ title: Financial Information
 permalink: /info-at-crest/key-information/financial-information/
 description: ""
 third_nav_title: Key Information
+variant: markdown
 ---
 ### Financial Information
 
@@ -29,20 +30,20 @@ third_nav_title: Key Information
 
 **Statement of Comprehensive Income**
 
-| Income | <br>FYE 31 Mar 2022<br>(S$'000) | <br>FYE 31 Mar 2023<br>(S$'000) | <br>%Increase / (Decrease) |
+| Income | <br>FYE 31 Mar 2023<br>(S$'000) | <br>FYE 31 Mar 2024<br>(S$'000) | <br>%Increase / (Decrease) |
 |:---:|:---:|:---:|:---:|
-| Donations in Cash | 267 | 198 | -26% |
+| Donations in Cash | 198 | 194 | -2% |
 |  Donations in Kind |  0 |  0 |  0% |
-| Grants | 19,317 | 20,016 | 4% |
-|  Others |  355 |  685 |  93% |
-|  **Total Income** |  **19,939** |  **20,899** |  **5%** |
+| Grants | 20,016 | 16,113 | -19% |
+|  Others |  685 |  1,069 |  56% |
+|  **Total Income** |  **20,899** |  **17,376** |  **-17%** |
 
-| Expenses | <br>FYE 31 Mar 2022<br>(S$'000) | <br>FYE 31 Mar 2023<br>(S$'000) | <br>%Increase / (Decrease) |
+| Expenses | <br>FYE 31 Mar 2023<br>(S$'000) | <br>FYE 31 Mar 2024<br>(S$'000) | <br>%Increase / (Decrease) |
 |:---:|:---:|:---:|:---:|
-| Operating &amp; Administration Expenses | 16,705 | 17,840 | 7% |
-|  Others | 1,572 | 1,629 | 4% |
-|  **Total Expenses** |  **18,277** |  **19,469** | **7%** |
-| Surplus / (Deficit) | 1,662 | 1,430 | -14% |
+| Operating &amp; Administration Expenses | 17,840 | 17,505 | -2% |
+|  Others | 1,629 | 2,111 | 30% |
+|  **Total Expenses** |  **19,469** |  **19,616** | **1%** |
+| Surplus / (Deficit) | 1,430 | -2,240 | -257% |
 
 
 
