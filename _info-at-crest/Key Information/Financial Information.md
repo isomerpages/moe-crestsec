@@ -49,23 +49,23 @@ variant: markdown
 
 **Statement of Financial Position**
 
-| Assets | <br>As at 31 Mar 2022<br>(S$'000) | <br>As at 31 Mar 2023<br>(S$'000) | <br>%Increase / (Decrease) |
+| Assets | <br>As at 31 Mar 2023<br>(S$'000) | <br>As at 31 Mar 2024<br>(S$'000) | <br>%Increase / (Decrease) |
 |:---:|:---:|:---:|:---:|
-| Plant and Equipment | 2,435 | 2,635 | 8% |
-| Intangible Assets | 6 | 1 | -83% |
-|  Trades &amp; Other receivables |  304 | 641 | 111% |
-|  Cash &amp; cash equivalents |  30,348 |  31,292 | 3% |
-|  **Total Assets** |  **33,093** | **34,569** |  **4%** |
+| Plant and Equipment | 2,635 | 6,766 | 157% |
+| Intangible Assets | 1 | 1 | 0% |
+|  Trades &amp; Other receivables |  641 | 1,104 | 72% |
+|  Cash &amp; cash equivalents |  31,292 |  28,756 | -8% |
+|  **Total Assets** |  **34,569** | **36,627** |  **6%** |
 
-| Liabilities | <br>As at 31 Mar 2022<br>(S$'000) | <br>As at 31 Mar 2023<br>(S$'000) | <br>%Increase / (Decrease) |
+| Liabilities | <br>As at 31 Mar 2023<br>(S$'000) | <br>As at 31 Mar 2024<br>(S$'000) | <br>%Increase / (Decrease) |
 |:---:|:---:|:---:|:---:|
-| Long-Term Liabilities | 2,406 | 2,520 | 5% |
-|  Current Liabilities |  7,162 | 7,094 | -1% |
-|  **Total Liabilites** |  **9,568** |  **9,614** | **0%** |
+| Long-Term Liabilities | 2,520 | 6,651 | 164% |
+|  Current Liabilities |  7,094 | 7,260 | 2% |
+|  **Total Liabilites** |  **9,614** |  **13,911** | **45%** |
 
-| Funds | <br>As at 31 Mar 2022<br>(S$'000) | <br>As at 31 Mar 2023<br>(S$'000) | <br>%Increase / (Decrease) |
+| Funds | <br>As at 31 Mar 2023<br>(S$'000) | <br>As at 31 Mar 2024<br>(S$'000) | <br>%Increase / (Decrease) |
 |:---:|:---:|:---:|:---:|
-|  General Fund |  23,224 | 24,587 |  6% |
+|  General Fund |  24,587 | 22,412 |  -9% |
 |  Other Funds |  301 | 368 |  22% |
 |  **Total Funds** | **23,525** | **24,955** |  **6%** |
 | **Total Funds and Liabilities** | **33,093** | **34,569** | **4%** |
