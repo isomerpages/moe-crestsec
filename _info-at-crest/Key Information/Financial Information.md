@@ -66,6 +66,6 @@ variant: markdown
 | Funds | <br>As at 31 Mar 2023<br>(S$'000) | <br>As at 31 Mar 2024<br>(S$'000) | <br>%Increase / (Decrease) |
 |:---:|:---:|:---:|:---:|
 |  General Fund |  24,587 | 22,412 |  -9% |
-|  Other Funds |  301 | 368 |  22% |
-|  **Total Funds** | **23,525** | **24,955** |  **6%** |
-| **Total Funds and Liabilities** | **33,093** | **34,569** | **4%** |
+|  Other Funds |  368 | 304 |  -17% |
+|  **Total Funds** | **24,955** | **22,716** |  **-9%** |
+| **Total Funds and Liabilities** | **34,569** | **36,627** | **6%** |
