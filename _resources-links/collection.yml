@@ -1,4 +1,5 @@
 collections:
   resources-links:
     output: true
-    order: []
+    order:
+      - Student.md
