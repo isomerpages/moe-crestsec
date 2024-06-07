@@ -3,8 +3,9 @@ title: Fundamental Beliefs
 permalink: /fundamental-beliefs/programmes/teaching-andlearning/
 description: ""
 third_nav_title: Teaching & Learning
+variant: markdown
 ---
-### Fundamental Beliefs
+### Beliefs
 
 <img src="/images/fb1.jpg" style="width:75%">
 
