@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Crest Alumni/Crest Alumni.md
       - Crest Alumni/.keep
       - Industry Partners.md
