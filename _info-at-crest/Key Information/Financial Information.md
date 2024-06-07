@@ -23,7 +23,7 @@ variant: markdown
 | Charity Registration Date: 02 Jan 2012 | Effective Period: 02 Jan 2023 to 01 Jan 2028 |
 |  |  |
 | Auditor: PricewaterhouseCoopers LLP |  |
-| Number of Students Enrolment: 725 as at 12 June 2023 |  |
+| Number of Students Enrolment: 683 as at 06 June 2024 |  |
 
 
 2) Financial Information
