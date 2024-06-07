@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Crest Alumni/.keep
-      - Crest Alumni/Voices of Our Alumni.md
       - Industry Partners.md
