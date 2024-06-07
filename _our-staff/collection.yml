@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Crest PAL and Alumni/Voices of Our Alumni.md
       - Crest PAL and Alumni/Crest Alumni.md
       - Crest PAL and Alumni/Crest PAL.md
       - Crest PAL and Alumni/.keep
