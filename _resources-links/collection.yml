@@ -1,0 +1,4 @@
+collections:
+  resources-links:
+    output: true
+    order: []
