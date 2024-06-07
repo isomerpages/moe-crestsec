@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Voices of Our Alumni.md
-      - Crest Alumni.md
       - Crest PAL.md
       - Board of Directors.md
       - School Leaders.md
