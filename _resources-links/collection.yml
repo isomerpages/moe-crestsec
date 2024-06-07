@@ -2,4 +2,5 @@ collections:
   resources-links:
     output: true
     order:
+      - Parent.md
       - Student.md
