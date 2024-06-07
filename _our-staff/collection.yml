@@ -2,9 +2,6 @@ collections:
   our-staff:
     output: true
     order:
-      - Voices of Our Alumni.md
-      - Crest Alumni.md
-      - Crest PAL.md
       - Board of Directors.md
       - School Leaders.md
       - Key Personnel.md
@@ -29,3 +26,6 @@ collections:
       - Non Teaching Staff/Human Resource.md
       - Non Teaching Staff/ICT & AV.md
       - Non Teaching Staff/Operations.md
+      - Crest PAL.md
+      - Crest Alumni.md
+      - Voices of Our Alumni.md
