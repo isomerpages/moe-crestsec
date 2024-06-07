@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Crest Alumni.md
       - Crest PAL.md
       - Board of Directors.md
       - School Leaders.md
