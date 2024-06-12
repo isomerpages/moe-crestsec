@@ -2,7 +2,7 @@
 title: Voices of Our Alumni
 permalink: /partners/crest-alumni/voices-of-our-alumni/
 description: ""
-third_nav_title: Crest Alumni
+third_nav_title: Crest PAL and Alumni
 ---
 ### Voices of Our Alumni
 

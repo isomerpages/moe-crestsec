@@ -2,11 +2,13 @@ logo: /images/crestlogo.png
 links:
   - title: Info @ Crest
     collection: info-at-crest
-  - title: Our Staff
-    collection: our-staff
+  - title: Our Crest Family
+    collection: our-crest-family
   - title: Curriculum
     collection: curriculum
-  - title: Partners
-    collection: partners
+  - title: Resources
+    collection: resources-links
+  - title: Get In touch
+    url: /contact-us/
   - title: I AM A
     collection: i-am-a

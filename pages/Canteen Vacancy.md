@@ -1,6 +1,6 @@
 ---
 title: Canteen Vacancy
-permalink: /canteen-vacancy/
+permalink: /canteen-vacancy-filled/
 description: ""
 variant: markdown
 ---

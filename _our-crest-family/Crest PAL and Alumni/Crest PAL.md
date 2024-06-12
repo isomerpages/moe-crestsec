@@ -3,6 +3,7 @@ title: Crest PAL
 permalink: /crest-pal/partners/
 description: ""
 variant: markdown
+third_nav_title: Crest PAL and Alumni
 ---
 ### Crest PAL
 

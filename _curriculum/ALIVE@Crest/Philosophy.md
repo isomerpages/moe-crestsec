@@ -2,7 +2,7 @@
 title: Philosophy
 permalink: /philosophy/programmes/teaching-andlearning/
 description: ""
-third_nav_title: Teaching & Learning
+third_nav_title: ALIVE@Crest
 ---
 ### Philosophy
 
