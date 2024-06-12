@@ -2,13 +2,86 @@
 title: School Leaders
 permalink: /our-staff/school-leaders/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### School Leaders
-| Name | Designation | Email |
-|:---:|:---:|:---:|
-| Mr Benjamin Kwok | Principal | benjamin_kwok@schools.gov.sg |
-| Mr David Chan | Vice-Principal<br>(Academic) | david_th_chan@schools.gov.sg |
-| Mr Teh Tuan Ann | Vice-Principal<br>(Vocational Education) | teh_tuan_ann@schools.gov.sg |
-| Mdm Lee Kee Meng | Vice-Principal<br>(Administration) | lee_kee_meng@schools.gov.sg |
-|  |  |  |
+<h3>School Leaders</h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Benjamin Kwok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>benjamin_kwok@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr David Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal
+<br>(Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>david_th_chan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teh Tuan Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal
+<br>(Vocational Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teh_tuan_ann@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Kee Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal
+<br>(Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_kee_meng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
