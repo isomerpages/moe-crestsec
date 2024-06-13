@@ -3,13 +3,72 @@ title: ICT & AV
 permalink: /our-staff/ict-and-av/
 description: ""
 third_nav_title: Non Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-### ICT &amp; AV
-
-| Name | Designation | Email |
-|:---:|:---:|:---:|
-| Mr Klassen Charles Gerard | Technical Support Officer<br>(ICT &amp; Audio-Visual) | [klassen\_charles\_gerard@schools.gov.sg](mailto:klassen_charles_gerard@schools.gov.sg)<br> |
-| Mr James Pek | Senior Officer<br>(ICT) | pek_su_heng@schools.gov.sg |
-| Mr Amirul | Desktop Engineer (NCS) | [cssde@crestsec.edu.sg](mailto:cssde@crestsec.edu.sg) |
-| Mr Muneer | Desktop Engineer (NCS) | [muneer@crestsec.edu.sg](mailto:muneer@crestsec.edu.sg) |
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h3>ICT &amp; AV</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Desgination</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr James Pek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Officer
+<br>(ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">pek_su_heng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Klassen Charles Gerard</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer
+<br>(AV)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">klassen_charles_gerard@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kishen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">cssde@crestsec.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
