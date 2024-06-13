@@ -125,10 +125,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(Monthly)</p>
+<p><strong>(Monthly)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>(SPRs)</p>
+<p><strong>(SPRs)</strong>
+</p>
 </td>
 </tr>
 <tr>
