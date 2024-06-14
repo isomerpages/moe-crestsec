@@ -2,6 +2,7 @@ collections:
   info-at-crest:
     output: true
     order:
+      - 10th Anniversary Commemorative Ebook.md
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
