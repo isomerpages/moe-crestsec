@@ -2,8 +2,6 @@ collections:
   info-at-crest:
     output: true
     order:
-      - Safety & Security Information.md
-      - Financial Information.md
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
@@ -16,7 +14,8 @@ collections:
       - Newsroom/2020.md
       - Newsroom/2019.md
       - Newsroom/2018.md
-      - Student Handbook.md
+      - Financial Information.md
+      - Safety & Security Information.md
       - School Policy/.keep
       - School Policy/Data Protection Policy.md
       - School Policy/Whistleblowing Policy.md
@@ -29,3 +28,4 @@ collections:
       - Career at Crest/MOE APEX 2024.md
       - Career at Crest/Teaching Positions.md
       - Career at Crest/Non Teaching Positions.md
+      - Student Handbook.md
