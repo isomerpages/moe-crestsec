@@ -2,7 +2,6 @@ collections:
   info-at-crest:
     output: true
     order:
-      - 10th Anniversary Commemorative Ebook.md
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
@@ -27,3 +26,4 @@ collections:
       - Career at Crest/MOE APEX 2024.md
       - Career at Crest/Teaching Positions.md
       - Career at Crest/Non Teaching Positions.md
+      - 10th Anniversary Commemorative Ebook.md
