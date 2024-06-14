@@ -2,7 +2,6 @@ collections:
   info-at-crest:
     output: true
     order:
-      - About Us/.keep
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
