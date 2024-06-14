@@ -16,7 +16,6 @@ collections:
       - Academic/Mother Tongue Languages.md
       - Academic/Physical Education.md
       - Academic/Science.md
-      - Vocational/Industry Experiential Programme.md
       - Vocational/.keep
       - Vocational/Vocational Curriculum.md
       - Vocational/Culinary & Restaurant Operations.md
@@ -24,6 +23,7 @@ collections:
       - Vocational/Mechanical Design & Automation.md
       - Vocational/Mobile Web Applications.md
       - Vocational/Retail & ECommerce.md
+      - Vocational/Industry Experiential Programme.md
       - Vocational/Information and Communications Technology.md
       - Student Development/.keep
       - Student Development/Overview.md
