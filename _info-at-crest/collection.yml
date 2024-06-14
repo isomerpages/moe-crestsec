@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/About Crest.md
+      - About Us/School Identity.md
       - About Us/Achievements.md
       - About Us/Our Success Stories.md
       - About Us/Our School Song.md
