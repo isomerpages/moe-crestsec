@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/School Identity.md
       - About Us/Achievements.md
       - About Us/Our Success Stories.md
       - Principal's Message.md
