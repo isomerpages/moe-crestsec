@@ -2,11 +2,11 @@ collections:
   info-at-crest:
     output: true
     order:
-      - Achievements.md
       - About Us/.keep
       - About Us/Our Success Stories.md
       - Principal's Message.md
       - School Identity.md
+      - Achievements.md
       - Student Handbook.md
       - Key Information/.keep
       - Key Information/Financial Information.md
