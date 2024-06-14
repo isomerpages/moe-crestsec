@@ -2,7 +2,7 @@ collections:
   info-at-crest:
     output: true
     order:
-      - Safety & Security.md
+      - Safety & Security Information.md
       - Financial Information.md
       - Principal's Message.md
       - School Identity.md
