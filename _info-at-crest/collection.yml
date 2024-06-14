@@ -2,7 +2,6 @@ collections:
   info-at-crest:
     output: true
     order:
-      - School Supplies.md
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
@@ -22,6 +21,7 @@ collections:
       - School Policy/Whistleblowing Policy.md
       - Student Admission Info.md
       - Fees.md
+      - School Supplies.md
       - Career at Crest/.keep
       - Career at Crest/Career @Crest.md
       - Career at Crest/MOE APEX 2024.md
