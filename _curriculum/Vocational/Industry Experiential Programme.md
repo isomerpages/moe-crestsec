@@ -2,6 +2,7 @@
 title: Industry Experiential Programme
 permalink: /industry-experiential-programme/programmes/vocational-curriculum/
 description: ""
+third_nav_title: Vocational
 ---
 ### Industry Experiential Programme
 

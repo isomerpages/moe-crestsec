@@ -1,8 +1,7 @@
 ---
 title: Financial Information
-permalink: /info-at-crest/key-information/financial-information/
+permalink: /info-at-crest/financial-information/
 description: ""
-third_nav_title: Key Information
 variant: tiptap
 ---
 <table style="minWidth: 50px">

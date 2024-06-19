@@ -21,12 +21,8 @@ join our pool of passionate teaching and non-teaching staff in 2025.</p>
 <p>1) Head of Department (PE &amp; CCA)</p>
 <p>2) Subject Head (Info-Comms Technology)</p>
 <p>3) Teacher (Mathematics)</p>
-<p>4) Teacher (Physical Education)</p>
-<p>5) Teacher (Chinese Language)</p>
-<p>6) Teacher (English Language)</p>
-<p>7) Teacher (Science)</p>
-<p>8) Teacher (Music)</p>
-<p>9) Teacher (Mobile Web Applications)</p>
+<p>4) Teacher (Science)</p>
+<p>5) Teacher (Mobile Web Applications)</p>
 <p>&nbsp;</p>
 <p><strong>Qualifications:</strong>
 </p>

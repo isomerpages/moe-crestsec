@@ -2,7 +2,6 @@
 title: Information and Communications Technology
 permalink: /programmes/vocational-curriculum/infocommunications-technology/
 description: ""
-third_nav_title: Vocational
 variant: markdown
 ---
 | Teachers | Affectionately<br>known as | Designation | Email |

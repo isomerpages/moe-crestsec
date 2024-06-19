@@ -1,9 +1,8 @@
 ---
-title: About Crest
-permalink: /about-crest/
+title: School Identity
+permalink: /school-identity/
 description: ""
 variant: markdown
-third_nav_title: About Us
 ---
 <img src="/images/aboutcrest.jpg" style="width:450px;height:240px;margin-right: 25px;" align="left"> Crest Secondary School offers a customised curriculum for students in the G1 stream. The school operates similar to an independent school.  
 
@@ -49,3 +48,61 @@ Our Logo
 <img src="/images/schlog.jpg" style="width:150px;height:230px;margin-right:25px;" align="left"> The school logo, based on the theme CREating Student Transformation (CREST), comprises of four outward expanding waves, reflecting the transformation of our students from Secondary One to Secondary Four as they grow in character (represented by the light blue waves) and attain breakthroughs in personal achievements (represented by the yellow waves). This transformation is made possible by the 'sea of opportunities' (represented by the dark blue background) that the school provides to enrich students' learning and enhance their personal growth.  
   
 (School logo designed by Mr Soo Sheng Lih)
+
+Our School Song
+--------
+
+<p style="text-align: center;">Our heartbeat "I Know I Can"</p>
+	
+<img src="/images/schsong.png" style="width:75%">
+
+
+**Verse 1:**
+
+_I have found a place_<br>
+_Where my heart is free to dream_<br>
+_It's here that I belong_<br>
+_Where strength rises from within_<br>
+_All the things I hope for_<br>
+_They're mine to strive for_<br>
+_I'll rise up to the challenge_<br>
+_To turn my dreams into reality_
+
+
+**Chorus:**
+
+_I know I can_<br>
+_I'm reaching high_<br>
+_To touch the sky_<br>
+_I'm not afraid to try_<br>
+_To realise my dreams_<br>
+_Upon this Crest_<br>
+_I'll do my best_<br>
+_To be all that I was meant to be_<br>
+_I'll shout it to the world_<br>
+_I know I can_
+
+
+  
+
+  
+
+**Verse 2:**
+
+
+_The road will not be easy_<br>
+_But no matter how long it seems_<br>
+_I'll just keep walking on_<br>
+_I'll never give up on my dreams_<br>
+_There'll always be a helping hand_<br>
+_And someone who will be a friend_<br>
+_In this place that feels like home_<br>
+_I know I'll never have to walk alone_
+
+  
+
+**(Chorus x 2)**
+
+**Composed By**
+
+**Mr Adrian Tay and Mr Matthias Chua**

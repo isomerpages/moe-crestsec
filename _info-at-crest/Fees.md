@@ -1,6 +1,6 @@
 ---
-title: School Fees
-permalink: /info-at-crest/school-fees/
+title: Fees
+permalink: /info-at-crest/fees/
 description: ""
 variant: tiptap
 ---

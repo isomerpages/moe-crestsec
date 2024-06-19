@@ -2,7 +2,6 @@
 title: Our School Song
 permalink: /our-school-song/
 description: ""
-third_nav_title: About Us
 ---
 <p style="text-align: center;">Our heartbeat "I Know I Can"</p>
 	

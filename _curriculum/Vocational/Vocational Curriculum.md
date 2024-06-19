@@ -10,4 +10,4 @@ variant: markdown
 |  |  |  |
 |---|---|---|
 | [**Culinary & Restaurant Operations**](/programmes/vocational-curriculum/culinary-and-restaurant-operations/) | [**Internet of Things Applications**](/programmes/vocational-curriculum/internet-of-things-applications/) | [**Mechanical Design & Automation**](/programmes/vocational-curriculum/mechanical-design-and-automation/) |
-|[**Mobile Web Applications**](/programmes/vocational-curriculum/mobile-web-applications/)  |  [**Retail & E-Commerce**](/programmes/vocational-curriculum/retail-and-ecommerce/)|
+|[**Mobile Web Applications**](/programmes/vocational-curriculum/mobile-web-applications/)  |  [**Retail & E-Commerce**](/programmes/vocational-curriculum/retail-and-ecommerce/)|  [**Industry Experiential Programme**](/industry-experiential-programme/programmes/vocational-curriculum/)

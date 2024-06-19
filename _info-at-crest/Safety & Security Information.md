@@ -1,8 +1,8 @@
 ---
-title: Safety &amp; Security
-permalink: /info-at-crest/key-information/safety-and-security/
+title: Safety & Security Information
+permalink: /info-at-crest/safety-and-security/
 description: ""
-third_nav_title: Key Information
+variant: tiptap
 ---
 ### Safety &amp; Security
 
