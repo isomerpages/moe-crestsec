@@ -38,7 +38,7 @@ third_nav_title: Teaching Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>(Physical Education)</p>
+<br>(Co-Curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_siew_mei_janice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_siew_mei_janice@schools.gov.sg</a>
