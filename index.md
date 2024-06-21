@@ -16,8 +16,8 @@ sections:
         - title: Student Handbook
           description: ""
           url: /student-handbook/
-        - title: Sitemap (Under Construction)
-          description: ""
+        - title: Sitemap
+          description: (Under Construction)
           url: ""
   - resources:
       button: Click to Learn More
