@@ -3,117 +3,278 @@ title: English Language
 permalink: /our-staff/teaching-staff/english-language/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-### English
-
-| Name | Affectionately known as | Designation | Email |
-|:---:|:---:|:---:|:---:|
-| Ms Juliana Chee | Ms Juliana | Head of Department<br>(English Language) | chee_pey_ling_juliana@schools.gov.sg |
-| Ms Amy Chan | Ms Chan | Subject Head<br>(English Language) | chan_lay_ling_amy@schools.gov.sg |
-| Mr Adrian Tan | Mr Tan | Lead Teacher <br>(Educational Support) | adrian_tan@schools.gov.sg |
-| Mr Othman Arsan Bin Mohd Abubakar | Mr Othman | Dean <br>(Student Development) | othman_arsan_mohd_abubakar@schools.gov.sg |
-| Ms Siti Nurharnani Binte Nahar | Ms Siti | Subject Head<br>(Character &amp; Citizenship Education) | siti_nurharnani_nahar@schools.gov.sg |
-| Ms Hannah Lee | Ms Hannah | Senior Teacher<br>(English Language) | lee_woan_huey_hannah@schools.gov.sg |
-| Ms Suriani Binte Sulaiman | Ms Su | Teacher (English Language) | suriani_sulaiman_a@schools.gov.sg |
-| Ms Pamela Chia | Mrs Ho | Teacher (English Language) | pamela_chia_hui_ling@schools.gov.sg |
-| Mr Lee Yue Heng | Mr Lee | Teacher (English Language) | lee_yue_heng@schools.gov.sg |
-| Ms Betty Boo | Ms Betty | Teacher (English Language) | betty_boo_may_ling@schools.gov.sg |
-| Ms Alyssa Chen  | Ms Alyssa | Teacher (English Language) | chen_yihan_alys@schools.gov.sg |
-| Ms Wong Yau Are | Ms Wong | Teacher (English Language) | huang_you_ya@schools.gov.sg |
-| Mr Mohamad Hisham B Suwandi | Mr Hisham | Teacher (English Language) | mohd_hisham_b_suwandi@schools.gov.sg |
-| Ms Vanessa Teo | Ms Vanessa | Teacher (English Language) | teo_ee_chian_vanessa@schools.gov.sg |
-| Mdm Kalimah Bte Haji Zainuri | Mdm Kalimah | Librarian | kalimah_h_zainuri@schools.gov.sg |
-
-#### Objective
-
-The English Language Department aims to develop Crestans into confident communicators by infusing a specially curated blended approach into our curriculum.
-
-We aim for students to:
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;express themselves coherently through speaking and writing
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;showcase their strengths and work on areas for improvement
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;use the language meaningfully in everyday life
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inculcate a love for reading
-
-The four-year programme is designed based on our department’s unique pedagogical framework which guides us in planning and executing our lessons:
-
-**C**reate interest
-
-**R**ehearse, Reinforce, Recode
-
-**E**xperience
-
-**S**tructures
-
-**T**ask
-
-Our lessons are thematically designed and cascaded in such a way that learning is progressive and gradual over the four years. Students are given the opportunities to hone their language skills in authentic, real-world contexts such as making small talk in a social setting and checking in to a hotel through role-play.
-
-  
-
-In Crest, we believe every student can learn. As such, encouraging formative assessments form an integral part of the holistic assessments. Engaging lessons with enriching supporting activities are created to ensure learning takes place meaningfully.
-
-  
-
-At the end of four years, all Crestans would be able to communicate confidently and effectively.&nbsp;
-
-#### Curriculum
-
-These are some of our signature programmes.  
-
-**Mocktail Party (Secondary 1)**
-
-<img src="/images/el1.png" style="width:100%">
-
-This assignment is the culmination of the teaching, learning and application of effective oral communication skills for the Secondary 1 students over three terms. Students take on the roles of Ambassador, Host, Guest and Head Waiter, and apply their oracy skills by engaging in small talk while light refreshments are being served, in the authentic context of our Bistro.  
-
-* * *
-
-
-**Escape Room (Secondary 1 and 2)**  
-
-<img src="/images/el2.jpg" style="width:325px;height:240px;margin-right:25px;" align="left">Every semester, EL teachers will conceptualise and conduct an Escape Room game that serves as a reinforcement of oracy and literacy skills taught in that semester. Every student in the level will have the chance to apply what they have learnt in that semester to ace the game.
-
-  
-
-* * *
-
-**Tourist for a Day (Secondary 2)**  
-
-<img src="/images/el3.png" style="width:100%">
-
-Students go on a Learning Journey (LJ) to have a taste of what it is like to be a tourist in Singapore, from visiting the National Museum to taking a river taxi to exploring our iconic Marina Bay Sands. Besides being a tourist, they get to interact with visitors from all over the world through an interview activity. Besides experiencing authentic hospitality and customer service, the students also gain knowledge that they will use during Check-in@Crest as they learn to make recommendations to potential guests. A virtual version was conceptualised due to the COVID-19 situation. Here is what some students had to say about their virtual experience:&nbsp;  
-
-_‘VR was cool and when I wore the goggles, it was like I was really there.’_&nbsp;– Farhan (Sec 2-03)
-
-_‘I like it because it was fun and I got to try something new.’_&nbsp;–&nbsp;Sean Teo (Sec 2-07)
-
-* * *
-
-**Check-In@Crest (Secondary 2)**
-
-<img src="/images/el4.jpg" style="width:325px;height:240px;margin-right:25px;" align="left">Check-In@Crest brings together the Secondary 2 students’ learning of effective customer service and oral communication skills over three terms, including the Tourist for a Day LJ. Conducted in our Hotel Training Room, students role-play a Hotel Concierge and Guest, and engage in a verbal exchange through checking-in at a hotel, giving directions and recommending places of interest and local eateries.
-
-  
-
-* * *
-
-**Theatre Experience (Secondary 3)**  
-
-<img src="/images/el5.jpg" style="width:325px;height:240px;margin-left:25px;" align="right">Through our Theatre Experience, students were exposed to local theatre through blended learning. In addition to watching a production by a local theatre company, students participated in a drama workshop where they learnt through role-play to present and communicate clearly and confidently to an audience. The Theatre Experience closed with a post-show segment where students interacted with the playwright and actors. This was what the students had to share:
-
-_‘My favourite part was meeting the actors and asking them questions.’_&nbsp;–&nbsp;Nicholas (Sec 3-08)
-
-_‘The story was fantastic and taught us to respect other people's privacy.’_&nbsp;–&nbsp;Dian (Sec 3-07)
-
-  
-
-* * *
-
-**Review Project (Secondary 3)**  
-
-Through the process of writing reviews and recommendations, the Review Project gave students an authentic platform to improve their writing while concurrently promoting the canteen stalls which featured their favourite dishes. Their completed reviews were placed on canteen tables to showcase the featured food dishes and encourage staff and students to try out the recommended dishes.
+<h3>English</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Affectionately known as</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Juliana Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Juliana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>(English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_pey_ling_juliana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_pey_ling_juliana@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Amy Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>(English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_lay_ling_amy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_lay_ling_amy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher
+<br>(Educational Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adrian_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_tan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Othman Arsan Bin Mohd Abubakar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dean
+<br>(Student Development)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:othman_arsan_mohd_abubakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">othman_arsan_mohd_abubakar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nurharnani Binte Nahar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>(Character &amp; Citizenship Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nurharnani_nahar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurharnani_nahar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hannah Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hannah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>(English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_woan_huey_hannah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_woan_huey_hannah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hedzlyn Hazwany Binte Mohamed Mahrom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hazwany</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>(English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hedzlyn_hazwany_mohamed_mahrom@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Suriani Binte Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Su</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suriani_sulaiman_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriani_sulaiman_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pamela Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pamela_chia_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_chia_hui_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Yue Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yue_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yue_heng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Betty Boo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Betty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:betty_boo_may_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">betty_boo_may_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Alyssa Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alyssa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_yihan_alys@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_yihan_alys@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Yau Are</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:huang_you_ya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_you_ya@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Hisham B Suwandi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hisham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_hisham_b_suwandi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_hisham_b_suwandi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vanessa Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vanessa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_ee_chian_vanessa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_ee_chian_vanessa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kalimah Bte Haji Zainuri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kalimah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kalimah_h_zainuri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kalimah_h_zainuri@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>.</p>

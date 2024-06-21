@@ -3,47 +3,129 @@ title: Mechanical Design and Automation
 permalink: /our-staff/teaching-staff/mechanical-design-and-automation/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-### Mechanical Design and Automation
-
-| Name | Affectionately<br>known as | Designation | Email |
-|:---:|:---:|:---:|:---:|
-| Ms Ang Lay Beng | Ms Ang | Subject Head <br>(Mechanical Design &amp; Automation) | [ang\_lay\_beng@schools.gov.sg](mailto:ang_lay_beng@schools.gov.sg) |
-| Mr Tan Chwee Leong | Mr Tan | Teacher <br>(Mechanical Design &amp; Automation) | tan_chwee_leong@schools.gov.sg |
-| Mr Tan Eng Choon | Mr Tan | Teacher <br>(Mechanical Design &amp; Automation) | [tan\_eng\_choon@schools.gov.sg](mailto:tan_eng_choon@schools.gov.sg) |
-| Mr Althaf Shathali | Mr Althaf | Teacher <br>(Mechanical Design &amp; Automation) | mohamed_althaf_shathali@schools.gov.sg |
-| Mr Zaki B Hosain | Mr Zaki | Teacher <br>(Mechanical Design &amp; Automation) | [muhammad\_zaki\_hosain@schools.gov.sg](mailto:muhammad_zaki_hosain@schools.gov.sg) |
-| Mr Hisham Bin Md Sabidi | Mr Zaki | Senior Technical Support Officer <br>(Mechanical Design &amp; Automation) | hisham_md_sabidi@schools.gov.sg |
-
-#### Objective
-
-<img src="/images/mda1.png" style="width:100%">
-
-Mechanical Design and Automation (MDA) is one of the 5 ITE Skills Subjects (ISS) offered to Secondary 3 and 4 students in Crest Secondary School.&nbsp; When students select this subject as one of the two Skills Subjects to study, they will learn skills and knowledge in designing, making and assembling parts to form simple movable products. They will design simple 3D products, create the 3D models and 3D print the prototypes. They will also perform basic mechanical fitting work and assembly, and assemble parts and components to complete an automated pneumatic system. Students who obtain a pass in this NT equivalent subject will be considered to have passed a science equivalent subject when applying to ITE courses.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tupAmUWsmys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-In order for the students to discover if they are suitable and have an interest in this subject, they will be expose to compulsory taster modules in Secondary 1 and 2. Details of the taster modules are as shown below.
-
-#### Taster Module
-
-| Taster Module | Description |  |  |
-|---|---|---|---|
-| Wheels of Wonder | This module is taught in Secondary 1. In this module, students will learn to use the correct tools for different types of fasteners and assemble a mechanical drive system to achieve the desired mechanical motion. They will also learn about basic engineering drawings and perform mechanical assembly with reference to an assembly drawing. |  |  |
-| We Can Design It | This module is taught in Secondary 2. In this module, students will learn to interpret simple engineering blueprint and produce simple 3D model using the Computer Aided Drafting software. They will also learn to read the Vernier calipers, assemble a mini robot and basic automation circuits with pneumatic components |  |  |
-
-
-<img src="/images/mda2.png" style="width:100%">
-
-The taster modules will give students an idea of what MDA will be like in Upper Secondary if they are to select this subject. MDA trains students to observe and identify work hazards, and understand the proper use of personal protection equipment. It aims to equip students with skills and knowledge of machines and mechanism, and develop students’ interest in a post-secondary engineering-based education. Most importantly, the taster modules will help the students recognise their strengths and interests so that they can make an informed choice of what ISS to specialise in when they reach Sec 3.
-
-#### Sypnosis of Mechanical Design &amp; Automation
-
-| Wheels of Wonder<br>(Taster Modules) | We Can Design It (Taster Modules) | Mechanical Design &amp; Automation (ISSC Subject) |  |
-|---|---|:---:|---|
-| Safety and Good housekeeping |  Workplace Safety and Hazards | Work safely by observing good safety and 5S rules according to the latest WSH regulations |  |
-| Interpretation of Drawings (Orthographic and Isometric) | Blueprint drawings, Limits &amp; Fits and engineering measurements; Use of Mechanical Fitting Tools; Engineering Forces &amp; Moments. | Design a simple product, create the production drawing, and producing the product using a 2D laser or 3D printing machine |  |
-| Types of fastener and fastening tools; Simple Machines &amp; Mechanisms, Assembly &amp; Disassembly of Mechanical Drives  | Design a simple mechanical part using a CAD software  | Use tools and simple machines to produce a product according to desired specifications.  |  |
-|   | Implement a simple pneumatic circuit (single-cylinder auto return)  | Assemble a simple automated machine and connect the necessary circuits to enable the machine to operate according to the desired operation.  |  |
-|   | Robot assembly, basic coding for Robot's response to its environment  |  Troubleshoot and rectify any faults according to drawings and circuits. |  |
+<h3>Mechanical Design and Automation</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Affectionately
+<br>known as</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Lay Beng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>(Mechanical Design &amp; Automation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_lay_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lay_beng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chwee Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Mechanical Design &amp; Automation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chwee_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chwee_leong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Eng Choon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Mechanical Design &amp; Automation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_eng_choon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_eng_choon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Althaf Shathali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Althaf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Mechanical Design &amp; Automation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_althaf_shathali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_althaf_shathali@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Zaki B Hosain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zaki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Mechanical Design &amp; Automation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_zaki_hosain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zaki_hosain@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hisham Bin Md Sabidi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zaki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Technical Support Officer
+<br>(Mechanical Design &amp; Automation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hisham_md_sabidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hisham_md_sabidi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<p></p>

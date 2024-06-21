@@ -1,6 +1,6 @@
 ---
 title: Student Handbook
-permalink: /info-at-crest/student-handbook/
+permalink: /student-handbook/
 description: ""
 variant: markdown
 ---

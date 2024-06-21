@@ -3,69 +3,180 @@ title: Culinary and Restaurant Operations
 permalink: /our-staff/teaching-staff/culinary-and-restaurant-operations/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-### Culinary and Restaurant Operations
-
-
-| Name | Affectionately<br>known as | Designation | Email |
-|:---:|:---:|:---:|:---:|
-| Mr Lee Ching Yong | Mr Lee | Head of Department<br>(Culinary &amp; Restaurant Operations)<br>(Retail &amp; E-commerce)<br> | [lee\_ching\_yong@schools.gov.sg](mailto:lee_ching_yong@schools.gov.sg) |
-| Ms Chang Yi Ping | Ms Chang | Assistant Year Head<br>(Secondary 2) | [chang\_yi\_ping@schools.gov.sg](mailto:chang_yi_ping@schools.gov.sg) |
-| Ms Karen Ho | Ms Ho | Subject Head<br>(Education and Career Guidance) | [ho\_wei\_lynn\_karen@schools.gov.sg](mailto:ho_wei_lynn_karen@schools.gov.sg) |
-| Mr Dave Yuen | Mr Yuen | Teacher<br>(Culinary &amp; Restaurant Operations) | [yuen\_wei\_dong\_dave@schools.gov.sg](mailto:yuen_wei_dong_dave@schools.gov.sg) |
-| Mr Paul Ling | Mr Ling | Teacher<br>(Culinary &amp; Restaurant Operations) | [ling\_chee\_kwong@schools.gov.sg](mailto:ling_chee_kwong@schools.gov.sg) |
-| Mr Ong Chin Koon | Mr Ong | Teacher<br>(Culinary &amp; Restaurant Operations) | [ong\_chin\_koon@schools.gov.sg](mailto:ong_chin_koon@schools.gov.sg) |
-| Ms Cherish Law | Ms Law | Allied Educator<br>(Culinary &amp; Restaurant Operations) | [law\_zhen\_xi@schools.gov.sg](mailto:law_zhen_xi@schools.gov.sg) |
-| Ms Natasha Qhalisha | Ms Natasha | Executive<br>(Culinary &amp; Restaurant Operations) | [natasha\_qhalisha\_japri@schools.gov.sg](mailto:natasha_qhalisha_japri@schools.gov.sg) |
-| Ms Liyana Binte Samson | Ms Yana | Operations Support Officer<br>(Culinary &amp; Restaurant Operations) | liyanah@crestsec.edu.sg |
-
-#### Objective
-
-<img src="/images/cr01.jpg" style="width:75%"> 
-
-Culinary and Restaurant Operations (CRO) is one of the five ITE Skills Subjects (ISS) offered to Secondary 3 and Secondary 4 students in Crest Secondary School. When students select this subject as one of the two Skills Subjects to study, they will learn the basic skills and knowledge of the vibrant and rewarding hospitality industry.
-
-CRO students will get intensive hands-on learning in two core areas. These are culinary skills and food and beverage service. Students will get to develop their skills in authentic learning spaces such as the school’s training kitchens and bistro. They will get to prepare and serve food to real customers. Their skill sets will be further deepened with a 4-week industry experiential programme at leading hotels &amp; restaurants.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djq-f4jeoCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" align="centre"></iframe>
-
-In order for the students to discover if they are suitable and have an interest in this subject, they will be expose to compulsory taster modules in Secondary 1 and 2. Details of the taster modules are as shown below.
-
-#### Taster Modules
-
-Curriculum for the lower secondary levels involves two foundation modules to equip students with basic food preparation, as well as, food and beverage skills and knowledge.
-
-| Taster Module | Description |  |  |
-|---|---|---|---|
-| Passion to Serve | This module is taught in Secondary 1. In this module, students will learn about basic food handling and hygiene. They will be introduced to the basics of Food and Beverage services, including making of mocktails. |  |  |
-| Looks Good Tastes Good | This module is taught in Secondary 2. In this module, students will learn about kitchen safety and hygiene. They will be trained in basic cutting and food preparation skills |  |  |
-
-The taster modules will give students an idea of what CRO will be like in Upper Secondary if they were to select this subjects. CRO teaches the life skill of practicing good hygiene standards and cooking, while giving the students an appreciation of the Food and Beverage industry.
-
-<img src="/images/cro21.png" style="width:100%">
-
-#### Authentic Lunch
-
-Modelled after a fine dining concept, this signature programme is a collaborative effort by Secondary 3 and 4 Culinary and Restaurant Operations students. Staff and partners are invited for a two-course set meal cooked by the Secondary 3 and served by the Secondary 4 students. This allows the students to practice what they have learnt in an authentic, non-scripted environment.
-
-<img src="/images/cro3.png" style="width:100%">
-
-  
-
-#### Makan @ Bistro
-
-<img src="/images/cro4.jpg" style="width:285px;height:240px;margin-right:25px;" align="left">Modelled after a casual dining establishment, this is an authentic learning event where the Secondary 4 Culinary and Restaurant Operations students cook and serve simple fare from an ala carte menu, to guests who are usually our own school staff. This allows the students to put into practice what they have learnt and acts as a lead-up to the Authentic Lunches.
-
-#### Sypnosis OF Culinary &amp; Restaurant Operations
-
-| Passion to Serve<br>(Sec 1 Taster Modules) | Looks Good, Tastes Good (Sec 2 Taster Modules)  | Culinary &amp; Restaurant Operations (Sec 3 &amp; 4 ISSC Subject) |  |
-|:---:|:---:|:---:|---|
-| Napkin Folding &amp; Table Setting | Kitchen Hygiene &amp; Safety        | Work safely by observing good personal hygiene, safety and housekeeping rules according to the latest WSH regulations |  |
-| Mocktail Making | Basic Cutting Skills &amp; Food Preparation | Prepare a kitchen for operations and perform all neceesary mise-en-place |  |
-|  Basic Food Handling and Hygiene | Food &amp; Nutrition | Prepare and cook a specified range of food dishes using various cooking methods. |  |
-|   |   | Carry out the operations in a food &amp; beverage outlet including coffee making |  |
-|   |   | Welcome guests, take and place orders, followed by serving of all F&amp;B items to guests |  |
-|   |   | Process payments and perform outstanding customer service to the guests throughout their dining experience |  |
-|   |   | Develop students’ interest in a post-secondary hospitality-based education |  |
+<h3>Culinary and Restaurant Operations</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Affectionately
+<br>known as</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Ching Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>(Culinary &amp; Restaurant Operations)
+<br>(Retail &amp; E-commerce)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_ching_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ching_yong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chang Yi Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head
+<br>(Secondary 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chang_yi_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_yi_ping@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Karen Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>(Education and Career Guidance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_wei_lynn_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_lynn_karen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Dave Yuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Culinary &amp; Restaurant Operations)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yuen_wei_dong_dave@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yuen_wei_dong_dave@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Paul Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Culinary &amp; Restaurant Operations)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ling_chee_kwong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_chee_kwong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Chin Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Culinary &amp; Restaurant Operations)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_chin_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chin_koon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cherish Law</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Law</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allied Educator
+<br>(Culinary &amp; Restaurant Operations)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:law_zhen_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law_zhen_xi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Natasha Qhalisha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Natasha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive
+<br>(Culinary &amp; Restaurant Operations)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:natasha_qhalisha_japri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_qhalisha_japri@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liyana Binte Samson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer
+<br>(Culinary &amp; Restaurant Operations)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liyanah@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liyanah@crestsec.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<p></p>
