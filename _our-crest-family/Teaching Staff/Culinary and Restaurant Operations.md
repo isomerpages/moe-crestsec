@@ -172,7 +172,8 @@ variant: tiptap
 <br>(Culinary &amp; Restaurant Operations)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liyanah@crestsec.edu.sg</p>
+<p><a href="mailto:liyanah@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liyanah@crestsec.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
