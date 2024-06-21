@@ -3,6 +3,7 @@ title: Crest Alumni
 permalink: /crest-alumni/partners/
 description: ""
 third_nav_title: Crest PAL and Alumni
+variant: markdown
 ---
 ### Crest Alumni
 
@@ -16,10 +17,7 @@ third_nav_title: Crest PAL and Alumni
 
 | Head of Department (CRO and REC) |  Mr Lee Ching Yong |  lee_ching_yong@schools.gov.sg |
 |---|---|---|
-| Teachers in charge |  Mr Eugene Lim |  lim_ming_hui_eugene@schools.gov.sg |
-|  |  Ms Vicky Ho |  ho_yuen_ming_vicky@schools.gov.sg |
-|   |  Ms Inna |  mutmainnah_saidi@schools.gov.sg |
-|   |  Mr Gordon Chua |  chua_choon_hiong@schools.gov.sg |
+| Teacher in charge |  Mr Andy Lam |  andy_lam@crestsec.edu.sg |
 
 #### Check out some stories of our alumni
 
