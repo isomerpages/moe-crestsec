@@ -90,7 +90,8 @@ third_nav_title: Teaching Staff
 <br>[covering]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fareed_hashim_muhammad@schools.gov.sg</p>
+<p><a href="mailto:fareed_hashim_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fareed_hashim_muhammad@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +137,8 @@ third_nav_title: Teaching Staff
 <p>Youth Engagement Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_nor_rizan_abdullah@schools.gov.sg)</p>
+<p><a href="mailto:mohamad_nor_rizan_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_nor_rizan_abdullah@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
