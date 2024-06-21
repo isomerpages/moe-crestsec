@@ -72,7 +72,8 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>andy_lam_kum_cheong@schools.gov.sg</p>
+<p><a href="mailto:andy_lam_kum_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">andy_lam_kum_cheong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +88,8 @@ variant: tiptap
 <br>(Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_choon_huat@schools.gov.sg</p>
+<p><a href="mailto:yeo_choon_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_choon_huat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +104,8 @@ variant: tiptap
 <br>(Seccondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liew_jia_meng@schools.gov.sg</p>
+<p><a href="mailto:liew_jia_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_jia_meng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
