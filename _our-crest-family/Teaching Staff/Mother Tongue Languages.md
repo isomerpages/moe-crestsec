@@ -57,7 +57,8 @@ variant: tiptap
 <br>(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_michelle@schools.gov.sg</p>
+<p><a href="mailto:lim_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_michelle@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
