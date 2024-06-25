@@ -2,31 +2,23 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Crest Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 561 Jurong East Street 24
+      - ""
+      - Singapore 609561
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 7.00am - 5.30pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://www.google.com/maps/place/Crest+Secondary+School/@1.343353,103.742866,17z/data=!4m6!3m5!1s0x31da101709c924b3:0x5104dbd93122047f!8m2!3d1.3433526!4d103.7428662!16s%2Fm%2F0134lhgq?hl=en&entry=ttu
+    title: School Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6899 2779
+      - email: info@crestsec.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
+feedback: ""
 ---

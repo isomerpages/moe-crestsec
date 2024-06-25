@@ -1,7 +1,8 @@
 ---
-title: FAQ
+title: Frequently Asked Questions
 permalink: /faq/
 variant: markdown
+description: ""
 ---
 #### Frequently Asked Questions on Crest Secondary School (CSS)
 
@@ -55,5 +56,4 @@ _Note: These dismissal times will only commence from 9 January 2023 (Monday) onw
   
 **11\. What are the progression pathways after Crest?**  
 As our students study the ITE Skills Subjects, it will provide them with a skills and aptitude advantage when they apply to ITE under the Early Admission Scheme as they will have developed their foundation skills for many Nitec courses at Crest.  
-Students in Crest specialises in 2 ITE Skills Subjects (which will be equivalent to 2 G1 passes). This means that they will be equipped with vocational and technical skills advantage when they apply to ITE under the ITE Early Admission Scheme. They will be able to apply to a wide range of related Nitec courses in ITE if they meet the respective entry requirements. More than 90% of our graduated students can progress to ITE for a skills course at the Nitec level. From there, depending on how well they perform, many will be able to progress to a Diploma or Higher Nitec programme at ITE or a Polytechnic.  
-  
+Students in Crest specialises in 2 ITE Skills Subjects (which will be equivalent to 2 G1 passes). This means that they will be equipped with vocational and technical skills advantage when they apply to ITE under the ITE Early Admission Scheme. They will be able to apply to a wide range of related Nitec courses in ITE if they meet the respective entry requirements. More than 90% of our graduated students can progress to ITE for a skills course at the Nitec level. From there, depending on how well they perform, many will be able to progress to a Diploma or Higher Nitec programme at ITE or a Polytechnic.
