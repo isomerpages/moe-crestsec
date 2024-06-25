@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Frequently Asked Questions
           description: ""
-          url: /i-am-a/p6-student-parent/student-admission-info/
+          url: /faq/
         - title: Student Handbook
           description: ""
           url: /student-handbook/
