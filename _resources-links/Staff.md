@@ -4,12 +4,15 @@ permalink: /info-at-crest/useful-links/staff/
 description: ""
 variant: tiptap
 ---
-<h3>Staff</h3>
-<table>
+<h3></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>ADMINISTRATIVE</p>
+<h4><strong>ADMINISTRATIVE</strong></h4>
 </th>
 </tr>
 <tr>
@@ -35,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TEACHING AND LEARNING</p>
+<h4><strong>TEACHING AND LEARNING</strong></h4>
 </td>
 </tr>
 <tr>
@@ -46,11 +49,20 @@ variant: tiptap
 </p>
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><strong>GUIDES</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="\guides\icon_setup.pdf" rel="noopener noreferrer nofollow" target="_blank">Setting up Authenticator for iCON email</a>
+</p>
+<p><a href="\guides\mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Password Reset for MIMS (Self Service)</a>
+</p>
 </td>
 </tr>
 </tbody>
