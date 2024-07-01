@@ -10,7 +10,8 @@ description: ""
 establishment of CSS complements MOE’s on-going efforts in providing students
 with an engaging learning experience, such as a curriculum that emphasises
 the building of students’ self-motivation and self-esteem, character development,
-and literacy and numeracy skills. CSS offers a&nbsp;<strong>customised four-year curriculum that integrates both academic learning and vocational training</strong>&nbsp;to
+and literacy and numeracy skills. CSS offers a&nbsp;customised four-year
+curriculum that integrates both academic learning and vocational training&nbsp;to
 provide students with skills-based, practice-oriented learning experiences.
 In addition, Character and Citizenship Education undergirds CSS’ holistic
 education approach, with a strong focus on values education and social
@@ -51,45 +52,31 @@ prior to the release of the Singapore-Cambridge Secondary Education Certificate
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports &amp; Games
-<br>
-</p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Athletics, Badminton, Basketball, Floorball, Football
-<br>
-</p>
+<p>Athletics, Badminton, Basketball, Floorball, Football</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aesthetics
-<br>
-</p>
+<p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance, Pop Band, Visual Arts
-<br>
-</p>
+<p>Dance, Pop Band, Visual Arts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clubs
-<br>
-</p>
+<p>Clubs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Entrepreneurship Club, Innovation Club, New Media Club, Circus Arts
-<br>
-</p>
+<p>Entrepreneurship Club, Innovation Club, New Media Club, Circus Arts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Uniformed Groups
-<br>
-</p>
+<p>Uniformed Groups</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Scouts (Boys &amp; Girls)</p>
@@ -135,7 +122,8 @@ hence be ceased from year 2024 onwards. Students are to consider alternative
 transportation arrangements, such as utilizing public transportation options
 or carpooling. We appreciate support and understanding from students and
 parents/guardians.</p>
-<p>The school hours in 2024 are as follows:</p>
+<p><strong>10. What are the school hours at CSS?</strong>
+<br>The school hours in 2024 are as follows:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -152,7 +140,7 @@ parents/guardians.</p>
 <p>2024 School Starting Time</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>2024 School Dismissal Time ^</p>
+<p>2024 School Dismissal Time</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +227,6 @@ parents/guardians.</p>
 are to check the students’ timetable for details.</p>
 <p>^ Please note that the above dismissal times will only take effect from
 8 January 2024 (Monday) onwards.</p>
-<p></p>
 <p><strong>11. What are the progression pathways after Crest?</strong>
 <br>As our students study the ITE Skills Subjects, it will provide them with
 a skills and aptitude advantage when they apply to ITE under the Early
