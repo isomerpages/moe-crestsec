@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <p></p>
 <h4>Self-Service Resetting of MIMS Password</h4>
-<p><a href="\guides\mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Password Reset for MIMS (Self Service)</a>
+<p><a href="/files/Guides/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Password Reset for MIMS (Self Service)</a>
 </p>
 <h4>Graduating Students</h4>
 <p><strong>Useful Information:</strong>
