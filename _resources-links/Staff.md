@@ -59,9 +59,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Guides/icon_setup.pdf" rel="noopener noreferrer nofollow" target="_blank">Setting up Authenticator for iCON email</a>
+<p><a href="/files/Guides/icon_setup.pdf" rel="noopener noreferrer nofollow" target="_blank">Setting up Authenticat</a>
+<a href="/files/icon_setup.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/Guides/icon_setup.pdf" rel="noopener noreferrer nofollow" target="_blank">or for iCON email</a>
 </p>
-<p><a href="/files/guides/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Password Reset for MIMS (Self Service)</a>
+<p><a href="/files/guides/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Password Reset for MIMS </a>
+<a href="/files/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/guides/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">(Self Service)</a>
 </p>
 </td>
 </tr>
