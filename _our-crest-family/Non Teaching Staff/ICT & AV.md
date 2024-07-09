@@ -69,6 +69,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Saufuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">cssde@crestsec.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
