@@ -10,9 +10,9 @@ sections:
   - hero:
       background: /images/crest-hero.gif
       key_highlights:
-        - title: Frequently Asked Questions
+        - title: Crest information booklet
           description: ""
-          url: /faq/
+          url: https://drive.google.com/file/d/1KGt6ZEXzEpCvpuykc3cbcyzJKVs2WBj6/view?usp=sharing
         - title: Student Handbook
           description: ""
           url: /student-handbook/
