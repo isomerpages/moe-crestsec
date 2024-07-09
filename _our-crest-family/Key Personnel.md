@@ -71,3 +71,4 @@ variant: markdown
 |:---:|:---:|:---:|
 | Mr Adrian Tan | Lead Teacher<br>(Educational Support) | adrian_tan@schools.gov.sg |
 | Ms Hannah Lee | Senior Teacher<br>(English Language)| lee_woan_huey_hannah@schools.gov.sg |
+| Ms Hedzlyn Hazwany Binte Mohamed Mahrom | Senior Teacher<br>(Special Educational Needs)| hedzlyn_hazwany_mohamed_mahrom@schools.gov.sg |
