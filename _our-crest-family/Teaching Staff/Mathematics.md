@@ -232,7 +232,8 @@ variant: tiptap
 <br>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nathaniel_chia_wei_long@schools.gov.sg</p>
+<p><a href="mailto:nathaniel_chia_wei_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nathaniel_chia_wei_long@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
