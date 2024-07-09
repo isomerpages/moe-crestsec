@@ -235,6 +235,22 @@ variant: tiptap
 <p>nathaniel_chia_wei_long@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Fairuzi Hatraby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ahmad_fairuzi_hatraby_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_fairuzi_hatraby_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
