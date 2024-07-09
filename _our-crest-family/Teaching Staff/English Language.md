@@ -133,7 +133,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
-<br>(English Language)</p>
+<br>(Special Educational Needs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hedzlyn_hazwany_mohamed_mahrom@schools.gov.sg</a>
