@@ -4,6 +4,12 @@ permalink: /info-at-crest/useful-links/student/
 description: ""
 variant: tiptap
 ---
+<h4>2024 GCE N(T) Oral Examination Briefing Slides </h4>
+<p><a href="\files\2024_n_level el_oral_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 GCE N Levels English Language Oral Examination Briefing Slides</a>
+</p>
+<p><a href="\files\2024_n_level mtl_oral_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 GCE N Levels Mother Tongue Language Oral Examination Briefing Slides</a>
+</p>
+<p></p>
 <h4>Timetable for 2024</h4>
 <p><a href="/files/sec_1_2024_timetable_term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 2024 Timetable Term 3.pdf</a> 
 <br><a href="/files/sec_2_2024_timetable_term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 2024 Timetable Term 3.pdf</a>
