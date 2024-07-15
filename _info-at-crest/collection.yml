@@ -2,6 +2,7 @@ collections:
   info-at-crest:
     output: true
     order:
+      - School Fees/Fees.md
       - School Fees/.keep
       - Principal's Message.md
       - School Identity.md
