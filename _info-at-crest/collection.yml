@@ -2,9 +2,6 @@ collections:
   info-at-crest:
     output: true
     order:
-      - School Fees/.keep
-      - School Fees/Fees.md
-      - School Fees/Apply for eGIRO.md
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
@@ -23,6 +20,9 @@ collections:
       - School Policy/Data Protection Policy.md
       - School Policy/Whistleblowing Policy.md
       - Student Admission Info.md
+      - School Fees/.keep
+      - School Fees/Fees.md
+      - School Fees/Apply for eGIRO.md
       - School Supplies.md
       - Career at Crest/.keep
       - Career at Crest/Career @Crest.md
