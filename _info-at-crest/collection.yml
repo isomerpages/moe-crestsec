@@ -2,9 +2,9 @@ collections:
   info-at-crest:
     output: true
     order:
-      - School Fees/Apply for eGIRO.md
-      - School Fees/Fees.md
       - School Fees/.keep
+      - School Fees/Fees.md
+      - School Fees/Apply for eGIRO.md
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
