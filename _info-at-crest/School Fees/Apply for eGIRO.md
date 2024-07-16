@@ -31,4 +31,5 @@ process your latest application.&nbsp;</p>
 <p>Please refer to the <a href="\files\crest_egiro_setupguide.pdf" rel="noopener noreferrer nofollow" target="_blank">user guide</a> for the steps to
 sign up.</p>
 <p></p>
-<p>Note: You will be redirected to a website hosted by <strong>Acme Technology Pte Ltd</strong>.</p>
+<p>Note: You will be redirected to a website hosted by Acme Technology Pte
+Ltd.</p>
