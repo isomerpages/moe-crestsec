@@ -3,6 +3,7 @@ title: Fees
 permalink: /info-at-crest/fees/
 description: ""
 variant: tiptap
+third_nav_title: School Fees
 ---
 <table style="minWidth: 75px">
 <colgroup>
