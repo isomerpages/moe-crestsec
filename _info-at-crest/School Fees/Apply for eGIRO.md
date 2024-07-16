@@ -24,10 +24,11 @@ submit the original signed form to the school.</p>
 <h4>Things to note about your application</h4>
 <p>If you have submitted multiple applications for the same student, we will
 process your latest application.&nbsp;</p>
-<p><strong>Button here indicating “APPLY FOR EGIRO” </strong>(LCL to James:
-Please place a big button here. The link to the webpage is <a rel="noopener noreferrer nofollow" target="_blank">https://hosted-egiro.tryacme.com/crest-secondary</a>)</p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://hosted-egiro.tryacme.com/crest-secondary"><img style="width: 40%;" height="auto" width="100%" alt="apply for egiro" src="/images/apply_egiro.png"></a>
+<p></p>
+<p></p>
 <p>Please refer to the <a href="\files\crest_egiro_setupguide.pdf" rel="noopener noreferrer nofollow" target="_blank">user guide</a> for the steps to
 sign up.</p>
 <p></p>
-<p>Note: You will be redirected to a website hosted by Acme Technology Pte
-Ltd.</p>
+<p>Note: You will be redirected to a website hosted by <strong>Acme Technology Pte Ltd</strong>.</p>
