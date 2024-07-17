@@ -8,7 +8,7 @@ variant: markdown
 
   
 
-The school, which is legally owned by the Institute of Technical Education (ITE), is registered as a Company with Limited Guarantee with ACRA and is granted the Charity and Institution of Public Character status under the Charities Act from 2 Jan 2020 to 1 Jan 2023. It is managed by a Board of Directors chaired by Mr Wilson Tan Wee Yan and is led by Principal Mr Benjamin Kwok.
+The school, which is legally owned by the Institute of Technical Education (ITE), is registered as a Company with Limited Guarantee with ACRA and is granted the Charity and Institution of Public Character status under the Charities Act. It is managed by a Board of Directors chaired by Mr Wilson Tan Wee Yan and is led by Principal Mr Benjamin Kwok.
 
   
 
