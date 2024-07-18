@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4>2024 GCE N(T) Oral Examination Briefing Slides</h4>
-<p><a href="\files\2024_n_level_el_oral_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 GCE N Levels English Language Oral Examination Briefing Slides</a>
+<p><a href="\files\2024_n_level_el_oral_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 GCE N Level English Language Oral Examination Briefing Slides</a>
 </p>
-<p><a href="\files\2024_n_level_mtl_oral_slides2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 GCE N Levels Mother Tongue Language Oral Examination Briefing Slides</a>
+<p><a href="\files\2024_n_level_mtl_oral_slides2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 GCE N Level Mother Tongue Language Oral Examination Briefing Slides</a>
 </p>
 <p></p>
 <h4>Timetable for 2024</h4>
