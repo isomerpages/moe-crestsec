@@ -15,13 +15,7 @@ teaching staff in 2025.</p>
 <p><strong><u>ACADEMIC TEACHERS</u></strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Language</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mathematics</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical Education</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Music</p>
-<p></p>
-<p></p>
+<br>
 <p></p>
 <p><strong>JOB DESCRIPTION</strong>
 </p>
