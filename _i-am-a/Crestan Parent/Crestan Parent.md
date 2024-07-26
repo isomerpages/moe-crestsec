@@ -10,6 +10,7 @@ third_nav_title: Crestan Parent
 </p>
 <p><a href="https://www.crestsec.edu.sg/info-at-crest/fees/" rel="noopener noreferrer nofollow" target="_blank">School Fees</a>
 </p>
-<p>Assessment Matters</p>
+<p><a href="https://www.crestsec.edu.sg/curriculum/assessment-matters/" rel="noopener noreferrer nofollow" target="_blank">Assessment Matters</a>
+</p>
 <p><a href="https://www.crestsec.edu.sg/info-at-crest/useful-links/parent/" rel="noopener noreferrer nofollow" target="_blank">Useful Links</a>
 </p>
