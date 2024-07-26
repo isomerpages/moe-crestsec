@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Assessment Matters.md
       - ALIVE@Crest/.keep
       - ALIVE@Crest/Teaching & Learning.md
       - ALIVE@Crest/Philosophy.md
@@ -33,3 +32,4 @@ collections:
       - Student Development/Programmes.md
       - Student Development/Student Support.md
       - Sexuality Education.md
+      - Assessment Matters.md
