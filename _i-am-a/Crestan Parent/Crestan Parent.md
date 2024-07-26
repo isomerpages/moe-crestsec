@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Crestan Parent
 ---
 <p>Information for Crestan Parents:</p>
-<p><a href="https://www.crestsec.edu.sg/i-am-a/crestan/school-supplies/" rel="noopener noreferrer nofollow" target="_blank">School Supplies</a>
+<p><a href="https://www.crestsec.edu.sg/info-at-crest/school-supplies/" rel="noopener noreferrer nofollow" target="_blank">School Supplies</a>
 </p>
 <p><a href="https://www.crestsec.edu.sg/info-at-crest/fees/" rel="noopener noreferrer nofollow" target="_blank">School Fees</a>
 </p>
