@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Assessment Matters.md
       - ALIVE@Crest/.keep
       - ALIVE@Crest/Teaching & Learning.md
       - ALIVE@Crest/Philosophy.md
