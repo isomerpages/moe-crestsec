@@ -15,10 +15,10 @@ variant: markdown
 
 Culinary &amp; Restaurant Operations (CRO) is one of the five ITE Skills Subjects (ISS) offered to Secondary 3 and Secondary 4 students in Crest Secondary School. When students select this subject as one of the two Skills Subjects to study, they will learn the basic skills and knowledge of the vibrant and rewarding hospitality industry.
 
-CRO students will get intensive hands-on learning in two core areas. These are culinary skills and food and beverage service. Students will get to develop their skills in authentic learning spaces such as the school’s training kitchens and bistro. They will get to prepare and serve food to real customers. Their skill sets will be further deepened with a 4-week industry experiential programme at leading hotels &amp; restaurants.
+CRO students will get intensive hands-on learning in two core areas. These are culinary skills and food and beverage service. Students will get to develop their skills in learning spaces such as the school’s training kitchens and bistro. They will get to prepare and serve food to real customers. Their skill sets will be further deepened with a 4-week industry experiential programme at leading hotels and restaurants.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djq-f4jeoCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" align="centre"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=v8NULMeklRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" align="centre"></iframe>
 
 In order for the students to discover if they are suitable and have an interest in this subject, they will be expose to compulsory taster modules in Secondary 1 and 2. Details of the taster modules are as shown below.
 
@@ -35,9 +35,9 @@ The taster modules will give students an idea of what CRO will be like in Upper 
 
 <img src="/images/cro21.png" style="width:100%">
 
-#### Authentic Lunch
+#### Serve Up!
 
-Modelled after a fine dining concept, this signature programme is a collaborative effort by the CRO students. Staff and partners are invited for a two-course set meal cooked by the students. This allows the students to practice what they have learnt in an authentic, non-scripted environment.
+Modelled after a casual dining concept, this signature programme is a collaborative effort by the CRO students. Staff and partners are invited for a two-course set meal cooked by the students. This allows the students to practice what they have learnt in an authentic, non-scripted environment.
 
 <img src="/images/cro3.png" style="width:100%">
 
