@@ -2,8 +2,9 @@
 title: 10th Anniversary Commemorative Ebook
 permalink: /10a-ebook/
 description: Read our 10th Anniversary Commemorative e-Book!
+variant: markdown
 ---
-Read our 10th Anniversary Commemorative e-Book!
+Read our 10th Anniversary Commemorative eBook!
 
 [https://heyzine.com/flip-book/fbb12b2c1a.html](https://heyzine.com/flip-book/fbb12b2c1a.html)
 
