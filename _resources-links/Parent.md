@@ -48,16 +48,15 @@ you to indicate your interest for the various parenting programmes.</p>
 </p>
 <p></p>
 <h4>MOE FAS Application Form for 2024</h4>
-<p><a href="/files/2024_fas_application.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2024</a>
-<br><a href="/files/p3.pdf" rel="noopener noreferrer nofollow" target="_blank">PG letter to parents_MOE FAS New.pdf</a>
+<p><a href="/files/EL/MOE_FAS_Application_Form_for_Specialised_Schools_2024___26_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2024</a>
 </p>
 <p></p>
 <h4>Term Letters</h4>
-<p><a href="/files/2024_term_1_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1 Letter to Parents</a>
+<p><a href="/files/EL/Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1 Letter to Parents</a>
 </p>
 <p><a href="/files/2024_term_2_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 2 Letter to Parents</a>
 </p>
-<p><a href="/files/2024_term_3_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3 Letter to Parents</a>
+<p><a href="/files/EL/Start_of_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3 Letter to Parents</a>
 </p>
 <p></p>
 <h4>Resources for Parents</h4>
