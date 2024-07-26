@@ -2,7 +2,6 @@
 title: Useful Links
 permalink: /info-at-crest/useful-links/parent/
 description: ""
-third_nav_title: Crestan Parent
 variant: markdown
 ---
 ### Parent
@@ -44,10 +43,6 @@ variant: markdown
 [2023 Start of Term 1 Letter to Parents.pdf](/files/p5.pdf)
 
 
-#### School Lockdown Drill
-
-[Lockdown drill Evacuation Exercise Parents Letter.pdf](/files/p6.pdf)
-
 #### Relaxation of the Safe Management Measures
 
 Dear Parents/Guardians,
@@ -64,9 +59,6 @@ As we strive towards living with COVID, let us continue to practise good persona
 
 Thank you for your partnership.
 
-#### Conversations with Your Teens by HPB
-
-[Conversations with Your Teens by HPB.pdf](/files/p7.pdf)
 
 #### Colour vision screening for Sec 1 students in Student Health Centre (SHC)
 

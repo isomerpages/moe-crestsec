@@ -1,13 +1,13 @@
 ---
 title: Assessment Matters
-permalink: /i-am-a/crestan-parent/assessment-matters/
+permalink: /curriculum/assessment-matters/
 description: ""
-third_nav_title: Crestan Parent
+variant: markdown
 ---
 ### Assessment Matters
 
 Please click the link below for the Secondary 1 to 3 Examination Timetable.  
-[Sec 1 to 3 Student Exam Timetable 2022.pd](/files/examtimetable.pdf)
+(To be updated)
 
 #### Overview
 
