@@ -8,8 +8,8 @@ variant: tiptap
 <h3>School Supplies</h3>
 <h4>Books / Uniforms / Shoes / Socks list for 2024</h4>
 <p>Dear parent/guardian,</p>
-<p>The 2024 year end price lists for school textbooks, uniforms/shoes/socks
-are attached for your reference.</p>
+<p>The 2024 price lists for school textbooks, uniforms/shoes/socks are attached
+for your reference.</p>
 <p>For non-FAS students, the school has arranged for the vendors to provide
 online purchase and delivery for the items. We encourage you to opt for
 online modes where possible for your convenience.</p>
