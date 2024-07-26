@@ -16,6 +16,5 @@ Assessment plays a crucial role in the learning process. It provides valuable in
 #### Types of Assessments
 
 *   Termly Weighted Assessments will be conducted in class to gauge the learning progress of students.
-*   Mid-Year examination will be conducted for Secondary 4 students.
 *   Preliminary N-Level examination will be conducted for Secondary 4 students.
 *   End-of-Year examination will be conducted for Secondary 1 to 3 students.
