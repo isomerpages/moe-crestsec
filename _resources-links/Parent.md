@@ -52,11 +52,11 @@ you to indicate your interest for the various parenting programmes.</p>
 </p>
 <p></p>
 <h4>Term Letters</h4>
-<p><a href="/files/2024_term_1_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1 Letter to Parents</a>
+<p><a href="/files/EL/Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1 Letter to Parents</a>
 </p>
 <p><a href="/files/2024_term_2_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 2 Letter to Parents</a>
 </p>
-<p><a href="/files/2024_term_3_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3 Letter to Parents</a>
+<p><a href="/files/EL/Start_of_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3 Letter to Parents</a>
 </p>
 <p></p>
 <h4>Resources for Parents</h4>
