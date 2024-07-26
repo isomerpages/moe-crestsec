@@ -48,8 +48,7 @@ you to indicate your interest for the various parenting programmes.</p>
 </p>
 <p></p>
 <h4>MOE FAS Application Form for 2024</h4>
-<p><a href="/files/2024_fas_application.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2024</a>
-<br><a href="/files/p3.pdf" rel="noopener noreferrer nofollow" target="_blank">PG letter to parents_MOE FAS New.pdf</a>
+<p><a href="/files/EL/MOE_FAS_Application_Form_for_Specialised_Schools_2024___26_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2024</a>
 </p>
 <p></p>
 <h4>Term Letters</h4>
