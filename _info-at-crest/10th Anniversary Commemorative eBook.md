@@ -1,7 +1,7 @@
 ---
-title: 10th Anniversary Commemorative Ebook
+title: 10th Anniversary Commemorative eBook
 permalink: /10a-ebook/
-description: Read our 10th Anniversary Commemorative e-Book!
+description: Read our 10th Anniversary Commemorative eBook!
 variant: markdown
 ---
 Read our 10th Anniversary Commemorative eBook!
