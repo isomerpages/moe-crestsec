@@ -4,6 +4,11 @@ permalink: /info-at-crest/useful-links/parent/
 description: ""
 variant: tiptap
 ---
+<h4>2024 Sec 4 Prelim Exam Schedule</h4>
+<p><a href="\files\2024_sec_4_prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Prelim Exam Schedule</a>
+</p>
+<p></p>
+<h4></h4>
 <h4>Positive Parenting Programme (Triple P)</h4>
 <p>Triple P is an evidence-based programme that equips parents with techniques
 to promote your children’s (aged up to 16 years) psychological, social
