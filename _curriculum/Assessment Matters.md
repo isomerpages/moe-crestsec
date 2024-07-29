@@ -6,8 +6,11 @@ variant: markdown
 ---
 ### Assessment Matters
 
-Secondary 1 to 3 Examination Timetables  
-(To be updated)
+#### 2024 Secondary 4 Preliminary Exam Schedule
+
+Please click below link for the 2024 Secondary 4 Preliminary Examination Schedule.
+
+[2024 Sec 4 Preliminary Examamination Schedule](\files\2024_sec_4_prelim.pdf)
 
 #### Overview
 
