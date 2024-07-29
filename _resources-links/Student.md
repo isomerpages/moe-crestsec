@@ -4,8 +4,10 @@ permalink: /info-at-crest/useful-links/student/
 description: ""
 variant: tiptap
 ---
-<h4>2024 Sec 4 Prelim Exam Schedule</h4>
-<p><a href="\files\2024_sec_4_prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Prelim Exam Schedule</a>
+<h4>2024 Secondary 4 Preliminary Exam Schedule</h4>
+<p>Please click below link for the 2024 Secondary 4 Preliminary Examination
+Schedule.</p>
+<p><a href="\files\2024_sec_4_prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Preliminary Examamination Schedule</a>
 </p>
 <p></p>
 <h4>Timetable for 2024</h4>
