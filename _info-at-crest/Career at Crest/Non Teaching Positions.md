@@ -6,102 +6,72 @@ third_nav_title: Career at Crest
 variant: tiptap
 ---
 <h4>School Counsellor</h4>
-<p><u>Responsibilities</u>
+<p><strong><u>Job Description</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Provide individual and group counselling to students.</p>
+<p>Provide individual and group counseling to students, engaging families
+when case assessment calls for it. Conduct home visits when necessary.</p>
 </li>
 <li>
-<p>Conference with staff, parents and external professionals and agencies
-on students under your care, and conduct home visits where necessary.</p>
+<p>Conference with staff, parents, and external agencies on students under
+your care to work collaboratively towards the positive outcomes of the
+student and their families.</p>
 </li>
 <li>
-<p>Make appropriate referrals or necessary reports for students and their
-families to community resources or statutory agencies.&nbsp;</p>
+<p>Be aware of and utilize available community and statutory resources to
+support students and their families effectively.</p>
 </li>
 <li>
-<p>Provide immediate crisis intervention and follow-up to students affected
-by critical incidents.</p>
+<p>Organize and conduct training for students and staff on pertinent brain-informed,
+relationship-centered perspectives. Topics may include the impact of trauma
+on learning, offering attunement and co-regulation, and developing self-regulation
+skills.</p>
 </li>
 <li>
-<p>Maintain case consultation records and proper documentation.</p>
+<p>Identify needs and initiate tailored programs for students.</p>
+</li>
+<li>
+<p>Actively participate in professional development opportunities and engage
+with external networks to stay informed on best practices, Ministry of
+Education (MOE) guidelines, and adolescent mental health findings.</p>
 </li>
 <li>
 <p>Provide regular updates to school management on the progress of students
-being seen for counselling.</p>
+receiving counselling.</p>
 </li>
 <li>
-<p>Organise and conduct training for staff and students on pertinent mental
-health issues and healthy coping skills.</p>
+<p>Be part of the CARE team and provide immediate crisis intervention and
+follow-up to students affected by critical incidents.</p>
 </li>
 <li>
-<p>Attend events and network with relevant external professionals and community
-agencies.</p>
-</li>
-<li>
-<p>Undertake other purposeful tasks that the reporting officer and school
-management may assign.</p>
+<p>Undertake other purposeful tasks as assigned by the reporting officer
+and school management.</p>
 </li>
 </ul>
 <p></p>
-<p><u>Requirements</u>
+<p><strong><u>Attributes of a Crest Secondary School Counsellor</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Be effectively bilingual.</p>
+<p>Is passionate about empowering and uplifting youth.</p>
 </li>
 <li>
-<p>Have compassion, openness and work well in and with systems.</p>
+<p>Possesses a recognized Master’s Degree in Counselling.</p>
 </li>
 <li>
-<p>Grounded in at least a counselling modality, can hold a systemic perspective,
-be aware of developmental and acute trauma.</p>
+<p>Demonstrates compassion, practices openness to differing perspectives,
+and work well within systems.</p>
 </li>
 <li>
-<p>Preferably have work experience as a Counsellor in a school setting.&nbsp;</p>
+<p>Is grounded in at least one suitable counseling modality, holds a systemic
+perspective, and applies an attachment, child development, and trauma-informed
+lens.</p>
+</li>
+<li>
+<p>Is culturally competent to better serve a diverse student population.</p>
 </li>
 </ul>
-<p></p>
-<h4>Special Educational Needs (SEN) Officer</h4>
-<p><u>Responsibilities</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Provide in-class and withdrawal support, specialised interventions and
-skills training in specific areas of learning disabilities</p>
-</li>
-<li>
-<p>Handle cases and manage records of students with SEN</p>
-</li>
-<li>
-<p>Develop and manage the teaching and learning resources for students with
-SEN, including setting up and maintaining a special needs-friendly classroom/school
-environment</p>
-</li>
-<li>
-<p>Conduct talks for parents to create awareness of SEN</p>
-</li>
-<li>
-<p>Collaborate with external agencies and professionals to assess specialist
-consultation and support for students with SEN</p>
-</li>
-</ul>
-<p></p>
-<p><u>Requirements</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Be effectively bilingual.</p>
-</li>
-<li>
-<p>Have compassion, openness and work well in and with systems.</p>
-</li>
-<li>
-<p>Preferably have work experience as a Special Educational Needs (SEN) Officer.</p>
-</li>
-</ul>
-<p>&nbsp;</p>
 <p></p>
 <p><strong>HOW TO APPLY</strong>
 </p>
