@@ -19,7 +19,7 @@ you to indicate your interest for the various parenting programmes.</p>
 <p>Watch the Triple P video <a href="https://drive.google.com/file/d/1_XIz8RWql3HYYLz4KBNDDsfCSFxlxReb/view" rel="noopener noreferrer nofollow" target="_blank">Bringing Family Life Education Closer to You.</a>
 </p>
 <p></p>
-<h4>Parent Dialogue 2024</h4>
+<h4>Parent Engagement Session 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,16 +32,29 @@ you to indicate your interest for the various parenting programmes.</p>
 <h5>Sec 1</h5>
 </th>
 <th rowspan="1" colspan="2">
-<p><strong><a href="/files/2024_sec_1_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parent Dialogue 2024.pdf</a></strong>
+<p><strong><a href="/files/2024_sec_1_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parent Engagement Session 2024.pdf</a></strong>
 </p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>Sec 2</h5>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://drive.google.com/file/d/1MeHzmlZctN8edeHXFMDq6kiMlIi7d-lS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Parent Engagement Session 2024</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1et4iXNmtFA6wpyPK5GOyCxMtibWs6A-R/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Reception Video (Words of love and encouragement to child and FTs)</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1JzdQMmtyyrNUEYW807W4MiJQaOZGa5Ew/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">ISS video</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h5>Sec 4</h5>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong><a href="/files/2024_sec_4_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Parent Dialogue 2024.pdf</a></strong>
+<p><strong><a href="/files/2024_sec_4_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Parent Engagement Session 2024.pdf</a></strong>
 </p>
 </td>
 </tr>
