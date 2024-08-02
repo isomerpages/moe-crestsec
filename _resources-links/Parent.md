@@ -19,7 +19,7 @@ you to indicate your interest for the various parenting programmes.</p>
 <p>Watch the Triple P video <a href="https://drive.google.com/file/d/1_XIz8RWql3HYYLz4KBNDDsfCSFxlxReb/view" rel="noopener noreferrer nofollow" target="_blank">Bringing Family Life Education Closer to You.</a>
 </p>
 <p></p>
-<h4>Parent Dialogue 2024</h4>
+<h4>Parent Engagement Session 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
