@@ -6,14 +6,14 @@ variant: markdown
 ---
 ### Board of Directors
 
-<table border="1">
+<table>
       <tbody><tr>
         <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_wilson2.jpg" style="width:50%"><br><b>Mr Tan Wee Yan Wilson</b><br>Chairman</td>
         <td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_dr_mok2.jpg" style="width:50%"><br><b>Dr Mok Ying Jang</b><br>Vice-Chairman</td>
       </tr>
 	</tbody></table>
 		
-<table border="1">
+<table>
       <tbody><tr>
         <td style="text-align: center; vertical-align: middle;"><img src="/images/bod_alice2.jpg" style="width:45%"><br><b>Ms Seow Chui Hoon Alice</b><br>Member</td>
         <td style="text-align: center; vertical-align: middle;"><img src="/images/bod_tracy2.jpg" style="width:45%"><br><b>Ms Ang Hui Chin Tracy-Anne</b><br>Member</td>
@@ -30,7 +30,7 @@ variant: markdown
 				<td style="text-align: center; width:188px; height:250px;"><img src="/images/bod_ng_yi_xian2.jpg" style="width:45%"><br><b>Mr Ng Yi-Xian</b><br>Member</td>
       </tr>
     </tbody></table>
-<table style="width: 500px; text-align: center;" cellspacing="1" cellpadding="1" border="1">
+<table style="width: 500px; text-align: center;" cellspacing="1" cellpadding="1">
 	<tbody>
 		<tr>
 			<td>
