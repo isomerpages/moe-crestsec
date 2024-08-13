@@ -16,9 +16,9 @@ collections:
       - Newsroom/2018.md
       - Financial Information.md
       - Safety & Security Information.md
-      - School Policy/.keep
-      - School Policy/Data Protection Policy.md
-      - School Policy/Whistleblowing Policy.md
+      - Data Protection Policy/.keep
+      - Data Protection Policy/Data Protection Policy.md
+      - Data Protection Policy/Whistleblowing Policy.md
       - Student Admission Info.md
       - School Fees/.keep
       - School Fees/Fees.md
