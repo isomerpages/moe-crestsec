@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 <p><strong>Facebook</strong>:&nbsp;<a href="http://www.facebook.com/crestsec" rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/crestsec</a>
 </p>
-<p>&lt;br&gt;</p>
+<hr>
 <p>Nearest bus stop:&nbsp;<a href="https://www.google.com.sg/maps/place/Blk+266/@1.3421421,103.7413959,17z/data=!4m21!1m15!4m14!1m6!1m2!1s0x31da1016c4d033ed:0xeaa1370fbdd9f418!2sBlk+266!2m2!1d103.74425!2d1.3419533!1m6!1m2!1s0x31da101709c924b3:0x5104dbd93122047f!2sCrest+Secondary+School!2m2!1d103.7428639!2d1.3436637!3m4!1s0x31da1016c4d033ed:0xeaa1370fbdd9f418!8m2!3d1.3419534!4d103.7442499" rel="noopener noreferrer nofollow" target="_blank">B28629</a>
 </p>
 <p>Bus services: 176, 187, 188, 188E, 868 and 990</p>
