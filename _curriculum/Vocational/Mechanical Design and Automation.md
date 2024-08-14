@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Vocational
 variant: markdown
 ---
-### Mechanical Design &amp; Automation
+### Mechanical Design and Automation
 
 
 #### Objective
