@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Vocational
 variant: markdown
 ---
-###  Retail &amp; E-commerce
+###  Retail and eCommerce
 
 
 #### Objective
