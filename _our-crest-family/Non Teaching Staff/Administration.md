@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Non Teaching Staff
 variant: markdown
 ---
-### Administrative
+### Administration
 
 | Name | Designation | Email |
 |:---:|:---:|:---:|
