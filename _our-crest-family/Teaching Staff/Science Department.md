@@ -1,11 +1,11 @@
 ---
-title: Science
+title: Science Department
 permalink: /our-staff/teaching-staff/science/
 description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<h3>Science</h3>
+<h3></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

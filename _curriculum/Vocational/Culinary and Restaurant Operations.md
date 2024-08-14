@@ -1,11 +1,11 @@
 ---
-title: Culinary & Restaurant Operations
+title: Culinary and Restaurant Operations
 permalink: /programmes/vocational-curriculum/culinary-and-restaurant-operations/
 description: ""
 third_nav_title: Vocational
 variant: markdown
 ---
-### Culinary &amp; Restaurant Operations
+### Culinary and Restaurant Operations
 
 
 

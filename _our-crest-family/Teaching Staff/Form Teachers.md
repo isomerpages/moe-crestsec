@@ -1,5 +1,5 @@
 ---
-title: Form Teachers (All Levels)
+title: Form Teachers
 permalink: /our-staff/teaching-staff/form-teachers-all-levels/
 description: ""
 third_nav_title: Teaching Staff

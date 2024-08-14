@@ -1,11 +1,11 @@
 ---
-title: Administrative
+title: Administration
 permalink: /our-staff/administrative/
 description: ""
 third_nav_title: Non Teaching Staff
 variant: markdown
 ---
-### Administrative
+
 
 | Name | Designation | Email |
 |:---:|:---:|:---:|

@@ -1,11 +1,11 @@
 ---
-title: Crest Alumni
+title: Alumni
 permalink: /crest-alumni/partners/
 description: ""
 third_nav_title: Crest PAL and Alumni
 variant: markdown
 ---
-### Crest Alumni
+### Alumni
 
 <img src="/images/crest-alumni-10a.jpg" style="width:75%">
 

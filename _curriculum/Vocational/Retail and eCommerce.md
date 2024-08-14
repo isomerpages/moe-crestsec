@@ -1,11 +1,11 @@
 ---
-title: Retail & ECommerce
+title: Retail and eCommerce
 permalink: /programmes/vocational-curriculum/retail-and-ecommerce/
 description: ""
 third_nav_title: Vocational
 variant: markdown
 ---
-###  Retail &amp; E-commerce
+###  Retail and eCommerce
 
 
 #### Objective

@@ -1,11 +1,11 @@
 ---
-title: Aesthetics
+title: Aesthetics Department
 permalink: /our-staff/teaching-staff/aesthetics/
 description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<h3>Aesthetics</h3>
+<h3></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

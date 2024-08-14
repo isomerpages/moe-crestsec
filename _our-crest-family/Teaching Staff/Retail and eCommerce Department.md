@@ -1,11 +1,11 @@
 ---
-title: Retail and E Commerce
+title: Retail and eCommerce Department
 permalink: /our-staff/teaching-staff/retail-and-ecommerce/
 description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<h3>Retail and ECommerce</h3>
+<h3></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

@@ -1,11 +1,11 @@
 ---
-title: Mobile Web Applications
+title: Mobile Web Applications Department
 permalink: /our-staff/teaching-staff/mobile-web-applications/
 description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<h3>Mobile Web Applications</h3>
+<h3></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

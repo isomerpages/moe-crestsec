@@ -1,5 +1,5 @@
 ---
-title: ICT & AV
+title: Information and Communications Technology
 permalink: /our-staff/ict-and-av/
 description: ""
 third_nav_title: Non Teaching Staff
@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<h3>ICT &amp; AV</h3>
+<h3></h3>
 </td>
 </tr>
 <tr>

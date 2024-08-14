@@ -1,11 +1,11 @@
 ---
-title: Internet of Things Applications
+title: Internet of Things Applications Department
 permalink: /our-staff/teaching-staff/internet-of-things-applications/
 description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<h3>Internet of Things Applications</h3>
+<h3></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

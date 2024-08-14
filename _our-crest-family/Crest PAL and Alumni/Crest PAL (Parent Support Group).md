@@ -1,5 +1,5 @@
 ---
-title: Crest PAL
+title: Crest PAL (Parent Support Group)
 permalink: /crest-pal/partners/
 description: ""
 variant: markdown

@@ -1,11 +1,11 @@
 ---
-title: Culinary and Restaurant Operations
+title: Culinary and Restaurant Operations Department
 permalink: /our-staff/teaching-staff/culinary-and-restaurant-operations/
 description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<h3>Culinary and Restaurant Operations</h3>
+<h3></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

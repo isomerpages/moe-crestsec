@@ -1,11 +1,11 @@
 ---
-title: Mechanical Design & Automation
+title: Mechanical Design and Automation
 permalink: /programmes/vocational-curriculum/mechanical-design-and-automation/
 description: ""
 third_nav_title: Vocational
 variant: markdown
 ---
-### Mechanical Design &amp; Automation
+### Mechanical Design and Automation
 
 
 #### Objective

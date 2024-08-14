@@ -1,11 +1,11 @@
 ---
-title: English Language
+title: English Language Department
 permalink: /our-staff/teaching-staff/english-language/
 description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<h3>English</h3>
+<h3></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
