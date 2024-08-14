@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Vocational
 variant: markdown
 ---
-### Culinary &amp; Restaurant Operations
+### Culinary and Restaurant Operations
 
 
 
