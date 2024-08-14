@@ -2,7 +2,7 @@
 title: Teaching Positions
 permalink: /info-at-crest/teaching-positions/
 description: ""
-third_nav_title: Career at Crest
+third_nav_title: Careers @ Crest
 variant: markdown
 ---
 <p><strong>Teaching Positions</strong>

@@ -3,7 +3,7 @@ title: Crestan Parent
 permalink: /crestan-parent/
 variant: tiptap
 description: ""
-third_nav_title: Crestan Parent
+third_nav_title: Crestan's Parent
 ---
 <p>Information for Crestan Parents:</p>
 <p><a href="https://www.crestsec.edu.sg/info-at-crest/school-supplies/" rel="noopener noreferrer nofollow" target="_blank">School Supplies</a>

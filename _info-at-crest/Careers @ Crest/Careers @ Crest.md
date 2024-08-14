@@ -1,11 +1,11 @@
 ---
-title: Career @Crest
+title: Careers @ Crest
 permalink: /career-at-crest/
 description: ""
-third_nav_title: Career at Crest
+third_nav_title: Careers @ Crest
 variant: markdown
 ---
-### Career@Crest
+### Careers @ Crest
 
 **CAREER OPPORTUNITIES @ CREST SECONDARY SCHOOL**  
 

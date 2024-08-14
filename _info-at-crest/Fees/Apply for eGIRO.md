@@ -3,7 +3,7 @@ title: Apply for eGIRO
 permalink: /apply-for-egiro/
 variant: tiptap
 description: ""
-third_nav_title: School Fees
+third_nav_title: Fees
 ---
 <h4>Apply for eGIRO</h4>
 <p>Crest Secondary School had engaged a third party vendor Acme Technology

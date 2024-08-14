@@ -1,5 +1,5 @@
 ---
-title: Student Admission Info
+title: Student Admission
 permalink: /info-at-crest/student-admission-info/
 description: ""
 variant: tiptap
