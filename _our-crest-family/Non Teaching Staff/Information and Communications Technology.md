@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<h3>ICT &amp; AV</h3>
+<h3>Information and Communications Technology</h3>
 </td>
 </tr>
 <tr>
