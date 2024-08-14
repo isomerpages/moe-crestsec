@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Teaching Staff
 ---
-<h3>Physical Education</h3>
+<h3></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
