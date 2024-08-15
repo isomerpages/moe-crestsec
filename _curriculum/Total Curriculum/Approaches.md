@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Total Curriculum
 variant: tiptap
 ---
-<h3>Curriculum Approach</h3>
+<h3>Curriculum Approaches</h3>
 <p><strong>Hands-On, Skills-Based, Practice-Oriented</strong>&nbsp;</p>
 <p>Authentic settings are deliberately scheduled to allow students to apply
 and showcase their learning, and to anchor assessment and feedback on observable
