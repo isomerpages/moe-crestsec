@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Non Teaching Staff
 ---
-<h4></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -14,18 +13,15 @@ third_nav_title: Non Teaching Staff
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,6 +37,4 @@ third_nav_title: Non Teaching Staff
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
