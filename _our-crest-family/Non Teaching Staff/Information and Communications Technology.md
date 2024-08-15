@@ -36,8 +36,7 @@ variant: tiptap
 <p>Mr James Pek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Officer
-<br>(ICT)</p>
+<p>Senior Officer (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">pek_su_heng@schools.gov.sg</a>
@@ -49,8 +48,7 @@ variant: tiptap
 <p>Mr Klassen Charles Gerard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer
-<br>(AV)</p>
+<p>Technical Support Officer (AV)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">klassen_charles_gerard@schools.gov.sg</a>
@@ -62,7 +60,7 @@ variant: tiptap
 <p>Mr Kishen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer (NCS)</p>
+<p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">cssde@crestsec.edu.sg</a>
@@ -74,7 +72,7 @@ variant: tiptap
 <p>Mr Saufuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer (NCS)</p>
+<p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">cssde@crestsec.edu.sg</a>
