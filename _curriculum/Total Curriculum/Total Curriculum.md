@@ -5,4 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Total Curriculum
 ---
-<p>Total Curriculum</p>
+<h3>Total Curriculum</h3>
+<p>Under construction</p>
