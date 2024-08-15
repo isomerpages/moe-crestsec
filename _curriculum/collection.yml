@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Academic Curriculum/.keep
       - Total Curriculum/.keep
       - Total Curriculum/Teaching & Learning.md
       - Total Curriculum/Philosophy.md
