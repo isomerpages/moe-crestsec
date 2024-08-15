@@ -2,7 +2,7 @@
 title: Beliefs
 permalink: /fundamental-beliefs/programmes/teaching-andlearning/
 description: ""
-third_nav_title: ALIVE@Crest
+third_nav_title: Total Curriculum
 variant: markdown
 ---
 ### Beliefs

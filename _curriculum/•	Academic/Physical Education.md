@@ -2,7 +2,7 @@
 title: Physical Education
 permalink: /programmes/academic-curriculum/physical-education/
 description: ""
-third_nav_title: Academic
+third_nav_title: •	Academic
 variant: markdown
 ---
 ### Physical Education

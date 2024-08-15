@@ -2,7 +2,7 @@
 title: Principles
 permalink: /guiding-principles/programmes/teaching-andlearning/
 description: ""
-third_nav_title: ALIVE@Crest
+third_nav_title: Total Curriculum
 variant: markdown
 ---
 ### Principles

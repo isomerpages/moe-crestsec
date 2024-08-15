@@ -1,0 +1,5 @@
+collections:
+  temporary-for-eugene:
+    output: true
+    order:
+      - Teaching & Learning.md

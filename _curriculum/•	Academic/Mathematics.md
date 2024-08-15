@@ -2,7 +2,7 @@
 title: Mathematics
 permalink: /programmes/academic-curriculum/mathematics/
 description: ""
-third_nav_title: Academic
+third_nav_title: •	Academic
 variant: markdown
 ---
 ### Mathematics

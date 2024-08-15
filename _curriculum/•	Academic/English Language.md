@@ -2,7 +2,7 @@
 title: English Language
 permalink: /programmes/academic-curriculum/english/
 description: ""
-third_nav_title: Academic
+third_nav_title: •	Academic
 variant: markdown
 ---
 ### English Language

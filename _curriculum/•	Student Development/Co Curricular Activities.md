@@ -2,7 +2,7 @@
 title: Co Curricular Activities
 permalink: /programmes/student-development/cca/
 description: ""
-third_nav_title: Student Development
+third_nav_title: •	Student Development
 variant: markdown
 ---
 ### Co Curricular Activities

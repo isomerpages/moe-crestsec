@@ -2,7 +2,7 @@
 title: Mother Tongue Languages
 permalink: /programmes/academic-curriculum/mother-tongue-languages/
 description: ""
-third_nav_title: Academic
+third_nav_title: •	Academic
 variant: markdown
 ---
 ### Mother Tongue Languages
