@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kishen</p>
+<p>Mr Kishen Kumar Aragennan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Saufuan</p>
+<p>Mr Muhamad Al Saufuan Bin Samad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
