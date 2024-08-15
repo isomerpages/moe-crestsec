@@ -3,13 +3,74 @@ title: Finance
 permalink: /our-staff/finance/
 description: ""
 third_nav_title: Non Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-
-
-| Name | Designation | Email |
-|:---:|:---:|:---:|
-| Ms Lee Chia Ling | Finance Manager | [lee\_chia\_ling@schools.gov.sg](mailto:lee_chia_ling@schools.gov.sg) |
-| Ms Sabrina Wong | Officer | [wong\_pei\_zhi@schools.gov.sg](mailto:wong_pei_zhi@schools.gov.sg) |
-| Ms Chia Zixin | Senior Executive | [chia\_zixin@schools.gov.sg](mailto:chia_zixin@schools.gov.sg) |
-| Ms Stella Lin | Senior Executive | [lin\_shiting@schools.gov.sg](mailto:lin_shiting@schools.gov.sg) |
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Chia Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finance Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chia_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chia_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sabrina Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_pei_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_pei_zhi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chia Zixin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_zixin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_zixin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Stella Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_shiting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_shiting@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
