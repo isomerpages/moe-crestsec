@@ -84,7 +84,8 @@ variant: tiptap
 <br>(Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>asmarani_Ismail@schools.gov.sg</p>
+<p><a href="mailto:asmarani_Ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">asmarani_Ismail@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
