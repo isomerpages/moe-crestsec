@@ -26,7 +26,7 @@ sections:
       title: 3R+R Uplifting Experiences
       button: Learn More
       alt: Image alt text
-      url: /css/3r-experiences/
+      url: /css/3r-plus-r-uplifting-experiences/
       image: /images/distinctive--3r.jpg
       description: Reboot, Recondition, Restore + Rejoice through special programmes
   - infopic:
