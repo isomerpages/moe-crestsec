@@ -13,11 +13,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<h3></h3>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
