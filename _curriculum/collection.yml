@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Total Curriculum/.keep
-      - Total Curriculum/Teaching & Learning.md
       - Total Curriculum/Philosophy.md
       - Total Curriculum/Beliefs.md
       - Total Curriculum/Principles.md
