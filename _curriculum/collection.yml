@@ -2,12 +2,12 @@ collections:
   curriculum:
     output: true
     order:
-      - ALIVE@Crest/.keep
-      - ALIVE@Crest/Teaching & Learning.md
-      - ALIVE@Crest/Philosophy.md
-      - ALIVE@Crest/Beliefs.md
-      - ALIVE@Crest/Principles.md
-      - ALIVE@Crest/Approach.md
+      - Total Curriculum/.keep
+      - Total Curriculum/Teaching & Learning.md
+      - Total Curriculum/Philosophy.md
+      - Total Curriculum/Beliefs.md
+      - Total Curriculum/Principles.md
+      - Total Curriculum/Approach.md
       - Academic/.keep
       - Academic/Aesthetics.md
       - Academic/English Language.md
