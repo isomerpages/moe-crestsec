@@ -2,7 +2,6 @@ collections:
   i-am-a:
     output: true
     order:
-      - P6 Student's Parent/.keep
       - Crestan/.keep
       - Crestan/Crestan's Virtual Assistant.md
       - Crestan/Education and Career Guidance.md
