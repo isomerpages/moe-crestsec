@@ -2,6 +2,5 @@ collections:
   css:
     output: true
     order:
-      - 3R Experiences.md
-      - Skills based Innovative Curriculum.md
+      - 3R plus R Uplifting Experiences.md
       - Authentic Learning.md

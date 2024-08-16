@@ -1,5 +1,5 @@
 ---
-title: Total Curriculum
+title: About
 permalink: /total-curriculum/
 variant: tiptap
 description: ""

@@ -2,4 +2,5 @@ collections:
   temporary-for-eugene:
     output: true
     order:
+      - 3R Experiences.md
       - Teaching & Learning.md
