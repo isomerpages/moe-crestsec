@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - P6 Student's Parent/.keep
-      - P6 Student's Parent/Curriculum.md
       - P6 Student's Parent/Student Development.md
       - P6 Student's Parent/Sexuality Education.md
       - P6 Student's Parent/School Achievements.md
