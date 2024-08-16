@@ -16,26 +16,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://10.175.104.143:8080/ess/web/ess/login" rel="noopener noreferrer nofollow" target="_blank">Crest Finance Portal</a>
-</p>
-<p><a href="http://10.175.104.144/eportal/" rel="noopener noreferrer nofollow" target="_blank">Crest HR Portal</a>
-</p>
-<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
-</p>
-<p><a href="http://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
-</p>
-<p><a href="https://docs.google.com/presentation/d/1H2Z0g1IX_xdJb-VsGxnpp6yidrK_2481HbnG9GOHGdg/present?pli=1&amp;slide=id.p" rel="noopener noreferrer nofollow" target="_blank">One-Stop SDT Guide</a>
-</p>
-<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a>
-</p>
-<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
-</p>
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
-</p>
-<p><a href="https://sites.google.com/crestsec.edu.sg/staffhub/" rel="noopener noreferrer nofollow" target="_blank">Staff Hub</a>
-</p>
-<p><a href="https://sites.google.com/crestsec.edu.sg/ict/home" rel="noopener noreferrer nofollow" target="_blank">Teachers' Virtual Assistant (T-VA)</a>
-</p>
+<p>Please click <a href="https://sites.google.com/crestsec.edu.sg/staffhub/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+access Staff Hub.</p>
 <p></p>
 </td>
 </tr>
