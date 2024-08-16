@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Staff.md
-      - Parent.md
+      - Crestan's Parent.md
       - Student.md
