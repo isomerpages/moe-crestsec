@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - P6 Student's Parent/.keep
-      - P6 Student's Parent/School Achievements.md
       - P6 Student's Parent/School Fees.md
       - Crestan/.keep
       - Crestan/Crestan's Virtual Assistant.md
