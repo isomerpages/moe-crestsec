@@ -11,15 +11,12 @@ sections:
   - hero:
       background: /images/crest-hero.gif
       key_highlights:
-        - title: Crest information booklet
+        - title: Crest Information Booklet
           description: ""
           url: https://drive.google.com/file/d/1KGt6ZEXzEpCvpuykc3cbcyzJKVs2WBj6/view?usp=sharing
         - title: Student Handbook
           description: ""
           url: /student-handbook/
-        - title: Sitemap
-          description: (Under Construction)
-          url: ""
   - resources:
       button: Click to Learn More
       subtitle: ANNOUNCEMENTS
