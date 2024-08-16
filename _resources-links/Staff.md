@@ -28,6 +28,10 @@ variant: tiptap
 </p>
 <p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a>
 </p>
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
+</p>
+<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
+</p>
 <p><a href="https://sites.google.com/crestsec.edu.sg/staffhub/" rel="noopener noreferrer nofollow" target="_blank">Staff Hub</a>
 </p>
 <p><a href="https://sites.google.com/crestsec.edu.sg/ict/home" rel="noopener noreferrer nofollow" target="_blank">Teachers' Virtual Assistant (T-VA)</a>
@@ -44,10 +48,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a>
 </p>
-<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
-</p>
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
-</p>
 <p></p>
 </td>
 </tr>
@@ -58,9 +58,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/icon_setup.pdf" rel="noopener noreferrer nofollow" target="_blank">Setting up Authenticator for iCON email</a>
+<p><a href="/files/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Set up challenge questions and Student Self-Service Password Reset Guide</a>
 </p>
-<p><a href="/files/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Password Reset for MIMS (Self Service)</a>
+<p><a href="/files/icon_setup.pdf" rel="noopener noreferrer nofollow" target="_blank">Staff iCON Login via MIMS Portal</a>
 </p>
 </td>
 </tr>
