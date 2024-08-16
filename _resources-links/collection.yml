@@ -2,6 +2,7 @@ collections:
   resources-links:
     output: true
     order:
+      - P6 Student's Parent.md
       - Staff.md
       - Crestan's Parent.md
       - Crestan.md
