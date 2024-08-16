@@ -23,6 +23,7 @@ variant: tiptap
 </p>
 <hr>
 <h4>Useful Links</h4>
+<p><a href="https://sites.google.com/crestsec.edu.sg/pdlpmicrosite/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">Crestan's Virtual Assistant (C-VA)</a>
+</p>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
-<p></p>
