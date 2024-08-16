@@ -1,8 +1,9 @@
 ---
 layout: homepage
 title: Crest Secondary School
-description: "561 Jurong East Street 24 Singapore 609561; Tel: 6899 2779; Fax:
-  6899 2668. © 2020 Crest Secondary School, Singapore. All rights reserved."
+description: "561 Jurong East Street 24, Singapore 609561; Phone: (+65) 6899
+  2779; Fax: (+65) 6899 2668. © 2020 Crest Secondary School, Singapore. All
+  rights reserved."
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
