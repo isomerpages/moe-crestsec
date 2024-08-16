@@ -28,7 +28,7 @@ access Staff Hub.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 <p></p>
 </td>
