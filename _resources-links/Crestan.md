@@ -21,4 +21,8 @@ variant: tiptap
 <p>Please click on the link below to access the document.</p>
 <p><a href="/files/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Password Self-Service Reset Guide</a>
 </p>
+<hr>
+<h4>Useful Links</h4>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
 <p></p>
