@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Crestan/.keep
-      - Crestan/Crestan's Virtual Assistant.md
       - Crestan/Education and Career Guidance.md
       - Crestan/School Supplies.md
       - Crestan/Shuttle Bus Service.md
