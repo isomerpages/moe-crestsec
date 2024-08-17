@@ -14,6 +14,6 @@ access Staff Hub.</p>
 <p><a href="/files/icon_setup.pdf" rel="noopener noreferrer nofollow" target="_blank">Staff iCON Login via MIMS Portal</a>
 </p>
 <p></p>
-<h4><strong>Useful Links</strong></h4>
+<h4><strong>Other Useful Links</strong></h4>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
