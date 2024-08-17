@@ -16,7 +16,7 @@ sections:
           url: https://drive.google.com/file/d/1KGt6ZEXzEpCvpuykc3cbcyzJKVs2WBj6/view?usp=sharing
         - title: Student Handbook
           description: ""
-          url: /student-handbook/
+          url: crestsec_handbook_2024_v2
   - infopic:
       title: 3R+R Uplifting Experiences
       button: Learn More
