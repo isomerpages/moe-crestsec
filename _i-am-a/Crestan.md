@@ -5,11 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h4>2024 Secondary 4 Preliminary Examination Schedule</h4>
+<hr>
 <p>Please click on the link below to access the document.</p>
 <p><a href="\files\2024_sec_4_prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Preliminary Examination Schedule</a>
 </p>
 <hr>
 <h4>2024 Term 3 Timetable</h4>
+<hr>
 <p>Please click on the links below to access the documents.</p>
 <p><a href="/files/sec_1_2024_timetable_term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Term 3 Timetable</a>
 <br><a href="/files/sec_2_2024_timetable_term_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Term 3 Timetable</a>
