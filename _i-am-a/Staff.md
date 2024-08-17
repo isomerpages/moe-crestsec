@@ -11,7 +11,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>ADMINISTRATION</strong></h4>
+<h4><strong>Administration</strong></h4>
 </th>
 </tr>
 <tr>
@@ -23,7 +23,7 @@ access Staff Hub.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>TEACHING AND LEARNING</strong></h4>
+<h4><strong>Teaching and Learning</strong></h4>
 </td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ access Staff Hub.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>GUIDES</strong></h4>
+<h4><strong>Guides</strong></h4>
 </td>
 </tr>
 <tr>
