@@ -17,9 +17,6 @@ sections:
         - title: Student Handbook
           description: ""
           url: /student-handbook/
-  - resources:
-      button: Learn More
-      subtitle: ANNOUNCEMENTS
   - infopic:
       title: 3R+R Uplifting Experiences
       button: Learn More
