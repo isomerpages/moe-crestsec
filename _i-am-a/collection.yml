@@ -1,5 +1,5 @@
 collections:
-  resources-links:
+  i-am-a:
     output: true
     order:
       - Staff.md
