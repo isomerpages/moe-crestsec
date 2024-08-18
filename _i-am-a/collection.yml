@@ -2,21 +2,7 @@ collections:
   i-am-a:
     output: true
     order:
-      - P6 Student's Parent/.keep
-      - P6 Student's Parent/Student Admission Info.md
-      - P6 Student's Parent/Teaching & Learning.md
-      - P6 Student's Parent/Curriculum.md
-      - P6 Student's Parent/Student Development.md
-      - P6 Student's Parent/Sexuality Education.md
-      - P6 Student's Parent/School Achievements.md
-      - P6 Student's Parent/School Fees.md
-      - Crestan/.keep
-      - Crestan/Crestan's Virtual Assistant.md
-      - Crestan/Education and Career Guidance.md
-      - Crestan/School Supplies.md
-      - Crestan/Shuttle Bus Service.md
-      - Crestan/Assessment Matters.md
-      - Crestan/Vaccination Matters.md
-      - Crestan/Useful Links.md
-      - Crestan's Parent/Crestan Parent.md
-      - Crestan's Parent/.keep
+      - Staff.md
+      - Crestan.md
+      - Crestan's Parent.md
+      - P6 Student's Parent.md

@@ -1,5 +1,5 @@
 ---
-title: Parent
+title: Crestan's Parent
 permalink: /info-at-crest/useful-links/parent/
 description: ""
 variant: tiptap

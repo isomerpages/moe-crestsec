@@ -1,8 +1,8 @@
 ---
-title: Teaching & Learning
+title: Teaching & Learning 2
 permalink: /i-am-a/p6-student-parent/teaching-and-learning/
 description: ""
-third_nav_title: P6 Student's Parent
+variant: tiptap
 ---
 ### Teaching &amp; Learning
 

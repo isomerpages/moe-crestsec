@@ -2,7 +2,6 @@
 title: Education and Career Guidance
 permalink: /i-am-a/crestan/education-and-career-guidance/
 description: ""
-third_nav_title: Crestan
 variant: markdown
 ---
 ### Who am I? Where am I Going? How do I Get There?

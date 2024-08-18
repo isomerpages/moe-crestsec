@@ -2,5 +2,20 @@ collections:
   temporary-for-eugene:
     output: true
     order:
+      - Education and Career Guidance.md
+      - Useful Links.md
+      - Vaccination Matters.md
+      - Assessment Matters.md
+      - Shuttle Bus Service.md
+      - School Supplies.md
+      - Crestan's Virtual Assistant.md
+      - Crestan Parent.md
+      - School Fees.md
+      - School Achievements.md
+      - Sexuality Education.md
+      - Student Development.md
+      - Curriculum.md
+      - Teaching & Learning 2.md
+      - Student Admission Info.md
       - 3R Experiences.md
       - Teaching & Learning.md

@@ -2,7 +2,6 @@
 title: Student Admission Info
 permalink: /i-am-a/p6-student-parent/student-admission-info/
 description: ""
-third_nav_title: P6 Student's Parent
 variant: tiptap
 ---
 <h3>Student Admission Info</h3>
