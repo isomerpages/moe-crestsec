@@ -30,7 +30,7 @@ variant: markdown
 
   
 
-5\. The Board Chairman and Vice-Chairman and the School Principal shall be the team authorized to investigate all concerns raised.
+5\. The Board Chairman and Deputy Chairman and the School Principal shall be the team authorised to investigate all concerns raised.
 
   
 6\. Where the concern raised is against one of the team members, the other members may appoint additional directors or school management members to assist in the investigation.
@@ -62,16 +62,16 @@ _b. Confidentiality – Whistleblowers are encouraged to disclose their identity
 
 | Concerns Regarding | Concerns Send to |
 |:---:|:---:|
-| All matters not involving Chairman, Directors, Vice-Chairman and Principal | Chairman, Vice-Chairman and Principal |
-| All matters regarding Principal and Directors | Chairman and Vice-Chairman |
-| All matters regarding Chairman or Vice-Chairman | Chairman or Vice-Chairman together with appointed directors. |
+| All matters not involving Chairman, Deputy Chairman, Directors and Principal | Chairman, Deputy Chairman and Principal |
+| All matters regarding Principal and Directors | Chairman and Deputy Chairman |
+| All matters regarding Chairman or Deputy Chairman | Chairman or Deputy Chairman together with appointed directors. |
 
 11\. For reporting by email - The whistleblower can address the email to the following members in accordance with para 10:
 
 | Investigation Team Members | Email address |
 |:---:|:---:|
 | Chairman | whistleblowing1@crestsec.edu.sg |
-| Vice-Chairman | whistleblowing2@crestsec.edu.sg |
+| Deputy Chairman | whistleblowing2@crestsec.edu.sg |
 | Principal | benjamin_kwok@schools.gov.sg |
 
 12\. For reporting by mail – The whistleblower can send the letter to the following address and attention the investigation members in accordance with paragraph 10:
@@ -79,5 +79,5 @@ _b. Confidentiality – Whistleblowers are encouraged to disclose their identity
 |  |  |
 |---|---|
 | To | **: The Investigation Team<br>** |
-| Attn | **: Chairman / Vice Chairman / Principal<br>** |
+| Attn | **: Chairman / Deputy Chairman / Principal<br>** |
 | Address | : Crest Secondary School<br><br>  561 Jurong East Street 24<br>  Singapore 609561 |
