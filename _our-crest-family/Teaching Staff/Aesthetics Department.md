@@ -90,6 +90,22 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Beng Guat Derek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+<p>(Music)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_beng_guat_derek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_beng_guat_derek@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

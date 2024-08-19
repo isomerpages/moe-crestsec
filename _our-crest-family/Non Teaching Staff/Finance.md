@@ -40,7 +40,7 @@ variant: tiptap
 <p>Ms Sabrina Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Officer</p>
+<p>Senior Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_pei_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_pei_zhi@schools.gov.sg</a>
