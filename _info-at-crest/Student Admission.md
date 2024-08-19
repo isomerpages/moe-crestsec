@@ -121,7 +121,7 @@ S1 Posting Exercise portal. You may scan and email the application form
 to crestsec@schools.gov.sg or by hand to the Admin Office (More details
 will be spelt out in the Invitation Letter for students who qualify for
 Crest Secondary School when you receive your PSLE results). The deadline
-of the application is on <strong>26 November 2024 Tuesday (tentative) 3 P.M</strong>.
+of the application is on <strong>26 November 2024, Tuesday (tentative) 3 P.M</strong>.
 We advise parents/students to submit the application form early. The school
 will evaluate each applicant carefully, taking into consideration the student’s
 potential to benefit from its skills-based, practice- oriented curriculum.</p>
