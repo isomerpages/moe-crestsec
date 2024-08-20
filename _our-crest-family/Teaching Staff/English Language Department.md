@@ -129,7 +129,7 @@ variant: tiptap
 <p>Ms Hedzlyn Hazwany Binte Mohamed Mahrom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hazwany</p>
+<p>Ms Wany</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
