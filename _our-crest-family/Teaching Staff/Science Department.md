@@ -48,6 +48,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ooi Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ooi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Science and Environmental Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ooi_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ooi_heng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Foo Mei Yeng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,21 +90,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_yuxuan_den@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yuxuan_den@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ooi Heng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ooi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Science &amp; Environmental Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ooi_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ooi_heng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
