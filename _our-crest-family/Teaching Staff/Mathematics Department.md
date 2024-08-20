@@ -94,6 +94,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Jason Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Discipline)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_teck_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Den Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Den</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Information and Communications Technology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_yuxuan_den@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yuxuan_den@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Liew Jia Meng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,6 +279,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ahmad_fairuzi_hatraby_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_fairuzi_hatraby_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Xin Tian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Xin Tian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_xin_tian_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_tian_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
