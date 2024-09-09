@@ -76,6 +76,8 @@ you to indicate your interest for the various parenting programmes.</p>
 </p>
 <p><a href="/files/EL/Start_of_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3 Letter to Parents</a>
 </p>
+<p><a href="/files/2024_T4_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4 Letter to Parents</a>
+</p>
 <p></p>
 <h4>Resources for Parents</h4>
 <p>1. Equip Parents Series 1</p>
