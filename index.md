@@ -17,6 +17,16 @@ sections:
         - title: Student Handbook
           description: ""
           url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: 2024 Sec 3 Parent Engagement Session
+          date: 16 September 2024
+          announcement: The slides for the 2024 Sec 3 Parent Engagement Session is now
+            available for viewing. Click on link below to access the slides.
+          link_text: Find Out More
+          link_url: https://www.crestsec.edu.sg/info-at-crest/useful-links/parent/
   - infopic:
       title: 3R+R Uplifting Experiences
       button: Learn More
@@ -31,14 +41,4 @@ sections:
       url: /css/authentic-learning
       image: /images/distinctive--authentic-learning.jpg
       description: Academic integration with vocational subjects
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: 2024 Sec 3 Parent Engagement Session
-          date: 16 September 2024
-          announcement: The slides for the 2024 Sec 3 Parent Engagement Session is now
-            available for viewing. Click on link below to access the slides.
-          link_text: Find Out More
-          link_url: https://www.crestsec.edu.sg/info-at-crest/useful-links/parent/
 ---
