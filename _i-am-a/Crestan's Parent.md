@@ -20,9 +20,8 @@ you to indicate your interest for the various parenting programmes.</p>
 </p>
 <p></p>
 <h4>Parent Engagement Session 2024</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -31,7 +30,7 @@ you to indicate your interest for the various parenting programmes.</p>
 <th rowspan="1" colspan="1">
 <h5>Sec 1</h5>
 </th>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p><strong><a href="/files/2024_sec_1_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parent Engagement Session 2024.pdf</a></strong>
 </p>
 </th>
@@ -40,8 +39,8 @@ you to indicate your interest for the various parenting programmes.</p>
 <td rowspan="1" colspan="1">
 <h5>Sec 2</h5>
 </td>
-<td rowspan="1" colspan="2">
-<p><a href="https://drive.google.com/file/d/1MeHzmlZctN8edeHXFMDq6kiMlIi7d-lS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Parent Engagement Session 2024</a>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/file/d/1MeHzmlZctN8edeHXFMDq6kiMlIi7d-lS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Parent Engagement Session 2024.pdf</a></strong>
 </p>
 <p><a href="https://drive.google.com/file/d/1et4iXNmtFA6wpyPK5GOyCxMtibWs6A-R/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Reception Video (Words of love and encouragement to child and FTs)</a>
 </p>
@@ -51,9 +50,18 @@ you to indicate your interest for the various parenting programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h5>Sec 3</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/2024_sec_3_parent_engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Parent Engagement Session 2024.pdf</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>Sec 4</h5>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong><a href="/files/2024_sec_4_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Parent Engagement Session 2024.pdf</a></strong>
 </p>
 </td>
