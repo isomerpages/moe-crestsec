@@ -128,10 +128,10 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Syahrul Nizam</p>
+<p>Mr Muhammad Syahrul Nizam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Syahrul</p>
+<p>Mr Syah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Health Advisor</p>
