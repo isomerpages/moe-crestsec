@@ -236,10 +236,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Saheeta Nisvaan</p>
+<p>Mdm Saheeta Nisvaan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Saheeta</p>
+<p>Mdm Saheeta</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher
