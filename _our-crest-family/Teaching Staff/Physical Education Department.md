@@ -34,7 +34,7 @@ third_nav_title: Teaching Staff
 <p>Ms Janice Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tay</p>
+<p>Ms Janice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head
@@ -50,7 +50,7 @@ third_nav_title: Teaching Staff
 <p>Mr Desmond Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond</p>
+<p>Mr Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head
@@ -128,16 +128,16 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Nor Rizan Abdullah</p>
+<p>Mr Syahrul Nizam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rizan</p>
+<p>Mr Syahrul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Youth Engagement Officer</p>
+<p>School Health Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamad_nor_rizan_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_nor_rizan_abdullah@schools.gov.sg</a>
+<p><a href="mailto:syahrul@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syahrul@crestsec.edu.sg</a>
 </p>
 </td>
 </tr>
