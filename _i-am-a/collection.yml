@@ -1,0 +1,8 @@
+collections:
+  i-am-a:
+    output: true
+    order:
+      - Staff.md
+      - Crestan.md
+      - Crestan's Parent.md
+      - P6 Student's Parent.md

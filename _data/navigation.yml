@@ -1,0 +1,12 @@
+logo: /images/crestlogo.png
+links:
+  - title: Info @ Crest
+    collection: info-at-crest
+  - title: Our Crest Family
+    collection: our-crest-family
+  - title: Curriculum
+    collection: curriculum
+  - title: I Am A
+    collection: i-am-a
+  - title: Get In touch
+    url: /get-in-touch/

@@ -1,0 +1,5 @@
+collections:
+  general:
+    output: true
+    order:
+      - News and Events.md

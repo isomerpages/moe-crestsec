@@ -1,0 +1,32 @@
+collections:
+  our-crest-family:
+    output: true
+    order:
+      - Board of Directors.md
+      - School Leaders.md
+      - Key Personnel.md
+      - Teaching Staff/.keep
+      - Teaching Staff/Form Teachers.md
+      - Teaching Staff/Aesthetics Department.md
+      - Teaching Staff/English Language Department.md
+      - Teaching Staff/Mathematics Department.md
+      - Teaching Staff/Mother Tongue Languages Department.md
+      - Teaching Staff/Science Department.md
+      - Teaching Staff/Physical Education Department.md
+      - Teaching Staff/Culinary and Restaurant Operations Department.md
+      - Teaching Staff/Internet of Things Applications Department.md
+      - Teaching Staff/Mechanical Design and Automation Department.md
+      - Teaching Staff/Mobile Web Applications Department.md
+      - Teaching Staff/Retail and eCommerce Department.md
+      - Non Teaching Staff/.keep
+      - Non Teaching Staff/Administration.md
+      - Non Teaching Staff/Education and Career Guidance.md
+      - Non Teaching Staff/Finance.md
+      - Non Teaching Staff/Human Resource.md
+      - Non Teaching Staff/Information and Communications Technology.md
+      - Non Teaching Staff/Operations.md
+      - Non Teaching Staff/Student Support.md
+      - Crest PAL and Alumni/.keep
+      - Crest PAL and Alumni/Voices of our Alumni.md
+      - Crest PAL and Alumni/Alumni.md
+      - Crest PAL and Alumni/Crest PAL (Parent Support Group).md
