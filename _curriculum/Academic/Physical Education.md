@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h3>Physical Education</h3>
 <h4>Objective</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:350px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/pe1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE_1.png">
 </div>
 <p>The Physical Education Department offers a four-year programme for every
 student to learn a variety of sports skills and game concepts, which hopefully
@@ -24,15 +25,18 @@ of movement concepts, strategies and tactics in sports and games. They
 will also develop as confident, resilient and versatile individuals, who
 are adept in sports, are good team players and exhibit sportsmanship-like
 behaviour.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/pe2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE_4.png">
 </div>
-<p>
-<br>
-</p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/pe3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/PE_2.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/PE_3.png">
+</div>
+<h4></h4>
 <h4>Curriculum</h4>
 <table style="minWidth: 75px">
 <colgroup>
