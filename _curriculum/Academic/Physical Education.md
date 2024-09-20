@@ -91,7 +91,6 @@ behaviour.</p>
 <td rowspan="1" colspan="1">
 <p>b) Modular PE lesson
 <br>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -125,7 +124,6 @@ behaviour.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>c) Teaching of Physical &amp; Health Fitness
-<br>
 <br>
 </p>
 <ul data-tight="true" class="tight">
