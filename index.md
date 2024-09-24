@@ -17,6 +17,10 @@ sections:
         - title: Student Handbook
           description: ""
           url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
   - announcements:
       title: Announcements
       id: announcements
@@ -27,6 +31,12 @@ sections:
             available for viewing. Click on link below to access the slides.
           link_text: Find Out More
           link_url: https://www.crestsec.edu.sg/info-at-crest/useful-links/parent/
+        - title: Go Overseas And Learn! (GOAL!) 2025
+          date: 24 September 2024
+          announcement: The Zoom recording and briefing slides for GOAL! 2025 is available
+            now.
+          link_text: Click here to access!
+          link_url: https://www.crestsec.edu.sg/goal2025/
   - infopic:
       title: 3R+R Uplifting Experiences
       button: Learn More
