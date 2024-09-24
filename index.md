@@ -21,22 +21,6 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: 2024 Sec 3 Parent Engagement Session
-          date: 16 September 2024
-          announcement: The slides for the 2024 Sec 3 Parent Engagement Session is now
-            available for viewing. Click on link below to access the slides.
-          link_text: Find Out More
-          link_url: https://www.crestsec.edu.sg/info-at-crest/useful-links/parent/
-        - title: Go Overseas And Learn! (GOAL!) 2025
-          date: 24 September 2024
-          announcement: The Zoom recording and briefing slides for GOAL! 2025 is available
-            now.
-          link_text: Click here to access!
-          link_url: https://www.crestsec.edu.sg/goal2025/
   - infopic:
       title: 3R+R Uplifting Experiences
       button: Learn More
