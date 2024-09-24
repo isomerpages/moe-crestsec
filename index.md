@@ -17,6 +17,10 @@ sections:
         - title: Student Handbook
           description: ""
           url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
   - announcements:
       title: Announcements
       id: announcements
