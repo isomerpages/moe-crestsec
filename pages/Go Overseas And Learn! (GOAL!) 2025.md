@@ -47,27 +47,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Briefing Slides for Parents Session 2</h4>
-<p>Please click <a href="https://drive.google.com/drive/u/2/folders/1kE6zTQsAwK4oPm5yXRAOz6XmfQZ3kF1U" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more on:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Briefing for Hanoi trip</p>
-</li>
-<li>
-<p>Briefing for Cambodia trip</p>
-</li>
-<li>
-<p>Briefing for Kuching trip</p>
-</li>
-<li>
-<p>Packing list for the trips</p>
-</li>
-</ul>
-<h4>Briefing Slides for Parents Session 1</h4>
-<p><a href="/files/2024_goal_briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">GOAL! Briefing for Parents</a> 
-<br>
-</p>
+<p></p>
 <h4>Frequently Asked Questions</h4>
 <p><a href="/files/2024_goal_qa.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
 </p>
