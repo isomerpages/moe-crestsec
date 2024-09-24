@@ -47,7 +47,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4></h4>
 <p></p>
-<h4>Frequently Asked Questions</h4>
-<p><a href="/files/2024_goal_qa.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
-</p>
