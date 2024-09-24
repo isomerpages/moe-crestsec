@@ -18,8 +18,7 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Announcements
       id: resources
   - infopic:
       title: 3R+R Uplifting Experiences
