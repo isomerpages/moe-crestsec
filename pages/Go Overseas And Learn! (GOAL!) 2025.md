@@ -31,7 +31,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="\files\goal_2025_brief.pdf" rel="noopener nofollow" target="_blank">GOAL! 2025 Parents Brief</a>
+</p>
 </td>
 </tr>
 <tr>
