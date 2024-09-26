@@ -111,6 +111,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Christopher Neo Teng Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Mechanical Design &amp; Automation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:christopher_neo_teng_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_neo_teng_long@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Leroy Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Mechanical Design &amp; Automation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_boon_peng_leroy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_boon_peng_leroy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Hisham Bin Md Sabidi</p>
 </td>
 <td rowspan="1" colspan="1">
