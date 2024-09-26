@@ -127,7 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leroy Lim</p>
+<p>Mr Leroy Lim Boon Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim</p>
