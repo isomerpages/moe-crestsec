@@ -133,9 +133,9 @@ and stationery, school uniform and vocational attire, shoes and socks,
 waiver of school and standard miscellaneous fees, and daily school meal
 and transport subsidies. Students can approach the school’s Administration
 Office for a MOE-FAS application form or download the application&nbsp;
-<a href="/files/fas_application_specialised_schools_2025/pdf" rel="noopener noreferrer nofollow" target="_blank">from the website</a>. Needy students who do not meet the eligibility criteria
-for MOE FAS may be considered for the School-Based FAS. Approval will be
-given on a case-by-case basis.</p>
+<a href="\files\fas_application_specialised_schools_2025.pdf" rel="noopener nofollow" target="_blank">from this website</a>. Needy students who do not meet the eligibility
+criteria for MOE FAS may be considered for the School-Based FAS. Approval
+will be given on a case-by-case basis.</p>
 <p><strong>9. Does CSS provide bus shuttle service for students?</strong>
 <br>Due to a persistent island wide shortage of drivers for both private and
 public buses, the school is unable to procure shuttle bus services for
