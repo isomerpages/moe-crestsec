@@ -146,7 +146,7 @@ variant: tiptap
 <p>Mr Hisham Bin Md Sabidi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zaki</p>
+<p>Mr Hisham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Technical Support Officer
