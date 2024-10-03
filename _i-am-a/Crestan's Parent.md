@@ -4,10 +4,14 @@ permalink: /info-at-crest/useful-links/parent/
 description: ""
 variant: tiptap
 ---
-<h4>2024 Sec 4 Prelim Exam Schedule</h4>
-<p><a href="\files\2024_sec_4_prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Prelim Exam Schedule</a>
-</p>
+<h4>2024 Sec 1 to 3 End of Year Exam Schedule</h4>
 <p></p>
+<p><a href="/files/2024_eoy_sec1_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 End of Year Exam Schedule</a>
+</p>
+<p><a href="/files/2024_eoy_sec2_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 End of Year Exam Schedule</a>
+</p>
+<p><a href="/files/2024_eoy_sec3_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 End of Year Exam Schedule</a>
+</p>
 <h4></h4>
 <h4>Positive Parenting Programme (Triple P)</h4>
 <p>Triple P is an evidence-based programme that equips parents with techniques
