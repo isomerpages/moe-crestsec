@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>The schedules for Sec 1 to 3 end-of-year exams are out.</p>
+<p>Click <a href="https://www.crestsec.edu.sg/info-at-crest/useful-links/parent/" rel="noopener nofollow" target="_blank">here </a>to
+view the schedules.</p>
