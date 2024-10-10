@@ -86,28 +86,29 @@ an introductory video.</p>
 <p>Click <a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
 access Parents Gateway.</p>
 <h4></h4>
-<h4>Parent Communication Guidelines</h4>
+<h4>Parents Communication Guidelines</h4>
 <p><strong>Our Guiding Principles</strong>
 </p>
 <ul>
 <li>
-<p>We strive to work with our parents for the holistic development and positive
-well-being of our students.</p>
+<p>We are committed to partnering with parents to foster the holistic development
+and well-being of our students.</p>
 </li>
 <li>
-<p>We aim to engage parents as partners to develop our students into confident
-and caring individuals, equipping them with essential life skills, communication
-skills and knowledge for the future world.</p>
+<p>We aim to partner with parents to nurture confident, compassionate individuals,
+equipping our students with essential life skills, communication abilities,
+and knowledge for the future.</p>
 </li>
 <li>
-<p>We aim to balance our teachers’ workload in partnering parents with our
-core professional duties, particularly in teaching and learning.</p>
+<p>We strive to balance our teachers' workload by partnering with parents,
+while staying focused on their core professional responsibilities, especially
+in teaching and learning.</p>
 </li>
 </ul>
 <p><strong>Communication Guidelines</strong>
 </p>
-<p>1. Crest Secondary School’s official modes of communication with parents
-comprise the following:</p>
+<p>1. Crest Secondary School’s official communication channels with parents
+include the following:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -127,7 +128,7 @@ comprise the following:</p>
 <p>School Phone (Admin Office)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>68992779</p>
+<p>6899 2779</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +145,7 @@ comprise the following:</p>
 <p>School Mailing Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>561 Jurong East St 24 Singapore 609561</p>
+<p>561 Jurong East Street 24, Singapore 609561</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +153,7 @@ comprise the following:</p>
 <p>School Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.crestsec.edu.sg/</a>
+<p><a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.crestsec.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -175,26 +176,24 @@ comprise the following:</p>
 </tr>
 </tbody>
 </table>
-<p>2. For general enquiries, please contact the Admin Office at 6899 2779
-or email info@crestsec.edu.sg, our Administration Staff would be glad to
-assist you. If there are any urgent messages during school hours, we advise
-parents to contact the Admin Office, as teachers may have lessons or engage
-in other official duties.</p>
-<p>3. To ensure quality time for our teachers to rest and recharge, we seek
-the kind cooperation of parents to limit communication with teachers within
-school operating hours (7.30 am to 5.30 pm) on working weekdays and during
-school term. Teachers are not expected to respond to parents’ and/or students’
-queries after school operating hours, during weekends and on school and
-public holidays, though this can be on a case-by-case basis, depending
-on the urgency of the matter.</p>
-<p>4. Please note that teachers are not obliged to share their personal phone
-numbers to parents or students. Parents may wish to discuss with your child’s
-teacher what his/her preferred mode of communication is.</p>
-<p>5. Parents may expect to receive a response to their email queries within
-3 working days. Our staff’s email addresses are available on the school
-website.</p>
-<p>6. If parents wish to meet our teachers face-to-face or virtually kindly
-email the teacher(s) or contact the Admin Office to make an appointment
-in advance, to minimize disruption to teachers’ teaching duties and avoid
-wait time.</p>
+<p>2. For general inquiries, please contact the Admin Office at 6899 2779
+or email <a href="mailto:info@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a>.
+Our administration staff will be happy to assist you. For urgent messages
+during school hours, we recommend contacting the Admin Office, as teachers
+may be in class or attending to other duties.</p>
+<p>3. To ensure our teachers have time to rest and recharge, we kindly request
+parents to limit communication with teachers to school operating hours
+(7:30 am to 5:30 pm) on weekdays during the school term. Teachers are not
+expected to respond to queries from parents or students outside these hours,
+on weekends, or during school and public holidays, unless the matter is
+urgent and requires immediate attention.</p>
+<p>4. Please note that teachers are not required to share their personal
+phone numbers with parents or students. Parents are encouraged to discuss
+with their child’s teacher the preferred mode of communication.</p>
+<p>5. Parents can expect a response to their email inquiries within three
+working days. Our staff's email addresses are available on the school website.</p>
+<p>6. If parents wish to meet with our teachers in person or virtually, please
+email the teacher(s) or contact the Admin Office to schedule an appointment
+in advance. This helps minimize disruptions to teaching duties and reduces
+wait times.</p>
 <p></p>
