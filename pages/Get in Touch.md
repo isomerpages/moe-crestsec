@@ -18,11 +18,13 @@ variant: tiptap
 </p>
 <p><strong>Website: </strong><a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">www.crestsec.edu.sg/</a>
 </p>
-<p><strong>Facebook</strong>: Click <a href="http://www.facebook.com/crestsec" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p><strong>TikTok</strong>: <a href="https://www.tiktok.com/@officialcrestsec" rel="noopener noreferrer nofollow" target="_blank">https://www.tiktok.com/@officialcrestsec</a>
 </p>
-<p><strong>Instagram:</strong> Click <a href="https://www.instagram.com/crestsec_official/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p><strong>Facebook</strong>: <a href="https://www.facebook.com/crestsec" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/crestsec</a>
 </p>
-<p><strong>YouTube:</strong> Click <a href="https://www.youtube.com/channel/UCrzpIY9Xqf_VSNXG7K5hwlg/videos" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p><strong>Instagram:</strong>  <a href="https://www.instagram.com/crestsec_official/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/crestsec_official/</a>
+</p>
+<p><strong>YouTube:</strong>  <a href="https://www.youtube.com/@crestsecondaryschool8126" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/@crestsecondaryschool8126</a>
 </p>
 <hr>
 <p><strong>Nearest bus stop:</strong>&nbsp;<a href="https://www.google.com.sg/maps/place/Blk+266/@1.3421421,103.7413959,17z/data=!4m21!1m15!4m14!1m6!1m2!1s0x31da1016c4d033ed:0xeaa1370fbdd9f418!2sBlk+266!2m2!1d103.74425!2d1.3419533!1m6!1m2!1s0x31da101709c924b3:0x5104dbd93122047f!2sCrest+Secondary+School!2m2!1d103.7428639!2d1.3436637!3m4!1s0x31da1016c4d033ed:0xeaa1370fbdd9f418!8m2!3d1.3419534!4d103.7442499" rel="noopener noreferrer nofollow" target="_blank">B28629</a>
