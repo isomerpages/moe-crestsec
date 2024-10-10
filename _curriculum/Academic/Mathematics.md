@@ -22,8 +22,9 @@ discover the connections between Mathematics and other subjects, making
 their learning more meaningful and relevant.</p>
 <p></p>
 <h4>Classroom Activities</h4>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -34,21 +35,6 @@ their learning more meaningful and relevant.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math1.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students answering questions on ‘Percentage” by collecting data from Crest
-surroundings.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -58,51 +44,104 @@ surroundings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Students answering questions on ‘Percentage” by collecting data from Crest
+surroundings.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Students compete in groups to solve mathematics questions.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Secondary One (A Collaboration with Retail Services Department)</h4>
+<p></p>
+<h4>Learning Journey to Changi Airport</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:325px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/m1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math3.jpg">
 </div>
-<p>The Popcorn Making activity allows our Crestans to understand the importance
-of ratio, cost and profit, while showcasing their retail service skills
-to promote and sell their product.</p>
-<p>
-<br>
-</p>
-<h4>Bubble Tea Making in Secondary Two (A Collaboration with Culinary and Restaurant Operations Department)</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:325px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/m2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math4.jpg">
 </div>
-<p>During the Bubble Tea Making activity, our Crestans apply their knowledge
-about proportion and similar figures, while learning the importance of
-food handling and food hygiene skills during preparation.</p>
-<p>
-<br>
-</p>
-<h4>Learning Journey to Gardens by the Bay in Secondary Two (A Collaboration with English Department)</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students played the role of ‘stranded’ tourist whose flight is cancelled
+due to adverse weather. They carried out tasks on the topic of ‘Money Exchange”,
+“GST” and “Flight Time”</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Learning Journey to Garden by the Bay</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:325px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/m3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math5.jpg">
 </div>
-<p>Students make measurements and apply their mathematical concepts to see
-the world through the mathematical lens. For example, they measure the
-radii and circumference of circles, then compare the calculated circumference
-against the measured circumference.</p>
-<p>
-<br>
-</p>
-<h4>Learning Journey to Singapore Zoo in Secondary Three (A Collaboration with English Department)</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:325px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/m4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math6.jpg">
 </div>
-<p>Students collect mathematical data and use them to explain worldly phenomenon.
-For example, they compare the rate at which Rhinoceros are going extinct
-by comparing the numbers of these animals poached over the years.&nbsp;</p>
-<p>At the end of the four year course, Crestans experience the fun in learning
-Math, and are equipped with the knowledge and skills for further Mathematical
-pursuits. They will also possess the necessary mathematical life-skills
-to make good decisions in life, in areas such as making sound financial
-choices and improved time management.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students engaged in an “Amazing Race” to solve mathematics questions using
+the information at Garden by the Bay.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Learning Journey to the Zoo</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math8.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students have a deeper understanding of the animals through solving mathematics
+questions about the animals using ‘ipad”.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
