@@ -13,16 +13,16 @@ variant: tiptap
 </p>
 <h4></h4>
 <h4>Positive Parenting Programme (Triple P)</h4>
-<p>Triple P is an evidence-based programme that equips parents with techniques
-to promote your children’s (aged up to 16 years) psychological, social
-and emotional competence. The programme is built on a tiered system that
-provides different degrees of parental support. Click on this link <a href="https://go.gov.sg/lfs-iiform2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lfs-iiform2024</a> for
-you to indicate your interest for the various parenting programmes.</p>
+<p>The Positive Parenting Programme (Triple P) is an evidence-based programme
+that equips parents with techniques to promote their children’s (aged up
+to 16 years) psychological, social and emotional competence. Triple P is
+built on a tiered system that provides different degrees of parental support.</p>
+<p>Click <a href="https://forms.office.com/pages/responsepage.aspx?id=XwAOUG4p-UGAA3kxAE97yW9dkxtpfn9Evb0bJuZNlLNUNkxHM1lHUDZCU0ZUNkNTT0JNWDBCSU8xTyQlQCN0PWcu&amp;route=shorturl" rel="noopener nofollow" target="_blank">here</a> to
+indicate your interest.</p>
+<p>Click <a href="https://drive.google.com/file/d/1_XIz8RWql3HYYLz4KBNDDsfCSFxlxReb/view" rel="noopener nofollow" target="_blank">here</a> for
+an introductory video.</p>
 <p></p>
-<p>Watch the Triple P video <a href="https://drive.google.com/file/d/1_XIz8RWql3HYYLz4KBNDDsfCSFxlxReb/view" rel="noopener noreferrer nofollow" target="_blank">Bringing Family Life Education Closer to You.</a>
-</p>
-<p></p>
-<h4>Parent Engagement Session 2024</h4>
+<h4>2024 Parents Engagement Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,7 +31,7 @@ you to indicate your interest for the various parenting programmes.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h5>Sec 1</h5>
+<h5>Secondary 1</h5>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong><a href="/files/2024_sec_1_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parent Engagement Session 2024.pdf</a></strong>
@@ -40,7 +40,7 @@ you to indicate your interest for the various parenting programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Sec 2</h5>
+<h5>Secondary 2</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://drive.google.com/file/d/1MeHzmlZctN8edeHXFMDq6kiMlIi7d-lS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Parent Engagement Session 2024.pdf</a></strong>
@@ -53,7 +53,7 @@ you to indicate your interest for the various parenting programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Sec 3</h5>
+<h5>Secondary 3</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/files/2024_sec_3_parent_engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Parent Engagement Session 2024.pdf</a></strong>
@@ -62,7 +62,7 @@ you to indicate your interest for the various parenting programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Sec 4</h5>
+<h5>Secondary 4</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/files/2024_sec_4_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Parent Engagement Session 2024.pdf</a></strong>
@@ -72,18 +72,14 @@ you to indicate your interest for the various parenting programmes.</p>
 </tbody>
 </table>
 <p></p>
-<h4>MOE FAS Application Form for 2024</h4>
-<p><a href="/files/EL/MOE_FAS_Application_Form_for_Specialised_Schools_2024___26_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2024</a>
+<h4>2024 Term Letters</h4>
+<p><a href="/files/EL/Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1</a>
 </p>
-<p></p>
-<h4>Term Letters</h4>
-<p><a href="/files/EL/Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1 Letter to Parents</a>
+<p><a href="/files/2024_term_2_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 2</a>
 </p>
-<p><a href="/files/2024_term_2_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 2 Letter to Parents</a>
+<p><a href="/files/EL/Start_of_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3</a>
 </p>
-<p><a href="/files/EL/Start_of_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3 Letter to Parents</a>
-</p>
-<p><a href="/files/2024_T4_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4 Letter to Parents</a>
+<p><a href="/files/2024_T4_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4</a>
 </p>
 <p></p>
 <h4>Parent Gateway</h4>
