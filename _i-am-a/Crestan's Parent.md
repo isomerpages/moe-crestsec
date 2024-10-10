@@ -82,37 +82,9 @@ an introductory video.</p>
 <p><a href="/files/2024_T4_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4</a>
 </p>
 <p></p>
-<h4>Parent Gateway</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Access all your official school announcements and forms at your fingertips.</p>
-</li>
-<li>
-<p>Give consent for your child's activities anytime, anywhere.</p>
-</li>
-<li>
-<p>Receive official announcements directly from schools.</p>
-</li>
-<li>
-<p>Keep track of upcoming activities for multiple children.</p>
-</li>
-</ul>
-<p><a href="https://pg.moe.edu.sg/#about" rel="noopener noreferrer nofollow" target="_blank">Click here to download the app.</a>
-</p>
-<p><strong>Who can access Parents Gateway?</strong>
-</p>
-<p>Access to Parents Gateway is granted to parents, legal guardians and authorised
-caregivers of students studying in MOE schools in Singapore. Parents will
-need to use SingPass to access Parents Gateway.</p>
-<p><strong>My child’s details in Parents Gateway are missing or incorrect.</strong>
-</p>
-<p>Parents need to approach the child's/children’s school to update his/her
-particulars in the MOE School Records System. Please note that the school
-may require certain documents for the necessary verification.</p>
-<p><strong>How will I be notified if the school has sent an Announcement/Form on Parents Gateway?</strong>
-</p>
-<p>A push notification and/or email notification will provide the alert,
-if both have been enabled on the phone and in the Parents Gateway app settings.</p>
+<h4>Parents Gateway</h4>
+<p>Click <a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
+access Parents Gateway.</p>
 <h4></h4>
 <h4>Parent Communication Guidelines</h4>
 <p><strong>Our Guiding Principles</strong>
