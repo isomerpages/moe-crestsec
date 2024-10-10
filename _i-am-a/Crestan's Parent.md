@@ -4,13 +4,12 @@ permalink: /info-at-crest/useful-links/parent/
 description: ""
 variant: tiptap
 ---
-<h4>2024 Sec 1 to 3 End of Year Exam Schedule</h4>
-<p></p>
-<p><a href="/files/2024_eoy_sec1_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 End of Year Exam Schedule</a>
+<h4>2024 Secondary 1 to 3 End-of-Year Examination Schedule</h4>
+<p><a href="/files/2024_eoy_sec1_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
-<p><a href="/files/2024_eoy_sec2_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 End of Year Exam Schedule</a>
+<p><a href="/files/2024_eoy_sec2_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
-<p><a href="/files/2024_eoy_sec3_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 End of Year Exam Schedule</a>
+<p><a href="/files/2024_eoy_sec3_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 <h4></h4>
 <h4>Positive Parenting Programme (Triple P)</h4>
