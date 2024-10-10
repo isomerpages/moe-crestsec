@@ -73,10 +73,6 @@ you to indicate your interest for the various parenting programmes.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Subject-Based Banding Info for Parents</h4>
-<p><a href="/files/2024_sbb_briefing_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SBB Briefing Slides for Parents.pdf</a>
-</p>
-<p></p>
 <h4>MOE FAS Application Form for 2024</h4>
 <p><a href="/files/EL/MOE_FAS_Application_Form_for_Specialised_Schools_2024___26_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2024</a>
 </p>
@@ -91,26 +87,6 @@ you to indicate your interest for the various parenting programmes.</p>
 <p><a href="/files/2024_T4_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4 Letter to Parents</a>
 </p>
 <p></p>
-<h4>Resources for Parents</h4>
-<p>1. Equip Parents Series 1</p>
-<p>- Designing a better Reality to Fight Games Addiction</p>
-<p><a href="/files/p10.pdf" rel="noopener noreferrer nofollow" target="_blank">Equip Parents Series 1 DESIGNING A BETTER REALITY TO FIGHT GAME ADDICTION.pdf</a>
-</p>
-<p>2. Equip Parents Series 3
-<br>- EF e-book</p>
-<p><a href="https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Useful%20Links/Parent/Equip%20Parents%20Series%203%20Exec-Function-e-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Equip Parents Series 3 Exec-Function-e-book.pdf</a> More
-than 5MB</p>
-<p>- Home as an ideal space for strengthening EF</p>
-<p><a href="/files/p12.pdf" rel="noopener noreferrer nofollow" target="_blank">Equip Parents Series 3 Home as An Ideal Space for Strengthening EF.pdf</a>
-</p>
-<p>- Morning Evening Routine Checklist</p>
-<p><a href="/files/p13.pdf" rel="noopener noreferrer nofollow" target="_blank">Equip Parents Series 3 Morning Evening Routine Checklist.pdf</a>
-</p>
-<h4></h4>
-<h4>Resource Kit - Experiencing Blended Learning BL with Our Children</h4>
-<p>Click&nbsp;<a href="/files/p15.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-download the resource kit</p>
-<h4></h4>
 <h4>Parent Gateway</h4>
 <ul data-tight="true" class="tight">
 <li>
