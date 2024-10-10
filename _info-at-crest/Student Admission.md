@@ -5,14 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>Student Admission Info</h3>
-<h4>Bus Routes</h4>
-<p>Due to a persistent island wide shortage of drivers for both private and
-public buses, the school is unable to procure shuttle bus services for
-the school from 2 Jan 2024 onwards. The one-way shuttle bus service will
-hence be ceased from year 2024 onwards. Students are to consider alternative
-transportation arrangements, such as utilizing public transportation options
-or carpooling. We appreciate support and understanding from students and
-parents/guardians.</p>
 <h4>Frequently Asked Questions on Crest Secondary School (CSS)</h4>
 <p><strong>1) Why is CSS set up?</strong>
 <br>MOE is committed to supporting the learning needs of all students. The

@@ -22,6 +22,47 @@ discover the connections between Mathematics and other subjects, making
 their learning more meaningful and relevant.</p>
 <p></p>
 <h4>Classroom Activities</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students answering questions on ‘Percentage” by collecting data from Crest
+surroundings.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students compete in groups to solve mathematics questions.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Secondary One (A Collaboration with Retail Services Department)</h4>
 <div class="isomer-image-wrapper">
 <img style="width:325px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/m1.jpg">

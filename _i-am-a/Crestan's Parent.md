@@ -4,26 +4,25 @@ permalink: /info-at-crest/useful-links/parent/
 description: ""
 variant: tiptap
 ---
-<h4>2024 Sec 1 to 3 End of Year Exam Schedule</h4>
-<p></p>
-<p><a href="/files/2024_eoy_sec1_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 End of Year Exam Schedule</a>
+<h4>2024 Secondary 1 to 3 End-of-Year Examination Schedule</h4>
+<p><a href="/files/2024_eoy_sec1_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
-<p><a href="/files/2024_eoy_sec2_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 End of Year Exam Schedule</a>
+<p><a href="/files/2024_eoy_sec2_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
-<p><a href="/files/2024_eoy_sec3_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 End of Year Exam Schedule</a>
+<p><a href="/files/2024_eoy_sec3_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 <h4></h4>
 <h4>Positive Parenting Programme (Triple P)</h4>
-<p>Triple P is an evidence-based programme that equips parents with techniques
-to promote your children’s (aged up to 16 years) psychological, social
-and emotional competence. The programme is built on a tiered system that
-provides different degrees of parental support. Click on this link <a href="https://go.gov.sg/lfs-iiform2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lfs-iiform2024</a> for
-you to indicate your interest for the various parenting programmes.</p>
+<p>The Positive Parenting Programme (Triple P) is an evidence-based programme
+that equips parents with techniques to promote their children’s (aged up
+to 16 years) psychological, social and emotional competence. Triple P is
+built on a tiered system that provides different degrees of parental support.</p>
+<p>Click <a href="https://forms.office.com/pages/responsepage.aspx?id=XwAOUG4p-UGAA3kxAE97yW9dkxtpfn9Evb0bJuZNlLNUNkxHM1lHUDZCU0ZUNkNTT0JNWDBCSU8xTyQlQCN0PWcu&amp;route=shorturl" rel="noopener nofollow" target="_blank">here</a> to
+indicate your interest.</p>
+<p>Click <a href="https://drive.google.com/file/d/1_XIz8RWql3HYYLz4KBNDDsfCSFxlxReb/view" rel="noopener nofollow" target="_blank">here</a> for
+an introductory video.</p>
 <p></p>
-<p>Watch the Triple P video <a href="https://drive.google.com/file/d/1_XIz8RWql3HYYLz4KBNDDsfCSFxlxReb/view" rel="noopener noreferrer nofollow" target="_blank">Bringing Family Life Education Closer to You.</a>
-</p>
-<p></p>
-<h4>Parent Engagement Session 2024</h4>
+<h4>2024 Parents Engagement Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,7 +31,7 @@ you to indicate your interest for the various parenting programmes.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h5>Sec 1</h5>
+<h5>Secondary 1</h5>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong><a href="/files/2024_sec_1_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parent Engagement Session 2024.pdf</a></strong>
@@ -41,7 +40,7 @@ you to indicate your interest for the various parenting programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Sec 2</h5>
+<h5>Secondary 2</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://drive.google.com/file/d/1MeHzmlZctN8edeHXFMDq6kiMlIi7d-lS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Parent Engagement Session 2024.pdf</a></strong>
@@ -54,7 +53,7 @@ you to indicate your interest for the various parenting programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Sec 3</h5>
+<h5>Secondary 3</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/files/2024_sec_3_parent_engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Parent Engagement Session 2024.pdf</a></strong>
@@ -63,7 +62,7 @@ you to indicate your interest for the various parenting programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>Sec 4</h5>
+<h5>Secondary 4</h5>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/files/2024_sec_4_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Parent Engagement Session 2024.pdf</a></strong>
@@ -73,74 +72,43 @@ you to indicate your interest for the various parenting programmes.</p>
 </tbody>
 </table>
 <p></p>
-<h4>MOE FAS Application Form for 2024</h4>
-<p><a href="/files/EL/MOE_FAS_Application_Form_for_Specialised_Schools_2024___26_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2024</a>
+<h4>2024 Term Letters</h4>
+<p><a href="/files/EL/Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1</a>
+</p>
+<p><a href="/files/2024_term_2_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 2</a>
+</p>
+<p><a href="/files/EL/Start_of_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3</a>
+</p>
+<p><a href="/files/2024_T4_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4</a>
 </p>
 <p></p>
-<h4>Term Letters</h4>
-<p><a href="/files/EL/Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1 Letter to Parents</a>
-</p>
-<p><a href="/files/2024_term_2_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 2 Letter to Parents</a>
-</p>
-<p><a href="/files/EL/Start_of_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3 Letter to Parents</a>
-</p>
-<p><a href="/files/2024_T4_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4 Letter to Parents</a>
-</p>
-<p></p>
-<h4>Parent Gateway</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Access all your official school announcements and forms at your fingertips.</p>
-</li>
-<li>
-<p>Give consent for your child's activities anytime, anywhere.</p>
-</li>
-<li>
-<p>Receive official announcements directly from schools.</p>
-</li>
-<li>
-<p>Keep track of upcoming activities for multiple children.</p>
-</li>
-</ul>
-<p><a href="https://pg.moe.edu.sg/#about" rel="noopener noreferrer nofollow" target="_blank">Click here to download the app.</a>
-</p>
-<p><strong>Who can access Parents Gateway?</strong>
-</p>
-<p>Access to Parents Gateway is granted to parents, legal guardians and authorised
-caregivers of students studying in MOE schools in Singapore. Parents will
-need to use SingPass to access Parents Gateway.</p>
-<p><strong>My child’s details in Parents Gateway are missing or incorrect.</strong>
-</p>
-<p>Parents need to approach the child's/children’s school to update his/her
-particulars in the MOE School Records System. Please note that the school
-may require certain documents for the necessary verification.</p>
-<p><strong>How will I be notified if the school has sent an Announcement/Form on Parents Gateway?</strong>
-</p>
-<p>A push notification and/or email notification will provide the alert,
-if both have been enabled on the phone and in the Parents Gateway app settings.</p>
+<h4>Parents Gateway</h4>
+<p>Click <a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
+access Parents Gateway.</p>
 <h4></h4>
-<h4>Parent Communication Guidelines</h4>
+<h4>Parents Communication Guidelines</h4>
 <p><strong>Our Guiding Principles</strong>
 </p>
 <ul>
 <li>
-<p>We strive to work with our parents for the holistic development and positive
-well-being of our students.</p>
+<p>We are committed to partnering with parents to foster the holistic development
+and well-being of our students.</p>
 </li>
 <li>
-<p>We aim to engage parents as partners to develop our students into confident
-and caring individuals, equipping them with essential life skills, communication
-skills and knowledge for the future world.</p>
+<p>We aim to partner with parents to nurture confident, compassionate individuals,
+equipping our students with essential life skills, communication abilities,
+and knowledge for the future.</p>
 </li>
 <li>
-<p>We aim to balance our teachers’ workload in partnering parents with our
-core professional duties, particularly in teaching and learning.</p>
+<p>We strive to balance our teachers' workload by partnering with parents,
+while staying focused on their core professional responsibilities, especially
+in teaching and learning.</p>
 </li>
 </ul>
 <p><strong>Communication Guidelines</strong>
 </p>
-<p>1. Crest Secondary School’s official modes of communication with parents
-comprise the following:</p>
+<p>1. Crest Secondary School’s official communication channels with parents
+include the following:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -160,7 +128,7 @@ comprise the following:</p>
 <p>School Phone (Admin Office)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>68992779</p>
+<p>6899 2779</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +145,7 @@ comprise the following:</p>
 <p>School Mailing Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>561 Jurong East St 24 Singapore 609561</p>
+<p>561 Jurong East Street 24, Singapore 609561</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +153,7 @@ comprise the following:</p>
 <p>School Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.crestsec.edu.sg/</a>
+<p><a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.crestsec.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -208,26 +176,24 @@ comprise the following:</p>
 </tr>
 </tbody>
 </table>
-<p>2. For general enquiries, please contact the Admin Office at 6899 2779
-or email info@crestsec.edu.sg, our Administration Staff would be glad to
-assist you. If there are any urgent messages during school hours, we advise
-parents to contact the Admin Office, as teachers may have lessons or engage
-in other official duties.</p>
-<p>3. To ensure quality time for our teachers to rest and recharge, we seek
-the kind cooperation of parents to limit communication with teachers within
-school operating hours (7.30 am to 5.30 pm) on working weekdays and during
-school term. Teachers are not expected to respond to parents’ and/or students’
-queries after school operating hours, during weekends and on school and
-public holidays, though this can be on a case-by-case basis, depending
-on the urgency of the matter.</p>
-<p>4. Please note that teachers are not obliged to share their personal phone
-numbers to parents or students. Parents may wish to discuss with your child’s
-teacher what his/her preferred mode of communication is.</p>
-<p>5. Parents may expect to receive a response to their email queries within
-3 working days. Our staff’s email addresses are available on the school
-website.</p>
-<p>6. If parents wish to meet our teachers face-to-face or virtually kindly
-email the teacher(s) or contact the Admin Office to make an appointment
-in advance, to minimize disruption to teachers’ teaching duties and avoid
-wait time.</p>
+<p>2. For general inquiries, please contact the Admin Office at 6899 2779
+or email <a href="mailto:info@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a>.
+Our administration staff will be happy to assist you. For urgent messages
+during school hours, we recommend contacting the Admin Office, as teachers
+may be in class or attending to other duties.</p>
+<p>3. To ensure our teachers have time to rest and recharge, we kindly request
+parents to limit communication with teachers to school operating hours
+(7:30 am to 5:30 pm) on weekdays during the school term. Teachers are not
+expected to respond to queries from parents or students outside these hours,
+on weekends, or during school and public holidays, unless the matter is
+urgent and requires immediate attention.</p>
+<p>4. Please note that teachers are not required to share their personal
+phone numbers with parents or students. Parents are encouraged to discuss
+with their child’s teacher the preferred mode of communication.</p>
+<p>5. Parents can expect a response to their email inquiries within three
+working days. Our staff's email addresses are available on the school website.</p>
+<p>6. If parents wish to meet with our teachers in person or virtually, please
+email the teacher(s) or contact the Admin Office to schedule an appointment
+in advance. This helps minimize disruptions to teaching duties and reduces
+wait times.</p>
 <p></p>
