@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3>School Supplies</h3>
+<p></p>
+<h4>Books / Uniforms / Shoes / Socks list for 2025 – To be updated soon.</h4>
+<p></p>
 <h4>School Uniforms</h4>
 <p>Dear parent/guardian,</p>
 <p>This message serves to update you on the purchase of school uniforms.</p>
