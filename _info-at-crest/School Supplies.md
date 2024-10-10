@@ -5,24 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3>School Supplies</h3>
-<h4>Books / Uniforms / Shoes / Socks list for 2024</h4>
-<p>Dear parent/guardian,</p>
-<p>The 2024 price lists for school textbooks, uniforms/shoes/socks are attached
-for your reference.</p>
-<p>For non-FAS students, the school has arranged for the vendors to provide
-online purchase and delivery for the items. We encourage you to opt for
-online modes where possible for your convenience.</p>
-<p>You may access these links to do the online purchase :</p>
-<p>For books: www.asencio.com.sg</p>
-<p>For uniforms and school shoes: www.shanghai-uniforms.com</p>
-<p></p>
-<p><a href="/files/2023_uniform_shoes_socks_pricelist.pdf" rel="noopener noreferrer nofollow" target="_blank">School Uniform Shoes and Socks Price List</a>
-<br><a href="/files/css_booklist_sec1_g1.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2024 Booklist Sec 1 G1</a>
-<br><a href="/files/css_booklist_sec1_g2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2024 Booklist Sec 1 G2</a>
-<br><a href="/files/css_booklist_sec2_g1g2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2024 Booklist Sec 2 G1/G2</a> 
-<br><a href="/files/css_booklist_sec3_g1g2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2024 Booklist Sec 3 G1/G2</a>
-<br><a href="/files/css_booklist_sec4_g1g2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2024 Booklist Sec 4 G1/G2</a>
-</p>
 <h4>School Uniforms</h4>
 <p>Dear parent/guardian,</p>
 <p>This message serves to update you on the purchase of school uniforms.</p>
