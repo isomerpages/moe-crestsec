@@ -20,6 +20,8 @@ to apply their Mathematical skills in real-life settings through Learning
 Journeys and Alternative Assessments. This hands-on approach helps students
 discover the connections between Mathematics and other subjects, making
 their learning more meaningful and relevant.</p>
+<p></p>
+<h4>Classroom Activities</h4>
 <h4>Secondary One (A Collaboration with Retail Services Department)</h4>
 <div class="isomer-image-wrapper">
 <img style="width:325px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/m1.jpg">
