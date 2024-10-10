@@ -230,6 +230,4 @@ website.</p>
 email the teacher(s) or contact the Admin Office to make an appointment
 in advance, to minimize disruption to teachers’ teaching duties and avoid
 wait time.</p>
-<p><strong><em>You can click&nbsp;<a href="https://drive.google.com/file/d/1ulWh-QY0lorADFVzhAVeKSLv6Qr4G9W3/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to access the email addresses of form teachers for all levels.</em></strong>
-</p>
 <p></p>
