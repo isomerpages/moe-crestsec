@@ -32,9 +32,14 @@ collaborative effort by the CRO students. Staff and partners are invited
 for a two-course set meal cooked by the students. This allows the students
 to practice what they have learnt in an authentic, non-scripted environment.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cro3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/cro2.jpg">
 </div>
-<h4>Makan @ Bistro</h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/cro3.jpg">
+</div>
+<p></p>
+<h4>Crest Cook Off</h4>
 <div class="isomer-image-wrapper">
 <img style="width:285px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/cro4.jpg">
 </div>
