@@ -197,10 +197,29 @@ or skills-based.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/cca1.png">
 </div>
-<h4>Objective</h4>
+<h4>Objectives</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:350px;height:575px;margin-right:25px;" height="auto" width="100%" src="/images/cca2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/objectives_2.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/objectives_3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>CCA is a key platform for character development and inculcation of values
 and talent development. These activities range from training sessions and
 learning journeys, to opportunities to represent the school at competitions,
