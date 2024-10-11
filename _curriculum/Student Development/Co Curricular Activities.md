@@ -234,42 +234,4 @@ school.</p>
 scale greater heights and to expand their horizon, on top of acquiring
 core values, social and emotional competencies and the emerging 21st Century
 Competencies which they can apply in their daily lives.</p>
-<h4>CCA Orientation</h4>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cca3.png">
-</div>
-<p>Orientation is held January for new students to find out more about CCAs
-offered in Crest. Students will have the opportunity to explore the various
-CCA groups by attending the training sessions and programmes. Students
-are then allocated to CCAs based on their profile, choices and school needs.</p>
-<h4>Awards</h4>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cca4.jpg">
-</div>
-<p><strong>EAGLES Award:</strong>
-</p>
-<p>Crest Secondary School awards students who excel in the following areas:</p>
-<ul>
-<li>
-<p>Outstanding Leadership</p>
-</li>
-<li>
-<p>Excellent Achievement/ Accomplishment in CCA</p>
-</li>
-<li>
-<p>Values in Action through Community Service</p>
-</li>
-</ul>
-<h4>SYF Arts Presentation 2021</h4>
-<p>Due to the Covid-19 situation, the SYF Arts Presentation 2021 was performed
-without a live audience. The Guitar, Pop Band and Dance CCAs have nevertheless
-worked hard to showcase their talents. They have done the school proud
-by achieving the following awards :</p>
-<p>Dance (International): Accomplishment</p>
-<p>Guitar: Accomplishment</p>
-<p>Popband (Team A - Percussion Ensemble): Accomplishment</p>
-<p>Popband (Team B - Percussion Ensemble): Commendation</p>
-<p>Please do click on the link below and take a moment to enjoy their performances.
-We hope they will leave you awestruck - just as we were!</p>
-<p><a href="https://tinyurl.com/SYF-AP-CREST-SEC-SCH" rel="noopener noreferrer nofollow" target="_blank">SYF AP CREST SEC SCH</a>
-</p>
+<p></p>
