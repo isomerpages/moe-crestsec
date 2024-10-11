@@ -41,13 +41,15 @@ to practice what they have learnt in an authentic, non-scripted environment.</p>
 <p></p>
 <h4>Crest Cook Off</h4>
 <div class="isomer-image-wrapper">
-<img style="width:285px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/cro4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/cro4.jpg">
 </div>
-<p>Modelled after a casual dining establishment, this is an authentic learning
-event where the CRO students cook and serve simple fare from an ala carte
-menu, to guests who are usually our own school staff. This allows the students
-to put into practice what they have learnt and acts as a lead-up to the
-Authentic Lunches.</p>
+<p>Cook Off is a highly anticipated annual culinary competition for Secondary
+4 CRO students. This event provides a dynamic platform for students to
+showcase their culinary skills and knowledge acquired over the past two
+years. Each year brings a unique twist to the competition, ranging from
+the thrilling Mystery Box challenge to the innovative use of Generative
+AI in crafting recipes.</p>
+<p></p>
 <h4>Synopsis Of Culinary &amp; Restaurant Operations (Sec 3 &amp; 4 ISSC Subject)</h4>
 <ul data-tight="true" class="tight">
 <li>
