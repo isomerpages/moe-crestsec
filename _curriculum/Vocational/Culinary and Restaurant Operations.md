@@ -43,133 +43,33 @@ event where the CRO students cook and serve simple fare from an ala carte
 menu, to guests who are usually our own school staff. This allows the students
 to put into practice what they have learnt and acts as a lead-up to the
 Authentic Lunches.</p>
-<h4>Sypnosis OF Culinary &amp; Restaurant Operations</h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Passion to Serve
-<br>(Sec 1 Taster Modules)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Looks Good, Tastes Good (Sec 2 Taster Modules)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Culinary &amp; Restaurant Operations (Sec 3 &amp; 4 ISSC Subject)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Napkin Folding &amp; Table Setting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kitchen Hygiene &amp; Safety</p>
-</td>
-<td rowspan="1" colspan="1">
+<h4>Synopsis Of Culinary &amp; Restaurant Operations (Sec 3 &amp; 4 ISSC Subject)</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Work safely by observing good personal hygiene, safety and housekeeping
-rules according to the latest WSH regulations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mocktail Making</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic Cutting Skills &amp; Food Preparation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prepare a kitchen for operations and perform all neceesary mise-en-place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basic Food Handling and Hygiene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Food &amp; Nutrition</p>
-</td>
-<td rowspan="1" colspan="1">
+rules according to the latest WSH regulations.</p>
+</li>
+<li>
+<p>Prepare a kitchen for operations and perform all necessary mise-en-place.</p>
+</li>
+<li>
 <p>Prepare and cook a specified range of food dishes using various cooking
 methods.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Carry out the operations in a food &amp; beverage outlet including coffee
-making</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+making.</p>
+</li>
+<li>
 <p>Welcome guests, take and place orders, followed by serving of all F&amp;B
-items to guests</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+items to guests.</p>
+</li>
+<li>
 <p>Process payments and perform outstanding customer service to the guests
-throughout their dining experience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Develop students’ interest in a post-secondary hospitality-based education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+throughout their dining experience.</p>
+</li>
+<li>
+<p>Develop students’ interest in a post-secondary hospitality-based education.</p>
+</li>
+</ul>
 <p></p>
