@@ -194,9 +194,6 @@ in them self-reliance, resilience, discipline, and a spirit of service
 to others. Clubs and Societies (CS) allow students to explore and extend
 their interests in wide ranging and specialised areas which may be knowledge-based
 or skills-based.</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cca1.png">
-</div>
 <h4>Objectives</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -234,4 +231,5 @@ school.</p>
 scale greater heights and to expand their horizon, on top of acquiring
 core values, social and emotional competencies and the emerging 21st Century
 Competencies which they can apply in their daily lives.</p>
+<p></p>
 <p></p>
