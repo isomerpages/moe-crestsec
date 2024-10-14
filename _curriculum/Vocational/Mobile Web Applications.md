@@ -19,7 +19,9 @@ web pages using HTML, CSS and JavaScript. They also develop interactive
 web applications using Adobe Animate. Students who obtain a pass in this
 NT equivalent subject will be considered to have passed a science equivalent
 subject when applying to ITE courses.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FpdjPzItzoc?si=9L9XA0_C_TU3ff1V"></iframe>
+</div>
 <p></p>
 <h4>Product Web Design</h4>
 <p>At Crest Secondary School, this Mobile Web Applications signature programme
