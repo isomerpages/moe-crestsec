@@ -10,6 +10,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa1.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa5.jpg">
+</div>
 <p>Mobile Web Applications (MWA) is one of the 5 ITE Skills Subjects (ISS)
 offered to Secondary 3 and 4 students in Crest Secondary School. When students
 select this subject as one of the two Skills Subjects to study, they will
@@ -31,6 +39,7 @@ with technology through project-based learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa3.png">
 </div>
