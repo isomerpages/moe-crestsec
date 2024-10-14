@@ -24,6 +24,8 @@ sections:
         culture of care and inclusivity.
       image: /images/lhltrophy.jpg
       alt: Image alt text
+      url: https://www.crestsec.edu.sg/lhl-aius-2023/
+      button: LEARN MORE
   - infopic:
       title: 3R+R Uplifting Experiences
       button: Learn More
