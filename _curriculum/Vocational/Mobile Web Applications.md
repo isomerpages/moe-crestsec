@@ -8,15 +8,15 @@ variant: tiptap
 <h3>Mobile Web Applications</h3>
 <h4>Objective</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa5.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa5.jpg">
 </div>
 <p>Mobile Web Applications (MWA) is one of the 5 ITE Skills Subjects (ISS)
 offered to Secondary 3 and 4 students in Crest Secondary School. When students
@@ -28,7 +28,7 @@ web applications using Adobe Animate. Students who obtain a pass in this
 NT equivalent subject will be considered to have passed a science equivalent
 subject when applying to ITE courses.</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="750" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FpdjPzItzoc?si=hvYHvwm8OiWSvmCK"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FpdjPzItzoc?si=z3_vXQLPZfhDzs2o"></iframe>
 </div>
 <p></p>
 <h4>Product Web Design</h4>
@@ -38,7 +38,7 @@ by Mechanical Design and Automation. This allows students to blend creativity
 with technology through project-based learning.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/mwa6.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa6.png">
 </div>
 <p></p>
 <h4>Synopsis of Mobile Web Applications (ISSC subject for Sec 3 &amp; 4)</h4>
