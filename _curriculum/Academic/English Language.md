@@ -144,9 +144,22 @@ in everyday contexts.</p>
 <hr>
 <p><strong>Escape Room (Secondary 1 and 2)</strong>
 </p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:325px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/el2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Escape_Room.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Every semester, EL teachers will conceptualise and conduct an Escape Room
 game that serves as a reinforcement of oracy and literacy skills taught
 in that semester. Every student in the level will have the chance to apply
