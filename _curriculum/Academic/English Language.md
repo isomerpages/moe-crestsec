@@ -167,9 +167,29 @@ what they have learnt in that semester to ace the game.</p>
 <hr>
 <p><strong>Tourist for a Day (Secondary 2)</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/el3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Tourist_2.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Tourist_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Students embark on a Learning Journey (LJ) to experience what it is like
 to be a tourist in Singapore, taking a river taxi and exploring the iconic
 Marina Bay Sands. In addition to enjoying the sights, they interact with
