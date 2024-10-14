@@ -41,7 +41,7 @@ with technology through project-based learning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/mwa6.png">
 </div>
 <p></p>
-<h4>Synopsis of Mobile Web Applications (ISSC subject for Sec 3 &amp; 4)</h4>
+<h4>Synopsis of Mobile Web Applications (ISSC subject for Sec 3 &amp; 4)x</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Work safely by observing good safety and 5S rules according to the latest
