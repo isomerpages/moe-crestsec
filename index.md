@@ -22,7 +22,7 @@ sections:
       id: infopic
       description: The LHL AIUS seeks to recognise schools that engender a strong
         culture of care and inclusivity.
-      image: /images/lhltrophy.jpg
+      image: /images/Eugene/LHLAIUSTrophy.jpg
       alt: Image alt text
       url: https://www.crestsec.edu.sg/lhl-aius-2023/
       button: LEARN MORE
