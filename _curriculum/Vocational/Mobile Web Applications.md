@@ -37,6 +37,10 @@ allows students to embark on an exciting journey of web design for products
 by Mechanical Design and Automation. This allows students to blend creativity
 with technology through project-based learning.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/mwa6.png">
+</div>
+<p></p>
 <h4>Synopsis of Mobile Web Applications (ISSC subject for Sec 3 &amp; 4)</h4>
 <ul data-tight="true" class="tight">
 <li>
