@@ -60,8 +60,5 @@ to enable effective web applications</p>
 to have met the Nitec course minimum entry requirement in lieu of an N(T)
 Science subject.</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
 <p></p>
