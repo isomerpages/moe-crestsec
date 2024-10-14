@@ -26,6 +26,7 @@ sections:
       alt: Image alt text
       url: https://www.crestsec.edu.sg/lhl-aius-2023/
       button: LEARN MORE
+      subtitle: (LHL AIUS) 2023
   - infopic:
       title: 3R+R Uplifting Experiences
       button: Learn More
