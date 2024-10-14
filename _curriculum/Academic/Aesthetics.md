@@ -129,7 +129,7 @@ be exposed to a wide range of art mediums. This shared learning experience
 of making art for the school to spruce up the school learning environment
 helps to create a sense of belonging for them. The completed artwork will
 give them a sense of pride and a shared learning experience.</p>
-<p>&nbsp;</p>
+<p></p>
 <h4>The Secondary 2 Artist-in-School Scheme(AISS)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/aes6.jpg">
