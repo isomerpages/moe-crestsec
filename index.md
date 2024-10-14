@@ -17,9 +17,13 @@ sections:
         - title: Student Handbook
           description: ""
           url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
-  - resources:
-      title: Announcements
-      id: resources
+  - infopic:
+      title: Lee Hsien Loong Award for Innovations in Uplifting Students
+      id: infopic
+      description: The LHL AIUS seeks to recognise schools that engender a strong
+        culture of care and inclusivity.
+      image: /images/lhltrophy.jpg
+      alt: Image alt text
   - infopic:
       title: 3R+R Uplifting Experiences
       button: Learn More
@@ -34,4 +38,7 @@ sections:
       url: /css/authentic-learning
       image: /images/distinctive--authentic-learning.jpg
       description: Academic integration with vocational subjects
+  - resources:
+      title: Announcements
+      id: resources
 ---
