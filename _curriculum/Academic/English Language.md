@@ -47,9 +47,29 @@ and effectively.&nbsp;</p>
 <p>These are some of our signature programmes.</p>
 <p><strong>Mocktail Party (Secondary 1)</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/el1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Mocktail_1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Mocktail_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>This alternative assessment is the culmination of the teaching, learning
 and application of effective oral communication skills for the Secondary
 1 students over three terms. Students take on the roles of Crest Ambassador,
@@ -59,6 +79,29 @@ context of our Bistro / Cafe.</p>
 <p></p>
 <p><strong>Super Draw (Secondary 1)</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Super_Draw_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Super_Draw_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Through authentic form-filling activities, students have the opportunities
 to learn and grasp the know-hows of filling up a form. To consolidate their
 learning, a “Super Draw” is held where accurate winning entries are celebrated
