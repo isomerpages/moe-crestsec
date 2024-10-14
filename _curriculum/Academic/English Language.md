@@ -47,7 +47,6 @@ and effectively.&nbsp;</p>
 <p>These are some of our signature programmes.</p>
 <p><strong>Mocktail Party (Secondary 1)</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -79,7 +78,6 @@ context of our Bistro / Cafe.</p>
 <p></p>
 <p><strong>Super Draw (Secondary 1)</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -107,10 +105,8 @@ to learn and grasp the know-hows of filling up a form. To consolidate their
 learning, a “Super Draw” is held where accurate winning entries are celebrated
 by receiving prizes as a form of encouragement.</p>
 <p></p>
-<p></p>
 <p><strong>Yuhua Village Learning Journey (Secondary 1)</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -144,7 +140,6 @@ in everyday contexts.</p>
 <hr>
 <p><strong>Escape Room (Secondary 1 and 2)</strong>
 </p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -199,7 +194,6 @@ as they learn to make recommendations to guests.</p>
 <hr>
 <p><strong>Check-In@Crest (Secondary 2)</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -231,7 +225,6 @@ and recommending local attractions and eateries.</p>
 <hr>
 <p><strong>Talk Show (Secondary 3)</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -264,8 +257,9 @@ communication skills.</p>
 <p></p>
 <p><strong>Theatre Experience (Secondary 3)</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:325px;height:240px;margin-left:25px;" height="auto" width="100%" src="/images/el5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Theatre.jpg">
 </div>
 <p>The Sec 3 Theatre Experience immersed students in the world of local theatre
 through a blended learning approach. Whether attending a live production
@@ -278,6 +272,10 @@ of theatrical performance and storytelling.</p>
 <p></p>
 <p><strong>Food Reviews (Secondary 3)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Review.jpg">
+</div>
 <p>The Sec 3 Food Review Experience offers students the opportunity to combine
 learning with a shared dining experience. As a class, they sample a variety
 of dishes, fostering camaraderie through food. Following the meal, students
@@ -288,6 +286,28 @@ and evaluative skills in a meaningful and enjoyable way.</p>
 <hr>
 <p><strong>Oratorical Contest (Secondary 4)</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/oratorical_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/oratorical_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The Sec 4 Oratorical Contest challenges students to think on their feet,
 sharpening both their critical thinking and oracy skills in preparation
 for their oral exams. Contestants compete by delivering impromptu speeches
