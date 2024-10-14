@@ -231,6 +231,29 @@ and recommending local attractions and eateries.</p>
 <hr>
 <p><strong>Talk Show (Secondary 3)</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Talk_show_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Talk_show_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The Sec 3 Talk Show Project helps students develop interview and audience
 engagement skills while further honing their oracy abilities. Through role-playing
 as either a host or a guest, students apply techniques learned in class,
