@@ -9,7 +9,7 @@ variant: tiptap
 <p></p>
 <h4>Objective</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/cro1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Eugene/cro1.jpg">
 </div>
 <p>Culinary &amp; Restaurant Operations (CRO) is one of the five ITE Skills
 Subjects (ISS) offered to Secondary 3 and Secondary 4 students in Crest
@@ -32,16 +32,16 @@ collaborative effort by the CRO students. Staff and partners are invited
 for a two-course set meal cooked by the students. This allows the students
 to practice what they have learnt in an authentic, non-scripted environment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/cro2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Eugene/cro2.jpg">
 </div>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/cro3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Eugene/cro3.jpg">
 </div>
 <p></p>
 <h4>Crest Cook Off</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eugene/cro4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Eugene/cro4.jpg">
 </div>
 <p>Cook Off is a highly anticipated annual culinary competition for Secondary
 4 CRO students. This event provides a dynamic platform for students to
