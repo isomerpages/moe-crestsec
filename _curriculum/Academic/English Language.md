@@ -167,7 +167,6 @@ what they have learnt in that semester to ace the game.</p>
 <hr>
 <p><strong>Tourist for a Day (Secondary 2)</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -200,9 +199,29 @@ as they learn to make recommendations to guests.</p>
 <hr>
 <p><strong>Check-In@Crest (Secondary 2)</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:325px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/el4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Check_in_1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Check_in_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Check-In@Crest integrates Secondary 2 students' learning of key communication
 skills such as giving directions, offering recommendations, and speaking
 in a formal register over three terms, including the 'Tourist for a Day'
@@ -253,3 +272,4 @@ on a variety of topics, demonstrating their ability to organize thoughts
 quickly and present them with confidence. This experience hones their speaking
 and presentation abilities while fostering the skills needed to articulate
 ideas effectively under pressure.</p>
+<p></p>
