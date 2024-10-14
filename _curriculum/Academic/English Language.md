@@ -110,6 +110,29 @@ by receiving prizes as a form of encouragement.</p>
 <p></p>
 <p><strong>Yuhua Village Learning Journey (Secondary 1)</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Yuhua_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Yuhua_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The Sec 1 Learning Journey to Yuhua Village gives Secondary One Crestans
 the opportunity to explore and familiarise themselves with a local neighbourhood
 while practising their English Language skills. In addition to walking
