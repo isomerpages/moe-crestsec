@@ -286,28 +286,13 @@ and evaluative skills in a meaningful and enjoyable way.</p>
 <hr>
 <p><strong>Oratorical Contest (Secondary 4)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/oratorical_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/oratorical_1.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>The Sec 4 Oratorical Contest challenges students to think on their feet,
 sharpening both their critical thinking and oracy skills in preparation
 for their oral exams. Contestants compete by delivering impromptu speeches
