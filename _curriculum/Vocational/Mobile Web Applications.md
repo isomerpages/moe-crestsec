@@ -28,7 +28,7 @@ web applications using Adobe Animate. Students who obtain a pass in this
 NT equivalent subject will be considered to have passed a science equivalent
 subject when applying to ITE courses.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FpdjPzItzoc?si=9L9XA0_C_TU3ff1V"></iframe>
+<iframe height="500" width="750" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FpdjPzItzoc?si=hvYHvwm8OiWSvmCK"></iframe>
 </div>
 <p></p>
 <h4>Product Web Design</h4>
@@ -36,13 +36,6 @@ subject when applying to ITE courses.</p>
 allows students to embark on an exciting journey of web design for products
 by Mechanical Design and Automation. This allows students to blend creativity
 with technology through project-based learning.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa2.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Eugene/mwa3.png">
-</div>
 <p></p>
 <h4>Synopsis of Mobile Web Applications (ISSC subject for Sec 3 &amp; 4)</h4>
 <ul data-tight="true" class="tight">
