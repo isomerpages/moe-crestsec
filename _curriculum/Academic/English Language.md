@@ -149,7 +149,7 @@ in everyday contexts.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Escape_Room.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Escape_Room.jpg">
 </div>
 </td>
 </tr>
@@ -259,7 +259,7 @@ communication skills.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Theatre.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Theatre.jpg">
 </div>
 <p>The Sec 3 Theatre Experience immersed students in the world of local theatre
 through a blended learning approach. Whether attending a live production
@@ -274,7 +274,7 @@ of theatrical performance and storytelling.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Review.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Review.jpg">
 </div>
 <p>The Sec 3 Food Review Experience offers students the opportunity to combine
 learning with a shared dining experience. As a class, they sample a variety
@@ -286,13 +286,30 @@ and evaluative skills in a meaningful and enjoyable way.</p>
 <hr>
 <p><strong>Oratorical Contest (Secondary 4)</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/oratorical_2.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/oratorical_1.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>The Sec 4 Oratorical Contest challenges students to think on their feet,
 sharpening both their critical thinking and oracy skills in preparation
 for their oral exams. Contestants compete by delivering impromptu speeches
