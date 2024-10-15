@@ -39,9 +39,9 @@ consideration the purpose, audience and context.</p>
 <p>The design of the programme is aimed at empowering students’ transformation
 through the arts via a two pronged approach:</p>
 <p>(i) Broad-based programme - Conducted through the curriculum which consists
-of the following art forms, namely, music, art, dance and drama.</p>
-<p>(ii) Depth--Conducted through the CCAs, e.g.: Pop Band, Guitar, Dance
-and Arts and Events Management.</p>
+of the following art forms, namely, music, arts and dance.</p>
+<p>(ii) Depth--Conducted through the CCAs, e.g.: Pop Band, Dance and Circus
+Arts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/aes3.jpg">
 </div>
