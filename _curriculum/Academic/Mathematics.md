@@ -22,13 +22,11 @@ discover the connections between Mathematics and other subjects, making
 their learning more meaningful and relevant.</p>
 <p></p>
 <h4>Classroom Activities</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math1.jpg">
 </div>
 <p>Students answering questions on ‘Percentage” by collecting data from Crest
 surroundings.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math2.jpg">
@@ -36,11 +34,9 @@ surroundings.</p>
 <p>Students compete in groups to solve mathematics questions.</p>
 <p></p>
 <h4>Learning Journey to Changi Airport</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math3.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math4.jpg">
@@ -50,11 +46,9 @@ due to adverse weather. They carried out tasks on the topic of ‘Money Exchange
 “GST” and “Flight Time”</p>
 <p></p>
 <h4>Learning Journey to Garden by the Bay</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math5.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math6.jpg">
@@ -63,11 +57,9 @@ due to adverse weather. They carried out tasks on the topic of ‘Money Exchange
 the information at Garden by the Bay.</p>
 <p></p>
 <h4>Learning Journey to the Zoo</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math7.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math8.jpg">
