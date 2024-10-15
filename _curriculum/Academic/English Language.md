@@ -274,7 +274,7 @@ of theatrical performance and storytelling.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Review.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Review.jpg">
 </div>
 <p>The Sec 3 Food Review Experience offers students the opportunity to combine
 learning with a shared dining experience. As a class, they sample a variety
