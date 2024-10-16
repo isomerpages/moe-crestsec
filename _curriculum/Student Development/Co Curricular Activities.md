@@ -120,7 +120,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/cca-scouts.png">
+<img style="width: 33%;" height="auto" width="100%" src="/images/cca-scouts.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,7 +154,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/co14.png">
+<img style="width: 80%;" height="auto" width="100%" src="/images/co14.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +171,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/cca-circus-arts.png">
+<img style="width: 80%;" height="auto" width="100%" src="/images/cca-circus-arts.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
