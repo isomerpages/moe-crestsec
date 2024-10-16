@@ -66,24 +66,54 @@ due to adverse weather. They carried out tasks on the topic of ‘Money Exchange
 “GST” and “Flight Time”</p>
 <p></p>
 <h4>Learning Journey to Garden by the Bay</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math5.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math6.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Students engaged in an “Amazing Race” to solve mathematics questions using
 the information at Garden by the Bay.</p>
 <p></p>
 <h4>Learning Journey to the Zoo</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math7.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/math7.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Students have a deeper understanding of the animals through solving mathematics
 questions about the animals using ‘ipad”.</p>
 <p></p>
