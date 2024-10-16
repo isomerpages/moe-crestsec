@@ -47,28 +47,13 @@ and effectively.&nbsp;</p>
 <p>These are some of our signature programmes.</p>
 <p><strong>Mocktail Party (Secondary 1)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Mocktail_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Mocktail_2.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>This alternative assessment is the culmination of the teaching, learning
 and application of effective oral communication skills for the Secondary
 1 students over three terms. Students take on the roles of Crest Ambassador,
@@ -78,28 +63,13 @@ context of our Bistro / Cafe.</p>
 <p></p>
 <p><strong>Super Draw (Secondary 1)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Super_Draw_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Super_Draw_2.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Through authentic form-filling activities, students have the opportunities
 to learn and grasp the know-hows of filling up a form. To consolidate their
 learning, a “Super Draw” is held where accurate winning entries are celebrated
@@ -107,28 +77,13 @@ by receiving prizes as a form of encouragement.</p>
 <p></p>
 <p><strong>Yuhua Village Learning Journey (Secondary 1)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Yuhua_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Yuhua_2.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>The Sec 1 Learning Journey to Yuhua Village gives Secondary One Crestans
 the opportunity to explore and familiarise themselves with a local neighbourhood
 while practising their English Language skills. In addition to walking
@@ -149,7 +104,7 @@ in everyday contexts.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Escape_Room.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Escape_Room.jpg">
 </div>
 </td>
 </tr>
@@ -162,28 +117,13 @@ what they have learnt in that semester to ace the game.</p>
 <hr>
 <p><strong>Tourist for a Day (Secondary 2)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Tourist_1.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Tourist_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Tourist_1.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Students embark on a Learning Journey (LJ) to experience what it is like
 to be a tourist in Singapore, taking a river taxi and exploring the iconic
 Marina Bay Sands. In addition to enjoying the sights, they interact with
@@ -194,28 +134,13 @@ as they learn to make recommendations to guests.</p>
 <hr>
 <p><strong>Check-In@Crest (Secondary 2)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Check_in_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Check_in_2.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Check-In@Crest integrates Secondary 2 students' learning of key communication
 skills such as giving directions, offering recommendations, and speaking
 in a formal register over three terms, including the 'Tourist for a Day'
@@ -225,28 +150,13 @@ and recommending local attractions and eateries.</p>
 <hr>
 <p><strong>Talk Show (Secondary 3)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Talk_show_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Talk_show_2.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>The Sec 3 Talk Show Project helps students develop interview and audience
 engagement skills while further honing their oracy abilities. Through role-playing
 as either a host or a guest, students apply techniques learned in class,
@@ -257,7 +167,6 @@ communication skills.</p>
 <p></p>
 <p><strong>Theatre Experience (Secondary 3)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Theatre.jpg">
 </div>
@@ -272,9 +181,8 @@ of theatrical performance and storytelling.</p>
 <p></p>
 <p><strong>Food Reviews (Secondary 3)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Review.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/EL/Review.jpg">
 </div>
 <p>The Sec 3 Food Review Experience offers students the opportunity to combine
 learning with a shared dining experience. As a class, they sample a variety
@@ -286,30 +194,13 @@ and evaluative skills in a meaningful and enjoyable way.</p>
 <hr>
 <p><strong>Oratorical Contest (Secondary 4)</strong>
 </p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/oratorical_1.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/oratorical_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/EL/oratorical_1.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p>The Sec 4 Oratorical Contest challenges students to think on their feet,
 sharpening both their critical thinking and oracy skills in preparation
 for their oral exams. Contestants compete by delivering impromptu speeches

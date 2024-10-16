@@ -21,7 +21,6 @@ applications of scientific theories, packed with hands-on activities, and
 learning journeys. Even assessments are made authentic by including practical
 elements, on top of paper and pen tests.</p>
 <h4>Learning Journeys</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/science1.jpg">
 </div>
@@ -29,13 +28,13 @@ elements, on top of paper and pen tests.</p>
 food and how farms in Singapore work to ensure food sustainability.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/science2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science1a.png">
 </div>
 <p>Students went to Yakult Factory to see how Yakult uses technology to facilitate
 food processing and to learn more about the impact of good bacteria on
 their health.</p>
-<h4>Ice-cream Making in Secondary One (Hands-on Activity)</h4>
 <p></p>
+<h4>Ice-cream Making in Secondary One (Hands-on Activity)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/science4.jpg">
 </div>
@@ -45,7 +44,6 @@ and learn to make good decision on how often to enjoy their treats while
 maintaining a healthy diet!</p>
 <p></p>
 <h4>Save Humpty Dumpty in Secondary Two (Hands-on Activity)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/science3.jpg">
 </div>
@@ -56,7 +54,6 @@ they work in teams to build an egg protection suit to prevent a dropping
 egg from breaking!</p>
 <p></p>
 <h4>Active Beautiful Clean (ABC) Water Trail in Secondary One (Learning Journey)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/science5.png">
 </div>
@@ -67,7 +64,6 @@ of Singapore’s biodiversity and its efforts in maintaining water cleanliness.
 <br>
 </p>
 <h4>Green Building Trail in Secondary Two (Learning Trail)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/science6.jpg">
 </div>
