@@ -27,7 +27,11 @@ third_nav_title: Student Development
 <p></p>
 <hr>
 <p></p>
-<p>Click here for Secondary 1 (Reboot) experiences.</p>
-<p>Click here for Secondary 2 (Recondition) experiences.</p>
-<p>Click here for Secondary 3 (Restore) experiences.</p>
-<p>Click here for Secondary 4 (Rejoice) experiences.</p>
+<p>Click <a href="https://www.crestsec.edu.sg/key-student-development-experiences-sec-1/" rel="noopener nofollow" target="_blank">here</a> for
+Secondary 1 (Reboot) experiences.</p>
+<p>Click <a href="https://www.crestsec.edu.sg/key-student-development-experiences-sec-2/" rel="noopener nofollow" target="_blank">here</a> for
+Secondary 2 (Recondition) experiences.</p>
+<p>Click <a href="https://www.crestsec.edu.sg/key-student-development-experiences-sec-3/" rel="noopener nofollow" target="_blank">here</a> for
+Secondary 3 (Restore) experiences.</p>
+<p>Click <a href="https://www.crestsec.edu.sg/key-student-development-experiences-sec-4/" rel="noopener nofollow" target="_blank">here</a> for
+Secondary 4 (Rejoice) experiences.</p>
