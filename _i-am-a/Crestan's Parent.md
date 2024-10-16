@@ -4,14 +4,6 @@ permalink: /info-at-crest/useful-links/parent/
 description: ""
 variant: tiptap
 ---
-<h4>2024 Secondary 1 to 3 End-of-Year Examination Schedule</h4>
-<p><a href="/files/2024_eoy_sec1_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
-</p>
-<p><a href="/files/2024_eoy_sec2_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
-</p>
-<p><a href="/files/2024_eoy_sec3_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-</p>
-<h4></h4>
 <h4>Positive Parenting Programme (Triple P)</h4>
 <p>The Positive Parenting Programme (Triple P) is an evidence-based programme
 that equips parents with techniques to promote their children’s (aged up
@@ -73,6 +65,8 @@ an introductory video.</p>
 </table>
 <p></p>
 <h4>2024 Term Letters</h4>
+<p><a href="/files/2024_End_of_T4_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 4</a>
+</p>
 <p><a href="/files/EL/Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1</a>
 </p>
 <p><a href="/files/2024_term_2_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 2</a>
