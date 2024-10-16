@@ -25,3 +25,13 @@ third_nav_title: Student Development
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sdt4.jpg">
 </div>
 <p></p>
+<hr>
+<p></p>
+<p>Click <a href="https://www.crestsec.edu.sg/key-student-development-experiences-sec-1/" rel="noopener nofollow" target="_blank">here</a> for
+Secondary 1 (Reboot) experiences.</p>
+<p>Click <a href="https://www.crestsec.edu.sg/key-student-development-experiences-sec-2/" rel="noopener nofollow" target="_blank">here</a> for
+Secondary 2 (Recondition) experiences.</p>
+<p>Click <a href="https://www.crestsec.edu.sg/key-student-development-experiences-sec-3/" rel="noopener nofollow" target="_blank">here</a> for
+Secondary 3 (Restore) experiences.</p>
+<p>Click <a href="https://www.crestsec.edu.sg/key-student-development-experiences-sec-4/" rel="noopener nofollow" target="_blank">here</a> for
+Secondary 4 (Rejoice) experiences.</p>
