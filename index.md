@@ -28,6 +28,17 @@ sections:
       button: LEARN MORE
       subtitle: (LHL AIUS) 2023
   - infopic:
+      title: Outstanding Youth in Education Award 2025
+      subtitle: OYEA 2025 Nomination
+      id: infopic
+      description: The Outstanding Youth in Education Award (OYEA) gives national
+        recognition to young teachers who are role models for the teaching
+        profession.
+      button: Nominate now!
+      url: https://go.gov.sg/oyea2025
+      image: /images/OYEA_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: 3R+R Uplifting Experiences
       button: Learn More
       alt: Image alt text
@@ -45,14 +56,13 @@ sections:
       title: Announcements
       id: resources
   - infopic:
-      title: Outstanding Youth in Education Award 2025
-      subtitle: OYEA 2025 Nomination
+      title: President’s Award for Teachers 2025
+      subtitle: PAT 2025
       id: infopic
-      description: The Outstanding Youth in Education Award (OYEA) gives national
-        recognition to young teachers who are role models for the teaching
-        profession.
-      button: Nominate now!
-      url: https://go.gov.sg/oyea2025
-      image: /images/OYEA_2025.jpg
+      description: The President’s Award for Teachers gives national recognition to
+        experienced teachers who are role models for the teaching profession.
+      button: NOMINATE NOW!
+      url: https://go.gov.sg/pat2025
+      image: /images/PAT_2025.jpg
       alt: Image alt text
 ---
