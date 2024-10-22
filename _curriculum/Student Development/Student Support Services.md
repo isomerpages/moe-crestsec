@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Objective</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/sds_dept.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/sss_dept.jpg">
 </div>
 <p>Our department is a conglomeration of helping professionals consisting
 of Counsellors, Student Welfare Officers and Special Educational Needs
