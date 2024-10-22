@@ -18,7 +18,7 @@ challenges, the Student Support Services aims to fortify the character
 and competencies of our students as they trek towards young-adulthood.</p>
 <h4>Counselling Support</h4>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/school_councillors.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/school_councillors.jpg">
 </div>
 <p>School Counsellors in Crest Secondary play an integral role in supporting
 the social, mental and emotional well-being of Crestans. As Crestans forge
@@ -34,12 +34,9 @@ communication skills, coping strategies, etc.).</p>
 family services centres.</p>
 <p>As an expression of our indispensable partnership with parents/care-givers,
 we have consolidated some parenting resources for easy access (<a href="https://sites.google.com/crestsec.edu.sg/resourcesforparents" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/crestsec.edu.sg/resourcesforparents</a>).</p>
+<h4>Special Educational Needs Support</h4>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/ss4.png">
-</div>
-<h4>Special Educational Needs Officers</h4>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/ss5.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/ss5.jpg">
 </div>
 <p>Special Educational Needs (SEN) Officers work collaboratively with key
 stakeholders such as parents, teachers, school leadership team, and professionals
@@ -64,12 +61,9 @@ of the key interventions we provide are:</p>
 services (e.g. AWWA &amp; SADeaf)</p>
 </li>
 </ul>
+<h4>Student Welfare Support</h4>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/ss6.png">
-</div>
-<h4>Student Welfare Officers (SWOs)</h4>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/swofficer.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/swofficer.png">
 </div>
 <p>As a Student Welfare Officer in Crest Secondary, we provide social support
 to students-at-risk. We work with their families and other community partners
