@@ -4,10 +4,11 @@ permalink: /info-at-crest/useful-links/student/
 description: ""
 variant: tiptap
 ---
-<h4>2024 Secondary 4 Preliminary Examination Schedule</h4>
-<p>Please click on the link below to access the document.</p>
-<p><a href="\files\2024_sec_4_prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Preliminary Examination Schedule</a>
-</p>
+<h4>Schedule for Sec 2 ISS Selection</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISS_Selection_Schedule.jpg">
+</div>
 <p></p>
 <h4>2024 Term 3 Timetable</h4>
 <p>Please click on the links below to access the documents.</p>
