@@ -44,4 +44,15 @@ sections:
   - resources:
       title: Announcements
       id: resources
+  - infopic:
+      title: Outstanding Youth in Education Award 2025
+      subtitle: OYEA 2025 Nomination
+      id: infopic
+      description: The Outstanding Youth in Education Award (OYEA) gives national
+        recognition to young teachers who are role models for the teaching
+        profession.
+      button: Nominate now!
+      url: https://go.gov.sg/oyea2025
+      image: /images/OYEA_2025.jpg
+      alt: Image alt text
 ---
