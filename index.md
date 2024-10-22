@@ -28,6 +28,16 @@ sections:
       button: LEARN MORE
       subtitle: (LHL AIUS) 2023
   - infopic:
+      title: President’s Award for Teachers 2025
+      subtitle: PAT 2025
+      id: infopic
+      description: The President’s Award for Teachers gives national recognition to
+        experienced teachers who are role models for the teaching profession.
+      button: NOMINATE NOW!
+      url: https://go.gov.sg/pat2025
+      image: /images/PAT_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: Outstanding Youth in Education Award 2025
       subtitle: OYEA 2025 Nomination
       id: infopic
@@ -55,14 +65,4 @@ sections:
   - resources:
       title: Announcements
       id: resources
-  - infopic:
-      title: President’s Award for Teachers 2025
-      subtitle: PAT 2025
-      id: infopic
-      description: The President’s Award for Teachers gives national recognition to
-        experienced teachers who are role models for the teaching profession.
-      button: NOMINATE NOW!
-      url: https://go.gov.sg/pat2025
-      image: /images/PAT_2025.jpg
-      alt: Image alt text
 ---
