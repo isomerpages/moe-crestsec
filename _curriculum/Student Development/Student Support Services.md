@@ -5,11 +5,10 @@ description: ""
 third_nav_title: •	Student Development
 variant: tiptap
 ---
-<h4>Objective</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/sss_dept.jpg">
 </div>
+<h4>Objective</h4>
 <p>Our department is a conglomeration of helping professionals consisting
 of Counsellors, Student Welfare Officers and Special Educational Needs
 Officers. As a synergised team, we seek to address the diverse learning
