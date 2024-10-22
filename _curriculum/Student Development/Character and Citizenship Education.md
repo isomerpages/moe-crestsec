@@ -224,37 +224,34 @@ among the classmates.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/cce15.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/cce16.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/cce17.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce2.png">
-</div>
 <p>●&nbsp;&nbsp;&nbsp; &nbsp;<strong>Ohana (all levels)</strong>
 </p>
 <p>Ohana means ‘Family’, and ‘Family’ means no one gets left behind or forgotten.
 This is the name given to our Form Teacher interaction time for classes
 to build stronger ties among themselves and also with their form teachers.
-Teachers and students are empowered to carry out activities such asclassroom
+Teachers and students are empowered to carry out activities such as classroom
 decorations, celebrations and bonding games to build the relationships
 in their second home and family.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/cce3.png">
-</div>
-<p>●&nbsp;&nbsp;&nbsp; &nbsp;<strong>Sparkle (all levels)</strong>
-</p>
-<p>In line with Ohana, classes are assigned time to clean the school and&nbsp;classroom
-because a family takes ownership of the cleanliness of their living and
-learning space. These sessions encourage teachers and students to be responsible
-for their environment and helps them to appreciate their second home more</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce4.png">
 </div>
 <p></p>
