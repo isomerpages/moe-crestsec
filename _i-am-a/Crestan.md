@@ -7,7 +7,7 @@ variant: tiptap
 <h4>Schedule for Sec 2 ISS Selection</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISS_Selection_Schedule.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISS_Selection_Schedule1.jpg">
 </div>
 <p></p>
 <h4>2024 Term 3 Timetable</h4>
