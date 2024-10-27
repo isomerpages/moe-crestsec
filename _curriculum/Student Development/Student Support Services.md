@@ -34,9 +34,22 @@ communication skills, coping strategies, etc.).</p>
 family services centres.</p>
 <p>As an expression of our indispensable partnership with parents/care-givers,
 we have consolidated some parenting resources for easy access (<a href="https://sites.google.com/crestsec.edu.sg/resourcesforparents" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/crestsec.edu.sg/resourcesforparents</a>).</p>
-<h4>Special Educational Needs Support</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/ss5.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/counselling1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/counselling2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/counselling3.jpg">
+</div>
+<h4>Special Educational Needs Support</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/seno_staff.jpg">
 </div>
 <p>Special Educational Needs (SEN) Officers work collaboratively with key
 stakeholders such as parents, teachers, school leadership team, and professionals
@@ -61,6 +74,14 @@ of the key interventions we provide are:</p>
 services (e.g. AWWA &amp; SADeaf)</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/seno1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/seno2.jpg">
+</div>
 <h4>Student Welfare Support</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/swofficer.png">
@@ -93,4 +114,12 @@ and their families,</p>
 <p>Re-integrating students who have been absent from school.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/swo1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/swo2.jpg">
+</div>
 <p></p>
