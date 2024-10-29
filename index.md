@@ -89,4 +89,11 @@ sections:
       id: infopic
       image: /images/5___Day_4__2024_OH_.png
       alt: Crest OH Day 4
+  - infopic:
+      title: Crest Information Booklet 2025
+      id: infopic
+      button: FIND OUT MORE!
+      url: https://drive.google.com/file/d/13xe-M3WLXQ_bOqKNH_ras7r6zflX06-Y/view
+      image: /images/Crest_info_booklet.jpg
+      alt: Image alt text
 ---
