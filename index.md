@@ -68,12 +68,25 @@ sections:
   - infopic:
       id: infopic
       image: /images/1__A5_information_Card_Page_1.jpg
-      alt: Image alt text
+      alt: Crest OH Info Card 1
   - infopic:
       id: infopic
       image: /images/1__A5_information_Card_Page_2.jpg
+      alt: Crest OH Info Card 2
   - infopic:
-      subtitle: Add an image and text
       id: infopic
       image: /images/2__Crest_Open_House.png
+      alt: Crest OH
+  - infopic:
+      id: infopic
+      image: /images/3___Day_1__2024_OH_.png
+      alt: Crest OH Day 1
+  - infopic:
+      id: infopic
+      image: /images/4___Day_2___3__2024_OH_.png
+      alt: Crest OH Day 2 and 3
+  - infopic:
+      id: infopic
+      image: /images/5___Day_4__2024_OH_.png
+      alt: Crest OH Day 4
 ---
