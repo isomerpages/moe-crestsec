@@ -72,4 +72,8 @@ sections:
   - infopic:
       id: infopic
       image: /images/1__A5_information_Card_Page_2.jpg
+  - infopic:
+      subtitle: Add an image and text
+      id: infopic
+      image: /images/2__Crest_Open_House.png
 ---
