@@ -69,4 +69,7 @@ sections:
       id: infopic
       image: /images/1__A5_information_Card_Page_1.jpg
       alt: Image alt text
+  - infopic:
+      id: infopic
+      image: /images/1__A5_information_Card_Page_2.jpg
 ---
