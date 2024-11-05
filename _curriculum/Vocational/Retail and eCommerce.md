@@ -33,6 +33,9 @@ packaging techniques to ensure product quality. They identify their target
 audience and strategically position themselves in high-traffic areas, such
 as the school canteen or foyer, to maximise sales.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/REC/rec1.jpg">
+</div>
 <p>Customer service is emphasized as students engage with customers in a
 friendly manner, build rapport, and encourage repeat business. They practice
 clear communication and learn how to present products attractively to capture
@@ -49,7 +52,10 @@ packaging that supports recycling and eco-friendly practices—key aspects
 of modern business. They design product logos and packaging labels, honing
 their branding and design skills while learning how to communicate effectively
 with potential customers.</p>
-<p>&gt;&gt;rec2.PNG</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/REC/rec2.png">
+</div>
 <p>Students create engaging social media posts to showcase the unique features
 of their products, such as being locally grown and sustainably packaged.
 They learn to adapt their tone and content for their target audiences,
@@ -67,7 +73,10 @@ costs, and handles various retail operations, including packaging, customer
 service, cashiering, merchandising, and store management. This activity
 offers a comprehensive view of the complexities involved in running a successful
 retail setup.</p>
-<p>&gt;&gt;rec3.PNG</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/REC/rec3.png">
+</div>
 <p>Direct customer interaction helps students enhance their communication
 and service skills, and they learn to choose appropriate packaging techniques
 that align with product types and customer expectations. Post-sale reviews
@@ -83,7 +92,10 @@ and strategic thinking in retail.</p>
 as the welcoming point for guests at the annual Serve Up! lunch. Guests
 from various industries and organisations were greeted by students, who
 demonstrated professionalism and school pride.</p>
-<p>&gt;&gt;rec4.PNG</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/REC/rec4.png">
+</div>
 <p>The event featured an array of student-created products, including National
 Day-themed tote bags, welcome drinks, shrink art school key chains, bracelets
 and charms, hydro-dipped photo frames, and artwork developed with guidance
