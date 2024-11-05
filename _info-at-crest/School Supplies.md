@@ -6,7 +6,6 @@ description: ""
 ---
 <h3>School Supplies</h3>
 <p></p>
-<h4>Books / Uniforms / Shoes / Socks list for 2025 – To be updated soon.</h4>
 <h4>Booklist 2025</h4>
 <table style="minWidth: 75px">
 <colgroup>
