@@ -32,7 +32,7 @@ how to pack ice cream into cooler boxes, focusing on proper storage and
 packaging techniques to ensure product quality. They identify their target
 audience and strategically position themselves in high-traffic areas, such
 as the school canteen or foyer, to maximise sales.</p>
-<p>&gt;&gt;REC1.jpg</p>
+<p></p>
 <p>Customer service is emphasized as students engage with customers in a
 friendly manner, build rapport, and encourage repeat business. They practice
 clear communication and learn how to present products attractively to capture
