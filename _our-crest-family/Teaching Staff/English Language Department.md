@@ -262,22 +262,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Fairuzi Hatraby</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher
-<br>(English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ahmad_fairuzi_hatraby_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_fairuzi_hatraby_b@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Kalimah Bte Haji Zainuri</p>
 </td>
 <td rowspan="1" colspan="1">
