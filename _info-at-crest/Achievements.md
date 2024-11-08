@@ -5,6 +5,127 @@ description: ""
 variant: tiptap
 ---
 <h3>School Achievements</h3>
+<p></p>
+<h4>2024</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School Achievements 2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Achievements / Physical Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Athletics CCA</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>West Cluster 4 Track Friendly 100m Dash (Sec 2 Boys) 3rd position</p>
+</li>
+</ul>
+<p>Basketball CCA</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Resilience Basketball League ‘B’ Division 2nd position</p>
+</li>
+<li>
+<p>Resilience Basketball League ‘C’ Division 3rd position</p>
+</li>
+</ul>
+<p>Play Inclusive (collaboration with Grace Orchard School)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Relay Team Hearing Loss 16-21 Age Group 1st position</p>
+</li>
+<li>
+<p>Football Team 10-15 Age Group Division 1 2nd position</p>
+</li>
+<li>
+<p>Football Team 10-15 Age Group Division 1 1st position</p>
+</li>
+<li>
+<p>Basketball Team 13-15 Age Group Division 1 1st position</p>
+</li>
+<li>
+<p>Basketball Team 13-15 Age Group Division 1 2nd position</p>
+</li>
+<li>
+<p>Badminton Team 10-15 Age Group Division 1 3rd position</p>
+</li>
+<li>
+<p>Badminton Team 10-15 Age Group Division 1 4th position</p>
+</li>
+<li>
+<p>Badminton Team Open Division 2 3rd position</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Achievements / Visual and Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance CCA</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Challenge Cup Gold Award (Group)</p>
+</li>
+<li>
+<p>Singapore Challenge Cup Silver Award (Individual)</p>
+</li>
+</ul>
+<p>Visual Arts Club</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival Art Exhibition Certificate of Commendation</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Achievements / Clubs and Societies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Innovation Club</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Drones Odyssey Best Strategy Award</p>
+</li>
+</ul>
+<p>New Media Club</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>• Our Schools, Our Stories Photo &amp; Video Contest Youth Category Honourable
+Mention</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crest Secondary School was awarded 3 Gold and 2 Silver awards in IgnITE
+Skills Challenge 2024.</p>
+<p>Overall, 18 teams participated in the challenge and 9 teams qualified
+for the Finals, in 11 out of 15 categories.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>2023</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -114,6 +235,7 @@ IgnITE Skills Challenge 2023.
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4>2022</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -185,6 +307,7 @@ results that Crest has achieved to-date.
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4>2021</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -257,359 +380,5 @@ the Overall Champion trophy again in 2021.
 </tr>
 </tbody>
 </table>
-<h4>2020</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>School Achievements 2020</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Aesthetics Achievements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Visual Arts Club (VAC):</strong>
-<br>● Appreciation Postcards for Frontline workers for Ng Teng Fong General
-Hospital and Frontline Healthcare staff, PCPH Clinics and Town Councils
-Cleaners at Yuhua Constituency
-<br>● Singapore Youth Festival 2020 – Arts Exhibition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>UG Achievements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Girl Guides</strong>
-<br>
-<br>● Crest’s Girl Guides Company achieved the Puan Noor Aishah Silver Award
-in 2020</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Other Achievements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● Sembcorp Marine Greenwave Environmental Competition Merit Award</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>School Achievements 2019</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Aesthetics Achievements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● Arts &amp; Events Management (AEM): National Schools Literature Festival
-2019 - Certificate of Participation
-<br>● Dance Club: Singapore Youth Festival Arts Presentation 2019 - Certificate
-Of Accomplishment
-<br>● Guitar Club: Singapore Youth Festival Arts Presentation 2019 - Certificate
-of Accomplishment
-<br>● Pop Band: Singapore Youth Festival Arts Presentation 2019 Percussion
-Ensemble - Certificate of Accomplishment
-<br>● Visual Arts Club (VAC): IgnITE Skill Challenge Finalist 2019
-<br>● SYF Exhibition 2020: Certificate of Representation and Accomplishment
-<br>● New Media Club: Ace Of Coders Finalist 2019 – Drone Race / N.Emation
-(Top 100)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>UG Achievements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Girl Guides
-<br>
-<br>● Crest’s Girl Guides Company achieved the Puan Noor Aishah Silver Award
-in 2019.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Other Achievements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IgnITE Skills Challenge 2019:
-<br>
-<br>● Overall 25 teams from Crest participated in this Challenge and 15 teams
-qualified for the Finals (in 12 out of 15 categories).
-<br>● With 2 Gold, 2 Silver and 2 Bronze awards, Crest Secondary was awarded
-the Overall Champion trophy again in 2019.
-<br>● Sembcorp Marine Greenwave Environmental Competition Merit Award 2019</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2017 - 2018</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>School Achievements 2017</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aesthetics Achievements</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● SYF2017 Arts Presentation Percussion Ensemble (Concert)  – Certificate
-of Accomplishment
-<br>● SYF2017 Arts PresentationGuitar Ensemble  – Certificate of Accomplishment
-<br>● SYF2017 Arts Presentation Dance (International) – Certificate of Accomplishment
-<br>● SYF2018 Arts Presentation Display Band – Percussion Ensemble (Concert)
-– Certificate of Commendation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sports Achievements</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Basketball Girls</strong>
-<br>● 4th Inter-School Ultimate Frisbee Competition (Organised by Jurong West
-Secondary) - Champions
-<br>Football ‘B” Div Boys
-<br>● Qualified for 1st Tier School Premier League (SPL 1) – Reached Quarter
-Finals
-<br>
-<br><strong>Athletics</strong>
-<br>● Sec 2 Anggun Kasturi clinched Gold in 100-m Sprint for National Youth
-Para Athletics Championship</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>UG Achievements</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Boy Scouts</strong>
-<br>● 3 students have been selected for the Singapore Scouts Marching Contingent
-at the 2017 National Day Parade:
-<br>Muhd Isyraf B Jamal (2-3); Muhd Noornizam B Hasan (3-6); and Muhd Aqil
-Bin Kamsani (3-8).
-<br>
-<br><strong>Girl Guides</strong>
-<br>● Crest’s Girl Guides Company achieved the Puan Noor Aishah Silver Award
-in 2018.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE Excelfest</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● The English Language Department’s Check-In @ Crest project, which was
-presented MOE’s Innergy Award (Silver), was selected to showcase its T&amp;L
-innovation at the MOE Excel Fest 2017 on 30-31 March.
-<br>
-<br>● The Hospitality Department’s, To Serve With Love project, was presented
-with the MOE’s Innergy Award (Silver) for Teaching &amp; Learning innovation
-at the MOE Excel Fest 2017
-<br>
-<br>● The Retail Department’s, Scaffolding Authentic Learning Experiences
-(SALE) project, was presented with the MOE’s Innergy Award (Bronze) for
-Teaching &amp; Learning innovation at the MOE Excel Fest 2018.
-<br>
-<br><strong>F&amp;M / H&amp; R / Science / Innovation Club / Visual Arts Club</strong>
-<br>
-<br>● IgnITE Skills Challenge 2017 – 9 Teams qualified for Finals and the
-students emerged with 4 Gold, 2 Silver and 2 Bronze Awards.
-<br>
-<br><strong>Innovation Club</strong>
-<br>
-<br>● Bronze Award for Best Performance Category at the Singapore Amazing
-Flying Machine Competition 2017
-<br>
-<br><strong>New Media Club</strong>
-<br>
-<br>● Finalists for National Coding Championship 2017
-<br>
-<br><strong>Environmental Education</strong>
-<br>
-<br>● Green Audit - Lotus Sustained Achievement Award 2017
-<br>
-<br><strong>MOE SYF 2017 Celebrations</strong>
-<br>
-<br>● CSS Pop Band has been invited to co-perform at the MOE SYF 2017 Opening
-Ceremony Concert
-<br>
-<br><strong>F&amp;M / H&amp; R / Science / Innovation Club / Visual Arts Club</strong>
-<br>
-<br>● IgnITE Skills Challenge 2018 –15 Teams qualified for Finals(in 10 out
-of 13 categories)
-<br>● Won 3 Golds, 4 Silvers and 3 Bronzes and the Overall Champion Trophy</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2016</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Achievements 2016</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Aesthetics Achievements<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● Inaugural Percussion Ensemble (SYF2016 Display Band) – Certificate of
-Commendation
-<br>
-<br>● SYF 2016 Arts Presentation - 2 artwork, titled "Weaving" and "Space
-3" were selected to be displayed.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sports Achievements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● 2 students shared their experience on Amunt Valencia Football trip at
-the SOF- Peter Lim Scholarship Ceremony, held at ITE College East
-<br>● 2016 Singapore Youth Olympic Festival 7-a-side Football Competition
-- 1st Runner up ('B' Division)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>UG Achievements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Boy Scouts</strong>
-<br>2 students participated at the World Scouts Jamboree in Japan.
-<br>● Shawn Rajoo
-<br>● Clarence Ang
-<br>
-<br>2 students represented the school in the National Day Parade as part of
-the marching contingent
-<br>● Muhammad Shafiq Bin Amri
-<br>● Muhammad Anwar Bin Khamdan
-<br>
-<br><strong>Girl Guides</strong>
-<br>● 1st place in World Thinking Day 2016, International Costume Parade at
-National level
-<br>
-<br>● 1st place in World Thinking Day 2016, International Costume Parade at
-Division level (West Division)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Service Club<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● Community in Bloom Awards 2016 - Silver Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Visual Arts Club</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● Yuhua Neighbourhood Anti-Scam Wall Mural Painting Competition - 1st
-Prize</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mathematics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● Top 20 Achievers - One Sec 3 student achieved 11th position at the All
-Singapore Secondary Mathematics Competition for Normal Course Students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Recognitions from Other Organisations (Non-MOE) in 2016</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● Ignite Skills Challenge 2016, 3rd prize under the "Keep Kool" category
-<br>
-<br>● Ignite Skills Challenge 2016 - Bullet Vessel (1st Prize); Bullet Vessel
-Poster (Top 3)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MOE SYF 2016 Celebrations</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● As CSS was the lead school in organising MOE’s SYF 2016 celebrations
-at The Esplanade (Outdoor Theatre) on 1-3 July, students from the Arts
-&amp; Events Management, New Media Club, Dance and Visual Arts CCAs had
-the opportunity to coordinate the event involving more than 1500 students
-from other schools.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <p></p>
