@@ -14,14 +14,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>School Achievements 2024</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>CCA Achievements / Physical Sports</p>
 </td>
@@ -106,7 +98,7 @@ variant: tiptap
 <p>New Media Club</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>• Our Schools, Our Stories Photo &amp; Video Contest Youth Category Honourable
+<p>Our Schools, Our Stories Photo &amp; Video Contest Youth Category Honourable
 Mention</p>
 </li>
 </ul>
@@ -117,10 +109,28 @@ Mention</p>
 <p>IgnITE Skills Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Crest Secondary School was awarded 3 Gold and 2 Silver awards in IgnITE
 Skills Challenge 2024.</p>
+</li>
+<li>
 <p>Overall, 18 teams participated in the challenge and 9 teams qualified
 for the Finals, in 11 out of 15 categories.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sustainability Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Vanda Miss Joaquim Sustained Achievement Award</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -134,72 +144,149 @@ for the Finals, in 11 out of 15 categories.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>School Achievements 2023</strong>
+<td rowspan="1" colspan="1">
+<p>Aesthetics / CCA Achievements</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Innovation Club - International E-Waste Day School Collection Drive 2023</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate Of Achievement for collecting the highest weight of e-waste
+<br>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</li>
+</ul>
+<p>Dance - Singapore Youth Festival Arts Presentation 2023</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Accomplishment Award
+<br>National Day Dinner Celebrations at Yuhua SMC
+<br>
+</p>
+</li>
+</ul>
+<p>Pop Band - Singapore Youth Festival Arts Presentation 2023</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mallet Group: Commendation Award</p>
+</li>
+<li>
+<p>Percussion Group: Accomplishment
+<br>
+</p>
+</li>
+</ul>
+<p>Guitar Club - Singapore Youth Festival Arts Presentation 2023</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Commendation Award</p>
+</li>
+</ul>
 <p></p>
-</th>
+<p>Community Engagement:
+<br>Arts &amp; Events Management</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Emcees for Yuhua Chinese New Year Rice Distribution Event
+<br>
+</p>
+</li>
+</ul>
+<p>Entrepreneurship Club</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yuhua Chinese New Year Rice Distribution (Craft Booth)</p>
+</li>
+<li>
+<p>Mid-Autumn Festival (Craft Booth)
+<br>
+</p>
+</li>
+</ul>
+<p>Service Club</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mid-Autumn Festival Circus Arts Performance
+<br>
+</p>
+</li>
+</ul>
+<p>Explorer Club</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mid-Autumn Festival (Craft Booth)</p>
+</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Aesthetics / CCA Achievements</strong>
-</p>
+<p>Sports Group Achievements</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● <strong>INNOVATION CLUB - International E-Waste Day School Collection Drive 2023</strong> 
-<br>- Certificate Of Achievement for collecting the highest weight of e-waste
-<br>● <strong>DANCE - Singapore Youth Festival Arts Presentation 2023</strong>
-<br>- Accomplishment Award
-<br>- National Day Dinner Celebrations at Yuhua SMC
-<br>● <strong>POP BAND - Singapore Youth Festival Arts Presentation 2023</strong>
-<br>- Mallet Group: Commendation Award
-<br>- Percussion Group: Accomplishment
-<br><strong>GUITAR CLUB - Singapore Youth Festival Arts Presentation 2023</strong>
-<br>- Commendation Award
-<br>
-<br><strong>COMMUNITY ENGAGEMENT:</strong>
-<br>● <strong>ARTS &amp; EVENTS MANAGEMENT</strong> - Emcees for Yuhua Chinese
-New Year Rice Distribution Event
-<br>● <strong>ENTREPRENEURSHIP CLUB</strong> - Yuhua Chinese New Year Rice Distribution
-(Craft Booth)
-<br>- Mid-Autumn Festival (Craft Booth)
-<br>● <strong>SERVICE CLUB</strong> - Mid-Autumn Festival Circus Arts Performance
-<br>● <strong>EXPLORER CLUB</strong> - Mid-Autumn Festival (Craft Booth)
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sports Group Achievements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>● <strong>BASKETBALL</strong> 
-<br>- B and C boys and girls West Zone round 1
-<br>- Play Inclusive 2023 Male (13-15 Age Group) 1st place
-<br>- Play Inclusive 2023 Open (13-15 Age Group) 2nd place
-<br>- Participated in Pesta Sukan 2023 3-on-3 competition
-<br>● <strong>ATHLETICS</strong> 
-<br>- Participated in C Div 100m boys
-<br>- B Div 100m, 200m, 400m, 800m, 4x100m boys
-<br>- 4x100m B boys reached Semifinals
-<br>● <strong>FOOTBALL</strong> 
-<br>- League 1 B Division
-<br>- League 5 C Division Quarterfinals
-<br>● <strong>FLOORBALL</strong> 
-<br>- B boys Nationals round 1
-<br>- C boys Nationals Quarterfinals
-<br>● <strong>BADMINTON</strong> 
-<br>- B and C boys and girls west zone round 1
-<br>- Play Inclusive (10-15 Age Group) 3rd place
-<br>- Play Inclusive Open 4th place
-<br>
+<p>Basketball</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B and C boys and girls West Zone round 1</p>
+</li>
+<li>
+<p>Play Inclusive 2023 Male (13-15 Age Group) 1st place</p>
+</li>
+<li>
+<p>Play Inclusive 2023 Open (13-15 Age Group) 2nd place</p>
+</li>
+<li>
+<p>Participated in Pesta Sukan 2023 3-on-3 competition</p>
+</li>
+</ul>
+<p>Athletics</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participated in C Div 100m boys</p>
+</li>
+<li>
+<p>B Div 100m, 200m, 400m, 800m, 4x100m boys</p>
+</li>
+<li>
+<p>4x100m B boys reached Semifinals
 <br>
 </p>
+</li>
+</ul>
+<p>Football</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>League 1 B Division</p>
+</li>
+<li>
+<p>League 5 C Division Quarterfinals</p>
+<p></p>
+</li>
+</ul>
+<p>Floorball</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B boys Nationals round 1</p>
+</li>
+<li>
+<p>C boys Nationals Quarterfinals</p>
+<p></p>
+</li>
+</ul>
+<p>Badminton</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B and C boys and girls west zone round 1</p>
+</li>
+<li>
+<p>Play Inclusive (10-15 Age Group) 3rd place</p>
+</li>
+<li>
+<p>Play Inclusive Open 4th place
+<br>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -208,12 +295,22 @@ New Year Rice Distribution Event
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● <strong>GIRL GUIDES</strong>
-<br>- National Day Observance Ceremony
-<br>● <strong>SCOUTS</strong>
-<br>- National Day Observance Ceremony
+<p>Girl Guides</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Day Observance Ceremony
 <br>
 </p>
+</li>
+</ul>
+<p>Scouts</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Day Observance Ceremony
+<br>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -222,20 +319,40 @@ New Year Rice Distribution Event
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Crest Secondary School was awarded <strong>4 Gold, 1 Silver and 2 Bronze awards</strong> in
-IgnITE Skills Challenge 2023.
-<br>- Overall, 42 teams from Crest participated in this year’s Challenge and
+<ul data-tight="true" class="tight">
+<li>
+<p>Crest Secondary School was awarded <strong>4 Gold, 1 Silver and 2 Bronze awards</strong> in
+IgnITE Skills Challenge 2023.</p>
+</li>
+<li>
+<p>Overall, 42 teams from Crest participated in this year’s Challenge and
 22 teams qualified for the Finals (in 11 out of 15 categories).
 <br>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/ig2023.jpg">
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sustainability Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Vanda Miss Joaquim Sustained Achievement Award</p>
+</li>
+<li>
+<p>Climate Crisis Challenge 1st runner up</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <h4>2022</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -244,65 +361,95 @@ IgnITE Skills Challenge 2023.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>School Achievements 2022</strong>
+<td rowspan="1" colspan="1">
+<p>Aesthetics / CCA Achievements</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Innovation Club - International E-Waste Day School Collection Drive 2022</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate Of Achievement for collecting the highest weight of e-waste
+<br>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</li>
+</ul>
+<p>Visual Art Band - Singapore Youth Festival Arts Presentation 2022</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Accomplishment were presented to 2 student art sculptures</p>
+</li>
+</ul>
+<p>
+<br>Pop Band, Dance &amp; Service Club - National Day Celebrations at Yu Hua
+SMC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rousing performances at the 2022 Nation Day Grassroots Dinner</p>
+</li>
+</ul>
+<p>
+<br>Badminton CCA - Taman Jurong Yuva Shuttle Fest 2022</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1st Position for Under 16 Category (Female)</p>
+</li>
+<li>
+<p>3rd Position for Under 14 Category (Female)
+<br>
+</p>
+</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Aesthetics / CCA Achievements</strong>
-</p>
+<p>Uniform Group Achievements</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● Innovation Club - International E-Waste Day School Collection Drive
-2022
-<br>- Certificate Of Achievement for collecting the highest weight of e-waste
-<br>● Visual Art Band - Singapore Youth Festival Arts Presentation 2022
-<br>- Certificate of Accomplishment were presented to 2 student art sculptures
-<br>● Pop Band, Dance &amp; Service Club - National Day Celebrations at Yu
-Hua SMC
-<br>- Rousing performances at the 2022 Nation Day Grassroots Dinner
-<br>● Badminton CCA - Taman Jurong Yuva Shuttle Fest 2022
-<br>- 1st Position for Under 16 Category (Female)
-<br>- 3rd Position for Under 14 Category (Female)
+<p>Girl Guides - Puan Noor Aishah Award 2022</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze Award
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Uniform Group Achievements</strong>
-</p>
+<p>IgnITE Skills Challenge 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● Girl Guides - Puan Noor Aishah Award 2022
-<br>- Bronze Award
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>IgnITE Skills Challenge 2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>IgnITE Skills Challenge 2021</strong>:
-<br>
-<br>● With 5 Gold and 1 Bronze awards, Crest Secondary was awarded the Overall
+<p>IgnITE Skills Challenge 2021:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>With 5 Gold and 1 Bronze awards, Crest Secondary was awarded the Overall
 Champion Trophy 2022 (5 times since 2017). This is also the best set of
-results that Crest has achieved to-date.
-<br>● Overall, 43 teams from Crest participated in this year’s Challenge and
+results that Crest has achieved to-date.</p>
+</li>
+<li>
+<p>Overall, 43 teams from Crest participated in this year’s Challenge and
 13 teams qualified for the Finals (in 8 out of 16 categories).
 <br>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/ig2022.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sustainability Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Vanda Miss Joaquim Sustained Achievement Award</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -316,29 +463,42 @@ results that Crest has achieved to-date.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>School Achievements 2021</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Aesthetics Achievements</strong>
-</p>
+<p>Aesthetics Achievements</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● Popband - SYF 2021 Arts Presentation - Percussion Ensemble (Team A):
-Accomplishment
-<br>● Popband - SYF 2021 Arts Presentation - Percussion Ensemble (Team B):
-Commendation
-<br>● Guitar Club - SYF 2021 Arts Presentation - Guitar: Accomplishment
-<br>● Dance CCA - SYF 2021 Arts Presentation - International Dance: Accomplishment
-<br>● VAC - IgnITE Challenge 2021 - Digital Media Storytelling: Bronze
+<p>Popband - SYF 2021 Arts Presentation - Percussion Ensemble (Team A):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Accomplishment</p>
+</li>
+</ul>
+<p>Popband - SYF 2021 Arts Presentation - Percussion Ensemble (Team B):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Commendation</p>
+</li>
+</ul>
+<p>Guitar Club - SYF 2021 Arts Presentation - Guitar:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Accomplishment</p>
+</li>
+</ul>
+<p>Dance CCA - SYF 2021 Arts Presentation - International Dance:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Accomplishment</p>
+</li>
+</ul>
+<p>VAC - IgnITE Challenge 2021 - Digital Media Storytelling:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze
 <br>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/aa.jpg">
 </div>
@@ -361,21 +521,36 @@ Poetry-Writing and Illustration Competition - 2nd Runner up
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Other Achievements</strong>
-</p>
+<p>IgnITE Skills Challenge 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>IgnITE Skills Challenge 2021</strong>:
-<br>
-<br>● A total of 45 teams from Crest participated in this Challenge and 22
-teams qualified for the Finals (in 13 out of 15 categories).
-<br>● With 2 Gold, 1 Silver, and 3 Bronze awards, Crest Secondary was awarded
+<ul data-tight="true" class="tight">
+<li>
+<p>A total of 45 teams from Crest participated in this Challenge and 22 teams
+qualified for the Finals (in 13 out of 15 categories).</p>
+</li>
+<li>
+<p>With 2 Gold, 1 Silver, and 3 Bronze awards, Crest Secondary was awarded
 the Overall Champion trophy again in 2021.
 <br>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/aa2.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sustainability Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Vanda Miss Joaquim Sustained Achievement Award</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
