@@ -141,6 +141,45 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong><u>For Non FAS Sec 1 students in 2025:</u></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date: 23 Dec 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Timing: 9am to 3pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>For FAS Sec 1 students in 2025:</u></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date: 26 to 27 Dec 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Timing: 9am to 3pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>School Uniforms</h4>
 <p>Dear parent/guardian,</p>
 <p>This message serves to update you on the purchase of school uniforms.</p>
