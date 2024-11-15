@@ -32,6 +32,7 @@ sections:
       button: Download here
       url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
       image: /images/Eugene/Student_Handbook_2024_Cover.png
+      alt: Crest Student Handbook
   - infopic:
       title: Crest Secondary School (EIA 2024)
       id: infopic
