@@ -2,8 +2,8 @@
 title: Co Curricular Activities
 permalink: /programmes/student-development/cca/
 description: ""
-third_nav_title: •	Student Development
 variant: tiptap
+third_nav_title: Student Development
 ---
 <h3>Co Curricular Activities</h3>
 <p>Click the image to watch the CCA videos.</p>

@@ -2,8 +2,8 @@
 title: Character and Citizenship Education
 permalink: /character-and-citizenship-education/programmes/student-development/
 description: ""
-third_nav_title: •	Student Development
 variant: tiptap
+third_nav_title: Student Development
 ---
 <h3>Character and Citizenship Education</h3>
 <h4>Objective</h4>

@@ -2,7 +2,7 @@
 title: Discipline
 permalink: /discipline/programmes/student-development/
 description: ""
-third_nav_title: •	Student Development
+third_nav_title: Student Development
 ---
 ### Discipline
 

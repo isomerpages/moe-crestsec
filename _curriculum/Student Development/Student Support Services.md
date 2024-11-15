@@ -2,8 +2,8 @@
 title: Student Support Services
 permalink: /student-support/programmes/student-development/
 description: ""
-third_nav_title: •	Student Development
 variant: tiptap
+third_nav_title: Student Development
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Student Support/sss_dept.jpg">
