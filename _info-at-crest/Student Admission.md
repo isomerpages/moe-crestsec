@@ -19,7 +19,7 @@ have not done so.</p>
 <p>PSLE Certificate</p>
 </li>
 <li>
-<p>PDPA <a href="https://go.gov.sg/cssstudentpdpa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cssstudentpdpa</a> 
+<p>PDPA <a href="https://go.gov.sg/cssstudentpdpa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cssstudentpdpa</a>
 </p>
 </li>
 </ol>
