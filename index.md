@@ -18,6 +18,7 @@ sections:
       description: School tour, Principal's talk, talent showcase and so much more...
       button: Details
       url: /open-house-2024/
+      alt: Crest Open House 2024
   - infopic:
       title: Crest Information Booklet
       id: infopic
