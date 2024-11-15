@@ -2,5 +2,6 @@ collections:
   15-nov-temp:
     output: true
     order:
+      - Discipline.md
       - Character and Citizenship Education.md
       - Co Curricular Activities.md
