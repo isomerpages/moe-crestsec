@@ -13,7 +13,11 @@ sections:
   - infopic:
       id: infopic
       image: /images/1__A5_information_Card_Page_1.jpg
-      alt: Crest OH Info Card 1
+      subtitle: You're Invited
+      title: Crest Open House 2024 (20 Nov - 23 Nov)
+      description: School tour, Principal's talk, talent showcase and so much more...
+      button: Details
+      url: /open-house-2024/
   - infopic:
       id: infopic
       image: /images/1__A5_information_Card_Page_2.jpg
