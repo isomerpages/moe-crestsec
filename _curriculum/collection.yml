@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Total Curriculum/About.md
       - Total Curriculum/.keep
       - Total Curriculum/Philosophy.md
       - Total Curriculum/Beliefs.md
