@@ -5,6 +5,26 @@ description: ""
 variant: tiptap
 ---
 <h3>Student Admission Info</h3>
+<p>Dear Sec 1 2025 parent/guardian,</p>
+<p>Please submit the following documents to us via <a href="mailto:crestsec@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crestsec@schools.gov.sg</a>, if you
+have not done so.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Birth certificate of child/ward</p>
+</li>
+<li>
+<p>Both parents' NRIC</p>
+</li>
+<li>
+<p>PSLE Certificate</p>
+</li>
+<li>
+<p>PDPA <a href="https://go.gov.sg/cssstudentpdpa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cssstudentpdpa</a> 
+</p>
+</li>
+</ol>
+<p>Deadline is 23 Dec 2024, Monday.</p>
+<p>If you would like to apply for MOE FAS, please click on this link <a href="https://go.gov.sg/cssmoefas2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cssmoefas2025</a>.</p>
 <h4>Frequently Asked Questions on Crest Secondary School (CSS)</h4>
 <p><strong>1) Why is CSS set up?</strong>
 <br>MOE is committed to supporting the learning needs of all students. The
