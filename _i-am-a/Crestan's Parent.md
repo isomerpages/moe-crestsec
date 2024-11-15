@@ -162,10 +162,11 @@ include the following:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students’ Handbook</p>
+<p>Students Handbook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soft copy is found in the school website</p>
+<p>Download <a href="https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 </tbody>
