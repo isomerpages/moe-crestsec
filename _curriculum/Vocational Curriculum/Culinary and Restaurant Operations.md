@@ -2,7 +2,7 @@
 title: Culinary and Restaurant Operations
 permalink: /programmes/vocational-curriculum/culinary-and-restaurant-operations/
 description: ""
-third_nav_title: •	Vocational
+third_nav_title: Vocational Curriculum
 variant: tiptap
 ---
 <h3>Culinary and Restaurant Operations</h3>

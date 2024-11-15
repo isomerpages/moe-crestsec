@@ -2,7 +2,7 @@
 title: Mobile Web Applications
 permalink: /programmes/vocational-curriculum/mobile-web-applications/
 description: ""
-third_nav_title: •	Vocational
+third_nav_title: Vocational Curriculum
 variant: tiptap
 ---
 <h3>Mobile Web Applications</h3>

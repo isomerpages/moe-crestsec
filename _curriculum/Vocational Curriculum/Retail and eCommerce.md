@@ -2,7 +2,7 @@
 title: Retail and eCommerce
 permalink: /programmes/vocational-curriculum/retail-and-ecommerce/
 description: ""
-third_nav_title: •	Vocational
+third_nav_title: Vocational Curriculum
 variant: tiptap
 ---
 <h3>Retail and eCommerce</h3>

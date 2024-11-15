@@ -10,48 +10,26 @@ notification: ""
 sections:
   - hero:
       background: /images/crest-hero.gif
-      key_highlights:
-        - title: Crest Information Booklet
-          description: ""
-          url: https://drive.google.com/file/d/1KGt6ZEXzEpCvpuykc3cbcyzJKVs2WBj6/view?usp=sharing
-        - title: Student Handbook
-          description: ""
-          url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
   - infopic:
       id: infopic
       image: /images/1__A5_information_Card_Page_1.jpg
-      alt: Crest OH Info Card 1
+      subtitle: You're Invited
+      title: Crest Open House 2024 (20 Nov - 23 Nov)
+      description: School tour, Principal's talk, talent showcase and so much more...
+      button: Details
+      url: /open-house-2024/
   - infopic:
+      title: Crest Information Booklet
       id: infopic
-      image: /images/1__A5_information_Card_Page_2.jpg
-      alt: Crest OH Info Card 2
-  - infopic:
-      id: infopic
-      image: /images/2__Crest_Open_House.png
-      alt: Crest OH
-      title: Crest Open House 2024
-  - infopic:
-      id: infopic
-      image: /images/3___Day_1__2024_OH_.png
-      alt: Crest OH Day 1
-      title: Crest Open House Day 1
-  - infopic:
-      id: infopic
-      image: /images/4___Day_2___3__2024_OH_.png
-      alt: Crest OH Day 2 and 3
-      title: Crest Open House Days 2 & 3
-  - infopic:
-      id: infopic
-      image: /images/5___Day_4__2024_OH_.png
-      alt: Crest OH Day 4
-      title: Crest Open House Day 4
-  - infopic:
-      title: Crest Information Booklet 2025
-      id: infopic
-      button: FIND OUT MORE!
+      button: Download here
       url: https://drive.google.com/file/d/13xe-M3WLXQ_bOqKNH_ras7r6zflX06-Y/view
       image: /images/Crest_info_booklet.jpg
-      alt: Image alt text
+  - infopic:
+      title: Crest Student Handbook
+      id: infopic
+      button: Download here
+      url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
+      image: /images/Eugene/Student_Handbook_2024_Cover.png
   - infopic:
       title: Crest Secondary School (EIA 2024)
       id: infopic

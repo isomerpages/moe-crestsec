@@ -275,6 +275,11 @@ More than 90% of our graduated students can progress to ITE for a skills
 course at the Nitec level. From there, depending on how well they perform,
 many will be able to progress to a Diploma or Higher Nitec programme at
 ITE or a Polytechnic.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/Progression_Chart.png">
+</div>
+<p></p>
 <p>For further queries, please contact Crest Secondary School at:
 <br>Contact Person :
 <br>Ms Alarize Soo-Hoo, Senior Executive (Administration)

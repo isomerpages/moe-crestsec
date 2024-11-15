@@ -2,7 +2,6 @@
 title: Approaches
 permalink: /approach/programmes/teaching-andlearning/
 description: ""
-third_nav_title: Total Curriculum
 variant: tiptap
 ---
 <h3>Curriculum Approaches</h3>

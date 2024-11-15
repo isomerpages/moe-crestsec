@@ -2,7 +2,7 @@
 title: Internet of Things Applications
 permalink: /programmes/vocational-curriculum/internet-of-things-applications/
 description: ""
-third_nav_title: •	Vocational
+third_nav_title: Vocational Curriculum
 variant: markdown
 ---
 ### Internet of Things Applications

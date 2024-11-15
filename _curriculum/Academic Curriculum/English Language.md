@@ -2,7 +2,7 @@
 title: English Language
 permalink: /programmes/academic-curriculum/english/
 description: ""
-third_nav_title: •	Academic
+third_nav_title: Academic Curriculum
 variant: tiptap
 ---
 <h3>English Language</h3>

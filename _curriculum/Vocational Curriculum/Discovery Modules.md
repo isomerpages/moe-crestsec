@@ -3,7 +3,7 @@ title: Discovery Modules
 permalink: /discovery-modules/
 variant: tiptap
 description: ""
-third_nav_title: Vocational
+third_nav_title: Vocational Curriculum
 ---
 <p>Starting in January 2025, we will replace the current Taster Modules with
 Discovery Modules to spark interest in vocational learning among Lower

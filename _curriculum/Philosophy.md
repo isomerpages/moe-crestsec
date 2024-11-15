@@ -2,7 +2,6 @@
 title: Philosophy
 permalink: /philosophy/programmes/teaching-andlearning/
 description: ""
-third_nav_title: Total Curriculum
 variant: tiptap
 ---
 ### Philosophy
