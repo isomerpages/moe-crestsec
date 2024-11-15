@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Approaches.md
-      - Principles.md
-      - Beliefs.md
-      - Philosophy.md
       - About.md
+      - Philosophy.md
+      - Beliefs.md
+      - Principles.md
+      - Approaches.md
       - Academic/.keep
       - Academic/Aesthetics.md
       - Academic/English Language.md
@@ -22,8 +22,8 @@ collections:
       - Vocational/Mobile Web Applications.md
       - Vocational/Retail and eCommerce.md
       - Vocational/Industry Experiential Programme.md
-      - Student Development/Key Student Development Experiences.md
       - Student Development/.keep
+      - Student Development/Key Student Development Experiences.md
       - Student Development/Co Curricular Activities.md
       - Student Development/Character and Citizenship Education.md
       - Student Development/Discipline.md
