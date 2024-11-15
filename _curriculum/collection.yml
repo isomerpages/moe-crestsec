@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Curriculum Approaches.md
-      - Principles.md
+      - Curriculum Principles.md
       - Beliefs.md
       - Philosophy.md
       - About.md
