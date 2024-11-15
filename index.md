@@ -10,13 +10,6 @@ notification: ""
 sections:
   - hero:
       background: /images/crest-hero.gif
-      key_highlights:
-        - title: Crest Information Booklet
-          description: ""
-          url: https://drive.google.com/file/d/1KGt6ZEXzEpCvpuykc3cbcyzJKVs2WBj6/view?usp=sharing
-        - title: Student Handbook
-          description: ""
-          url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
   - infopic:
       id: infopic
       image: /images/1__A5_information_Card_Page_1.jpg
@@ -109,4 +102,10 @@ sections:
   - resources:
       title: Announcements
       id: resources
+  - infopic:
+      title: Student Handbook
+      id: infopic
+      button: Download here
+      url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
+      image: /images/Eugene/Student_Handbook_2024_Cover.png
 ---
