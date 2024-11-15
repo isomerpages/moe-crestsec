@@ -74,13 +74,6 @@ sections:
       image: /images/OYEA_2025.jpg
       alt: Image alt text
   - infopic:
-      title: 3R+R Uplifting Experiences
-      button: Learn More
-      alt: Image alt text
-      url: https://www.crestsec.edu.sg/3r-plus-r-uplifting-experiences/
-      image: /images/distinctive--3r.jpg
-      description: Reboot, Recondition, Restore + Rejoice through special programmes
-  - infopic:
       title: Authentic Learning
       button: Learn More
       alt: Image alt text
