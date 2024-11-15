@@ -19,30 +19,6 @@ sections:
       button: Details
       url: /open-house-2024/
   - infopic:
-      id: infopic
-      image: /images/1__A5_information_Card_Page_2.jpg
-      alt: Crest OH Info Card 2
-  - infopic:
-      id: infopic
-      image: /images/2__Crest_Open_House.png
-      alt: Crest OH
-      title: Crest Open House 2024
-  - infopic:
-      id: infopic
-      image: /images/3___Day_1__2024_OH_.png
-      alt: Crest OH Day 1
-      title: Crest Open House Day 1
-  - infopic:
-      id: infopic
-      image: /images/4___Day_2___3__2024_OH_.png
-      alt: Crest OH Day 2 and 3
-      title: Crest Open House Days 2 & 3
-  - infopic:
-      id: infopic
-      image: /images/5___Day_4__2024_OH_.png
-      alt: Crest OH Day 4
-      title: Crest Open House Day 4
-  - infopic:
       title: Crest Information Booklet 2025
       id: infopic
       button: FIND OUT MORE!
@@ -107,7 +83,7 @@ sections:
       title: Announcements
       id: resources
   - infopic:
-      title: Student Handbook
+      title: Crest Student Handbook
       id: infopic
       button: Download here
       url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
