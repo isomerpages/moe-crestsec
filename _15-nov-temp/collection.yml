@@ -2,6 +2,7 @@ collections:
   15-nov-temp:
     output: true
     order:
+      - Student Support Services.md
       - Discipline.md
       - Character and Citizenship Education.md
       - Co Curricular Activities.md
