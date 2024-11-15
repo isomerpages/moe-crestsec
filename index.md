@@ -19,12 +19,11 @@ sections:
       button: Details
       url: /open-house-2024/
   - infopic:
-      title: Crest Information Booklet 2025
+      title: Crest Information Booklet
       id: infopic
-      button: FIND OUT MORE!
+      button: Download here
       url: https://drive.google.com/file/d/13xe-M3WLXQ_bOqKNH_ras7r6zflX06-Y/view
       image: /images/Crest_info_booklet.jpg
-      alt: Image alt text
   - infopic:
       title: Crest Secondary School (EIA 2024)
       id: infopic
