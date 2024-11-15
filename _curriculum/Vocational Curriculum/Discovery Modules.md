@@ -62,17 +62,57 @@ in a reduction of timetable periods.</p>
 </tbody>
 </table>
 <p></p>
-<h4>App Wonders</h4>
-<p>This module is taught in Secondary 1. Students will create simple mobile
-apps, web-based games and animations. This module allows students to blend
-their creativity with block-based programming.</p>
-<p></p>
-<h4>Digital Wonders</h4>
-<p>This module is taught in Secondary 2. Students will plan and create web
-stories. This module allows students to acquire digital skills with hands-on
-web stories learning experiences.</p>
-<p></p>
 <h4>Synopsis</h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Crafty Concoction (Sec 1)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Byte-Sized Fun (Sec 2)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mocktail making</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Making local snacks (eg. curry puff, kuehs) and pastries</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cricut projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social media retailing (eg. live streaming, TikTok video)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basic product photography skills</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cook &amp; Sell activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Growing and harvesting herbs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -106,4 +146,44 @@ web stories learning experiences.</p>
 </tbody>
 </table>
 <p></p>
-<p>Under construction for other Discovery Modules.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Champion Run (Sec 1)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Creative Wizards (Sec 2)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>mBot programming and competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Makers Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tamiya car building and competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Creating and crafting items</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Snap Circuit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
