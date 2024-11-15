@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Curriculum Approaches.md
+      - Approaches.md
       - Curriculum Principles.md
       - Curriculum Beliefs.md
       - Curriculum Philosophy.md
