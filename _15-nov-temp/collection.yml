@@ -1,5 +1,4 @@
 collections:
   15-nov-temp:
     output: true
-    order:
-      - Key Student Development Experiences.md
+    order: []
