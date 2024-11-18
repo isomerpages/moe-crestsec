@@ -20,6 +20,14 @@ sections:
       url: /open-house-2024/
       alt: Crest Open House 2024
   - infopic:
+      title: Crest Corporate Video
+      subtitle: What can I expect?
+      id: infopic
+      button: Watch now
+      url: https://drive.google.com/file/d/1FSRnKPbSvkzH0qwoZkDWvxkzmUNuS8fq/view?usp=sharing
+      image: /images/Eugene/Corporate_Video.jpg
+      alt: Corporate Video
+  - infopic:
       title: Crest Information Booklet
       id: infopic
       button: Download here
@@ -83,12 +91,4 @@ sections:
   - resources:
       title: Announcements
       id: resources
-  - infopic:
-      title: Crest Corporate Video
-      subtitle: What can I expect?
-      id: infopic
-      button: Watch now
-      url: https://drive.google.com/file/d/1FSRnKPbSvkzH0qwoZkDWvxkzmUNuS8fq/view?usp=sharing
-      image: /images/Eugene/Corporate_Video.jpg
-      alt: Corporate Video
 ---
