@@ -4,24 +4,37 @@ permalink: /key-student-development-experiences-sec-2/
 variant: tiptap
 description: ""
 ---
-<h4>Go Overseas And Learn (GOAL) 4 Days 3 Nights</h4>
+<h4>Sec 2 Level Theme: Recondition -  Discovering Passions, Strengthening Connections<br>(Reconditioning to uncover strengths, igniting passions, and connecting for growth)</h4>
 <p></p>
-<p>Objectives</p>
+<p>Key Level Programme/Activities:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sharpen the students’ 21st Century Competencies through an authentic learning
-context.</p>
+<p>Go Overseas And Learn (GOAL)</p>
 </li>
 <li>
-<p>Give students a cultural immersion experience through hands-on activities.</p>
+<p>Discovery Modules</p>
 </li>
 <li>
-<p>Create opportunities for our students to interact with the students of
-the various countries to get broader perspectives of ASEAN.</p>
+<p>Selection of ISSC</p>
 </li>
 <li>
-<p>Provide learning experiences that cannot be replicated in the Singaporean
-context.</p>
+<p>Softball Interclass</p>
+</li>
+<li>
+<p>Inline Skating</p>
+</li>
+<li>
+<p>Crestomon</p>
+</li>
+<li>
+<p>Learning Journey</p>
 </li>
 </ul>
+<p></p>
+<p>Programme will incorporate the learning of:</p>
+<p>i. School Values (i-CREST)
+<br>(Integrity, Care, Resilience, Excellence, Self-Worth, and Teamwork)</p>
+<p>ii. Social-Emotional Learning (SEL) Competencies
+<br>(Self-Awareness, Self-Management, Social Awareness, Relationship Management
+&amp; Responsible Decision-Making)</p>
 <p></p>
