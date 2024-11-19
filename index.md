@@ -42,6 +42,13 @@ sections:
       image: /images/Eugene/Student_Handbook_2024_Cover.png
       alt: Crest Student Handbook
   - infopic:
+      title: Crest Virtual Tour
+      id: infopic
+      button: View
+      url: https://ths.li/Ay4FQDj
+      alt: Virtual Tour
+      image: /images/Eugene/Virtual_Tour.jpg
+  - infopic:
       title: Crest Secondary School (EIA 2024)
       id: infopic
       description: Interested to find out more about Crest Secondary School? Click
@@ -91,11 +98,4 @@ sections:
   - resources:
       title: Announcements
       id: resources
-  - infopic:
-      title: Crest Virtual Tour
-      id: infopic
-      button: View
-      url: https://ths.li/Ay4FQDj
-      alt: Virtual Tour
-      image: /images/Eugene/Virtual_Tour.jpg
 ---
