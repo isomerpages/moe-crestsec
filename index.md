@@ -97,4 +97,5 @@ sections:
       button: View
       url: https://ths.li/Ay4FQDj
       alt: Virtual Tour
+      image: /images/Eugene/Virtual_Tour.jpg
 ---
