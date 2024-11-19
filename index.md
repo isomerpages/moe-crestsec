@@ -91,4 +91,10 @@ sections:
   - resources:
       title: Announcements
       id: resources
+  - infopic:
+      title: Crest Virtual Tour
+      id: infopic
+      button: View
+      url: https://ths.li/Ay4FQDj
+      alt: Virtual Tour
 ---
