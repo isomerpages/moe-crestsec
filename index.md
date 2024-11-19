@@ -23,7 +23,7 @@ sections:
       title: Crest Corporate Video
       subtitle: Hear from Our Crestans
       id: infopic
-      button: Watch now
+      button: Watch
       url: https://drive.google.com/file/d/1FSRnKPbSvkzH0qwoZkDWvxkzmUNuS8fq/view?usp=sharing
       image: /images/Eugene/Corporate_Video.jpg
       alt: Corporate Video
