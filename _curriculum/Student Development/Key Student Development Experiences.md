@@ -8,7 +8,7 @@ third_nav_title: Student Development
 <h4>Our Mission</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sdt1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Level Themes" src="/images/Eugene/Level_Themes.png">
 </div>
 <p></p>
 <h4>Our Student Outcomes</h4>
