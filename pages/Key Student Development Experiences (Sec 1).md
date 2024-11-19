@@ -4,41 +4,33 @@ permalink: /key-student-development-experiences-sec-1/
 variant: tiptap
 description: ""
 ---
-<h4>OHANA – I KNOW I CAN! Camp 4 Days 3 Nights</h4>
+<h4>Sec 1 Level Theme: Reboot – Embracing My Crest Journey<br>(Rebooting into the Crest family, embracing a new chapter) </h4>
 <p></p>
-<p>Objectives</p>
+<p>Key Level Programme/Activities:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Introduce/reinforce Crestan Spirit</p>
+<p>Sec 1 Camp</p>
 </li>
 <li>
-<p>Build confidence and resilience</p>
+<p>Discovery Modules</p>
 </li>
 <li>
-<p>Value diversity through in-depth interaction opportunities</p>
+<p>Basketball Interclass</p>
 </li>
 <li>
-<p>Accept diversity within the group and understand how this enables the
-group to function more effectively</p>
+<p>Cycling Programme</p>
 </li>
 <li>
-<p>Forge camaraderie through common challenging experiences</p>
+<p>Crestomon</p>
 </li>
 <li>
-<p>Strengthen relationships among peers from the same class through team-based
-problem-solving experiential activities</p>
-</li>
-<li>
-<p>Lay a foundation for active and healthy living</p>
+<p>Learning Journey</p>
 </li>
 </ul>
 <p></p>
-<p>Programme will incorporate the learning of:
-<br>1. School Values (i-CREST)
-<br><em>(Integrity, Care, Resilience, Excellence, Self-Worth, and Teamwork)</em>
-</p>
-<p></p>
-<p>2. Social-Emotional Learning (SEL) Competencies
-<br><em>(Self-Awareness, Self-Management, Social Awareness, Relationship Management &amp; Responsible Decision-Making)</em>
-</p>
-<p></p>
+<p>Programme will incorporate the learning of:</p>
+<p>i. School Values (i-CREST)
+<br>(Integrity, Care, Resilience, Excellence, Self-Worth, and Teamwork)</p>
+<p>ii. Social-Emotional Learning (SEL) Competencies
+<br>(Self-Awareness, Self-Management, Social Awareness, Relationship Management
+&amp; Responsible Decision-Making)</p>
