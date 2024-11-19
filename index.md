@@ -21,9 +21,9 @@ sections:
       alt: Crest Open House 2024
   - infopic:
       title: Crest Corporate Video
-      subtitle: What can I expect?
+      subtitle: Hear from Our Crestans
       id: infopic
-      button: Watch now
+      button: Watch
       url: https://drive.google.com/file/d/1FSRnKPbSvkzH0qwoZkDWvxkzmUNuS8fq/view?usp=sharing
       image: /images/Eugene/Corporate_Video.jpg
       alt: Corporate Video
@@ -41,6 +41,13 @@ sections:
       url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
       image: /images/Eugene/Student_Handbook_2024_Cover.png
       alt: Crest Student Handbook
+  - infopic:
+      title: Crest Virtual Tour
+      id: infopic
+      button: View
+      url: https://ths.li/Ay4FQDj
+      alt: Virtual Tour
+      image: /images/Eugene/Virtual_Tour.jpg
   - infopic:
       title: Crest Secondary School (EIA 2024)
       id: infopic
