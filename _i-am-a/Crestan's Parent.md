@@ -79,7 +79,15 @@ an introductory video.</p>
 <h4>Parents Gateway</h4>
 <p>Click <a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
 access Parents Gateway.</p>
-<h4></h4>
+<p></p>
+<h4>Guidelines for School-Home Partnership and Parenting for Wellness Initiative</h4>
+<p>Please find both the PDF containing information on the refreshed Guidelines
+for School-Home Partnership (click <a href="https://drive.google.com/file/d/1DVjXYwIy8bxcpf52iTin0fzd6OXqCJDQ/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>)
+as well as the Parenting for Wellness initiative (click <a href="https://drive.google.com/file/d/1fl8g7phqj_PhTQ9Iy1fHIsIN7AxrnkDL/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>).
+These resources offer tips and strategies in promoting student well-being
+and fostering strong school-home partnerships. We strongly encourage everyone
+to make use of these insightful resources.</p>
+<p></p>
 <h4>Parents Communication Guidelines</h4>
 <p><strong>Our Guiding Principles</strong>
 </p>
