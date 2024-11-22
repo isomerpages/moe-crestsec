@@ -98,4 +98,13 @@ sections:
   - resources:
       title: Announcements
       id: resources
+  - infopic:
+      title: Charity Transparency Dedication Award 2024
+      id: infopic
+      description: The award celebrates our commitment to upholding transparency, good
+        governance, and accountability in all our charitable initiatives.
+      button: Learn More
+      url: www.google.com
+      image: /images/Eugene/MCCY_Dedication_Award_Logo.png
+      alt: CTDA 2024
 ---
