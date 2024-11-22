@@ -30,8 +30,8 @@ Institute of Technical Education. Their decision to come on-board the school
 is motivated by their strong passion for working with G1 students and making
 a significant difference in their lives.</p>
 <p>Crest will offer a customized Sec One to Sec Four curriculum that integrates
-both&nbsp;<a href="/programmes/academic-curriculum/aesthetics/" rel="noopener noreferrer nofollow" target="_blank">academic learning</a>&nbsp;and&nbsp;
-<a href="/discovery-modules/" rel="noopener noreferrer nofollow" target="_blank">vocational training</a><a href="/programmes/vocational-curriculum/permalink" rel="noopener noreferrer nofollow" target="_blank">.</a>&nbsp;Learning
+both&nbsp;<a href="https://www.crestsec.edu.sg/programmes/academic-curriculum/aesthetics/" rel="noopener noreferrer nofollow" target="_blank">academic learning</a>&nbsp;and&nbsp;
+<a href="https://www.crestsec.edu.sg/discovery-modules/" rel="noopener noreferrer nofollow" target="_blank">vocational training</a><a href="/programmes/vocational-curriculum/permalink" rel="noopener noreferrer nofollow" target="_blank">.</a>&nbsp;Learning
 will be practice-oriented, with an emphasis on skills development to prepare
 students for progression to post-secondary skills training at the ITE and
 for employment. Industrial attachment will be an important component of
