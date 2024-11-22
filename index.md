@@ -68,6 +68,15 @@ sections:
       button: LEARN MORE
       subtitle: (LHL AIUS) 2023
   - infopic:
+      title: Charity Transparency Dedication Award 2024
+      id: infopic
+      description: The award celebrates our commitment to upholding transparency, good
+        governance, and accountability in all our charitable initiatives.
+      button: Learn More
+      url: /charity-transparency-dedication-award-2024/
+      image: /images/Eugene/MCCY_Dedication_Award_Logo.png
+      alt: CTDA 2024
+  - infopic:
       title: President’s Award for Teachers 2025
       subtitle: PAT 2025
       id: infopic
@@ -98,13 +107,4 @@ sections:
   - resources:
       title: Announcements
       id: resources
-  - infopic:
-      title: Charity Transparency Dedication Award 2024
-      id: infopic
-      description: The award celebrates our commitment to upholding transparency, good
-        governance, and accountability in all our charitable initiatives.
-      button: Learn More
-      url: /charity-transparency-dedication-award-2024/
-      image: /images/Eugene/MCCY_Dedication_Award_Logo.png
-      alt: CTDA 2024
 ---
