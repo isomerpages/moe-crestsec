@@ -104,7 +104,7 @@ sections:
       description: The award celebrates our commitment to upholding transparency, good
         governance, and accountability in all our charitable initiatives.
       button: Learn More
-      url: www.google.com
+      url: /charity-transparency-dedication-award-2024/
       image: /images/Eugene/MCCY_Dedication_Award_Logo.png
       alt: CTDA 2024
 ---
