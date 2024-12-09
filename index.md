@@ -10,6 +10,9 @@ notification: ""
 sections:
   - hero:
       background: /images/crest-hero.gif
+  - resources:
+      title: Announcements
+      id: resources
   - infopic:
       id: infopic
       image: /images/1__A5_information_Card_Page_1.jpg
@@ -104,7 +107,4 @@ sections:
       url: /css/authentic-learning
       image: /images/distinctive--authentic-learning.jpg
       description: Academic integration with vocational subjects
-  - resources:
-      title: Announcements
-      id: resources
 ---
