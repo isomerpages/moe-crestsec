@@ -27,10 +27,11 @@ will be contacted through WhatsApp with further details.</p>
 <p><a href="/files/Crest_Secondary_School_2025_Sec_1_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2025 Sec 1 G2</a>
 </p>
 <p></p>
-<p>Sale/Collection of books for Sec 1 2025:
-<br><strong>Dec 23, Monday</strong> - Purchase of books and uniforms (Non FAS)
-<br>&lt;<strong>Date TBC&gt;</strong> - Collection of books and uniforms (FAS)
-<br><strong>Time: &lt;TBC&gt;</strong>
+<p><strong>Sale/Collection of books and uniforms for Sec 1 2025: </strong>
+</p>
+<p>Non-FAS: <strong>23 Dec 2024, Monday</strong> 
+<br>FAS: <strong>26 Dec 2024, Thursday and 27 Dec 2024, Friday </strong>
+<br>Time<strong>: 9am to 3pm</strong>
 </p>
 <p><strong>FAS Application:</strong>
 </p>
