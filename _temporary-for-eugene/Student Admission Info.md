@@ -68,9 +68,9 @@ will be contacted through WhatsApp with further details.</p>
 <p><strong>FAS Application:</strong>
 </p>
 <p><a href="/files/MOE_FAS_Application_Form_for_Specialised_Schools_2025_final.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form for Specialised Schools 2025</a>
+<br>
 </p>
-<p>
-<br>For FAS application, please email the above application form and the supporting
+<p>For FAS application, please email the above application form and the supporting
 documents to crestsec@schools.gov.sg by <strong>20 Dec 2024</strong>, Friday.
 Thank you.</p>
 <p></p>
