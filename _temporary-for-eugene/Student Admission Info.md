@@ -22,9 +22,8 @@ to guide you.</p>
 will be contacted through WhatsApp with further details.</p>
 <p><strong>Sec 1 Booklists:</strong>
 </p>
-<p>&lt;TBC&gt;
-<br>
-</p>
+<p>&lt;TBC&gt;</p>
+<p></p>
 <p>Sale/Collection of books for Sec 1 2025:
 <br><strong>Dec 23, Monday</strong> - Purchase of books and uniforms (Non FAS)
 <br>&lt;<strong>Date TBC&gt;</strong> - Collection of books and uniforms (FAS)
@@ -32,8 +31,8 @@ will be contacted through WhatsApp with further details.</p>
 </p>
 <p><strong>FAS Application:</strong>
 </p>
-<p>&lt;TBC&gt;
-<br>
+<p>&lt;TBC&gt;</p>
+<p>
 <br>For FAS application, please email the above application form and the supporting
 documents to crestsec@schools.gov.sg by <strong>20 Dec 2024</strong>, Friday.
 Thank you.</p>
