@@ -34,8 +34,7 @@ more subjects at the G2 level.</p>
 </p>
 </li>
 </ul>
-<p>
-<br>Parents are required to submit the <strong>SBB Option Form</strong> to either
+<p>Parents are required to submit the <strong>SBB Option Form</strong> to either
 accept or decline the offer. This ensures your child is assigned to the
 appropriate Secondary 1 Teaching Group.</p>
 <p><strong>Submission Deadline:</strong>
