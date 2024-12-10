@@ -22,7 +22,10 @@ to guide you.</p>
 will be contacted through WhatsApp with further details.</p>
 <p><strong>Sec 1 Booklists:</strong>
 </p>
-<p>&lt;TBC&gt;</p>
+<p><a href="/files/Crest_Secondary_School_2025_Sec_1_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2025 Sec 1 G1</a>
+</p>
+<p><a href="/files/Crest_Secondary_School_2025_Sec_1_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2025 Sec 1 G2</a>
+</p>
 <p></p>
 <p>Sale/Collection of books for Sec 1 2025:
 <br><strong>Dec 23, Monday</strong> - Purchase of books and uniforms (Non FAS)
@@ -31,7 +34,8 @@ will be contacted through WhatsApp with further details.</p>
 </p>
 <p><strong>FAS Application:</strong>
 </p>
-<p>&lt;TBC&gt;</p>
+<p><a href="/files/MOE_FAS_Application_Form_for_Specialised_Schools_2025_final.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form for Specialised Schools 2025</a>
+</p>
 <p>
 <br>For FAS application, please email the above application form and the supporting
 documents to crestsec@schools.gov.sg by <strong>20 Dec 2024</strong>, Friday.
