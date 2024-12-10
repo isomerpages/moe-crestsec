@@ -29,42 +29,9 @@ will be contacted through WhatsApp with further details.</p>
 <p></p>
 <p><strong>Sale/Collection of books and uniforms for Sec 1 2025:</strong>
 </p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p><strong>Non-FAS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 Dec 2024, Monday</p>
-<p>Time: 9am to 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p><strong>FAS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26 Dec 2024, Thursday</p>
-<p>27 Dec 2024, Friday</p>
-<p>Time: 9am to 3pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Non-FAS: <strong>23 Dec 2024, Monday</strong> 
-<br>FAS: <strong>26 Dec 2024, Thursday and 27 Dec 2024, Friday </strong>
-<br>Time<strong>: 9am to 3pm</strong>
-</p>
+<p>Non-FAS: 23 Dec 2024, Monday
+<br>FAS: 26 Dec 2024, Thursday and 27 Dec 2024, Friday
+<br>Time: 9am to 3pm</p>
 <p><strong>FAS Application:</strong>
 </p>
 <p><a href="/files/MOE_FAS_Application_Form_for_Specialised_Schools_2025_final.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form for Specialised Schools 2025</a>
