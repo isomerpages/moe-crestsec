@@ -37,14 +37,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr David Chan</p>
+<p>Mr Othman Arsan Bin Mohd Abubakar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal
 <br>(Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>david_th_chan@schools.gov.sg</p>
+<p>othman_arsan_mohd_abubakar@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
