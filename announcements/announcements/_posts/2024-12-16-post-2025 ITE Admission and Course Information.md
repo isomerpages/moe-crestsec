@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please click <a href="/files/EL/2025_ITE_Admission_and_Course_Information.pdf" rel="noopener nofollow" target="_blank">here</a> to
+access the information shared on 16 Dec 2024.</p>
