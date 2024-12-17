@@ -18,8 +18,9 @@ to guide you.</p>
 <p><strong>Things to bring:</strong>
 <br>Writing materials, water bottle and a storybook</p>
 <p><strong>Subject-based banding (SBB) briefing:</strong>
-<br>There will be a briefing on SBB for students who are eligible. Parents
-will be contacted through WhatsApp with further details.</p>
+<br>There will be a briefing on SBB for students who are eligible. Please
+click on this <a href="https://www.crestsec.edu.sg/announcements/announcements/2025-sbb-info/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
+more details.</p>
 <p><strong>Sec 1 Booklists:</strong>
 </p>
 <p><a href="/files/Crest_Secondary_School_2025_Sec_1_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2025 Sec 1 G1</a>
