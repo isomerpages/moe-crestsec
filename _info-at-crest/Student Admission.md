@@ -24,7 +24,10 @@ have not done so.</p>
 </li>
 </ol>
 <p>Deadline is 23 Dec 2024, Monday.</p>
-<p>If you would like to apply for MOE FAS, please click on this link <a href="https://go.gov.sg/cssmoefas2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cssmoefas2025</a>.</p>
+<p><strong>FAS Application:</strong>
+</p>
+<p>If you would like to apply for MOE FAS, please click on this link <a href="https://go.gov.sg/cssmoefas2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cssmoefas2025</a> and
+submit by <strong>20 Dec 2024</strong>, Friday.</p>
 <p></p>
 <h4>Information for New Secondary 1 Students</h4>
 <p>Congratulations on being accepted into Crest Secondary School. Please
@@ -78,14 +81,6 @@ more details.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>FAS Application:</strong>
-</p>
-<p><a href="/files/MOE_FAS_Application_Form_for_Specialised_Schools_2025_final.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form for Specialised Schools 2025</a>
-</p>
-<p>For FAS application, please email the above application form and the supporting
-documents to crestsec@schools.gov.sg by <strong>20 Dec 2024</strong>, Friday.
-Thank you.</p>
 <p></p>
 <p>For further queries, please contact Crest Secondary School at:
 <br>Contact Person :
