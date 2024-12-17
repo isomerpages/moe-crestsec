@@ -245,4 +245,3 @@ ITE or a Polytechnic.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/Progression_Chart.png">
 </div>
 <p></p>
-<p>F</p>
