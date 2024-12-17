@@ -7,5 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Please click <a href="https://www.crestsec.edu.sg/i-am-a/p6-student-parent/student-admission-info/" rel="noopener nofollow" target="_blank">here</a> to
-read updated information on Student Admission.</p>
+<p>For incoming Sec 1 students in 2025, please click <a href="https://www.crestsec.edu.sg/i-am-a/p6-student-parent/student-admission-info/" rel="noopener nofollow" target="_blank">here</a> to
+find out more on Student Admission information.</p>
