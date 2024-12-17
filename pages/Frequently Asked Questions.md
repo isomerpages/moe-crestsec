@@ -10,8 +10,7 @@ description: ""
 establishment of CSS complements MOE’s on-going efforts in providing students
 with an engaging learning experience, such as a curriculum that emphasises
 the building of students’ self-motivation and self-esteem, character development,
-and literacy and numeracy skills. CSS offers a&nbsp;customised four-year
-curriculum that integrates both academic learning and vocational training&nbsp;to
+and literacy and numeracy skills. CSS offers a&nbsp;<strong>customised four-year curriculum that integrates both academic learning and vocational training</strong>&nbsp;to
 provide students with skills-based, practice-oriented learning experiences.
 In addition, Character and Citizenship Education undergirds CSS’ holistic
 education approach, with a strong focus on values education and social
@@ -110,10 +109,10 @@ criteria. The MOE-FAS provides needy students with free school textbooks
 and stationery, school uniform and vocational attire, shoes and socks,
 waiver of school and standard miscellaneous fees, and daily school meal
 and transport subsidies. Students can approach the school’s Administration
-Office for a MOE-FAS application form or download the application&nbsp;
-<a href="https://www.crestsec.edu.sg/qql/slot/u1374/CSS%202022/Info%20@%20Crest/Student%20Admission%20Info/MOE%20FAS%20Application%20Form%20for%20Specialised%20Schools1.pdf" rel="noopener noreferrer nofollow" target="_blank">from the website</a>. Needy students who do not meet the eligibility criteria
-for MOE FAS may be considered for the School-Based FAS. Approval will be
-given on a case-by-case basis.</p>
+Office for a MOE-FAS application form or download the application <a href="/files/fas_application_specialised_schools_2025.pdf" rel="noopener nofollow" target="_blank">from the website</a>.
+Needy students who do not meet the eligibility criteria for MOE FAS may
+be considered for the School-Based FAS. Approval will be given on a case-by-case
+basis.</p>
 <p><strong>9. Does CSS provide bus shuttle service for students?</strong>
 <br>Due to a persistent island wide shortage of drivers for both private and
 public buses, the school is unable to procure shuttle bus services for
@@ -140,7 +139,7 @@ parents/guardians.</p>
 <p>2024 School Starting Time</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>2024 School Dismissal Time</p>
+<p>2024 School Dismissal Time ^</p>
 </td>
 </tr>
 <tr>
@@ -241,3 +240,9 @@ More than 90% of our graduated students can progress to ITE for a skills
 course at the Nitec level. From there, depending on how well they perform,
 many will be able to progress to a Diploma or Higher Nitec programme at
 ITE or a Polytechnic.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/Progression_Chart.png">
+</div>
+<p></p>
+<p>F</p>
