@@ -27,7 +27,8 @@ variant: tiptap
 <p>S1-01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Weiming</p>
+<p>Chan Lay Ling, Amy</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +36,8 @@ variant: tiptap
 <p>S1-02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Chwee Leong</p>
+<p>Hamidah Binte Haji Hamim</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +45,8 @@ variant: tiptap
 <p>S1-03</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Neo Teng Long Christopher</p>
+<p>Adrian Tan Liang Huat</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +54,8 @@ variant: tiptap
 <p>S1-04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Maznunnisha Binte Abdul Aziz</p>
+<p>(mahmud)</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +63,8 @@ variant: tiptap
 <p>S1-05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nadhirah Binte Ismail</p>
+<p>Ooi Heng</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +72,8 @@ variant: tiptap
 <p>S1-06</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lau Kia Hian</p>
+<p>Muszalifa Binte Aman</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +81,8 @@ variant: tiptap
 <p>S1-07</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Helmy Rozaimi Bin Husaimi</p>
+<p>Tay Hwee Fern</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +90,8 @@ variant: tiptap
 <p>S1-08</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hedzlyn Hazwany Binte Mohamed Mahrom</p>
+<p>Wee Pheng Choon Desmond</p>
 </td>
 </tr>
 </tbody>
@@ -109,7 +117,8 @@ variant: tiptap
 <p>S2-01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Jonathan Tsang Yim Ting</p>
+<p>Khairiah Binti Jaafar</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +126,8 @@ variant: tiptap
 <p>S2-02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Suriani Binte Sulaiman</p>
+<p>Muhammad Zaki Bin Hosain</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +135,8 @@ variant: tiptap
 <p>S2-03</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yuen Wei Dong (Dave)</p>
+<p>Siti Nooratika Bte Jumaat</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +144,8 @@ variant: tiptap
 <p>S2-04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Saheeta Nisvaan D/O Syed Maidin</p>
+<p>Liang Kai Poh</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +153,8 @@ variant: tiptap
 <p>S2-05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Chia Chia</p>
+<p>Mohammed Hafiez Bin Ali</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +162,8 @@ variant: tiptap
 <p>S2-06</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pamela Chia Hui Ling</p>
+<p>Rudie Asmara Bin Rahman</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +171,8 @@ variant: tiptap
 <p>S2-07</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lynn Tan Mei Yun</p>
+<p>Ong Chin Koon</p>
 </td>
 </tr>
 </tbody>
@@ -184,7 +199,8 @@ variant: tiptap
 <p>CRO + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Michelle</p>
+<p>Ling Chee Kwong</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +209,8 @@ variant: tiptap
 <p>CRO + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Farah Imran</p>
+<p>Lim Kian Chuan</p>
 </td>
 </tr>
 <tr>
@@ -202,7 +219,8 @@ variant: tiptap
 <p>CRO + MDA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ho Wei Lynn Karen</p>
+<p>Mohamed Althaf Shathali</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +229,8 @@ variant: tiptap
 <p>CRO + IOTA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chua Chin Choon (Desmond)</p>
+<p>Nathaniel Chia Wei Long</p>
 </td>
 </tr>
 <tr>
@@ -220,7 +239,8 @@ variant: tiptap
 <p>IOTA + MWA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Osman Farouk S/O Hassan Mohamed</p>
+<p>(yeong keong)</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +249,8 @@ variant: tiptap
 <p>IOTA + MDA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ong Cheng Soon</p>
+<p>Wong Yau Are</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +259,8 @@ variant: tiptap
 <p>MDA + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Wee Kee</p>
+<p>Lim Xin Tian</p>
 </td>
 </tr>
 <tr>
@@ -247,7 +269,8 @@ variant: tiptap
 <p>MDA + MWA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Boon Peng Leroy</p>
+<p>Teo Ee Chian Vanessa</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +279,8 @@ variant: tiptap
 <p>MWA + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Siti Nurharnani Binte Nahar</p>
+<p>Tan Beng Guat Derek</p>
 </td>
 </tr>
 </tbody>
