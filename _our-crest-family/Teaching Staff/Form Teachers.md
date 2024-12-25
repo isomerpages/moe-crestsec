@@ -55,7 +55,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Maznunnisha Binte Abdul Aziz</p>
-<p>(mahmud)</p>
+<p>Mahmud</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Osman Farouk S/O Hassan Mohamed</p>
-<p>(yeong keong)</p>
+<p>Yoong Keong</p>
 </td>
 </tr>
 <tr>
@@ -358,7 +358,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lo Chen Yang Marvin</p>
-<p>(siti mariam)</p>
+<p>Siti Mariam</p>
 </td>
 </tr>
 <tr>
