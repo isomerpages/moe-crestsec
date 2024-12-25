@@ -55,7 +55,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Maznunnisha Binte Abdul Aziz</p>
-<p>Mr Mahmud</p>
+<p>Mr Mahmud Bin Ahmad</p>
 </td>
 </tr>
 <tr>
