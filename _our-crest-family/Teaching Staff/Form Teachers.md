@@ -240,7 +240,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Osman Farouk S/O Hassan Mohamed</p>
-<p>Mr Yoong Keong</p>
+<p>Mr Yu Yoong Kheong</p>
 </td>
 </tr>
 <tr>
@@ -358,7 +358,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lo Chen Yang Marvin</p>
-<p>Ms Siti Mariam</p>
+<p>Ms Siti Mariam Binte Manshor</p>
 </td>
 </tr>
 <tr>
