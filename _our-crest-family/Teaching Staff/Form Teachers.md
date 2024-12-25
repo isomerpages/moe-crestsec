@@ -307,7 +307,8 @@ variant: tiptap
 <p>CRO + MDA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Eng Choon</p>
+<p>Rischka Syafiqa Putri Jonawi</p>
 </td>
 </tr>
 <tr>
@@ -316,7 +317,8 @@ variant: tiptap
 <p>CRO + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mutmainnah Binte Saidi</p>
+<p>Chan Mei Lian</p>
 </td>
 </tr>
 <tr>
@@ -325,7 +327,8 @@ variant: tiptap
 <p>CRO + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lee Tuck Suen</p>
+<p>Law Zhen Xi (Cherish)</p>
 </td>
 </tr>
 <tr>
@@ -334,7 +337,8 @@ variant: tiptap
 <p>CRO + IOTA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Betty Boo May Ling</p>
+<p>Poh Wei Yi, Ian</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +347,8 @@ variant: tiptap
 <p>IOTA + MWA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Shuhadah Binte Suleiman</p>
+<p>Lin Yuxuan Den</p>
 </td>
 </tr>
 <tr>
@@ -352,7 +357,8 @@ variant: tiptap
 <p>MDA + MWA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lo Chen Yang Marvin</p>
+<p>(siti mariam)</p>
 </td>
 </tr>
 <tr>
@@ -361,7 +367,8 @@ variant: tiptap
 <p>IOTA + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lee Woan Huey (Hannah)</p>
+<p>Tan Mei Yan Serene</p>
 </td>
 </tr>
 <tr>
@@ -370,7 +377,8 @@ variant: tiptap
 <p>MDA + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chen Yihan Alyssa</p>
+<p>Mohammed Rohan Bin Ismail</p>
 </td>
 </tr>
 </tbody>
