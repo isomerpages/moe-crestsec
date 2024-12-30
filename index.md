@@ -41,7 +41,7 @@ sections:
       title: Crest Student Handbook
       id: infopic
       button: Download here
-      url: https://cms.isomer.gov.sg/files/Crest_Secondary_School_Handbook_2025.pdf
+      url: https://www.crestsec.edu.sg/files/Crest_Secondary_School_Handbook_2025.pdf
       image: /images/Eugene/Student_Handbook_2024_Cover.png
       alt: Crest Student Handbook
   - infopic:
