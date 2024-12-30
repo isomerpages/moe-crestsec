@@ -33,7 +33,7 @@ sections:
       id: infopic
       button: Download here
       url: https://drive.google.com/file/d/12iV0m8aNs4DzRX62g3QZ3ukrE78y1Ctj/view?usp=drive_link
-      image: /images/Eugene/Student_Handbook_2024_Cover.png
+      image: /images/CSS_Handbook_2025.jpg
       alt: Crest Student Handbook
   - infopic:
       title: Crest Virtual Tour
