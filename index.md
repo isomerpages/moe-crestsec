@@ -14,15 +14,6 @@ sections:
       title: Announcements
       id: resources
   - infopic:
-      id: infopic
-      image: /images/1__A5_information_Card_Page_1.jpg
-      subtitle: You're Invited
-      title: Crest Open House 2024 (20 Nov - 23 Nov)
-      description: School tour, Principal's talk, talent showcase and so much more...
-      button: Details
-      url: /open-house-2024/
-      alt: Crest Open House 2024
-  - infopic:
       title: Crest Corporate Video
       subtitle: Hear from Our Crestans
       id: infopic
@@ -41,8 +32,8 @@ sections:
       title: Crest Student Handbook
       id: infopic
       button: Download here
-      url: https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link
-      image: /images/Eugene/Student_Handbook_2024_Cover.png
+      url: https://drive.google.com/file/d/12iV0m8aNs4DzRX62g3QZ3ukrE78y1Ctj/view?usp=drive_link
+      image: /images/CSS_Handbook_2025.jpg
       alt: Crest Student Handbook
   - infopic:
       title: Crest Virtual Tour
