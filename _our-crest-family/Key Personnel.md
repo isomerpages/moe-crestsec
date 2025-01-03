@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Key Personnel</h3>
-<h4>Heads of Department / School Staff Developer</h4>
+<h4>Managers/Heads</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -26,52 +26,92 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Juliana Chee</p>
+<p>Ms Lee Chia Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(English Language)</p>
+<p>Finance Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chee_pey_ling_juliana@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lisa Lok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Aesthetics)
-<br>(Co-Curricular Activities)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lok_lai_hoong@schools.gov.sg</p>
+<p>lee_chia_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Tan</p>
+<p>Ms Marina Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Discipline)</p>
+<p>Head
+<br>(Human Resource)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_teck_hong@schools.gov.sg</p>
+<p>marina_wong_may_li@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Siew Khim</p>
+<p>Ms Lee Siu Yuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Mathematics)
-<br>(Science)</p>
+<p>Head
+<br>(Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_siew_khim_b@schools.gov.sg</p>
+<p>lee_siu_yuen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Bay Siow Lon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head
+<br>(Student Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bay_siow_lon@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Dean / Heads of Department (HOD) / School Staff Developer (SSD)</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lam Kum Cheong Andy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>andy_lam_kum_cheong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Heng Boon Arthur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (PE &amp; CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -79,11 +119,7 @@ variant: tiptap
 <p>Mr Lee Ching Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Culinary &amp; Restaurant Operations)
-<br>(Retail &amp; E-commerce)
-<br>
-</p>
+<p>HOD (Vocational Education 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_ching_yong@schools.gov.sg</p>
@@ -91,23 +127,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Philip Yeo</p>
+<p>Ms Chan Ying Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Character and Citizenship Education)</p>
+<p>HOD (Vocational Education 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_choon_huat@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Lim</p>
+<p>Mr Lim Ming Hui Eugene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Information and Communications Technology)</p>
+<p>HOD
+<br>(Info-Communications Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_ming_hui_eugene@schools.gov.sg</p>
@@ -115,13 +150,57 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Lam</p>
+<p>Mr Tan Teck Hong Jason</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>HOD (Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>andy_lam_kum_cheong@schools.gov.sg</p>
+<p>tan_teck_hong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chee Pey Ling Juliana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chee_pey_ling_juliana@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lok Lai Hoong Lisa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Aesthetics &amp; Publicity)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lok_lai_hoong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Siew Khim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dean (SD) &amp; HOD (Mathematics &amp; Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_siew_khim_b@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Choon Huat Philip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Character and Citizenship Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_choon_huat@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -231,85 +310,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Managers/Heads (Admin)</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Chia Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Finance Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_chia_ling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Marina Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head
-<br>(Human Resource)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>marina_wong_may_li@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Siu Yuen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head
-<br>(Administration)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_siu_yuen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Edward Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>edward_neo_kim_chwee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Bay Siow Lon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head
-<br>(Student Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>bay_siow_lon@schools.gov.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4>Subject Heads</h4>
 <table style="minWidth: 75px">
 <colgroup>
