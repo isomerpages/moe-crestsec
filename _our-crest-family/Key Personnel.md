@@ -316,7 +316,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4></h4>
-<h4>Subject Heads</h4>
+<h4>Subject Heads (SH)</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -337,11 +337,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amy Chan</p>
+<p>Ms Chan Lay Ling Amy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(English Language)</p>
+<p>SH (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_lay_ling_amy@schools.gov.sg</p>
@@ -352,8 +351,7 @@ variant: tiptap
 <p>Ms Muszalifa Binte Aman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Malay Language)</p>
+<p>SH (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muszalifa_aman@schools.gov.sg</p>
@@ -361,10 +359,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Ho</p>
+<p>Ms Ho Su Ching Eunice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Mathematics)</p>
+<p>SH (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_su_ching_eunice@schools.gov.sg</p>
@@ -372,14 +370,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Den Lin</p>
+<p>Ms Tay Hwee Fern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Information and Communications Technology)</p>
+<p>SH (Info-Communications Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_yuxuan_den@schools.gov.sg</p>
+<p>tay_hwee_fern@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +384,7 @@ variant: tiptap
 <p>Mr Ooi Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Science &amp; Environmental Education)</p>
+<p>SH (Science &amp; Environmental Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ooi_heng@schools.gov.sg</p>
@@ -395,14 +392,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gordon Chua</p>
+<p>Mr Ng Wee Kee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Discipline)
-<br>[covering]</p>
+<p>SH (Discipline) [covering]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_choon_hiong@schools.gov.sg</p>
+<p>ng_wee_kee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -410,7 +406,7 @@ variant: tiptap
 <p>Mr Rudie Asmara Bin Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Internet of Things Applications)</p>
+<p>SH (Internet of Things Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rudie_asmara_rahman@schools.gov.sg</p>
@@ -418,23 +414,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Ying Hui</p>
+<p>Ms Ho Wei Lynn Karen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Mobile Web Applications)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_ying_hui@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Karen Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Education and Career Guidance)</p>
+<p>SH (Education and Career Guidance)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_wei_lynn_karen@schools.gov.sg</p>
@@ -442,11 +425,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Janice Tay</p>
+<p>Ms Tay Siew Mei Janice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Co-Curricular Activities)</p>
+<p>SH (Co-Curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_siew_mei_janice@schools.gov.sg</p>
@@ -454,11 +436,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Wee</p>
+<p>Mr Wee Pheng Choon Desmond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Physical Education)</p>
+<p>SH (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wee_pheng_choon_desmond@schools.gov.sg</p>
@@ -469,8 +450,7 @@ variant: tiptap
 <p>Ms Siti Nurharnani Binte Nahar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Character &amp; Citizenship Education)</p>
+<p>SH (Character &amp; Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_nurharnani_nahar@schools.gov.sg</p>
@@ -478,11 +458,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Lim</p>
+<p>Ms Lim Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Chinese Language)</p>
+<p>SH (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_michelle@schools.gov.sg</p>
@@ -493,8 +472,7 @@ variant: tiptap
 <p>Ms Chan Mei Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Retail &amp; E-commerce)</p>
+<p>SH (Retail &amp; E-commerce)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_mei_lian@schools.gov.sg</p>
@@ -502,14 +480,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Lay Beng</p>
+<p>Mr Tan Chwee Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Mechanical Design &amp; Automation)</p>
+<p>SH (Mechanical Design &amp; Automation) [covering]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_lay_beng@schools.gov.sg</p>
+<p>tan_chwee_leong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -517,9 +494,7 @@ variant: tiptap
 <p>Ms Rischka Syafiqa Putri Jonawi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Student Leadership Development)
-<br>[covering]</p>
+<p>SH (Student Leadership Development)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rischka_syafiqa_putri_jonawi@schools.gov.sg</p>
