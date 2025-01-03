@@ -284,8 +284,7 @@ variant: tiptap
 <p>Mr Chua Choon Hiong Gordon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Sec 3)</p>
-<p>[covering]</p>
+<p>AYH (Sec 3) [covering]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_choon_hiong@schools.gov.sg</p>
