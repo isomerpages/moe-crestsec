@@ -111,7 +111,7 @@ variant: tiptap
 <p>HOD (PE &amp; CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_heng_boon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ variant: tiptap
 <p>HOD (Vocational Education 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chan_ying_hui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
