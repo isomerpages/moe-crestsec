@@ -205,7 +205,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Year Heads/ASST Year Heads</h4>
+<h4>Year Heads (YH)/Assistant Year Heads (AYH)</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -226,35 +226,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Othman Arsan Bin Mohd Abubakar</p>
+<p>Mr Yue Sien Wee Eric</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean
-<br>(Student Development)</p>
+<p>YH (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>othman_arsan_mohd_abubakar@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Fareed Bin Hashim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head
-<br>(Seccondary 1 &amp; 2) [covering]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fareed_hashim_muhammad@schools.gov.sg</p>
+<p>yue_siew_wee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin How</p>
+<p>Mr How Wing Cheong Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>(Seccondary 3 &amp; 4)</p>
+<p>YH (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>how_wing_cheong_alvin@schools.gov.sg</p>
@@ -262,11 +248,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Muhammad Fareed Bin Hashim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>fareed_hashim_muhammad@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Xiu Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_xiu_yun@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Liew Jia Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Seccondary 1)</p>
+<p>AYH (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liew_jia_meng@schools.gov.sg</p>
@@ -274,14 +281,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chang Yi Ping</p>
+<p>Mr Chua Choon Hiong Gordon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Seccondary 2)</p>
+<p>AYH (Sec 3)</p>
+<p>[covering]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chang_yi_ping@schools.gov.sg</p>
+<p>chua_choon_hiong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -289,8 +296,7 @@ variant: tiptap
 <p>Ms Raihanah Beevi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Seccondary 3)</p>
+<p>AYH (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>raihanah_beevi@schools.gov.sg</p>
@@ -298,14 +304,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Foo Mei Yeng</p>
+<p>Ms Chang Yi Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Seccondary 4)</p>
+<p>AYH (CA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_mei_yeng@schools.gov.sg</p>
+<p>chang_yi_ping@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
