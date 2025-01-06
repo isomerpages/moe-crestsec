@@ -232,7 +232,7 @@ variant: tiptap
 <p>YH (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yue_siew_wee@schools.gov.sg</p>
+<p>yue_sien_wee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
