@@ -68,4 +68,6 @@ third_nav_title: Crest PAL and Alumni
 </p>
 <p><a href="https://drive.google.com/file/d/1M_4PpBjihVSrOpD2jFmJ7GdGBEg3KxtW/view?usp=sharing" rel="noopener nofollow" target="_blank">Refreshed Guidelines for School-Home Partnership</a>
 </p>
+<p><a href="https://drive.google.com/file/d/1WM0ygpXtoQkVFe4-l6lWkDDxNXJfghJx/view" rel="noopener nofollow" target="_blank">Triple P introduction (video)</a>
+</p>
 <p></p>
