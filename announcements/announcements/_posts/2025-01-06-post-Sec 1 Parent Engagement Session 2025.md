@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>The slides for Sec 1 Parent Engagement Session 2025 is now available.
+Please click <a href="https://www.crestsec.edu.sg/info-at-crest/useful-links/parent/" rel="noopener nofollow" target="_blank">here</a> to
+view it.</p>
