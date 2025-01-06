@@ -4,11 +4,6 @@ permalink: /info-at-crest/useful-links/student/
 description: ""
 variant: tiptap
 ---
-<h4>Schedule for Sec 2 ISS Selection</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISS_Selection_Schedule1.jpg">
-</div>
-<h4></h4>
 <h4>MIMS Password Self-Service Reset Guide</h4>
 <p>Please click on the link below to access the document.</p>
 <p><a href="/files/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Password Self-Service Reset Guide</a>

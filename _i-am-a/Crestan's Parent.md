@@ -4,6 +4,9 @@ permalink: /info-at-crest/useful-links/parent/
 description: ""
 variant: tiptap
 ---
+<h4>Parent Engagement Session 2025</h4>
+<p><a href="https://drive.google.com/file/d/1F_6MKDVlmpYPgGmX9OfTmhfbKkcuwdOA/view?usp=drivesdk" rel="noopener nofollow" target="_blank">Sec 1 Parent Engagement Session 2025</a>
+</p>
 <h4>Positive Parenting Programme (Triple P)</h4>
 <p>The Positive Parenting Programme (Triple P) is an evidence-based programme
 that equips parents with techniques to promote their children’s (aged up
