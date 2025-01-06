@@ -25,7 +25,7 @@ third_nav_title: Crest PAL and Alumni
 </p>
 <h4>Some thoughts from our Crest PAL members</h4>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:375px;margin-right:25px;" height="auto" width="100%" src="/images/cp6.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/cp6.jpg">
 </div>
 <p><em>"Cahaya was a quiet girl in primary school. Ever since she joined Crest, I see a change in her, especially in her outlook towards studies. Her mother also observed that Cahaya’s confidence level is higher now. One thing which surprised us was when Cahaya took the initiative to cook for us. Now, I see an independent and responsible girl.”</em>
 <br><strong>- Mr Mohamad Noor</strong>
