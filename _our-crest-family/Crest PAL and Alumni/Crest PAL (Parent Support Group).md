@@ -22,7 +22,7 @@ third_nav_title: Crest PAL and Alumni
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CrestPAL/d472dfd2_5782_4259_9e6e_74a09c20d82e.jpg">
 </div>
-<p><strong><em>For parents who wish to join the parents’ WhatsApp chat group managed by the Crest PAL ExCo, please ask your child to inform the Form Teacher with your email address or mobile phone number. A link to join the chatgroup will then be sent to you. </em></strong>
+<p><strong><em>For parents who wish to join the parents’ WhatsApp chat group managed by the Crest PAL ExCo, please ask your child to inform the Form Teacher with your email address or mobile phone number. A link to join the chatgroup will then be sent to you.</em></strong>
 </p>
 <h4>Some thoughts from our Crest PAL members</h4>
 <div class="isomer-image-wrapper">
@@ -35,7 +35,7 @@ third_nav_title: Crest PAL and Alumni
 <br><strong>-&nbsp;Mdm Sharon Tan</strong>
 </p>
 <p>&nbsp;<em>“I feel that Crest Secondary is best suited for the students because of the unique curriculum that allows for more experiential learning beyond the classroom. I also like the culture of the school where emphasis is on character building and teamwork.”</em>
-<br><strong>-&nbsp;Mdm Fanny Cheong </strong>
+<br><strong>-&nbsp;Mdm Fanny Cheong</strong>
 </p>
 <p><em>Serving as a parent volunteer in Crest is my way of expressing my gratitude to the teachers of Crest. They have given my children not just a holistic Secondary School education but also given them back their confidence, self-esteem and identity. Through Crest, my children have grown to be independent learners and responsible youths. This is because Crest teachers teach with their heart.</em>
 <br><strong>- Ms Celestine Lau</strong>
@@ -49,17 +49,17 @@ third_nav_title: Crest PAL and Alumni
 <p><strong>Crest PAL - Mdm Sharon &amp; Shanelle</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MlypPJXksfY"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MlypPJXksfY"></iframe>
 </div>
 <p><strong>Crest PAL - Mdm Juliyana &amp; Haikal</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YWB8pUEBY0Q"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YWB8pUEBY0Q"></iframe>
 </div>
 <p><strong>Crest PAL - Mdm Fanny &amp; Zachariah</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UiwIoJ18Ums"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UiwIoJ18Ums"></iframe>
 </div>
 <p>For more videos of Parents' Testimonies, please&nbsp;<strong><a href="https://www.youtube.com/watch?v=MlypPJXksfY&amp;list=PL8KJx-9KSZM_JjRUeB23zXMEWqcosKdGN" rel="noopener noreferrer nofollow" target="_blank">click on this link</a></strong>.</p>
 <p></p>
