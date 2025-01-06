@@ -6,7 +6,6 @@ variant: tiptap
 third_nav_title: Crest PAL and Alumni
 ---
 <h3>Crest PAL</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CrestPAL/IMG_20231104_WA0018.jpg">
 </div>
@@ -64,6 +63,10 @@ third_nav_title: Crest PAL and Alumni
 <p>For more videos of Parents' Testimonies, please&nbsp;<strong><a href="https://www.youtube.com/watch?v=MlypPJXksfY&amp;list=PL8KJx-9KSZM_JjRUeB23zXMEWqcosKdGN" rel="noopener noreferrer nofollow" target="_blank">click on this link</a></strong>.</p>
 <p></p>
 <h2>Resource Guides</h2>
+<p><strong>Please take your time to peruse these resources below for better parenting tips and engagement with your children.</strong>
+</p>
+<p><strong>More resources will be added here from time to time, so do check back regularly.</strong>
+</p>
 <p><a href="/files/Parenting_for_Wellness.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting for Wellness</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1M_4PpBjihVSrOpD2jFmJ7GdGBEg3KxtW/view?usp=sharing" rel="noopener nofollow" target="_blank">Refreshed Guidelines for School-Home Partnership</a>
