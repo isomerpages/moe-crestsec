@@ -40,6 +40,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Danial Akmal Razali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Technical Support Officer (AV)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:danial_akmal_razali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">danial_akmal_razali@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Klassen Charles Gerard</p>
 </td>
 <td rowspan="1" colspan="1">
