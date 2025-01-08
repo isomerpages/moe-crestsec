@@ -49,18 +49,6 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hafizah Binte Hamzah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hafizah_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hafizah_hamzah@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ismaiyah Binte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,13 +85,13 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Anthony Wong</p>
+<p>Mr Seah Kern Wee Alaric</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_teck_boon_anthony@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_teck_boon_anthony@schools.gov.sg</a>
+<p><a href="mailto:seah_kern_wee_alaric@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_kern_wee_alaric@schools.gov.sg</a>
 </p>
 </td>
 </tr>
