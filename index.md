@@ -32,7 +32,7 @@ sections:
       title: Crest Student Handbook
       id: infopic
       button: Download here
-      url: https://drive.google.com/file/d/1-aUukPQ65ZyiFh7pwEP2gJdhZriyRbR7/view?usp=sharing
+      url: https://drive.google.com/file/d/12iV0m8aNs4DzRX62g3QZ3ukrE78y1Ctj/view?usp=sharing
       image: /images/CSS_Handbook_2025.jpg
       alt: Crest Student Handbook
   - infopic:
