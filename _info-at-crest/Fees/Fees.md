@@ -156,7 +156,7 @@ third_nav_title: Fees
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>$640</strong>
+<p><strong>$640.00</strong>
 </p>
 </td>
 </tr>
