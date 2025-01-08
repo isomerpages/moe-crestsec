@@ -30,7 +30,7 @@ third_nav_title: Fees
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>2024</h4>
+<h4>2025</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -139,7 +139,7 @@ third_nav_title: Fees
 <p>Standard School Fees</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>$560.00</p>
+<p>$620.00</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ third_nav_title: Fees
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>$580</strong>
+<p><strong>$640</strong>
 </p>
 </td>
 </tr>
@@ -204,10 +204,10 @@ third_nav_title: Fees
 <p>Standard School Fees</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$970.00</p>
+<p>$1,030.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,910.00</p>
+<p>$2,050.00</p>
 </td>
 </tr>
 <tr>
@@ -227,11 +227,11 @@ third_nav_title: Fees
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>$991.80</strong>
+<p><strong>$1,051.80</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>$1,931.80</strong>
+<p><strong>$2,071.80</strong>
 </p>
 </td>
 </tr>
