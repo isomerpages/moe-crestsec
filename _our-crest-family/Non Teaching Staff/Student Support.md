@@ -37,25 +37,13 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pauline Chen</p>
+<p>Ms Chen Suh Shyan Pauline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_suh_shyan_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_suh_shyan_pauline@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Hafizah Binte Hamzah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hafizah_hamzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hafizah_hamzah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -73,7 +61,7 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Yap</p>
+<p>Mr Yap Zheng Jie Joseph</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -85,7 +73,7 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Celest Ling</p>
+<p>Ms Ling Ching Ching Celest</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -97,19 +85,19 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Anthony Wong</p>
+<p>Mr Seah Kern Wee Alaric</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_teck_boon_anthony@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_teck_boon_anthony@schools.gov.sg</a>
+<p><a href="mailto:seah_kern_wee_alaric@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_kern_wee_alaric@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hilda Ng</p>
+<p>Ms Ng Hsiao Huei Hilda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
