@@ -37,7 +37,7 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pauline Chen</p>
+<p>Ms Chen Suh Shyan Pauline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
@@ -61,7 +61,7 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Yap</p>
+<p>Mr Yap Zheng Jie Joseph</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -73,7 +73,7 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Celest Ling</p>
+<p>Ms Ling Ching Ching Celest</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -97,7 +97,7 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hilda Ng</p>
+<p>Ms Ng Hsiao Huei Hilda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
