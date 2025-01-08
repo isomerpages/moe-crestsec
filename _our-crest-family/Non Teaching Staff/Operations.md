@@ -25,18 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edward Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:edward_neo_kim_chwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">edward_neo_kim_chwee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chandra Segaran S/O Somoo</p>
 </td>
 <td rowspan="1" colspan="1">
