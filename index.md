@@ -61,27 +61,6 @@ sections:
       alt: Virtual Tour
       image: /images/Eugene/Virtual_Tour.jpg
   - infopic:
-      title: President’s Award for Teachers 2025
-      subtitle: PAT 2025
-      id: infopic
-      description: The President’s Award for Teachers gives national recognition to
-        experienced teachers who are role models for the teaching profession.
-      button: NOMINATE NOW!
-      url: https://go.gov.sg/pat2025
-      image: /images/PAT_2025.jpg
-      alt: Image alt text
-  - infopic:
-      title: Outstanding Youth in Education Award 2025
-      subtitle: OYEA 2025 Nomination
-      id: infopic
-      description: The Outstanding Youth in Education Award (OYEA) gives national
-        recognition to young teachers who are role models for the teaching
-        profession.
-      button: Nominate now!
-      url: https://go.gov.sg/oyea2025
-      image: /images/OYEA_2025.jpg
-      alt: Image alt text
-  - infopic:
       title: Authentic Learning
       button: Learn More
       alt: Image alt text
