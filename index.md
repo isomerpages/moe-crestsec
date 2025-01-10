@@ -43,15 +43,6 @@ sections:
       alt: Virtual Tour
       image: /images/Eugene/Virtual_Tour.jpg
   - infopic:
-      title: Crest Secondary School (EIA 2024)
-      id: infopic
-      description: Interested to find out more about Crest Secondary School? Click
-        below to sign up for sharing sessions!
-      button: Sign up now!
-      url: https://go.gov.sg/cresteia2024
-      image: /images/cresteia2024.jpg
-      alt: Image alt text
-  - infopic:
       title: Lee Hsien Loong Award for Innovations in Uplifting Students
       id: infopic
       description: The LHL AIUS seeks to recognise schools that engender a strong
@@ -60,7 +51,6 @@ sections:
       alt: Image alt text
       url: https://www.crestsec.edu.sg/lhl-aius-2023/
       button: LEARN MORE
-      subtitle: (LHL AIUS) 2023
   - infopic:
       title: Charity Transparency Dedication Award 2024
       id: infopic
