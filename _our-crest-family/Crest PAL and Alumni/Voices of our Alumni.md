@@ -69,6 +69,6 @@ help as a guide during the Crest Open House. The two other activities that
 I enjoyed most as an alumnus are the Alumni Appreciation Dinner and Secondary
 1 orientation programme where I had the opportunity to interact with my
 juniors and catch up with old friends.</p>
-<p><strong>Eric Liang Zhen Hui (Class of 2017)</strong>
+<p><strong>Shafiqah (Class of 2017)</strong>
 </p>
 <p></p>
