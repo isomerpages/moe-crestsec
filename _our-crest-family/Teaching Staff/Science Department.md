@@ -63,6 +63,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Mahmud Bin Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mahmud</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+<p>(Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mahmud_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mahmud_ahmad@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Shariffah Bibi Charag Din</p>
 </td>
 <td rowspan="1" colspan="1">
