@@ -100,11 +100,27 @@ variant: tiptap
 <p>Mr Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allied Educator T&amp;L
+<p>Teacher
 <br>(Internet of Things Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_cheng_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_cheng_soon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liang Kai Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Toh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+<p>(Internet of Things Applications &amp; Retail and e-Commerce)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liang_kai_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_kai_poh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
