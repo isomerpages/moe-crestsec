@@ -348,7 +348,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shuhadah Binte Suleiman</p>
-<p>Mr Lin Yuxuan Den</p>
 </td>
 </tr>
 <tr>
