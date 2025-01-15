@@ -31,6 +31,21 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Heng Boon (Arthur)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Physical Education &amp; Co-Curricular Activities)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:arthur_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">arthur_lim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Janice Tay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,6 +89,22 @@ third_nav_title: Teaching Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:how_wing_cheong_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">how_wing_cheong_alvin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yue Sien Wee (Eric)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+<p>(Secondary 3 and 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yue_sien_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yue_sien_wee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
