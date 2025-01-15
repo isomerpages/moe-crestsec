@@ -37,8 +37,8 @@ variant: tiptap
 <p>Ms Ifa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Malay Language)</p>
+<p>Subject Head</p>
+<p>(Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muszalifa_aman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muszalifa_aman@schools.gov.sg</a>
@@ -53,8 +53,8 @@ variant: tiptap
 <p>Ms Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Chinese Language)</p>
+<p>Subject Head</p>
+<p>(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_michelle@schools.gov.sg</a>
@@ -69,7 +69,8 @@ variant: tiptap
 <p>Ms Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Info Comm Technology)</p>
+<p>Subject Head</p>
+<p>(Info Comm Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_hwee_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hwee_fern@schools.gov.sg</a>
