@@ -117,7 +117,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-<p>(Internet of Things Applications &amp; Retail and e-Commerce)</p>
+<p>(Internet of Things Applications &amp; Retail and E-commerce)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liang_kai_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_kai_poh@schools.gov.sg</a>
