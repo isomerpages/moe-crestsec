@@ -37,7 +37,8 @@ variant: tiptap
 <p>Mr Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Vocational Education 1)
+<p>Head of Department</p>
+<p>(Vocational Education 1)
 <br>
 </p>
 </td>
