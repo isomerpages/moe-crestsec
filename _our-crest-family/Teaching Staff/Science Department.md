@@ -37,9 +37,8 @@ variant: tiptap
 <p>Mdm Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Mathematics)
-<br>(Science)</p>
+<p>Dean (Student Development) &amp; Head of Department (Mathematics &amp;
+Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_siew_khim_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_khim_b@schools.gov.sg</a>
@@ -54,7 +53,8 @@ variant: tiptap
 <p>Mr Ooi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Science and Environmental Education)</p>
+<p>Subject Head</p>
+<p>(Science and Environmental Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ooi_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ooi_heng@schools.gov.sg</a>
@@ -63,33 +63,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Foo Mei Yeng</p>
+<p>Mr Mahmud Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Foo</p>
+<p>Mr Mahmud</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Secondary 4)</p>
+<p>Teacher</p>
+<p>(Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_mei_yeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_mei_yeng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Den Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Information and Communications Technology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yuxuan_den@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yuxuan_den@schools.gov.sg</a>
+<p><a href="mailto:mahmud_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mahmud_ahmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -101,7 +85,8 @@ variant: tiptap
 <p>Mdm Shariffah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Assistant (Science)</p>
+<p>Technical Support Assistant</p>
+<p>(Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shariffah_bibi_charag_din@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_bibi_charag_din@schools.gov.sg</a>
