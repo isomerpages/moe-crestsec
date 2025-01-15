@@ -62,6 +62,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lim Xiu Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Secondary 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_xiu_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xiu_yun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Adrian Tan</p>
 </td>
 <td rowspan="1" colspan="1">
