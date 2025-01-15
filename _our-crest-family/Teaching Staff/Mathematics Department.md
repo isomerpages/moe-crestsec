@@ -36,9 +36,8 @@ variant: tiptap
 <p>Mdm Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Mathematics)
-<br>(Science)</p>
+<p>Dean (Student Development) &amp; Head of Department (Mathematics &amp;
+Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_siew_khim_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_khim_b@schools.gov.sg</a>
@@ -104,21 +103,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_teck_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_hong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Den Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Den</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Information and Communications Technology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yuxuan_den@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yuxuan_den@schools.gov.sg</a>
 </p>
 </td>
 </tr>
