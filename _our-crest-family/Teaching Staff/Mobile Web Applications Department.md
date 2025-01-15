@@ -37,7 +37,8 @@ variant: tiptap
 <p>Ms Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Vocational Education 2)</p>
+<p>Head of Department</p>
+<p>(Vocational Education 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_ying_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ying_hui@schools.gov.sg</a>
