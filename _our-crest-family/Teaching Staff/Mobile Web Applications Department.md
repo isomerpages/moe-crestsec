@@ -37,8 +37,7 @@ variant: tiptap
 <p>Ms Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Mobile Web Applications)</p>
+<p>HOD (Vocational Education 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_ying_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ying_hui@schools.gov.sg</a>
@@ -53,7 +52,8 @@ variant: tiptap
 <p>Mr Farouk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mobile Web Applications)</p>
+<p>Teacher</p>
+<p>(Mobile Web Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:osman_farouk_hassan_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">osman_farouk_hassan_mohamed@schools.gov.sg</a>
@@ -68,7 +68,8 @@ variant: tiptap
 <p>Mr Helmy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mobile Web Applications)</p>
+<p>Teacher</p>
+<p>(Mobile Web Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:helmy_rozaimi_husaimi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helmy_rozaimi_husaimi@schools.gov.sg</a>
@@ -83,7 +84,8 @@ variant: tiptap
 <p>Ms Atika</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mobile Web Applications)</p>
+<p>Teacher</p>
+<p>(Mobile Web Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_nooratika_jumaat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nooratika_jumaat@schools.gov.sg</a>
@@ -99,8 +101,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Allied Educator T&amp;L
-<br>(Mobile Web Applications)
-<br>(Internet of Things Applications)</p>
+<br>(Mobile Web Applications &amp; Internet of Things Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Jonathan_Tsang_Yim_Ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jonathan_tsang_yim_ting@schools.gov.sg</a>
