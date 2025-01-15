@@ -70,7 +70,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head</p>
-<p>(Info Comm Technology)</p>
+<p>(Information and Communications Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_hwee_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hwee_fern@schools.gov.sg</a>
@@ -85,8 +85,7 @@ variant: tiptap
 <p>Ms Beevi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Secondary 4) &amp;
+<p>Assistant Year Head (Secondary 4) &amp;
 <br>Teacher (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +101,8 @@ variant: tiptap
 <p>Mdm Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language)</p>
+<p>Teacher</p>
+<p>(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_chia_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chia_chia@schools.gov.sg</a>
@@ -117,7 +117,8 @@ variant: tiptap
 <p>Ms Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language)</p>
+<p>Teacher</p>
+<p>(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_yuen_ming_vicky@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_yan_serene@schools.gov.sg</a>
@@ -132,7 +133,8 @@ variant: tiptap
 <p>Mdm Nisha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay Language)</p>
+<p>Teacher</p>
+<p>(Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maznunnisha_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maznunnisha_abdul_aziz@schools.gov.sg</a>
@@ -147,7 +149,8 @@ variant: tiptap
 <p>Ms Nadhirah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay Language)</p>
+<p>Teacher</p>
+<p>(Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nadhirah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadhirah_ismail@schools.gov.sg</a>
@@ -162,7 +165,8 @@ variant: tiptap
 <p>Ms Siti</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay Language)</p>
+<p>Teacher</p>
+<p>(Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_mariam_manshor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mariam_manshor@schools.gov.sg</a>
