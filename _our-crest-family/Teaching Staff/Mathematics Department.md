@@ -52,8 +52,8 @@ Science)</p>
 <p>Mr Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Character and Citizenship Education)</p>
+<p>Head of Department</p>
+<p>(Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_choon_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_choon_huat@schools.gov.sg</a>
@@ -68,7 +68,8 @@ Science)</p>
 <p>Mr Jason</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Discipline)</p>
+<p>Head of Department</p>
+<p>(Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_teck_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_hong@schools.gov.sg</a>
@@ -114,8 +115,8 @@ Science)</p>
 <p>Ms Liew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Seccondary 2)</p>
+<p>Assistant Year Head</p>
+<p>(Seccondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liew_jia_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_jia_meng@schools.gov.sg</a>
