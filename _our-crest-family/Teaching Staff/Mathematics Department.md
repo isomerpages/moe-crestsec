@@ -46,37 +46,6 @@ Science)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_su_ching_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_su_ching_eunice@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Andy Lam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:andy_lam_kum_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">andy_lam_kum_cheong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Philip Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,6 +77,37 @@ Science)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Andy Lam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:andy_lam_kum_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">andy_lam_kum_cheong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Eunice Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+<p>(Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_su_ching_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_su_ching_eunice@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Liew Jia Meng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,14 +124,14 @@ Science)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kian Chuan</p>
+<p>Mr Edwin Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Mathematics)</p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_kian_chuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kian_chuan@schools.gov.sg</a>
@@ -146,8 +146,8 @@ Science)</p>
 <p>Mr Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Mathematics)</p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_weiming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_weiming@schools.gov.sg</a>
@@ -162,8 +162,8 @@ Science)</p>
 <p>Ms Hamidah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Mathematics)</p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hamidah_haji_hamim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hamidah_haji_hamim@schools.gov.sg</a>
@@ -178,8 +178,8 @@ Science)</p>
 <p>Ms Shuhadah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Mathematics)</p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shuhadah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shuhadah@schools.gov.sg</a>
@@ -194,8 +194,8 @@ Science)</p>
 <p>Mr Lo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Mathematics)</p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lo_chen_yang_marvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lo_chen_yang_marvin@schools.gov.sg</a>
@@ -210,8 +210,8 @@ Science)</p>
 <p>Mr Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Mathematics)</p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_tuck_suen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_tuck_suen@schools.gov.sg</a>
@@ -226,8 +226,8 @@ Science)</p>
 <p>Mdm Saheeta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Mathematics)</p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:saheeta_nisvaan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">saheeta_nisvaan@schools.gov.sg</a>
@@ -242,8 +242,8 @@ Science)</p>
 <p>Mr Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Mathematics)</p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nathaniel_chia_wei_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nathaniel_chia_wei_long@schools.gov.sg</a>
@@ -258,7 +258,8 @@ Science)</p>
 <p>Ms Xin Tian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_xin_tian_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_tian_a@schools.gov.sg</a>
@@ -273,7 +274,8 @@ Science)</p>
 <p>Mr Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yu_yoong_kheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yu_yoong_kheong@schools.gov.sg</a>
