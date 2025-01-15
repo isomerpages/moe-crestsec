@@ -37,8 +37,8 @@ variant: tiptap
 <p>Mr Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-<p>(Vocational Education 1)
+<p>Head of Department
+<br>(Vocational Education 1)
 <br>
 </p>
 </td>
@@ -55,8 +55,8 @@ variant: tiptap
 <p>Ms Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
-<p>(Retail and E-commerce)</p>
+<p>Subject Head
+<br>(Retail and E-commerce)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_mei_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_mei_lian@schools.gov.sg</a>
@@ -71,9 +71,9 @@ variant: tiptap
 <p>Mr Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
-<p>(Discipline)</p>
-<p>[covering]</p>
+<p>Subject Head
+<br>(Discipline)
+<br>[covering]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_wee_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_kee@schools.gov.sg</a>
@@ -88,9 +88,9 @@ variant: tiptap
 <p>Mr Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-<p>(Secondary 3</p>
-<p>[covering]</p>
+<p>Assistant Year Head
+<br>(Secondary 3
+<br>[covering]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_choon_hiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_choon_hiong@schools.gov.sg</a>
@@ -105,8 +105,8 @@ variant: tiptap
 <p>Ms Farah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Retail and E-commerce)</p>
+<p>Teacher
+<br>(Retail and E-commerce)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_farah_imran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_farah_imran@schools.gov.sg</a>
@@ -121,8 +121,8 @@ variant: tiptap
 <p>Ms Khairiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Retail and E-commerce)</p>
+<p>Teacher
+<br>(Retail and E-commerce)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khairiah_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khairiah_jaafar@schools.gov.sg</a>
@@ -137,8 +137,8 @@ variant: tiptap
 <p>Mrs Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Internet of Things Applications &amp; Retail and E-commerce)</p>
+<p>Teacher
+<br>(Internet of Things Applications &amp; Retail and E-commerce)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liang_kai_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_kai_poh@schools.gov.sg</a>
@@ -153,8 +153,8 @@ variant: tiptap
 <p>Ms Fateha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
-<p>(Retail and E-commerce)</p>
+<p>Technical Support Officer
+<br>(Retail and E-commerce)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nurul_fateha_Hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_fateha_Hashim@schools.gov.sg</a>
