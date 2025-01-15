@@ -1,6 +1,6 @@
 ---
 title: Board of Directors
-permalink: /info-at-crest/board-of-directors/
+permalink: /our-staff/
 description: ""
 variant: tiptap
 ---
