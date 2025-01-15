@@ -64,6 +64,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Wee Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+<p>(Discipline)</p>
+<p>[covering]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_wee_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_kee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Gordon Chua</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,21 +93,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_choon_hiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_choon_hiong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Wee Kee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Retail and E-commerce)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_wee_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_kee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
