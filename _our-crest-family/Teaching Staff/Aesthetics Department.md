@@ -36,8 +36,8 @@ variant: tiptap
 <p>Ms Lok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-<p>(Aesthetics &amp; Publicity)</p>
+<p>Head of Department
+<br>(Aesthetics &amp; Publicity)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lok_lai_hoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lok_lai_hoong@schools.gov.sg</a>
@@ -52,8 +52,8 @@ variant: tiptap
 <p>Ms Rischka</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
-<p>(Student Leadership Development)</p>
+<p>Subject Head
+<br>(Student Leadership Development)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rischka_syafiqa_putri_jonawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rischka_syafiqa_putri_jonawi@schools.gov.sg</a>
@@ -68,8 +68,8 @@ variant: tiptap
 <p>Ms Innah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Aesthetics)</p>
+<p>Teacher
+<br>(Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mutmainnah_saidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mutmainnah_saidi@schools.gov.sg</a>
@@ -84,8 +84,8 @@ variant: tiptap
 <p>Mr Ian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Aesthetics)</p>
+<p>Teacher
+<br>(Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poh_wei_yi_ian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wei_yi_ian@schools.gov.sg</a>
@@ -100,8 +100,8 @@ variant: tiptap
 <p>Mr Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Music)</p>
+<p>Teacher
+<br>(Music)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_beng_guat_derek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_beng_guat_derek@schools.gov.sg</a>
