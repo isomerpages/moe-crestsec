@@ -78,22 +78,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Othman Arsan Bin Mohd Abubakar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Othman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dean
-<br>(Student Development)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:othman_arsan_mohd_abubakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">othman_arsan_mohd_abubakar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Siti Nurharnani Binte Nahar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,21 +211,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huang_you_ya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_you_ya@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamad Hisham B Suwandi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Hisham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohd_hisham_b_suwandi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_hisham_b_suwandi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
