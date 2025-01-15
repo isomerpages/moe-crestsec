@@ -53,7 +53,8 @@ Science)</p>
 <p>Mr Ooi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Science and Environmental Education)</p>
+<p>Subject Head</p>
+<p>(Science and Environmental Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ooi_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ooi_heng@schools.gov.sg</a>
@@ -84,7 +85,8 @@ Science)</p>
 <p>Mdm Shariffah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Assistant (Science)</p>
+<p>Technical Support Assistant</p>
+<p>(Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shariffah_bibi_charag_din@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_bibi_charag_din@schools.gov.sg</a>
