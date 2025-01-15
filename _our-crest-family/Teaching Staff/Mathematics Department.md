@@ -265,6 +265,21 @@ Science)</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yu Yoong Kheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yu_yoong_kheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yu_yoong_kheong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
