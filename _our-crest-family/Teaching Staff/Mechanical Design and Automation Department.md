@@ -31,22 +31,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Lay Beng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Mechanical Design &amp; Automation)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_lay_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lay_beng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Chwee Leong</p>
 </td>
 <td rowspan="1" colspan="1">
