@@ -37,8 +37,8 @@ variant: tiptap
 <p>Ms Ifa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
-<p>(Malay Language)</p>
+<p>Subject Head
+<br>(Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muszalifa_aman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muszalifa_aman@schools.gov.sg</a>
@@ -53,8 +53,8 @@ variant: tiptap
 <p>Ms Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
-<p>(Chinese Language)</p>
+<p>Subject Head
+<br>(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_michelle@schools.gov.sg</a>
@@ -69,8 +69,8 @@ variant: tiptap
 <p>Ms Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
-<p>(Information and Communications Technology)</p>
+<p>Subject Head
+<br>(Information and Communications Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_hwee_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hwee_fern@schools.gov.sg</a>
@@ -101,8 +101,8 @@ variant: tiptap
 <p>Mdm Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Chinese Language)</p>
+<p>Teacher
+<br>(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_chia_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chia_chia@schools.gov.sg</a>
@@ -117,8 +117,8 @@ variant: tiptap
 <p>Ms Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Chinese Language)</p>
+<p>Teacher
+<br>(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_yuen_ming_vicky@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_yan_serene@schools.gov.sg</a>
@@ -133,8 +133,8 @@ variant: tiptap
 <p>Mdm Nisha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Malay Language)</p>
+<p>Teacher
+<br>(Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maznunnisha_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maznunnisha_abdul_aziz@schools.gov.sg</a>
@@ -149,8 +149,8 @@ variant: tiptap
 <p>Ms Nadhirah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Malay Language)</p>
+<p>Teacher
+<br>(Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nadhirah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadhirah_ismail@schools.gov.sg</a>
@@ -165,8 +165,8 @@ variant: tiptap
 <p>Ms Siti</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-<p>(Malay Language)</p>
+<p>Teacher
+<br>(Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_mariam_manshor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mariam_manshor@schools.gov.sg</a>
