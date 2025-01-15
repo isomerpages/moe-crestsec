@@ -127,6 +127,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Liang Kai Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Toh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+<p>(Internet of Things Applications &amp; Retail and e-Commerce)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liang_kai_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_kai_poh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Fateha Binte Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
