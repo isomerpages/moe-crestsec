@@ -1,5 +1,5 @@
 collections:
-  our-crest-family:
+  our-staff:
     output: true
     order:
       - Board of Directors.md
