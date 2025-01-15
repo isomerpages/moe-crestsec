@@ -115,7 +115,7 @@ Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Seccondary 1)</p>
+<br>(Seccondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liew_jia_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_jia_meng@schools.gov.sg</a>
