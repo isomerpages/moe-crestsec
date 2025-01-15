@@ -138,21 +138,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Izziana Binte Kamaruddin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Izziana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_izziana_kamaruddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_izziana_kamaruddin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4></h4>
