@@ -37,30 +37,12 @@ variant: tiptap
 <p>Mr Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Culinary &amp; Restaurant Operations)
-<br>(Retail &amp; E-commerce)
+<p>HOD (Vocational Education 1)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_ching_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ching_yong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chang Yi Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Secondary 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chang_yi_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_yi_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -77,6 +59,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_wei_lynn_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_lynn_karen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chang Yi Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head
+<br>(Crest Academy)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chang_yi_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_yi_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -136,7 +134,7 @@ variant: tiptap
 <p>Ms Law</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allied Educator
+<p>Teacher
 <br>(Culinary &amp; Restaurant Operations)</p>
 </td>
 <td rowspan="1" colspan="1">
