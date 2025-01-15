@@ -55,8 +55,8 @@ variant: tiptap
 <p>Ms Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Education and Career Guidance)</p>
+<p>Subject Head</p>
+<p>(Education and Career Guidance)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_wei_lynn_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_lynn_karen@schools.gov.sg</a>
@@ -71,8 +71,8 @@ variant: tiptap
 <p>Ms Chang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Crest Academy)</p>
+<p>Assistant Year Head</p>
+<p>(Crest Academy)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_yi_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_yi_ping@schools.gov.sg</a>
@@ -87,8 +87,8 @@ variant: tiptap
 <p>Mr Yuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Culinary &amp; Restaurant Operations)</p>
+<p>Teacher</p>
+<p>(Culinary and Restaurant Operations)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yuen_wei_dong_dave@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yuen_wei_dong_dave@schools.gov.sg</a>
@@ -103,8 +103,8 @@ variant: tiptap
 <p>Mr Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Culinary &amp; Restaurant Operations)</p>
+<p>Teacher</p>
+<p>(Culinary and Restaurant Operations)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ling_chee_kwong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_chee_kwong@schools.gov.sg</a>
@@ -119,8 +119,8 @@ variant: tiptap
 <p>Mr Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Culinary &amp; Restaurant Operations)</p>
+<p>Teacher</p>
+<p>(Culinary and Restaurant Operations)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_chin_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chin_koon@schools.gov.sg</a>
@@ -135,8 +135,8 @@ variant: tiptap
 <p>Ms Law</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Culinary &amp; Restaurant Operations)</p>
+<p>Teacher</p>
+<p>(Culinary and Restaurant Operations)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:law_zhen_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law_zhen_xi@schools.gov.sg</a>
@@ -151,8 +151,8 @@ variant: tiptap
 <p>Ms Natasha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Executive
-<br>(Culinary &amp; Restaurant Operations)</p>
+<p>Executive</p>
+<p>(Culinary and Restaurant Operations)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:natasha_qhalisha_japri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_qhalisha_japri@schools.gov.sg</a>
@@ -167,8 +167,8 @@ variant: tiptap
 <p>Ms Yana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer
-<br>(Culinary &amp; Restaurant Operations)</p>
+<p>Operations Support Officer</p>
+<p>(Culinary and Restaurant Operations)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liyanah@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liyanah@crestsec.edu.sg</a>
