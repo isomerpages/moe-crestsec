@@ -102,7 +102,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Allied Educator T&amp;L
-<br>(Mobile Web Applications &amp; Internet of Things Applications)</p>
+<br>(Internet of Things Applications &amp; Mobile Web Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Jonathan_Tsang_Yim_Ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jonathan_tsang_yim_ting@schools.gov.sg</a>
