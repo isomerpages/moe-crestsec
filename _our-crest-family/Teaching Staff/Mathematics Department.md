@@ -36,9 +36,8 @@ variant: tiptap
 <p>Mdm Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Mathematics)
-<br>(Science)</p>
+<p>Dean (Student Development) &amp; Head of Department (Mathematics &amp;
+Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_siew_khim_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_khim_b@schools.gov.sg</a>
