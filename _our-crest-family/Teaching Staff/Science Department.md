@@ -63,38 +63,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Foo Mei Yeng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Foo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Secondary 4)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_mei_yeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_mei_yeng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Den Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Information and Communications Technology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yuxuan_den@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yuxuan_den@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Shariffah Bibi Charag Din</p>
 </td>
 <td rowspan="1" colspan="1">
