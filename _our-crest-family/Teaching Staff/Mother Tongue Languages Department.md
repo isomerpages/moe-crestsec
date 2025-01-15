@@ -63,6 +63,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Tay Hwee Fern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Info Comm Technology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_hwee_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hwee_fern@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Raihanah Beevi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,7 +149,22 @@ variant: tiptap
 <p>Teacher (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadhirah@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadhirah@crestsec.edu.sg</a>
+<p><a href="mailto:nadhirah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadhirah_ismail@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Mariam Binte Manshor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_mariam_manshor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mariam_manshor@schools.gov.sg</a>
 </p>
 </td>
 </tr>
