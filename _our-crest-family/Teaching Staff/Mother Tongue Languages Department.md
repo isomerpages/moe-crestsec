@@ -85,7 +85,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Secondary 3)
+<br>(Secondary 3) &amp;
 <br>Teacher (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
