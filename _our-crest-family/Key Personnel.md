@@ -138,11 +138,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Ming Hui Eugene</p>
+<p>Mr Eugene Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD
-<br>(Info-Communications Technology)</p>
+<br>(Information and Communications Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_ming_hui_eugene@schools.gov.sg</p>
