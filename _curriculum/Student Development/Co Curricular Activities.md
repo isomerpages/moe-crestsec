@@ -6,7 +6,6 @@ variant: tiptap
 third_nav_title: Student Development
 ---
 <h3>Co Curricular Activities</h3>
-<p>Click the image to watch the CCA videos.</p>
 <h4>Physical Sports</h4>
 <table style="minWidth: 75px">
 <colgroup>
