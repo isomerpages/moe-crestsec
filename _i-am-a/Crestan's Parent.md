@@ -12,7 +12,7 @@ variant: tiptap
 that equips parents with techniques to promote their children’s (aged up
 to 16 years) psychological, social and emotional competence. Triple P is
 built on a tiered system that provides different degrees of parental support.</p>
-<p>Click <a href="https://forms.office.com/pages/responsepage.aspx?id=XwAOUG4p-UGAA3kxAE97yW9dkxtpfn9Evb0bJuZNlLNUNkxHM1lHUDZCU0ZUNkNTT0JNWDBCSU8xTyQlQCN0PWcu&amp;route=shorturl" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://go.gov.sg/lfs-iif2025" rel="noopener nofollow" target="_blank">here</a> to
 indicate your interest.</p>
 <p>Click <a href="https://drive.google.com/file/d/1_XIz8RWql3HYYLz4KBNDDsfCSFxlxReb/view" rel="noopener nofollow" target="_blank">here</a> for
 an introductory video.</p>
