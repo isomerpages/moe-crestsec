@@ -126,6 +126,60 @@ Abstinence and upholding family values are the key messages.</p>
 <p>At CREST Secondary School, the eTeens programme will be implemented as
 follows in 2025:</p>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Topics/Lessons</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Learning Objectives</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time Period</p>
+<p>(e.g. Term 3 Week 9)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk delivered through a pre-recorded video</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raise awareness and provide knowledge on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
+prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+</li>
+<li>
+<p>Managing relationships and risky situations in a healthy way.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 8</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>INFORMATION FOR PARENTS</h4>
 </li>
 <li>
