@@ -190,7 +190,15 @@ or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
 <p><strong><u>Opt Out Forms:</u></strong>
 </p>
-<p><a href="/files/annex_a_opt_out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ANNEX A_2024.pdf</a>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sex_ed/Sexuality_Education_Opt_out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A - Sexuality Education Parents Opt-out Form</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Sex_ed/eTeens_Parents_Opt_out_Form__Sec__HPB__Crest.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B – eTeens Parents Opt-out Form</a>
+</p>
+</li>
+</ol>
 <p><a href="/files/annex_b_crest_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ANNEX_B_2024.pdf</a>
 </p>
