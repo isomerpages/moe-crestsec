@@ -200,5 +200,4 @@ or to seek clarification about the school’s Sexuality Education programme.</p>
 </p>
 </li>
 </ol>
-<p><a href="/files/annex_b_crest_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ANNEX_B_2024.pdf</a>
-</p>
+<p></p>
