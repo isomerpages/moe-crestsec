@@ -66,10 +66,11 @@ sections:
   - infopic:
       title: Crest Virtual Tour
       id: infopic
-      button: View
+      button: Explore now
       url: https://ths.li/Ay4FQDj
       alt: Virtual Tour
       image: /images/Eugene/Virtual_Tour.jpg
+      description: Explore Crest's special rooms and facilities by taking a virtual tour.
   - infopic:
       title: Authentic Learning
       button: Learn More
