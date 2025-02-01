@@ -67,4 +67,14 @@ sections:
       url: /css/authentic-learning
       image: /images/distinctive--authentic-learning.jpg
       description: Academic integration with vocational subjects
+  - infopic:
+      title: Inside Crest Secondary
+      id: infopic
+      description: In this series, CNA goes behind the gates of Crest Secondary School
+        and bear witness to the complexities and anxieties faced by the students
+        and teachers.
+      button: Watch on CNA
+      url: https://www.channelnewsasia.com/watch/inside-crest-secondary/not-your-usual-classroom-4898361
+      image: /images/inside_crest_2.jpg
+      alt: Image alt text
 ---
