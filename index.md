@@ -18,7 +18,6 @@ sections:
       id: infopic
       description: CNA goes behind the gates of Crest Secondary and bear witness to
         the complexities and anxieties faced by the students and teachers.
-        (1st-3rd Feb at 9pm on CNA)
       button: Watch on CNA
       url: https://www.channelnewsasia.com/watch/inside-crest-secondary
       image: /images/inside_crest_2.jpg
