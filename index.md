@@ -23,6 +23,16 @@ sections:
       image: /images/inside_crest_2.jpg
       alt: Image alt text
   - infopic:
+      title: Inspiring Teacher of English Award 2025
+      id: infopic
+      description: This recognises teachers who have been instrumental in igniting a
+        love for the English Language and are effective in helping their
+        students communicate better.
+      button: Find out more
+      url: www.goodenglish.org.sg
+      image: /images/iloveeng.jpg
+      alt: Image alt text
+  - infopic:
       title: Lee Hsien Loong Award for Innovations in Uplifting Students
       id: infopic
       description: The LHL AIUS seeks to recognise schools that engender a strong
