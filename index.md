@@ -18,10 +18,19 @@ sections:
       id: infopic
       description: CNA goes behind the gates of Crest Secondary and bear witness to
         the complexities and anxieties faced by the students and teachers.
-        (1st-3rd Feb at 9pm on CNA)
       button: Watch on CNA
       url: https://www.channelnewsasia.com/watch/inside-crest-secondary
       image: /images/inside_crest_2.jpg
+      alt: Image alt text
+  - infopic:
+      title: Inspiring Teacher of English Award 2025
+      id: infopic
+      description: This recognises teachers who have been instrumental in igniting a
+        love for the English Language and are effective in helping their
+        students communicate better.
+      button: Find out more
+      url: www.goodenglish.org.sg
+      image: /images/iloveeng.jpg
       alt: Image alt text
   - infopic:
       title: Lee Hsien Loong Award for Innovations in Uplifting Students
