@@ -29,7 +29,7 @@ sections:
         love for the English Language and are effective in helping their
         students communicate better.
       button: Find out more
-      url: www.goodenglish.org.sg
+      url: https://www.goodenglish.org.sg
       image: /images/iloveeng.jpg
       alt: Image alt text
   - infopic:
