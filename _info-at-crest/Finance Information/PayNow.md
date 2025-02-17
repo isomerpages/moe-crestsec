@@ -10,6 +10,6 @@ to UEN: 201136224W.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="PayNow" src="/images/CREST_PAYNOW.png">
+<img style="width: 40%;" height="auto" width="100%" alt="PayNow" src="/images/CREST_PAYNOW.png">
 </div>
 <p></p>
