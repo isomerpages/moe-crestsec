@@ -2,12 +2,12 @@ collections:
   info-at-crest:
     output: true
     order:
-      - Finance Information/.keep
-      - Finance Information/Financial Information.md
-      - Finance Information/PayNow.md
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
+      - Finance Information/.keep
+      - Finance Information/Financial Information.md
+      - Finance Information/PayNow.md
       - Success Stories.md
       - Newsroom/.keep
       - Newsroom/Newsroom.md
