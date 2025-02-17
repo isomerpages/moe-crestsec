@@ -48,8 +48,9 @@ and learning. The SSC is headed by the Principal as the Advisor, Vice Principal
 (Admin) as the Chairman who is also the Chief Safety Officer and Six members.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/safety_org_chart_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/css_safety_chart.png">
 </div>
+<p></p>
 <p><strong><u>School Emergency Preparedness</u></strong>
 </p>
 <p>School Emergency Structure (SES)</p>
