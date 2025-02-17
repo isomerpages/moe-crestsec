@@ -2,6 +2,7 @@ collections:
   info-at-crest:
     output: true
     order:
+      - Finance Information/PayNow.md
       - Finance Information/Financial Information.md
       - Finance Information/.keep
       - Principal's Message.md
