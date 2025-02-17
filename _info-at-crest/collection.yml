@@ -2,9 +2,6 @@ collections:
   info-at-crest:
     output: true
     order:
-      - Finance Information/.keep
-      - Finance Information/Financial Information.md
-      - Finance Information/PayNow.md
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
@@ -18,6 +15,9 @@ collections:
       - Newsroom/2019.md
       - Newsroom/2018.md
       - Safety and Security.md
+      - Finance Information/.keep
+      - Finance Information/Financial Information.md
+      - Finance Information/PayNow.md
       - School Policies/.keep
       - School Policies/Data Protection Policy.md
       - School Policies/Whistleblowing Policy.md
