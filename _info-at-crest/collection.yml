@@ -2,7 +2,6 @@ collections:
   info-at-crest:
     output: true
     order:
-      - PayNow.md
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
@@ -16,6 +15,7 @@ collections:
       - Newsroom/2019.md
       - Newsroom/2018.md
       - Financial Information.md
+      - PayNow.md
       - Safety and Security.md
       - School Policies/.keep
       - School Policies/Data Protection Policy.md
