@@ -87,4 +87,13 @@ sections:
       url: /css/authentic-learning
       image: /images/distinctive--authentic-learning.jpg
       description: Academic integration with vocational subjects
+  - infopic:
+      title: We’re not naughty
+      subtitle: CNA Insider
+      id: infopic
+      description: 3 things about Inside Crest Secondary, and its students, that’ll grab you
+      button: Read on CNA
+      url: https://www.channelnewsasia.com/cna-insider/inside-crest-secondary-school-students-normal-technical-not-naughty-4933471
+      image: /images/cna_crest.png
+      alt: Image alt text
 ---
