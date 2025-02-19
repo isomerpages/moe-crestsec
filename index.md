@@ -14,6 +14,15 @@ sections:
       title: Announcements
       id: resources
   - infopic:
+      title: We’re not naughty
+      subtitle: CNA Insider
+      id: infopic
+      description: 3 things about Inside Crest Secondary, and its students, that’ll grab you
+      button: Read on CNA
+      url: https://www.channelnewsasia.com/cna-insider/inside-crest-secondary-school-students-normal-technical-not-naughty-4933471
+      image: /images/cna_crest.png
+      alt: Image alt text
+  - infopic:
       title: Inside Crest Secondary
       id: infopic
       description: CNA goes behind the gates of Crest Secondary and bear witness to
