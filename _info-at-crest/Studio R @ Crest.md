@@ -8,10 +8,9 @@ description: ""
 </p>
 <p>Hey there, Future Innovators! 🌟 Get ready for a game-changing 6-month
 journey at Studio R, crafted just for you to make your mark in the digital
-age. Plunge into our specially designed Industry Skills Subjects (ISS):
-🔥 Retail &amp; E-commerce and 🌐 IoT Applications. We're set to equip
-you with the essential skills needed to excel in today's fast-paced digital
-landscape.</p>
+age. Plunge into our specially designed ITE Skills Subject (ISS): 🔥 Retail
+&amp; E-commerce and 🌐 IoT Applications. We're set to equip you with the
+essential skills needed to excel in today's fast-paced digital landscape.</p>
 <p><strong>🎓 Here’s What You Can Look Forward To:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -125,8 +124,8 @@ more!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Hurry, spots are filling up fast—first come, first served!</p>
+<p>Hurry, spots are filling up fast - chope a place before it is too late!</p>
 </li>
 </ul>
-<p><strong>🌟 Step into Studio R and kickstart the success story of a lifetime. It’s more than school—it’s your future unfolding. </strong>
+<p><strong>🌟 Step into Studio R and kickstart the success story of a lifetime. It’s more than school—it’s your future unfolding.</strong>
 </p>
