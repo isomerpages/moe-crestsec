@@ -1,5 +1,5 @@
 ---
-title: Studio R
+title: Studio R @ Crest
 permalink: /studio-r/
 variant: tiptap
 description: ""
@@ -128,5 +128,5 @@ more!</p>
 <p>Hurry, spots are filling up fast—first come, first served!</p>
 </li>
 </ul>
-<p><strong>🌟 Step into Studio R and kickstart the success story of a lifetime. It’s more than school—it’s your future unfolding. 🌟</strong>
+<p><strong>🌟 Step into Studio R and kickstart the success story of a lifetime. It’s more than school—it’s your future unfolding. </strong>
 </p>
