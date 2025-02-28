@@ -118,7 +118,7 @@ more!</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Studio_R/studio_r.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Studio_R/studio_r.png">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67b9a02807107977a3fa779e</a>
