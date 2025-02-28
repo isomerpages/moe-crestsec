@@ -2,6 +2,7 @@ collections:
   info-at-crest:
     output: true
     order:
+      - Studio R @ Crest.md
       - Principal's Message.md
       - School Identity.md
       - Achievements.md
