@@ -124,7 +124,8 @@ more!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Hurry, spots are filling up fast - chope a place before it is too late!</p>
+<p>Visit us to learn more about this transformative programme. Limited space!
+Chope a place before it is too late!</p>
 </li>
 </ul>
 <p><strong>🌟 Step into Studio R and kickstart the success story of a lifetime. It’s more than school—it’s your future unfolding.</strong>
