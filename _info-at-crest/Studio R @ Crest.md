@@ -99,10 +99,11 @@ more!</p>
 <p>Build your professional network in the industry! 🤝</p>
 </li>
 <li>
-<p>Experience an unforgettable overseas trip! ✈️</p>
+<p>Experience enriching and insightful learning journeys! ✈️</p>
 </li>
 <li>
-<p>FAS students receive an allowance to support their journey! 💸</p>
+<p>FAS students who meet the programme's eligibility criteria will be granted
+a bursary to support their journey! 💸</p>
 </li>
 </ul>
 <p><strong>Be Part of Our Squad:</strong>
