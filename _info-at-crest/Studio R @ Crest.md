@@ -99,7 +99,7 @@ more!</p>
 <p>Build your professional network in the industry! 🤝</p>
 </li>
 <li>
-<p>Experience an unforgettable incentive overseas trip! ✈️</p>
+<p>Experience an unforgettable overseas trip! ✈️</p>
 </li>
 <li>
 <p>FAS students receive an allowance to support their journey! 💸</p>
