@@ -111,7 +111,7 @@ variant: tiptap
 <p>HOD (PE &amp; CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_heng_boon@schools.gov.sg</p>
+<p>arthur_lim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
