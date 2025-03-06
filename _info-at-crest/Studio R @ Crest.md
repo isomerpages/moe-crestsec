@@ -121,7 +121,7 @@ a bursary to support their journey! 💸</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Studio_R/studio_r.png">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67b9a02807107977a3fa779e</a>
+<a href="https://form.gov.sg/67b9a02807107977a3fa779e" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67b9a02807107977a3fa779e</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
