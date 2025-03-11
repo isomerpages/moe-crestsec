@@ -4,130 +4,123 @@ permalink: /studio-r/
 variant: tiptap
 description: ""
 ---
-<p><strong>🌟 Welcome to Studio R @ Crest! Launching April 1st, 2025! 🚀</strong>
+<p><strong>Studio R @ Crest : Transforming Futures Through Digital Skills</strong>
 </p>
-<p>Hey there, Future Innovators! 🌟 Get ready for a game-changing 6-month
-journey at Studio R, crafted just for you to make your mark in the digital
-age. Plunge into our specially designed ITE Skills Subject (ISS): 🔥 Retail
-&amp; E-commerce and 🌐 IoT Applications. We're set to equip you with the
-essential skills needed to excel in today's fast-paced digital landscape.</p>
-<p><strong>🎓 Here’s What You Can Look Forward To:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Retail &amp; E-commerce: Master the art of:</strong>
+<p>Studio R @ Crest is a 6-month programme starting on 1<sup>st</sup> April,
+2025 that is designed for eligible participants (aged 17 – 20) who have
+completed their N-levels and are interested in returning to education via
+ITE. Our curriculum focuses on industry-relevant digital skills through
+two ITE Skills Subjects (ISS): Retail &amp; E-commerce (ReC) and Internet
+of Things Applications (IoTA).</p>
+<p>&nbsp;<strong>Retail &amp; E-commerce</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Slick selling techniques 🛍️</p>
+<p>Advanced selling techniques and customer service excellence</p>
 </li>
 <li>
-<p>Crafting eye-catching promos 🎨</p>
+<p>Digital marketing and social media management</p>
 </li>
 <li>
-<p>Dominating the inventory game 📦</p>
+<p>Inventory management and retail operations</p>
 </li>
 <li>
-<p>Designing retail spaces that pop 🎈</p>
+<p>Visual merchandising and retail space design</p>
 </li>
 <li>
-<p>Winning lifelong customers 💖</p>
+<p>Customer relationship management</p>
 </li>
 </ul>
-</li>
-<li>
-<p><strong>IoT Applications: Roll up your sleeves and:</strong>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Internet of Things (IoT) Applications</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Set up cutting-edge networks 🔌</p>
+<p>Network infrastructure setup and management</p>
 </li>
 <li>
-<p>Configure the coolest sensors 🌡️</p>
+<p>Sensor configuration and deployment</p>
 </li>
 <li>
-<p>Install top-tier smart devices 📲</p>
+<p>Smart device integration</p>
 </li>
 <li>
-<p>Create magic with IoT innovations 🎩✨</p>
+<p>IoT system development and implementation</p>
 </li>
 </ul>
-</li>
-</ul>
-<p><strong>🌈 Live by Our 4 Rs Philosophy: Reboot, Recondition, Restore, Rejoice</strong>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Programme Features</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Reboot: Kick off your education with nothing but positive vibes! 😊</p>
+<p>4 months of intensive skills development from 1 of the 2 ISS</p>
 </li>
 <li>
-<p>Recondition: Transform your study habits and self-image for the better!
-💪</p>
+<p>2 months of industry attachment</p>
 </li>
 <li>
-<p>Restore: Elevate your confidence and ambition to new heights! 🚀</p>
+<p>Hands-on project experience</p>
 </li>
 <li>
-<p>Rejoice: Celebrate your amazing progress and achievements! 🎉</p>
+<p>Personalised career guidance</p>
+</li>
+<li>
+<p>Learning journey opportunities</p>
+</li>
+<li>
+<p>Financial assistance for eligible participants</p>
 </li>
 </ul>
-<p><strong>🚀 Exclusive Programme Perks:</strong>
+<p><strong>4 Rs Philosophy: Reboot, Recondition, Restore, Rejoice</strong>
+</p>
+<p>The programme consists of 4 stages (4 bases) which reflects the 4 Rs Philosophy</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Stage 1: Reboot (Positive Schooling Experience)</p>
+</li>
+<li>
+<p>Stage 2: Recondition (Study habits, Self-Perception, Self-Efficacy)</p>
+</li>
+<li>
+<p>Stage 3: Restore (Confidence, Interest, Drive and Motivation)</p>
+</li>
+<li>
+<p>Stage 4: Rejoice (Celebrate Progress and Success)</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studio_R/Four_stages.png">
+</div>
+<p>To reflect the 4Rs philosophy, the academy participants will have a baseball
+jersey, which symbolises teamwork, perseverance, and shared goals, specially
+designed for them. Just as baseball players strive to reach home base,
+Studio R guides the participants through the bases of their educational
+journey, aiming for life’s ‘home run’.</p>
+<p></p>
+<p><strong>Key Outcomes</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dive into 4 months of intensive learning 📘</p>
+<p>ISS experience and skills development</p>
 </li>
 <li>
-<p>Gain 2 months of invaluable industry experience 🏢</p>
+<p>Professional networking opportunities</p>
 </li>
 <li>
-<p>Sport our cool baseball jersey, a symbol of our team spirit and determination
-⚾</p>
+<p>Practical work experience</p>
 </li>
 <li>
-<p>Engage in hands-on projects, get tailored career guidance, and so much
-more!</p>
+<p>Supportive learning environment</p>
 </li>
 </ul>
-<p><strong>Special Benefits:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Become job-ready in just 6 months! 🎓</p>
-</li>
-<li>
-<p>Build your professional network in the industry! 🤝</p>
-</li>
-<li>
-<p>Experience enriching and insightful learning journeys! ✈️</p>
-</li>
-<li>
-<p>FAS students who meet the programme's eligibility criteria will be granted
-a bursary to support their journey! 💸</p>
-</li>
-</ul>
-<p><strong>Be Part of Our Squad:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Don’t miss our Open House from March 7-27, 2025 through our QR Code registration
-! 🌟</p>
-</li>
-<li>
-<p>Don’t miss out another chance to get into an ITE course!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-</ul>
+<p></p>
+<p>Please click <a href="https://www.crestsec.edu.sg/studio-r/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about the academy programme and to speak with our staff.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Studio_R/studio_r.png">
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://form.gov.sg/67b9a02807107977a3fa779e" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67b9a02807107977a3fa779e</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit us to learn more about this transformative programme. Limited space!
-Chope a place before it is too late!</p>
-</li>
-</ul>
-<p><strong>🌟 Step into Studio R and kickstart the success story of a lifetime. It’s more than school—it’s your future unfolding.</strong>
-</p>
+<p></p>
