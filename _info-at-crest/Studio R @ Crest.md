@@ -90,6 +90,10 @@ of Things Applications (IoTA).</p>
 <p>Stage 4: Rejoice (Celebrate Progress and Success)</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studio_R/Four_stages.png">
+</div>
 <p>To reflect the 4Rs philosophy, the academy participants will have a baseball
 jersey, which symbolises teamwork, perseverance, and shared goals, specially
 designed for them. Just as baseball players strive to reach home base,
