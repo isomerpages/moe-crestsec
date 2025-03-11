@@ -29,10 +29,9 @@ of Things Applications (IoTA).</p>
 </li>
 <li>
 <p>Customer relationship management</p>
+<p></p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Internet of Things (IoT) Applications</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -47,10 +46,9 @@ of Things Applications (IoTA).</p>
 </li>
 <li>
 <p>IoT system development and implementation</p>
+<p></p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Programme Features</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -117,7 +115,7 @@ journey, aiming for life’s ‘home run’.</p>
 </li>
 </ul>
 <p></p>
-<p>Please click <a href="https://www.crestsec.edu.sg/studio-r/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://form.gov.sg/67b9a02807107977a3fa779e" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about the academy programme and to speak with our staff.</p>
 <p></p>
 <div class="isomer-image-wrapper">
