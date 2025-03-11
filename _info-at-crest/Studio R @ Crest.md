@@ -29,7 +29,6 @@ of Things Applications (IoTA).</p>
 </li>
 <li>
 <p>Customer relationship management</p>
-<p></p>
 </li>
 </ul>
 <p><strong>Internet of Things (IoT) Applications</strong>
@@ -46,7 +45,6 @@ of Things Applications (IoTA).</p>
 </li>
 <li>
 <p>IoT system development and implementation</p>
-<p></p>
 </li>
 </ul>
 <p><strong>Programme Features</strong>
@@ -86,18 +84,17 @@ of Things Applications (IoTA).</p>
 </li>
 <li>
 <p>Stage 4: Rejoice (Celebrate Progress and Success)</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studio_R/Four_stages.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studio_R/Four_stages.jpg">
 </div>
 <p>To reflect the 4Rs philosophy, the academy participants will have a baseball
 jersey, which symbolises teamwork, perseverance, and shared goals, specially
 designed for them. Just as baseball players strive to reach home base,
 Studio R guides the participants through the bases of their educational
 journey, aiming for life’s ‘home run’.</p>
-<p></p>
 <p><strong>Key Outcomes</strong>
 </p>
 <ul data-tight="true" class="tight">
