@@ -31,8 +31,6 @@ of Things Applications (IoTA).</p>
 <p>Customer relationship management</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Internet of Things (IoT) Applications</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -49,8 +47,6 @@ of Things Applications (IoTA).</p>
 <p>IoT system development and implementation</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Programme Features</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -88,18 +84,17 @@ of Things Applications (IoTA).</p>
 </li>
 <li>
 <p>Stage 4: Rejoice (Celebrate Progress and Success)</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studio_R/Four_stages.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studio_R/Four_stages.jpg">
 </div>
 <p>To reflect the 4Rs philosophy, the academy participants will have a baseball
 jersey, which symbolises teamwork, perseverance, and shared goals, specially
 designed for them. Just as baseball players strive to reach home base,
 Studio R guides the participants through the bases of their educational
 journey, aiming for life’s ‘home run’.</p>
-<p></p>
 <p><strong>Key Outcomes</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -117,7 +112,7 @@ journey, aiming for life’s ‘home run’.</p>
 </li>
 </ul>
 <p></p>
-<p>Please click <a href="https://www.crestsec.edu.sg/studio-r/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://form.gov.sg/67b9a02807107977a3fa779e" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about the academy programme and to speak with our staff.</p>
 <p></p>
 <div class="isomer-image-wrapper">
