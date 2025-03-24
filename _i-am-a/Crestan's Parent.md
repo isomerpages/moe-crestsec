@@ -176,7 +176,7 @@ include the following:</p>
 <p>Students Handbook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download <a href="https://drive.google.com/file/d/1KqDNILJE_HounatOBPY2dD1yWKLEcB2v/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>
+<p>Download <a href="https://drive.google.com/file/d/12iV0m8aNs4DzRX62g3QZ3ukrE78y1Ctj/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
