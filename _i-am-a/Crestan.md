@@ -15,3 +15,8 @@ variant: tiptap
 </p>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
+<p></p>
+<h4>Students' Handbook</h4>
+<p>Download <a href="https://drive.google.com/file/d/1RmF0tFn71eUcoUPDj3NFStGyQjkuyrib/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p></p>
