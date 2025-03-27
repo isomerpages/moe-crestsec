@@ -6,10 +6,14 @@ description: ""
 ---
 <p><strong>Studio R @ Crest : Transforming Futures Through Digital Skills</strong>
 </p>
-<p>Studio R @ Crest is a 6-month programme starting on 1<sup>st</sup> April,
-2025 that is designed for eligible participants (aged 17 – 20) who have
-completed their N-levels and are interested in returning to education via
-ITE. Our curriculum focuses on industry-relevant digital skills through
+<p>Studio R is launching a dynamic 6-month programme on 1<sup>st</sup> April,
+2025 that is designed for participants who have just graduated from secondary
+school, and have completed their N-levels and interested in returning to
+education via ITE. We have designed a &nbsp;baseball jersey as Studio R's
+uniform which symbolises teamwork, perseverance, and shared goals. Just
+as baseball players strive to reach home base, Studio R guides students
+through the bases of their educational journey, aiming for life’s ‘home
+run’. Our curriculum focuses on industry-relevant digital skills through
 two ITE Skills Subjects (ISS): Retail &amp; E-commerce (ReC) and Internet
 of Things Applications (IoTA).</p>
 <p>&nbsp;<strong>Retail &amp; E-commerce</strong>
@@ -84,17 +88,11 @@ of Things Applications (IoTA).</p>
 </li>
 <li>
 <p>Stage 4: Rejoice (Celebrate Progress and Success)</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studio_R/four_stages_v2.png">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studio_R/Four_stages.jpg">
-</div>
-<p>To reflect the 4Rs philosophy, the academy participants will have a baseball
-jersey, which symbolises teamwork, perseverance, and shared goals, specially
-designed for them. Just as baseball players strive to reach home base,
-Studio R guides the participants through the bases of their educational
-journey, aiming for life’s ‘home run’.</p>
 <p><strong>Key Outcomes</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -111,11 +109,28 @@ journey, aiming for life’s ‘home run’.</p>
 <p>Supportive learning environment</p>
 </li>
 </ul>
-<p></p>
-<p>Please click <a href="https://form.gov.sg/67b9a02807107977a3fa779e" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more about the academy programme and to speak with our staff.</p>
-<p></p>
+<p><strong>Eligibility &amp; Application</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Age: 17-20 years</p>
+</li>
+<li>
+<p>Eligibility: Students who have completed N-levels but are currently not
+enrolled in post-secondary education institutions in the immediate year
+upon graduation</p>
+</li>
+<li>
+<p>Commitment: Full-time, 6-month programme</p>
+</li>
+</ul>
+<p><strong>Join Us</strong>
+</p>
+<p>Visit our Open House: 7 – 27 March, 2025</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67b9a02807107977a3fa779e</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Studio_R/studio_r.png">
 </div>
-<p></p>
+<p>Limited places available. Register for Open House and chope your seats
+before it is too late !</p>
