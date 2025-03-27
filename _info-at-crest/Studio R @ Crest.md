@@ -88,12 +88,11 @@ of Things Applications (IoTA).</p>
 </li>
 <li>
 <p>Stage 4: Rejoice (Celebrate Progress and Success)</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studio_R/four_stages_v2.png">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studio_R/Four_stages.jpg">
-</div>
 <p><strong>Key Outcomes</strong>
 </p>
 <ul data-tight="true" class="tight">
