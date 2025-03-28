@@ -124,13 +124,4 @@ upon graduation</p>
 <p>Commitment: Full-time, 6-month programme</p>
 </li>
 </ul>
-<p><strong>Join Us</strong>
-</p>
-<p>Visit our Open House: 7 – 27 March, 2025</p>
-<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67b9a02807107977a3fa779e</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Studio_R/studio_r.png">
-</div>
-<p>Limited places available. Register for Open House and chope your seats
-before it is too late !</p>
+<p></p>
