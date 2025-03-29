@@ -295,7 +295,7 @@ variant: tiptap
 <p>Ms Chang Yi Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (CA)</p>
+<p>AYH (Studio R)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chang_yi_ping@schools.gov.sg</p>
