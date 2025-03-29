@@ -143,22 +143,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nadhirah Binte Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nadhirah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher
-<br>(Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nadhirah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadhirah_ismail@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Siti Mariam Binte Manshor</p>
 </td>
 <td rowspan="1" colspan="1">
