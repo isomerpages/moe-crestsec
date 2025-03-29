@@ -237,17 +237,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr How Wing Cheong Alvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YH (Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>how_wing_cheong_alvin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Muhammad Fareed Bin Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -306,7 +295,7 @@ variant: tiptap
 <p>Ms Chang Yi Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (CA)</p>
+<p>AYH (Studio R)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chang_yi_ping@schools.gov.sg</p>

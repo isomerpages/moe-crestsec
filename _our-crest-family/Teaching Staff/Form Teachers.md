@@ -63,7 +63,6 @@ variant: tiptap
 <p>S1-05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadhirah Binte Ismail</p>
 <p>Mr Ooi Heng</p>
 </td>
 </tr>
