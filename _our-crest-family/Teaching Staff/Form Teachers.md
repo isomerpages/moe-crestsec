@@ -381,4 +381,39 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4>Studio R</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SR1</p>
+<p>REC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Hirman Mohamed Tohir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SR3</p>
+<p>IOTA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Cheng Soon</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
