@@ -25,22 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chandra Segaran S/O Somoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Technical Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chandra_segaran_somoo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chandra_segaran_somoo@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Derrick Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Technical Support Officer</p>
+<p>Head (Technical Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_chuan_hoe_derrick@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chuan_hoe_derrick@schools.gov.sg</a>
@@ -52,10 +40,22 @@ variant: tiptap
 <p>Mr Ivan Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Technical Support Officer</p>
+<p>Head (Technical Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_rong_hwee_ivan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_rong_hwee_ivan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chandra Segaran S/O Somoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Technical Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chandra_segaran_somoo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chandra_segaran_somoo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
