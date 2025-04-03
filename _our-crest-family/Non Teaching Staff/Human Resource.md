@@ -40,7 +40,7 @@ variant: tiptap
 <p>Ms Hamilawati Binte Haji Johari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Executive</p>
+<p>Senior Executive (Human Resource)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hamilawati_haji_johari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hamilawati_haji_johari@schools.gov.sg</a>
