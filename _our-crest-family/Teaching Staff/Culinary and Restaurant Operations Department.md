@@ -151,7 +151,7 @@ variant: tiptap
 <p>Ms Natasha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Executive
+<p>Senior Executive
 <br>(Culinary and Restaurant Operations)</p>
 </td>
 <td rowspan="1" colspan="1">
