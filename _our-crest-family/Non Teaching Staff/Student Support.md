@@ -103,7 +103,8 @@ third_nav_title: Non Teaching Staff
 <p>School Counsellor (Studio R)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yap_yong_kim@schools.gov.sg</p>
+<p><a href="mailto:yap_yong_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_yong_kim@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
