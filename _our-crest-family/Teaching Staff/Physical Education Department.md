@@ -137,7 +137,8 @@ third_nav_title: Teaching Staff
 <p>School Health Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>arun@crestsec.edu.sg</p>
+<p><a href="mailto:arun@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arun@crestsec.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
