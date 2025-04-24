@@ -126,6 +126,20 @@ third_nav_title: Teaching Staff
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Arun S/O Thavabalan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Arun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Health Advisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>arun@crestsec.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4></h4>
