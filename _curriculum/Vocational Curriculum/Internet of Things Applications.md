@@ -7,11 +7,11 @@ variant: tiptap
 ---
 <h3>Internet of Things Applications</h3>
 <h4>Objective</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:240px;margin-right:25px;" height="auto" width="100%" src="/images/ita1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/IOTA/iota_2pics.png">
 </div>
-<p>
-<br>Internet of Things Applications (IOTA) is one of the 5 ITE Skills Subjects
+<p>Internet of Things Applications (IOTA) is one of the 5 ITE Skills Subjects
 (ISS) offered to Secondary 3 and 4 students in Crest Secondary School.
 When students select this subject as one of the two Skills Subjects to
 study, they will learn the skills and knowledge to deploy Internet of Things
