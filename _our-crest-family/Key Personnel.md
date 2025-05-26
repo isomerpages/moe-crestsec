@@ -59,18 +59,6 @@ variant: tiptap
 <p>lee_siu_yuen@schools.gov.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Bay Siow Lon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head
-<br>(Student Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>bay_siow_lon@schools.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Dean / Heads of Department (HOD) / School Staff Developer (SSD)</h4>
@@ -387,17 +375,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_wee_kee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Rudie Asmara Bin Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (Internet of Things Applications)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rudie_asmara_rahman@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
