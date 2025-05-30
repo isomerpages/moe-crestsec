@@ -19,8 +19,7 @@ Indian, Thai, Vietnam, Others</p>
 <p><strong><u>Selection Criteria</u>:</strong>
 </p>
 <p>Applicants must be Singapore Citizen or Singapore Permanent Resident.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Applicants must fulfil the following requirement:</a>
-</p>
+<p>Applicants must fulfill the following requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Obtain valid Food Safety Course Level 1 Certificate;</p>
@@ -57,10 +56,9 @@ selling price, relevant certificates to the school’s Admin Office.</p>
 <p></p>
 </li>
 </ul>
-<p>Closing date for submission is <strong>by 31 August 2025, 5.00pm</strong>
+<p>Closing date for submission is <strong>by 31 August 2025, 5.00pm.</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">For enquiries, please contact Miss Wong at Tel: 68992779</a>
-</p>
+<p>For enquiries, please contact Miss Wong at Tel: 68992779.</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
 <p>Thank you.</p>
