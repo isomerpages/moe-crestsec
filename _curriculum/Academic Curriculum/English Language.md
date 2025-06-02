@@ -44,6 +44,9 @@ takes place meaningfully.</p>
 <p>At the end of four years, all Crestans would be able to communicate confidently
 and effectively.&nbsp;</p>
 <h4>Curriculum</h4>
+<p>Check out our Google Site for some resources.</p>
+<p><a href="https://sites.google.com/crestsec.edu.sg/englishcrest/home" rel="noopener nofollow" target="_blank">English @ Crest</a>
+</p>
 <p>These are some of our signature programmes.</p>
 <p><strong>Mocktail Party (Secondary 1)</strong>
 </p>
