@@ -162,7 +162,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pamela Chia Hui Ling</p>
-<p>Mr Rudie Asmara Bin Rahman</p>
 </td>
 </tr>
 <tr>
