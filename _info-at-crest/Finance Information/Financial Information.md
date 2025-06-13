@@ -710,4 +710,6 @@ third_nav_title: Finance Information
 </tr>
 </tbody>
 </table>
+<p>View our Annual Report: <a href="https://www.charities.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.charities.gov.sg/</a>
+</p>
 <p></p>
