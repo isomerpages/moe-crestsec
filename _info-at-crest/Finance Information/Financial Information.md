@@ -115,7 +115,7 @@ third_nav_title: Finance Information
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Number of Students Enrolment:</strong> 683 as at 06 June 2024</p>
+<p><strong>Number of Students Enrolment:</strong> 686 as at 18 June 2025</p>
 </td>
 </tr>
 </tbody>
@@ -154,11 +154,11 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FYE 31 Mar 2023 (S$'000)</strong>
+<p><strong>FYE 31 Mar 2024 (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FYE 31 Mar 2024 (S$'000)</strong>
+<p><strong>FYE 31 Mar 2025 (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,13 +182,13 @@ third_nav_title: Finance Information
 <p>Donations in Cash</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>198</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>194</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-2%</p>
+<p>58</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-70%</p>
 </td>
 </tr>
 <tr>
@@ -210,13 +210,13 @@ third_nav_title: Finance Information
 <p>Grants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20,016</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>16,113</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-19%</p>
+<p>17,425</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8%</p>
 </td>
 </tr>
 <tr>
@@ -224,13 +224,13 @@ third_nav_title: Finance Information
 <p>&nbsp;Others</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>685</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1,069</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>56%</p>
+<p>1,037</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-3%</p>
 </td>
 </tr>
 <tr>
@@ -239,15 +239,15 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>20,899</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>17,376</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-17%</strong>
+<p><strong>18,250</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7%</strong>
 </p>
 </td>
 </tr>
@@ -271,11 +271,11 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FYE 31 Mar 2023 (S$'000)</strong>
+<p><strong>FYE 31 Mar 2024 (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FYE 31 Mar 2024 (S$'000)</strong>
+<p><strong>FYE 31 Mar 2025 (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,13 +300,13 @@ third_nav_title: Finance Information
 <br>Administration Expenses</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17,840</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>17,505</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-2%</p>
+<p>19,077</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9%</p>
 </td>
 </tr>
 <tr>
@@ -314,13 +314,13 @@ third_nav_title: Finance Information
 <p>&nbsp;Others</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,629</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2,111</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30%</p>
+<p>2,138</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1%</p>
 </td>
 </tr>
 <tr>
@@ -329,15 +329,15 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>19,469</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>19,616</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1%</strong>
+<p><strong>21,215</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8%</strong>
 </p>
 </td>
 </tr>
@@ -347,15 +347,15 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1,430</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>-2,240</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-257%</strong>
+<p><strong>-2,695</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>20%</strong>
 </p>
 </td>
 </tr>
@@ -387,11 +387,11 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>As at 31 Mar 2023 (S$'000)</strong>
+<p><strong>As at 31 Mar 2024 (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>As at 31 Mar 2024 (S$'000)</strong>
+<p><strong>As at 31 Mar 2025 (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -415,13 +415,13 @@ third_nav_title: Finance Information
 <p>Plant and Equipment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2,635</p>
+<p>6,739</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6,766</p>
+<p>9,720</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>157%</p>
+<p>44%</p>
 </td>
 </tr>
 <tr>
@@ -429,13 +429,13 @@ third_nav_title: Finance Information
 <p>Intangible Assets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0%</p>
+<p>-36%</p>
 </td>
 </tr>
 <tr>
@@ -443,13 +443,13 @@ third_nav_title: Finance Information
 <p>&nbsp;Trades &amp; Other receivables</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>641</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1104</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>72%</p>
+<p>700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-37%</p>
 </td>
 </tr>
 <tr>
@@ -457,13 +457,13 @@ third_nav_title: Finance Information
 <p>&nbsp;Cash &amp; cash equivalents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31,292</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>28,756</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-8%</p>
+<p>27,130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-6%</p>
 </td>
 </tr>
 <tr>
@@ -472,15 +472,15 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>34,569</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>36,627</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6%</strong>
+<p><strong>37,568</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3%</strong>
 </p>
 </td>
 </tr>
@@ -504,11 +504,11 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>As at 31 Mar 2023 (S$'000)</strong>
+<p><strong>As at 31 Mar 2024 (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>As at 31 Mar 2024 (S$'000)</strong>
+<p><strong>As at 31 Mar 2025 (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -532,13 +532,13 @@ third_nav_title: Finance Information
 <p>Long-Term Liabilities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2,520</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>6,651</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>164%</p>
+<p>9,756</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>47%</p>
 </td>
 </tr>
 <tr>
@@ -546,13 +546,13 @@ third_nav_title: Finance Information
 <p>&nbsp;Current Liabilities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7,094</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>7,260</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2%</p>
+<p>7,791</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7%</p>
 </td>
 </tr>
 <tr>
@@ -561,15 +561,15 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9,614</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>13,911</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>45%</strong>
+<p><strong>17,547</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>26%</strong>
 </p>
 </td>
 </tr>
@@ -593,11 +593,11 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>As at 31 Mar 2023 (S$'000)</strong>
+<p><strong>As at 31 Mar 2024 (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>As at 31 Mar 2024 (S$'000)</strong>
+<p><strong>As at 31 Mar 2025 (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -621,13 +621,13 @@ third_nav_title: Finance Information
 <p>&nbsp;General Fund</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24,587</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>22,412</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-9%</p>
+<p>19,790</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-12%</p>
 </td>
 </tr>
 <tr>
@@ -635,13 +635,13 @@ third_nav_title: Finance Information
 <p>&nbsp;Other Funds</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>368</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>304</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-17%</p>
+<p>231</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-24%</p>
 </td>
 </tr>
 <tr>
@@ -650,15 +650,15 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>24,955</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>22,716</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-9%</strong>
+<p><strong>20,021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-12%</strong>
 </p>
 </td>
 </tr>
@@ -682,15 +682,15 @@ third_nav_title: Finance Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>34,569</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>36,627</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6%</strong>
+<p><strong>37,568</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3%</strong>
 </p>
 </td>
 </tr>
