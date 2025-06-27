@@ -31,7 +31,8 @@ third_nav_title: Non Teaching Staff
 <p>HOD (Character and Citizenship Education) &amp; Head (Student Support)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_choon_huat@schools.gov.sg</p>
+<p><a href="mailto:yeo_choon_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_choon_huat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +67,7 @@ third_nav_title: Non Teaching Staff
 <p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Eswari_Sundaram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Eswari_Sundaram@schools.gov.sg</a>
+<p><a href="mailto:eswari_sundaram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eswari_sundaram@schools.gov.sg</a>
 </p>
 </td>
 </tr>
