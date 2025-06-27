@@ -104,7 +104,7 @@ variant: tiptap
 <br>(Internet of Things Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_swee_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_huat@schools.gov.sg</a>
+<p><a href="mailto:lim_swee_huat_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_huat_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
