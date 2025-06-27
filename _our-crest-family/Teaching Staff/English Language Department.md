@@ -238,6 +238,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Mohamad Hisham B Suwandi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hisham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_hisham_b_suwandi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_hisham_b_suwandi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Kalimah Bte Haji Zainuri</p>
 </td>
 <td rowspan="1" colspan="1">
