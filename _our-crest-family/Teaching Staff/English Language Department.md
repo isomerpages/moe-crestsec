@@ -206,22 +206,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Alyssa Chen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Alyssa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher
-<br>(English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chen_yihan_alys@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_yihan_alys@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Wong Yau Are</p>
 </td>
 <td rowspan="1" colspan="1">
