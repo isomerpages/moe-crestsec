@@ -60,7 +60,7 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eswari d/o Sundaram</p>
+<p>Ms Eswari Sundaram</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Special Educational Needs Officer</p>
