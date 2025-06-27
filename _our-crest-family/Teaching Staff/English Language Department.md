@@ -248,7 +248,7 @@ variant: tiptap
 <br>(English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohd_hisham_b_suwandi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_hisham_b_suwandi@schools.gov.sg</a>
+<p><a href="mailto:md_hisham@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">md_hisham@schools.gov.sg</a>
 </p>
 </td>
 </tr>
