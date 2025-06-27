@@ -185,7 +185,7 @@ variant: tiptap
 <p>Mr Yeo Choon Huat Philip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Character and Citizenship Education)</p>
+<p>HOD (Character and Citizenship Education) &amp; Head (Student Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_choon_huat@schools.gov.sg</p>

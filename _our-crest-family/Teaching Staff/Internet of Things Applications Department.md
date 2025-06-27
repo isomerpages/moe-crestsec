@@ -30,17 +30,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rudie Asmara Bin Rahman</p>
+<p>Mr Ong Cheng Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rudie</p>
+<p>Mr Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>(Internet of Things Applications)</p>
+<br>(Internet of Things Applications) [covering]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rudie_asmara_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rudie_asmara_rahman@schools.gov.sg</a>
+<p><a href="mailto:ong_cheng_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_cheng_soon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Cheng Soon</p>
+<p>Mr Lim Swee Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong</p>
+<p>Mr Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher
 <br>(Internet of Things Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_cheng_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_cheng_soon@schools.gov.sg</a>
+<p><a href="mailto:lim_swee_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_huat@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -25,14 +25,13 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bay Siow Lon</p>
+<p>Mr Yeo Choon Huat Philip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head (Student Support)</p>
+<p>HOD (Character and Citizenship Education) &amp; Head (Student Support)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:bay_siow_lon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bay_siow_lon@schools.gov.sg</a>
-</p>
+<p>yeo_choon_huat@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -56,6 +55,18 @@ third_nav_title: Non Teaching Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ismaiyah_binte_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ismaiyah_binte_ismail@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Eswari Sundaram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Eswari_Sundaram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Eswari_Sundaram@schools.gov.sg</a>
 </p>
 </td>
 </tr>

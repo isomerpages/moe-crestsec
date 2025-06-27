@@ -64,6 +64,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ooi Heng</p>
+<p>Ms Nur Sheela Binte Sugirmanto</p>
 </td>
 </tr>
 <tr>
@@ -374,7 +375,7 @@ variant: tiptap
 <p>MDA + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Yihan Alyssa</p>
+<p>Mr Mohamad Hisham B Suwandi</p>
 <p>Mr Mohammed Rohan Bin Ismail</p>
 </td>
 </tr>
