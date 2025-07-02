@@ -465,6 +465,17 @@ variant: tiptap
 <p>rischka_syafiqa_putri_jonawi@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Cheng Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Internet of Things Appications) [covering]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_cheng_soon@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Lead Teachers/Senior Teachers</h4>
