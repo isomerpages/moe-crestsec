@@ -3,24 +3,27 @@ title: Teaching Positions
 permalink: /info-at-crest/teaching-positions/
 description: ""
 third_nav_title: Careers @ Crest
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Teaching Positions</strong>
 </p>
 <p>Crest Secondary School offers the G1 curriculum. To support the learning
 needs of our students, we are looking for individuals with positive dispositions,
 who are creative, driven and committed, to join our pool of passionate
-teaching staff in 2025.</p>
-<p></p>
-<p><strong><u>ACADEMIC TEACHERS</u></strong>
+teaching staff in 2025 - 2026.</p>
+<p><strong><u>&nbsp;ACADEMIC TEACHERS</u></strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Language</p>
-<br>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mathematics</p>
+<p></p>
+<p><strong><u>VOCATIONAL TEACHERS</u></strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internet-of-Things Application</p>
+<p></p>
 <p></p>
 <p><strong>JOB DESCRIPTION</strong>
 </p>
-<p></p>
-<p><strong>Responsibilities:</strong>
+<p><strong>&nbsp;Responsibilities:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,10 +46,10 @@ to enable students to make good progress in learning.</p>
 </li>
 <li>
 <p>To manage classroom and student activities well and ensure that students’
-learning is effective</p>
+learning is effective.</p>
 </li>
 <li>
-<p>To conduct and facilitate character &amp; citizenship education as a Form/Co-Form
+<p>To conduct and facilitate character &amp; citizenship education as a Form
 Teacher and provide effective pastoral care and guidance to students, including
 working closely with parents/guardians, school counsellors and/or relevant
 organizations.</p>
@@ -69,12 +72,12 @@ Officer, Head of Department and/or School Management.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Relevant degree and teaching qualification from National Institute of
-Education (NIE)</p>
+<p>Relevant degree or teaching qualification from National Institute of Education
+(NIE).</p>
 </li>
 <li>
 <p>Passionate about supporting the school’s mission of transforming the learning
-of N(T) students</p>
+of N(T) students.</p>
 </li>
 <li>
 <p>Able to identify with the learning needs of N(T) students.</p>
@@ -106,17 +109,11 @@ team spirit.</p>
 to the department’s programmes.</p>
 </li>
 </ul>
-<p></p>
 <p><strong>HOW TO APPLY</strong>
 </p>
 <p><em>Please email the application form, together with a detailed resume with a recent photograph, stating your academic/professional qualifications, working experience, and current and expected salaries to Ms Marina Wong at <a rel="noopener noreferrer nofollow" target="_blank">marina_wong_may_li@schools.gov.sg</a>. &nbsp;Please indicate the job title on the subject heading of your email.</em>
 </p>
-<p></p>
-
-Click [here](/files/app_form_dh.pdf) to download the job application form.
-
-<p></p>
 <p><strong><em>We regret that only shortlisted candidates will be notified.</em></strong><em> Only Singaporeans and Permanent Residents may apply for the above positions.</em>
 </p>
-<p><em>By submitting any application or resume to us, you will be deemed to have agreed and consented to us collecting and using your personal information to facilitate the processing of your application for employment purposes.</em>
+<p><em>By submitting any application or resume to us, you will be deemed to have agreed and consented to us collecting and using your personal information</em>  <em>to facilitate the processing of your application for employment purposes.</em>
 </p>
