@@ -279,7 +279,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Nurharnani Binte Nahar</p>
-<p>Mr Tan Beng Guat Derek</p>
 </td>
 </tr>
 </tbody>
