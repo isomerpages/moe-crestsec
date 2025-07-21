@@ -15,6 +15,7 @@ teaching staff in 2025 - 2026.</p>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Language</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mathematics</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Malay Language</p>
 <p></p>
 <p><strong><u>VOCATIONAL TEACHERS</u></strong>
 </p>
