@@ -1,9 +1,8 @@
 ---
 title: MOE APEX 2025
-permalink: /moe-apex/
+permalink: /draft-moe-apex/
 variant: tiptap
 description: ""
-third_nav_title: Careers @ Crest
 ---
 <p><strong><u>MOE APEX 2025 (Open Posting Exercise)</u></strong>
 </p>
