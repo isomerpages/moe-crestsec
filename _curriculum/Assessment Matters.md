@@ -4,8 +4,7 @@ permalink: /curriculum/assessment-matters/
 description: ""
 variant: tiptap
 ---
-<h3>Assessment Matters</h3>
-<h4>2025 Secondary 4 Preliminary Exam Schedule</h4>
+<h3>2025 Secondary 4 Preliminary Exam Schedule</h3>
 <p>Please click below link for the 2025 Secondary 4 Preliminary Examination
 Schedule.</p>
 <p><a href="/files/2025_Sec_4_Prelim_Exam_Schedule__For_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 4 Preliminary Exam Schedule</a>
