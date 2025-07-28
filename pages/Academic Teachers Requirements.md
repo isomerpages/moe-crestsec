@@ -4,7 +4,7 @@ permalink: /academic-teachers-requirements/
 variant: tiptap
 description: ""
 ---
-<p><strong>JOB DESCRIPTION</strong>
+<p><strong>For English, Malay Language and Mathematics Teachers</strong>
 </p>
 <p><strong>&nbsp;Responsibilities:</strong>
 </p>
