@@ -20,7 +20,7 @@ sections:
       description: The CTA celebrate educators who exemplify care and compassion in
         their teaching, to nurture the holistic development of their students.
       button: Nominate now!
-      url: www.cta.nie.edu.sg
+      url: https://www.cta.nie.edu.sg/
       image: /images/CTA_2026_A3_Poster.jpg
       alt: Image alt text
   - infopic:
