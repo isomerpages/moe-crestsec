@@ -59,6 +59,30 @@ variant: tiptap
 <p>lee_siu_yuen@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Rong Hwee Ivan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head (Technical Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_rong_hwee_ivan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_rong_hwee_ivan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chuan Hoe Derrick</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head (Technical Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chuan_hoe_derrick@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chuan_hoe_derrick@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Dean / Heads of Department (HOD) / School Staff Developer (SSD)</h4>
@@ -386,17 +410,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_wei_lynn_karen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tay Siew Mei Janice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (Co-Curricular Activities)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tay_siew_mei_janice@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
