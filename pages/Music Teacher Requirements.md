@@ -4,8 +4,6 @@ permalink: /music-teacher-requirements/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Teacher (Music)</u></strong>
-</p>
 <p><strong>Job Description</strong>
 </p>
 <ul data-tight="true" class="tight">
