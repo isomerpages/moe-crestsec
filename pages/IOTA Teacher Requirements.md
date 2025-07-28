@@ -4,9 +4,7 @@ permalink: /iota-teacher-requirements/
 variant: tiptap
 description: ""
 ---
-<p><strong>For IOTA Teacher</strong>
-</p>
-<p><strong>&nbsp;Responsibilities:</strong>
+<p><strong>Responsibilities:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
