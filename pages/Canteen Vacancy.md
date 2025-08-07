@@ -8,14 +8,11 @@ variant: tiptap
 our canteen stalls.</p>
 <p><strong><u>Type of Stalls</u>:&nbsp;</strong>
 </p>
-<p>(1)&nbsp;&nbsp;&nbsp;&nbsp; Asian Cuisine (Halal) &nbsp;eg: Chinese, Muslim,
-Indian, Thai, Vietnam, Others</p>
+<p>(1)&nbsp;&nbsp;&nbsp;&nbsp; Asian Cuisine (Halal) &nbsp;eg: Chinese, Indian,
+Thai, Vietnam, Others</p>
 <p><strong><u>Number of stalls availability:</u></strong>
 </p>
-<p>2 nos</p>
-<p><strong><u>Stalls availability:</u></strong>
-</p>
-<p>From 02 January 2026 onwards</p>
+<p>1 no</p>
 <p><strong><u>Selection Criteria</u>:</strong>
 </p>
 <p>Applicants must be Singapore Citizen or Singapore Permanent Resident.</p>
