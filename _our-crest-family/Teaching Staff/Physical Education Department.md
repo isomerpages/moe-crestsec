@@ -126,21 +126,6 @@ third_nav_title: Teaching Staff
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Arun S/O Thavabalan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Arun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Health Advisor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:arun@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arun@crestsec.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4></h4>
