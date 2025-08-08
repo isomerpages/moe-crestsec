@@ -53,7 +53,7 @@ selling price, relevant certificates to the school’s Admin Office.</p>
 <p></p>
 </li>
 </ul>
-<p>Closing date for submission is <strong>by 31 August 2025, 5.00pm.</strong>
+<p>Closing date for submission is <strong>by 30 September 2025, 5.00pm.</strong>
 </p>
 <p>For enquiries, please contact Miss Wong at Tel: 68992779.</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
