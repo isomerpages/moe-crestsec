@@ -99,15 +99,7 @@ in a reduction of timetable periods.</p>
 <p>Basic product photography skills</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cook &amp; Sell activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Growing and harvesting herbs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Basic product photography</p>
 </td>
 </tr>
 </tbody>
