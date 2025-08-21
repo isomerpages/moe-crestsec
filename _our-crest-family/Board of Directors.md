@@ -75,10 +75,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/bod_johann2.jpg">
+<img style="width:45%" height="auto" width="100%" src="/images/bod_ng_yi_xian2.jpg">
 </div>
 <p>
-<br><strong>Mr Johann Bin Johari</strong>
+<br><strong>Mr Ng Yi-Xian</strong>
 <br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,12 +108,7 @@ variant: tiptap
 <br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/bod_ng_yi_xian2.jpg">
-</div>
-<p>
-<br><strong>Mr Ng Yi-Xian</strong>
-<br>Member</p>
+<p></p>
 </td>
 </tr>
 </tbody>
