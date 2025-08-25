@@ -9,13 +9,13 @@ description: ""
 <p>Key Level Programme/Activities:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 3 Outdoor Adventure Learning Camp</p>
+<p>MOE-OBS Challenge Camp</p>
 </li>
 <li>
 <p>Industrial Experiential Programme</p>
 </li>
 <li>
-<p>Ignite</p>
+<p>IgnITE Challenge</p>
 </li>
 <li>
 <p>New ISSC</p>
