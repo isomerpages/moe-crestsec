@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Student Admission Info</h3>
 <p></p>
-<p>Dear Sec 1 2025 parent/guardian,</p>
+<p>Dear Sec 1 2026 parent/guardian,</p>
 <p>Please submit the following documents to us via <a href="mailto:crestsec@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crestsec@schools.gov.sg</a>, if you
 have not done so.</p>
 <ol data-tight="true" class="tight">
@@ -24,17 +24,17 @@ have not done so.</p>
 </p>
 </li>
 </ol>
-<p>Deadline is 23 Dec 2024, Monday.</p>
+<p>Deadline is 23 Dec 2025, Tuesday.</p>
 <p></p>
 <p><strong>FAS Application:</strong>
 </p>
 <p>If you would like to apply for MOE FAS, please click on this link <a href="https://go.gov.sg/cssmoefas2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cssmoefas2025</a> and
-submit by <strong>20 Dec 2024</strong>, Friday.</p>
+submit by <strong>23 Dec 2025</strong>, Tuesday.</p>
 <p></p>
 <h4>Information for New Secondary 1 Students</h4>
 <p></p>
 <p>Congratulations on being accepted into Crest Secondary School. Please
-be informed that you will need to report to school on 2 January 2025 (Thursday)
+be informed that you will need to report to school on 2 January 2026 (Friday)
 by 7:45am. There will be direction signs, staff and student leaders around
 to guide you.</p>
 <p></p>
