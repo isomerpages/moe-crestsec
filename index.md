@@ -13,6 +13,14 @@ sections:
   - resources:
       title: Announcements
       id: resources
+  - infobar:
+      title: Alumni Registration for Teachers' Day  2025
+      subtitle: Teachers' Day 2025
+      id: infobar
+      description: Hey Crest Alumni! We are pleased to invite you to join the school
+        in Teachers' Day celebration this year.
+      button: Click for more information!
+      url: https://docs.google.com/forms/d/e/1FAIpQLSe4slXD1KRJ_nvE2ChGDWSxNSB_ibylZBwbh1UDr1nnGXYVRA/viewform
   - infopic:
       title: Caring Teacher Awards 2026
       subtitle: "#NIECTA2026"
