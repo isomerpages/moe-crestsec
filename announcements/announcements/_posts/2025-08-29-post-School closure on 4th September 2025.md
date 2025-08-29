@@ -7,3 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Our 'C' Division Floorball boys have emerged as the overall champions
+for the National School Games Championship (League 3)! To celebrate this
+wonderful accomplishment, the school will be closed on 4 September 2025
+(Thursday). This will be a school-wide day off, and the Admin Office will
+also be closed.</p>
