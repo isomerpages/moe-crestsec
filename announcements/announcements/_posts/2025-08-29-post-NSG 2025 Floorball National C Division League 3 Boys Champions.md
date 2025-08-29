@@ -7,3 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Our 'C' Division Floorball boys have emerged as the overall champions
+for the National School Games Championship (League 3)! &nbsp;This is a
+tremendous achievement that reflects the dedication of our students and
+coaching staff.</p>
+<p>Watch the exciting match <a href="https://www.youtube.com/watch?v=RpWNnmeuk7s" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p></p>
