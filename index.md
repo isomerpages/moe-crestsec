@@ -18,7 +18,8 @@ sections:
       subtitle: Teachers' Day 2025
       id: infobar
       description: Hey Crest Alumni! We are pleased to invite you to join the school
-        in Teachers' Day celebration this year.
+        in Teachers' Day celebration this year. 3 September 2025, 1.00 pm to
+        2.00pm, School hall
       button: Click for more information!
       url: https://docs.google.com/forms/d/e/1FAIpQLSe4slXD1KRJ_nvE2ChGDWSxNSB_ibylZBwbh1UDr1nnGXYVRA/viewform
   - infopic:
