@@ -1,6 +1,6 @@
 ---
-title: Canteen Vacancy
-permalink: /canteen-vacancy/
+title: Canteen Vacancy (Not Available Now)
+permalink: /draft-canteen-vacancy/
 description: ""
 variant: tiptap
 ---
