@@ -4,7 +4,16 @@ permalink: /info-at-crest/useful-links/parent/
 description: ""
 variant: tiptap
 ---
-<h4>Parent Engagement Session 2025</h4>
+<h4>2025 Term Letters</h4>
+<p><a href="/files/2025_Start_of_T4_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4</a>
+</p>
+<p><a href="/files/2025_Start_of_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3</a>
+</p>
+<p><a href="/files/2025_Start_of_Term_2_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 2</a>
+</p>
+<p><a href="/files/2025_Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1</a>
+</p>
+<h4>2025 Parent Engagement Session</h4>
 <p><a href="https://drive.google.com/file/d/1F_6MKDVlmpYPgGmX9OfTmhfbKkcuwdOA/view?usp=drivesdk" rel="noopener nofollow" target="_blank">Sec 1 Parent Engagement Session 2025</a>
 </p>
 <h4>Positive Parenting Programme (Triple P)</h4>
@@ -16,69 +25,6 @@ built on a tiered system that provides different degrees of parental support.</p
 indicate your interest.</p>
 <p>Click <a href="https://drive.google.com/file/d/1_XIz8RWql3HYYLz4KBNDDsfCSFxlxReb/view" rel="noopener nofollow" target="_blank">here</a> for
 an introductory video.</p>
-<p></p>
-<h4>2024 Parents Engagement Sessions</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h5>Secondary 1</h5>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><a href="/files/2024_sec_1_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parent Engagement Session 2024.pdf</a></strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5>Secondary 2</h5>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/file/d/1MeHzmlZctN8edeHXFMDq6kiMlIi7d-lS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Parent Engagement Session 2024.pdf</a></strong>
-</p>
-<p><a href="https://drive.google.com/file/d/1et4iXNmtFA6wpyPK5GOyCxMtibWs6A-R/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Reception Video (Words of love and encouragement to child and FTs)</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1JzdQMmtyyrNUEYW807W4MiJQaOZGa5Ew/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">ISS video</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5>Secondary 3</h5>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2024_sec_3_parent_engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Parent Engagement Session 2024.pdf</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5>Secondary 4</h5>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2024_sec_4_parents_dialogue.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Parent Engagement Session 2024.pdf</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h4>2024 Term Letters</h4>
-<p><a href="/files/2024_End_of_T4_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Term 4</a>
-</p>
-<p><a href="/files/EL/Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1</a>
-</p>
-<p><a href="/files/2024_term_2_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 2</a>
-</p>
-<p><a href="/files/EL/Start_of_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3</a>
-</p>
-<p><a href="/files/2024_T4_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4</a>
-</p>
-<p></p>
 <h4>Parents Gateway</h4>
 <p>Click <a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
 access Parents Gateway.</p>
