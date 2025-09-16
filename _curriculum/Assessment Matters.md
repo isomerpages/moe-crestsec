@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>2025 End of Year Exam Schedule</h3>
 <p>Please click below links for the 2025 End of Year Examination Schedule.</p>
-<p><a href="/files/EOY_Sec_1_to_3_Exam_Schedule_2025___for_students_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 End of Year Exam Schedule</a>
+<p><a href="/files/EOY_Sec_1_to_3_Exam_Schedule_2025___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 End of Year Exam Schedule</a>
 </p>
 <p><a href="/files/EOY_Sec_1_to_3_Exam_Schedule_2025___for_students_Sec_2_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 2 End of Year Exam Schedule</a>
 </p>
