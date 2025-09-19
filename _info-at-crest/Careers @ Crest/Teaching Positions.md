@@ -21,10 +21,7 @@ teaching staff in 2025 - 2026.</p>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.crestsec.edu.sg/music-teacher-requirements/" rel="noopener nofollow" target="_blank">Music</a>
 </p>
-<p></p>
-<p><strong><u>VOCATIONAL TEACHERS</u></strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.crestsec.edu.sg/iota-teacher-requirements/" rel="noopener nofollow" target="_blank">Internet-of-Things Application</a>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.crestsec.edu.sg/academic-teachers-requirements/" rel="noopener nofollow" target="_blank">Science</a>
 </p>
 <p></p>
 <p><strong>HOW TO APPLY</strong>
