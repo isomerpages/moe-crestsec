@@ -18,6 +18,9 @@ stage professional product photoshoots to see how presentation and marketing
 transform a simple beverage into a sellable product. Using the Cricut,
 they add personal touches to produce unique creations, building teamwork,
 problem-solving, and self-expression along the way.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/REC1_1_Oct.png">
+</div>
 <p></p>
 <p><strong>Sec 2: Byte-Sized Fun</strong>
 </p>
@@ -29,6 +32,9 @@ using light boxes, textured backdrops, strobes, and LED lights. Products
 are uploaded onto a Google site, simulating an e-commerce platform, while
 one-minute videos capture their learning journey, blending creativity,
 storytelling, and digital skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/REC2_1_Oct.png">
+</div>
 <p></p>
 <p><strong>Sec 3: Merchandise Magic</strong>
 </p>
@@ -38,7 +44,9 @@ integrity, and teamwork are turned into designs, with students refining
 concepts using AI tools to expand creative options and product variations.
 They gain hands-on experience in layout, typography, Cricut fabrication,
 merchandising, and presenting functional, branded merchandise.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/REC3_1_Oct.png">
+</div>
 <p>Students embarked on a hands-on learning journey to explore practical
 ways to embed sustainability into daily life. They discovered that sustainability
 isn’t just a concept — it can be acted upon through conscious material
@@ -49,6 +57,9 @@ instead of discarding, they gained firsthand experience in sustainable
 retail practices, understanding how small, creative actions can lessen
 environmental impact while shaping a greener, more responsible future for
 the fashion industry.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/REC4_1_Oct.png">
+</div>
 <p></p>
 <p><strong>Sec 4: Serve Up RECeption</strong>
 </p>
@@ -64,4 +75,7 @@ product creation, branding, and digital marketing to sales and sustainability.
 These projects build confidence, technical skills, and entrepreneurial
 thinking, preparing them to become future leaders in sustainable and creative
 retail.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eugene/REC5_1_Oct_compressed.jpg">
+</div>
 <p></p>
