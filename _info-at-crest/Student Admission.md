@@ -37,11 +37,6 @@ submit by <strong>23 Dec 2025</strong>, Tuesday.</p>
 be informed that you will need to report to school on 2 January 2026 (Friday)
 by 7:45am. There will be direction signs, staff and student leaders around
 to guide you.</p>
-<p></p>
-<p><strong>Start Right Programme (Orientation):</strong>
-<br>Dates: 2, 3 and 6 January 2025 (Thursday to Monday)
-<br>Time: 7:45am to 12:15pm</p>
-<p></p>
 <p><strong>Attire:</strong>
 <br>Crest School Uniform with plain black socks and shoes</p>
 <p></p>
