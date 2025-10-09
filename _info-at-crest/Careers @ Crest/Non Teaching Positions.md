@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Careers @ Crest
 variant: tiptap
 ---
-<p><strong>1.&nbsp; HR Executive</strong>
+<p>Click on the below links to find out more.</p>
+<p><a href="https://www.crestsec.edu.sg/hr-executive/" rel="noopener nofollow" target="_blank">HR Executive</a>
 </p>
-<p><strong>2.&nbsp; Special Educational Needs (SEN) Officer</strong>
+<p><a href="https://www.crestsec.edu.sg/special-educational-needs-sen-officer/" rel="noopener nofollow" target="_blank">Special Educational Needs (SEN) Officer</a>
 </p>
 <p></p>
 <p><strong>HOW TO APPLY</strong>
