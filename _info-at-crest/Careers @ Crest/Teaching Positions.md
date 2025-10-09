@@ -19,9 +19,7 @@ teaching staff in 2025 - 2026.</p>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.crestsec.edu.sg/academic-teachers-requirements/" rel="noopener nofollow" target="_blank">Malay Language</a>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.crestsec.edu.sg/music-teacher-requirements/" rel="noopener nofollow" target="_blank">Music</a>
-</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.crestsec.edu.sg/academic-teachers-requirements/" rel="noopener nofollow" target="_blank">Science</a>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.crestsec.edu.sg/academic-teachers-requirements/" rel="noopener nofollow" target="_blank">Science</a>
 </p>
 <p></p>
 <p><strong>HOW TO APPLY</strong>
