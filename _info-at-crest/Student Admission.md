@@ -25,12 +25,6 @@ have not done so.</p>
 </li>
 </ol>
 <p>Deadline is 23 Dec 2025, Tuesday.</p>
-<p></p>
-<p><strong>FAS Application:</strong>
-</p>
-<p>If you would like to apply for MOE FAS, please click on this link <a href="https://go.gov.sg/cssmoefas2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cssmoefas2025</a> and
-submit by <strong>23 Dec 2025</strong>, Tuesday.</p>
-<p></p>
 <h4>Information for New Secondary 1 Students</h4>
 <p></p>
 <p>Congratulations on being accepted into Crest Secondary School. Please
