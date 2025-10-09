@@ -7,10 +7,16 @@ variant: tiptap
 ---
 <p><strong>Non-Teaching Positions</strong>
 </p>
+<ol data-tight="true" class="tight">
+<li>
 <p><a href="https://www.crestsec.edu.sg/hr-executive/" rel="noopener nofollow" target="_blank">HR Executive</a>
 </p>
+</li>
+<li>
 <p><a href="https://www.crestsec.edu.sg/special-educational-needs-sen-officer/" rel="noopener nofollow" target="_blank">Special Educational Needs (SEN) Officer</a>
 </p>
+</li>
+</ol>
 <p></p>
 <p><strong>HOW TO APPLY</strong>
 </p>
