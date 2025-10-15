@@ -111,4 +111,20 @@ sections:
       url: /css/authentic-learning
       image: /images/distinctive--authentic-learning.jpg
       description: Academic integration with vocational subjects
+  - textcards:
+      title: More about Crest
+      id: textcards
+      cards:
+        - title: Achievements
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Announcements
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Virtual Tour
+          description: ""
+          linktext: Learn more
+          url: https://www.theasys.io/viewer/4BVTxHOeRPJn5wdfkqXTdr9s6Nq86q/
 ---
