@@ -36,7 +36,7 @@ sections:
         - title: Announcements
           description: ""
           linktext: Learn more
-          url: ""
+          url: https://www.crestsec.edu.sg/announcements/
         - title: Virtual Tour
           description: ""
           linktext: Explore our special rooms and facilities
