@@ -12,12 +12,12 @@ sections:
       background: /images/crest-hero.gif
       button: Join us for our open house
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Crestan stories
+          description: ""
           url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: crest @IG
+          description: "@crestsec_official"
+          url: https://www.instagram.com/crestsec_official/
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
