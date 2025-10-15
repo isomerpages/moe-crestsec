@@ -25,6 +25,22 @@ sections:
           description: ""
           url: https://www.channelnewsasia.com/watch/inside-crest-secondary
       url: https://go.gov.sg/crestopenhouse
+  - textcards:
+      title: More about Crest
+      id: textcards
+      cards:
+        - title: Achievements
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Announcements
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Virtual Tour
+          description: ""
+          linktext: Explore our special rooms and facilities
+          url: https://ths.li/Ay4FQDj
   - resources:
       title: Announcements
       id: resources
@@ -97,34 +113,10 @@ sections:
       image: /images/CSS_Handbook_2025.jpg
       alt: Crest Student Handbook
   - infopic:
-      title: Crest Virtual Tour
-      id: infopic
-      button: Explore now
-      url: https://ths.li/Ay4FQDj
-      alt: Virtual Tour
-      image: /images/Eugene/Virtual_Tour.jpg
-      description: Explore Crest's special rooms and facilities by taking a virtual tour.
-  - infopic:
       title: Authentic Learning
       button: Learn More
       alt: Image alt text
       url: /css/authentic-learning
       image: /images/distinctive--authentic-learning.jpg
       description: Academic integration with vocational subjects
-  - textcards:
-      title: More about Crest
-      id: textcards
-      cards:
-        - title: Achievements
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Announcements
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Virtual Tour
-          description: ""
-          linktext: Explore our special rooms and facilities
-          url: https://ths.li/Ay4FQDj
 ---
