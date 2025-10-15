@@ -10,9 +10,37 @@ notification: ""
 sections:
   - hero:
       background: /images/crest-hero.gif
-  - resources:
-      title: Announcements
-      id: resources
+      button: Join us for our open house
+      key_highlights:
+        - title: Crestan stories
+          description: ""
+          url: https://www.crestsec.edu.sg/success-stories/
+        - title: crest @IG
+          description: "@crestsec_official"
+          url: https://www.instagram.com/crestsec_official/
+        - title: Crest tiktok
+          description: "@officialcrestsec"
+          url: https://www.tiktok.com/@officialcrestsec
+        - title: crest on cna
+          description: ""
+          url: https://www.channelnewsasia.com/watch/inside-crest-secondary
+      url: https://go.gov.sg/crestopenhouse
+  - textcards:
+      title: More about Crest
+      id: textcards
+      cards:
+        - title: Achievements
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Announcements
+          description: ""
+          linktext: Learn more
+          url: https://www.crestsec.edu.sg/announcements/
+        - title: Virtual Tour
+          description: ""
+          linktext: Explore our special rooms and facilities
+          url: https://ths.li/Ay4FQDj
   - infopic:
       title: Caring Teacher Awards 2026
       subtitle: "#NIECTA2026"
@@ -22,24 +50,6 @@ sections:
       button: Nominate now!
       url: https://www.cta.nie.edu.sg/
       image: /images/CTA_2026_A3_Poster.jpg
-      alt: Image alt text
-  - infopic:
-      title: We’re not naughty
-      subtitle: CNA Insider
-      id: infopic
-      description: 3 things about Inside Crest Secondary, and its students, that’ll grab you
-      button: Read on CNA
-      url: https://www.channelnewsasia.com/cna-insider/inside-crest-secondary-school-students-normal-technical-not-naughty-4933471
-      image: /images/cna_crest.png
-      alt: Image alt text
-  - infopic:
-      title: Inside Crest Secondary
-      id: infopic
-      description: CNA goes behind the gates of Crest Secondary and bear witness to
-        the complexities and anxieties faced by the students and teachers.
-      button: Watch on CNA
-      url: https://www.channelnewsasia.com/watch/inside-crest-secondary
-      image: /images/inside_crest_2.jpg
       alt: Image alt text
   - infopic:
       title: Lee Hsien Loong Award for Innovations in Uplifting Students
@@ -59,41 +69,4 @@ sections:
       url: /charity-transparency-dedication-award-2024/
       image: /images/Eugene/MCCY_Dedication_Award_Logo.png
       alt: CTDA 2024
-  - infopic:
-      title: Crest Corporate Video
-      subtitle: Hear from Our Crestans
-      id: infopic
-      button: Watch
-      url: https://drive.google.com/file/d/1FSRnKPbSvkzH0qwoZkDWvxkzmUNuS8fq/view?usp=sharing
-      image: /images/Eugene/Corporate_Video.jpg
-      alt: Corporate Video
-  - infopic:
-      title: Crest Information Booklet
-      id: infopic
-      button: Download here
-      url: https://drive.google.com/file/d/13xe-M3WLXQ_bOqKNH_ras7r6zflX06-Y/view
-      image: /images/Crest_info_booklet.jpg
-      alt: Crest Information Booklet
-  - infopic:
-      title: Crest Student Handbook
-      id: infopic
-      button: Download here
-      url: https://drive.google.com/file/d/12iV0m8aNs4DzRX62g3QZ3ukrE78y1Ctj/view?usp=sharing
-      image: /images/CSS_Handbook_2025.jpg
-      alt: Crest Student Handbook
-  - infopic:
-      title: Crest Virtual Tour
-      id: infopic
-      button: Explore now
-      url: https://ths.li/Ay4FQDj
-      alt: Virtual Tour
-      image: /images/Eugene/Virtual_Tour.jpg
-      description: Explore Crest's special rooms and facilities by taking a virtual tour.
-  - infopic:
-      title: Authentic Learning
-      button: Learn More
-      alt: Image alt text
-      url: /css/authentic-learning
-      image: /images/distinctive--authentic-learning.jpg
-      description: Academic integration with vocational subjects
 ---
