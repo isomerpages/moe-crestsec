@@ -18,12 +18,12 @@ sections:
         - title: crest @IG
           description: "@crestsec_official"
           url: https://www.instagram.com/crestsec_official/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Crest tiktok
+          description: "@officialcrestsec"
+          url: https://www.tiktok.com/@officialcrestsec
+        - title: crest on cna
+          description: ""
+          url: https://www.channelnewsasia.com/watch/inside-crest-secondary
       url: https://go.gov.sg/crestopenhouse
   - resources:
       title: Announcements
