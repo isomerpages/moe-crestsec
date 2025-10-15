@@ -11,14 +11,6 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<h1></h1>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
