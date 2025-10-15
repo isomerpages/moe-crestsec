@@ -10,6 +10,21 @@ notification: ""
 sections:
   - hero:
       background: /images/crest-hero.gif
+      button: Join us for our open house
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+      url: https://go.gov.sg/crestopenhouse
   - resources:
       title: Announcements
       id: resources
