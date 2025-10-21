@@ -32,7 +32,7 @@ sections:
         - title: Achievements
           description: ""
           linktext: Learn more
-          url: https://www.crestsec.edu.sg/info-at-crest/crest-dna/achievements/
+          url: https://www.crestsec.edu.sg/awards/
         - title: Announcements
           description: ""
           linktext: Learn more

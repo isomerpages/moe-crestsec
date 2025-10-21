@@ -1,6 +1,6 @@
 ---
-title: Achievements
-permalink: /achievements/
+title: Awards
+permalink: /awards/
 variant: tiptap
 description: ""
 ---
