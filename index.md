@@ -41,32 +41,4 @@ sections:
           description: ""
           linktext: Explore our special rooms and facilities
           url: https://ths.li/Ay4FQDj
-  - infopic:
-      title: Caring Teacher Awards 2026
-      subtitle: "#NIECTA2026"
-      id: infopic
-      description: The CTA celebrate educators who exemplify care and compassion in
-        their teaching, to nurture the holistic development of their students.
-      button: Nominate now!
-      url: https://www.cta.nie.edu.sg/
-      image: /images/CTA_2026_A3_Poster.jpg
-      alt: Image alt text
-  - infopic:
-      title: Lee Hsien Loong Award for Innovations in Uplifting Students
-      id: infopic
-      description: The LHL AIUS seeks to recognise schools that engender a strong
-        culture of care and inclusivity.
-      image: /images/Eugene/LHLAIUSTrophy.jpg
-      alt: Image alt text
-      url: https://www.crestsec.edu.sg/lhl-aius-2023/
-      button: LEARN MORE
-  - infopic:
-      title: Charity Transparency Dedication Award 2024
-      id: infopic
-      description: The award celebrates our commitment to upholding transparency, good
-        governance, and accountability in all our charitable initiatives.
-      button: Learn More
-      url: /charity-transparency-dedication-award-2024/
-      image: /images/Eugene/MCCY_Dedication_Award_Logo.png
-      alt: CTDA 2024
 ---
