@@ -24,7 +24,7 @@ description: ""
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Crest_Secondary_School_2026___Sec_1G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Sec 1 G2 2026</a>
+<p><a href="/files/Crest_Secondary_School_2026___Sec_1G2_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Sec 1 G2 2026</a>
 </p>
 </th>
 </tr>
