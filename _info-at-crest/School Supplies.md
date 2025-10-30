@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>School Supplies</h3>
 <p></p>
-<h4>Booklist 2025</h4>
+<h4>Booklist 2026</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -16,36 +16,36 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/CRES_PRICELIST_UNIFORMS___2025.pdf" rel="noopener nofollow" target="_blank">Crest Uniforms Pricelist 2025</a>
+<p><a href="/files/CRES_PRICELIST_UNIFORMS_2026.pdf" rel="noopener nofollow" target="_blank">Crest Uniforms Pricelist 2026</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Crest_Secondary_School_2025_Sec_1_G1.pdf" rel="noopener nofollow" target="_blank">Crest Sec 1 G1 2025</a>
+<p><a href="/files/Crest_Secondary_School_2026___Sec_1G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Sec 1 G1 2026</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Crest_Secondary_School_2025_Sec_1_G2.pdf" rel="noopener nofollow" target="_blank">Crest Sec 1 G2 2025</a>
+<p><a href="/files/Crest_Secondary_School_2026___Sec_1G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Sec 1 G2 2026</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Crest_Secondary_School_2025_Sec_2.pdf" rel="noopener nofollow" target="_blank">Crest Sec 2 2025</a></strong>
+<p><strong><a href="/files/Crest_Secondary_School_2026___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Sec 2 2026</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Crest_Secondary_School_2025_Sec_3.pdf" rel="noopener nofollow" target="_blank">Crest Sec 3 2025</a></strong>
+<p><strong><a href="/files/Crest_Secondary_School_2026___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Sec 3 2026</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Crest_Secondary_School_2025_Sec_4.pdf" rel="noopener nofollow" target="_blank">Crest Sec 4 2025</a></strong>
+<p><strong><a href="/files/Crest_Secondary_School_2026___Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Sec 4 2026</a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Sale dates:</p>
-<p><strong><u>For Non FAS students in 2025:</u></strong>
+<p><strong><u>For Non FAS students in 2026:</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -58,13 +58,13 @@ description: ""
 <p><u>Date</u> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><u>Level (2025)</u>
+<p><u>Level (2026)</u>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Nov</p>
+<p>3 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2</p>
@@ -72,7 +72,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Nov</p>
+<p>4 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3</p>
@@ -80,7 +80,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Nov</p>
+<p>5 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4</p>
@@ -106,13 +106,13 @@ description: ""
 <p><u>Date</u> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><u>Level (2025)</u>
+<p><u>Level (2026)</u>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Dec &amp; 3 Dec</p>
+<p>8 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2</p>
@@ -120,7 +120,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Dec &amp; 5 Dec</p>
+<p>9 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3</p>
@@ -128,7 +128,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Dec &amp; 9 Dec</p>
+<p>10 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4</p>
@@ -141,7 +141,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong><u>For Non FAS Sec 1 students in 2025:</u></strong>
+<p><strong><u>For Non FAS Sec 1 students in 2026:</u></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -150,7 +150,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date: 23 Dec 2024</p>
+<p>Date: 23 Dec 2025</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong><u>For FAS Sec 1 students in 2025:</u></strong>
+<p><strong><u>For FAS Sec 1 students in 2026 (Collection slips to be distributed to parents on the following days at School Canteen):</u></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -170,7 +170,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date: 26 to 27 Dec 2024</p>
+<p>Date: 29 Dec 2025</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ Uniforms will be delivered to your home address.</p>
 </li>
 <li>
 <p>If you wish to purchase direct from the shop, please book an appointment
-with the shop first via https://shop.shanghai-uniforms.com/appointment-booking-at-ubi/.</p>
+with the shop first via <a href="https://shanghai-uniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.sg/</a>.</p>
 </li>
 <li>
 <p>The address of the shop is: Shanghai School Uniforms Pte Ltd, 63 Ubi Ave
