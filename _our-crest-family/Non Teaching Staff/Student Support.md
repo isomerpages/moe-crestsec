@@ -73,6 +73,18 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Derek Zheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Educational Psychologist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Zheng_Chengde_Derek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_chengde_derek@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Yap Zheng Jie Joseph</p>
 </td>
 <td rowspan="1" colspan="1">
