@@ -24,7 +24,7 @@ sections:
         - title: crest on cna
           description: ""
           url: https://www.channelnewsasia.com/watch/inside-crest-secondary
-      url: https://go.gov.sg/crestopenhouse
+      url: https://drive.google.com/file/d/1huw4dkZ-qJ2zp8Bkxu2VT09NFW5wU88V/view
   - textcards:
       title: More about Crest
       id: textcards
