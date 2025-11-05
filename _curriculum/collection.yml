@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - About.md
       - Philosophy.md
       - Beliefs.md
       - Principles.md
