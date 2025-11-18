@@ -10,13 +10,33 @@ description: ""
 </div>
 <p></p>
 <h4>Details:</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ask Me Anything</strong>
+</p>
+<p><strong>Click to join</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>20 Nov 2025 (Thurs)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7 pm to 8 pm</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Open House</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>25 Nov 2025 (Tues)</p>
 </th>
@@ -26,7 +46,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>26 to  28 Nov 2025 (Wed to Fri)</strong>
+<p><strong>Open House</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>26 to 28 Nov 2025 (Wed to Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -35,6 +59,10 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Open House / Jamboree</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>29 Nov 2025 (Sat)</strong>
 </p>
@@ -48,8 +76,10 @@ description: ""
 </table>
 <p></p>
 <h4>Key Highlights:</h4>
-<p>Principal Talk</p>
-<p>Sharing and Showcase by students</p>
+<p>Principal address</p>
+<p>Sharing and showcase by students</p>
+<p>Hands-on activities</p>
+<p>Fun and games</p>
 <p>&nbsp;</p>
 <p>Video 1: Watch this video to know more about Crest</p>
 <p><a href="https://ths.li/Ay4FQDj" rel="noopener nofollow" target="_blank">Video 2: Watch this video for a virtual tour of the school</a>
