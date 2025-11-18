@@ -122,7 +122,6 @@ description: ""
 <p>Fun and games</p>
 </li>
 </ul>
-<p></p>
 <p><a href="http://go.gov.sg/crestsecsch" rel="noopener nofollow" target="_blank">Video 1: Watch this video to know more about Crest</a>
 </p>
 <p><a href="https://ths.li/Ay4FQDj" rel="noopener nofollow" target="_blank">Video 2: Watch this video for a virtual tour of the school</a>
@@ -135,4 +134,3 @@ description: ""
 </p>
 <p><a href="https://www.crestsec.edu.sg/key-student-development-experiences/" rel="noopener nofollow" target="_blank">Student Development</a>
 </p>
-<p></p>
