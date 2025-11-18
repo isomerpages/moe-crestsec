@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Open House
           description: ""
-          url: https://drive.google.com/file/d/1huw4dkZ-qJ2zp8Bkxu2VT09NFW5wU88V/view
+          url: https://www.crestsec.edu.sg/crest-open-house-2025/
         - title: crest @IG
           description: "@crestsec_official"
           url: https://www.instagram.com/crestsec_official/
