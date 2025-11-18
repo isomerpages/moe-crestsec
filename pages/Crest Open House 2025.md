@@ -42,6 +42,7 @@ description: ""
 </p>
 <p><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGY2ZGZiMmMtNzU1Mi00Yzg4LTlhMjYtNDBkOGYxNTc5ZDBi%40thread.v2/0?context=%7b%22Tid%22%3a%226590cdd4-8337-4198-bacc-47645c4a4d4d%22%2c%22Oid%22%3a%22f1a2036a-4084-4136-a74a-4a71a8c832ce%22%7d" rel="noopener nofollow" target="_blank">Click to join (MS Teams)</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>20 Nov 2025 (Thurs)</strong>
