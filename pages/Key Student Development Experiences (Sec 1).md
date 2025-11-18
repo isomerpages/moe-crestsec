@@ -4,33 +4,48 @@ permalink: /key-student-development-experiences-sec-1/
 variant: tiptap
 description: ""
 ---
-<h4>Sec 1 Level Theme: Reboot – Embracing My Crest Journey<br>(Rebooting into the Crest family, embracing a new chapter) </h4>
-<p></p>
-<p>Key Level Programme/Activities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sec 1 Camp</p>
-</li>
-<li>
-<p>Discovery Modules</p>
-</li>
-<li>
-<p>Basketball Interclass</p>
-</li>
-<li>
-<p>Cycling Programme</p>
-</li>
-<li>
-<p>Crestomon</p>
-</li>
-<li>
-<p>Learning Journey</p>
-</li>
-</ul>
-<p></p>
-<p>Programme will incorporate the learning of:</p>
-<p>i. School Values (i-CREST)
-<br>(Integrity, Care, Resilience, Excellence, Self-Worth, and Teamwork)</p>
-<p>ii. Social-Emotional Learning (SEL) Competencies
-<br>(Self-Awareness, Self-Management, Social Awareness, Relationship Management
-&amp; Responsible Decision-Making)</p>
+<h4>Sec 1 Reboot – Embracing My Crest Journey</h4>
+<p>As our Secondary One students step into secondary education, they embark
+on a transformative "reboot" beginning their Crest journey. This pivotal
+year helps students embrace a fresh start, integrate into the Crest family,
+and develop foundational character traits guiding their educational journey.</p>
+<h4>Secondary One Camp</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDT_Sec1_1.jpg">
+</div>
+<p>The overnight camp, which takes place in mid of Term 1, serves as the
+reboot experience where students conquer rock walls, complete a hike, and
+engage in dragon boating and outdoor cooking fostering teamwork and care,
+finishing off with a campfire igniting the Crestan Spirit.</p>
+<h4>Basketball Interclass Competition</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDT_Sec1_2.jpg">
+</div>
+<p>The Basketball Interclass competition demonstrates teamwork while developing
+social awareness and relationship management skills. Through friendly competition,
+our Sec one students learn collaboration, support classmates with care,
+strive for excellence, and reinforce integrity in sportsmanship.</p>
+<h4>Cycling Programme</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDT_Sec1_3.jpg">
+</div>
+<p>The cycling programme embodies the reboot journey, challenging students
+to develop resilience to master cycling skills and overcoming obstacles.
+Students demonstrate excellence through persistent practice, building endurance
+and confidence. They go through a cycling expedition showcasing their abilities,
+teamwork, and determination and also caring for their safety.</p>
+<h4>Learning Journeys</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDT_Sec1_4.jpg">
+</div>
+<p>Authentic learning journeys bring lessons alive in real-world contexts.
+Students apply classroom knowledge meaningfully, strengthening problem-solving
+and critical thinking while developing integrity and social awareness,
+making learning engaging and purposeful for their reboot journey.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDT_Sec1_5.jpg">
+</div>
+<p>By the end of the year, students emerge with strong foundations in school
+values, enhanced social-emotional competencies, and confidence to grow
+as adventurous, benevolent, and charismatic Crestans ready to contribute
+meaningfully to their school and wider community.</p>
