@@ -8,7 +8,35 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_OH_2025_small.png">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AMA_small.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH_card_1_Page_1_small.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH_card_1_Page_2_small.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4>Details:</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -27,9 +55,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>20 Nov 2025 (Thurs)</strong>
 </p>
+<p><strong>25 Nov 2025 (Tues)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>7 pm to 8 pm</strong>
+</p>
+<p><strong> 5 pm to 6 pm</strong>
 </p>
 </td>
 </tr>
@@ -81,7 +113,8 @@ description: ""
 <p>Hands-on activities</p>
 <p>Fun and games</p>
 <p>&nbsp;</p>
-<p>Video 1: Watch this video to know more about Crest</p>
+<p><a href="http://go.gov.sg/crestsecsch" rel="noopener nofollow" target="_blank">Video 1: Watch this video to know more about Crest</a>
+</p>
 <p><a href="https://ths.li/Ay4FQDj" rel="noopener nofollow" target="_blank">Video 2: Watch this video for a virtual tour of the school</a>
 </p>
 <p>&nbsp;</p>
