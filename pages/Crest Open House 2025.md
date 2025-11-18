@@ -17,7 +17,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.crestsec.edu.sg/images/AMA_small.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AMA_small.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.crestsec.edu.sg/images/AMA_2025__1_.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AMA_2025_small.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.crestsec.edu.sg/images/OH_card_1_Page_1_small.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH_card_1_Page_1_small.png"></a>
