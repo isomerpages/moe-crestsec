@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/crest-hero.gif
+      background: /images/banner_OH_2025_updated.png
       button: Join us for our open house
       key_highlights:
         - title: Crestan stories
