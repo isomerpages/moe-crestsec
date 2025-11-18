@@ -12,7 +12,7 @@ sections:
       background: /images/banner_OH_2025_updated.png
       key_highlights:
         - title: Open House
-          description: ""
+          description: ASK ME ANYHING
           url: https://www.crestsec.edu.sg/crest-open-house-2025/
         - title: crest @IG
           description: "@crestsec_official"
