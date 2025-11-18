@@ -110,7 +110,7 @@ description: ""
 <h4>Key Highlights:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Principal address</p>
+<p>Principal's address</p>
 </li>
 <li>
 <p>Sharing and showcase by students</p>
