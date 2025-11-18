@@ -8,7 +8,35 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_OH_2025_small.png">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AMA_small.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH_card_1_Page_1_small.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH_card_1_Page_2_small.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4>Details:</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -21,15 +49,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Ask Me Anything</strong>
 </p>
-<p><strong>Click to join</strong>
+<p><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGY2ZGZiMmMtNzU1Mi00Yzg4LTlhMjYtNDBkOGYxNTc5ZDBi%40thread.v2/0?context=%7b%22Tid%22%3a%226590cdd4-8337-4198-bacc-47645c4a4d4d%22%2c%22Oid%22%3a%22f1a2036a-4084-4136-a74a-4a71a8c832ce%22%7d" rel="noopener nofollow" target="_blank">Click to join (MS Teams)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>20 Nov 2025 (Thurs)</strong>
 </p>
+<p><strong>25 Nov 2025 (Tues)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>7 pm to 8 pm</strong>
+</p>
+<p><strong>5 pm to 6 pm</strong>
 </p>
 </td>
 </tr>
@@ -76,15 +108,26 @@ description: ""
 </table>
 <p></p>
 <h4>Key Highlights:</h4>
-<p>Principal address</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Principal's address</p>
+</li>
+<li>
 <p>Sharing and showcase by students</p>
+</li>
+<li>
 <p>Hands-on activities</p>
+</li>
+<li>
 <p>Fun and games</p>
-<p>&nbsp;</p>
-<p>Video 1: Watch this video to know more about Crest</p>
+</li>
+</ul>
+<p></p>
+<p><a href="http://go.gov.sg/crestsecsch" rel="noopener nofollow" target="_blank">Video 1: Watch this video to know more about Crest</a>
+</p>
 <p><a href="https://ths.li/Ay4FQDj" rel="noopener nofollow" target="_blank">Video 2: Watch this video for a virtual tour of the school</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <h4>Our Curriculum:</h4>
 <p><a href="https://www.crestsec.edu.sg/programmes/academic-curriculum/aesthetics/" rel="noopener nofollow" target="_blank">Academic Curriculum</a>
 </p>
