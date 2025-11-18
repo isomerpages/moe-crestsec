@@ -10,11 +10,10 @@ notification: ""
 sections:
   - hero:
       background: /images/banner_OH_2025_updated.png
-      button: Join us for our open house
       key_highlights:
-        - title: Crestan stories
+        - title: Open House
           description: ""
-          url: https://www.crestsec.edu.sg/success-stories/
+          url: https://drive.google.com/file/d/1huw4dkZ-qJ2zp8Bkxu2VT09NFW5wU88V/view
         - title: crest @IG
           description: "@crestsec_official"
           url: https://www.instagram.com/crestsec_official/
