@@ -27,7 +27,7 @@ in ITE, further learning, and life beyond school.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_parent_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_parent_3v3.png">
 </div>
 <p></p>
 <h4><strong>Join the Crest Family!</strong></h4>
