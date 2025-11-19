@@ -229,17 +229,36 @@ SMS.</p>
 <p></p>
 <p><strong>9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does CSS offer financial assistance to needy students?</strong>
 </p>
-<p>Singapore Citizen students may apply for MOE Financial Assistance Scheme
-(MOE-FAS) if they meet the gross household income or per capital income
-criteria. The MOE-FAS provides needy students with free school textbooks
-and stationery, school uniform and vocational attire, shoes and socks,
-waiver of school and standard miscellaneous fees, and daily school meal
-and transport subsidies. Students can approach the school’s Administration
-Office for a MOE-FAS application form or download the application from
-the website<strong>. </strong>Click <a href="https://www.crestsec.edu.sg/files/fas_application_specialised_schools_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
-download form. Needy students who do not meet the eligibility criteria
-for MOE FAS may be considered for the school-based FAS. Approval will be
-given on a case-by-case basis.</p>
+<p>Singapore Citizen students from low-income families may apply for the
+MOE Financial Assistance Scheme (MOE-FAS) if they meet the specified gross
+household income or per capita income criteria. This comprehensive scheme
+supports needy students by providing:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Free school textbooks and stationery</p>
+</li>
+<li>
+<p>Free school uniform and vocational attire</p>
+</li>
+<li>
+<p>Free shoes and socks</p>
+</li>
+<li>
+<p>Full waiver of school and standard miscellaneous fees</p>
+</li>
+<li>
+<p>Daily school meal subsidies</p>
+</li>
+<li>
+<p>Transport subsidies</p>
+</li>
+</ul>
+<p>Parents can apply online at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasss</a>
+</p>
+<p>For students who do not qualify for MOE-FAS but still require financial
+support, the school offers its own financial assistance scheme. Applications
+for school-based assistance are assessed individually, taking into account
+each family's unique circumstances and financial needs.</p>
 <p></p>
 <p><strong>10)&nbsp;&nbsp; What are the school hours at CSS?</strong>
 </p>
