@@ -38,13 +38,13 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Crest_Secondary_School_2026___Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Sec 4 2026</a></strong>
+<p><strong><a href="/files/Crest_Secondary_School_2026___Sec_4_Revised.pdf" rel="noopener nofollow" target="_blank">Crest Sec 4 2026</a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Sale dates:</p>
+<p>CSale dates:</p>
 <p><strong><u>For Non FAS students in 2026:</u></strong>
 </p>
 <table style="minWidth: 50px">
