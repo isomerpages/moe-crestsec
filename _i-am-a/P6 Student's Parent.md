@@ -215,10 +215,17 @@ can list Crest as one of your choices.</p>
 <p></p>
 <p><strong>8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When will I receive the posting outcome?</strong>
 </p>
-<p>Applicants who have applied through Direct Admission will be informed
-of their application outcome in mid-December. Sec 1 Posting outcomes on
-the other hand will receive the posting results together with the main
-cohort.</p>
+<p><strong>Direct Admission Applicants</strong>
+</p>
+<p>Students who have applied through the Direct Admission pathway will receive
+notification of their application outcome on 12 December 2025.</p>
+<p><strong>Secondary 1 Posting Applicants</strong>
+</p>
+<p>Students applying through the standard Secondary 1 Posting process will
+receive their posting results at the same time as the main cohort of applicants.
+Secondary 1 posting results for 2025&nbsp;will be released on either Thursday,
+December 18, or Friday, December 19, 2025, through the&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener noreferrer nofollow" target="_blank">S1 Portal</a>&nbsp;and
+SMS.</p>
 <p></p>
 <p><strong>9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does CSS offer financial assistance to needy students?</strong>
 </p>
