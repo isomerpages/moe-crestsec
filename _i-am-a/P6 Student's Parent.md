@@ -32,98 +32,9 @@ in ITE, further learning, and life beyond school.</p>
 <p></p>
 <h4><strong>Join the Crest Family!</strong></h4>
 <p>Crest welcomes students who qualify for Posting Group 1 or Group 1/2.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>PSLE SCORE</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>POSTING GROUPS</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Indicative level for most subjects at start of Secondary 1</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 - 20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>G3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 and 22</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 or 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>G2 or G3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 and 24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>G2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 or 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>G1 or G2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 - 30
-<br>(with AL7 or better in English Language and
-<br>Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>G1</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_parent_5.png">
+</div>
 <p><strong>If your child/ward is in Primary 6:</strong>
 </p>
 <p>When you collect your child's PSLE results on 25th November 2025, we invite
@@ -219,7 +130,7 @@ the Secondary 1 Posting exercise.</p>
 <p><strong>If your child is already in secondary school:</strong>
 </p>
 <p>Your child can appeal for a transfer to Crest Secondary School. Please
-send your appeal to <a rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a>.&nbsp;</p>
+send your appeal to <a href="mailto:crestsec@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crestsec@schools.gov.sg</a>.&nbsp;</p>
 <p>All applications depend on available places and meeting our admission
 criteria.</p>
 <p></p>
