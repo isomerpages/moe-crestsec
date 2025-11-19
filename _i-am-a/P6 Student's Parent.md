@@ -17,17 +17,17 @@ training, giving Crestans real-world experiences that matter. Recognised
 with the Lee Hsien Loong Award for Innovations in Uplifting Students 2023
 for our strong culture of care and inclusivity, Crest nurtures confidence,
 character, and strong connections through our Crafting with Heart approach.
-Graduates leave not just with the SEC and ISSC, but with resilience, self-belief,
-and future-ready skills—like Mah Yan Lin, Class of 2024, who received The
-Lee Kuan Yew Award for All-Round Excellence—ready to thrive in ITE, further
-learning, and life beyond school.</p>
-<p></p>
+Graduates leave not just with the Singapore-Cambridge Secondary Education
+Certificate (SEC) and ITE Skills Subject Certificate (ISSC), but with resilience,
+self-belief, and future-ready skills—like Mah Yan Lin, Class of 2024, who
+received The Lee Kuan Yew Award for All-Round Excellence—ready to thrive
+in ITE, further learning, and life beyond school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_parent_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_parent_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_parent_3v3.png">
 </div>
 <p></p>
 <h4><strong>Join the Crest Family!</strong></h4>
@@ -58,6 +58,8 @@ learning, and life beyond school.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Indicative level for most subjects at start of Secondary 1</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -206,33 +208,69 @@ their primary school.</p>
 <p></p>
 <p><strong>7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I apply for my child/ward to join Crest Secondary School?</strong>
 </p>
-<p>You may join us through Direct Admission or the Secondary 1 Posting Exercise.
-&nbsp;To maximise your chances of joining Crest, you may submit a direct
-application by coming down to Crest Secondary School after the release
-of PSLE results on the 25<sup>th</sup> November 2025.</p>
-<p>You can also take part in the Secondary 1 Posting Exercise, where you
-can list Crest as one of your choices.</p>
+<p><strong>If your child/ward is in Primary 6:</strong>
+</p>
+<p>When you collect your child's PSLE results on 25th November 2025, we invite
+you to visit Crest Secondary School with your child/ward to learn more
+about our programmes. Give your child/ward the best chance of joining Crest
+by submitting a direct application before the Secondary 1 Posting Exercise.
+Alternatively, you can include Crest as one of your school choices during
+the Secondary 1 Posting exercise.</p>
+<p><strong>If your child is already in secondary school:</strong>
+</p>
+<p>Your child can appeal for a transfer to Crest Secondary School. Please
+send your appeal to <a rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a>.&nbsp;</p>
+<p>All applications depend on available places and meeting our admission
+criteria.</p>
 <p></p>
 <p><strong>8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When will I receive the posting outcome?</strong>
 </p>
-<p>Applicants who have applied through Direct Admission will be informed
-of their application outcome in mid-December. Sec 1 Posting outcomes on
-the other hand will receive the posting results together with the main
-cohort.</p>
+<p><strong>Direct Admission Applicants</strong>
+</p>
+<p>Students who have applied through the Direct Admission pathway will receive
+notification of their application outcome on 12 December 2025.</p>
+<p><strong>Secondary 1 Posting Applicants</strong>
+</p>
+<p>Students applying through the standard Secondary 1 Posting process will
+receive their posting results at the same time as the main cohort of applicants.
+Secondary 1 posting results for 2025&nbsp;will be released on either Thursday,
+December 18, or Friday, December 19, 2025, through the&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener noreferrer nofollow" target="_blank">S1 Portal</a>&nbsp;and
+SMS.</p>
 <p></p>
 <p><strong>9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does CSS offer financial assistance to needy students?</strong>
 </p>
-<p>Singapore Citizen students may apply for MOE Financial Assistance Scheme
-(MOE-FAS) if they meet the gross household income or per capital income
-criteria. The MOE-FAS provides needy students with free school textbooks
-and stationery, school uniform and vocational attire, shoes and socks,
-waiver of school and standard miscellaneous fees, and daily school meal
-and transport subsidies. Students can approach the school’s Administration
-Office for a MOE-FAS application form or download the application from
-the website<strong>. </strong>Click <a href="https://www.crestsec.edu.sg/files/fas_application_specialised_schools_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
-download form. Needy students who do not meet the eligibility criteria
-for MOE FAS may be considered for the school-based FAS. Approval will be
-given on a case-by-case basis.</p>
+<p><strong>Financial Assistance for Students</strong>
+</p>
+<p>Singapore Citizen students from low-income families may apply for the
+MOE Financial Assistance Scheme (MOE-FAS) if they meet the specified gross
+household income or per capita income criteria. This comprehensive scheme
+supports needy students by providing:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Free school textbooks and stationery</p>
+</li>
+<li>
+<p>Free school uniform and vocational attire</p>
+</li>
+<li>
+<p>Free shoes and socks</p>
+</li>
+<li>
+<p>Full waiver of school and standard miscellaneous fees</p>
+</li>
+<li>
+<p>Daily school meal subsidies</p>
+</li>
+<li>
+<p>Transport subsidies</p>
+</li>
+</ul>
+<p>Parents can apply online at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasss</a>
+</p>
+<p>For students who do not qualify for MOE-FAS but still require financial
+support, the school offers its own financial assistance scheme. Applications
+for school-based assistance are assessed individually, taking into account
+each family's unique circumstances and financial needs.</p>
 <p></p>
 <p><strong>10)&nbsp;&nbsp; What are the school hours at CSS?</strong>
 </p>
