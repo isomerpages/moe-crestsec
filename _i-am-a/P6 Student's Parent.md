@@ -47,7 +47,7 @@ the posting exercise.</p>
 <p><strong>If your child is already in secondary school:</strong>
 </p>
 <p>Your child can appeal for a transfer to Crest Secondary School. Please
-send your appeal to <a rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a>.&nbsp;</p>
+send your appeal to <a href="mailto:crestsec@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crestsec@schools.gov.sg</a>.</p>
 <p>All applications depend on available places and meeting our admission
 criteria.</p>
 <h4><strong>Crest Open House 2025</strong></h4>
