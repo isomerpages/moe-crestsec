@@ -233,11 +233,11 @@ criteria. The MOE-FAS provides needy students with free school textbooks
 and stationery, school uniform and vocational attire, shoes and socks,
 waiver of school and standard miscellaneous fees, and daily school meal
 and transport subsidies. Students can approach the school’s Administration
-Office for a MOE-FAS application form or download the application&nbsp;
-<a href="https://www.crestsec.edu.sg/files/fas_application_specialised_schools_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">from the website</a><strong>. </strong>Click <a href="https://www.crestsec.edu.sg/files/fas_application_specialised_schools_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
-download form<strong> </strong>. Needy students who do not meet the eligibility
-criteria for MOE FAS may be considered for the school-based FAS. Approval
-will be given on a case-by-case basis.</p>
+Office for a MOE-FAS application form or download the application from
+the website<strong>. </strong>Click <a href="https://www.crestsec.edu.sg/files/fas_application_specialised_schools_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
+download form. Needy students who do not meet the eligibility criteria
+for MOE FAS may be considered for the school-based FAS. Approval will be
+given on a case-by-case basis.</p>
 <p></p>
 <p><strong>10)&nbsp;&nbsp; What are the school hours at CSS?</strong>
 </p>
