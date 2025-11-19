@@ -11,21 +11,16 @@ description: ""
 <p>Click <strong><a href="https://go.gov.sg/crestbooklet" rel="noopener nofollow" target="_blank">here</a></strong> to
 find out more about the Crest way!</p>
 <h4><strong>Crest Secondary School</strong></h4>
-<p>Crest Secondary School, established in 2013 as Singapore’s first specialised
-school for G1 students, was founded on the belief that all students can
-succeed and realise their dreams. Crest offers a vibrant and exciting four-year
-journey where academic learning is seamlessly blended with hands-on vocational
-training, giving students authentic and meaningful ways to learn and grow.
-First announced at the 2010 National Day Rally, the school was created
-to help every Crestan rise to their potential through real-world learning
-and extended support. Through our <em>Crafting with Heart</em> approach,
-students experience warm affirmation, strong connections, and a caring,
-safe environment that nurtures confidence and character. With a deep focus
-on values, social-emotional competencies, and future-ready skills, Crestans
-graduate not only with the Singapore-Cambridge Secondary Education Certificate
-(SEC) and the ITE Skills Subject Certificate (ISSC), but also with the
-self-belief and resilience to thrive in ITE pathways, further learning,
-and life beyond school.</p>
+<p>Crest Secondary School empowers every student to succeed and chase their
+dreams. Since 2013, we’ve blended academic learning with hands-on vocational
+training, giving Crestans real-world experiences that matter. Recognised
+with the Lee Hsien Loong Award for Innovations in Uplifting Students 2023
+for our strong culture of care and inclusivity, Crest nurtures confidence,
+character, and strong connections through our Crafting with Heart approach.
+Graduates leave not just with the SEC and ISSC, but with resilience, self-belief,
+and future-ready skills—like Mah Yan Lin, Class of 2024, who received The
+Lee Kuan Yew Award for All-Round Excellence—ready to thrive in ITE, further
+learning, and life beyond school.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_parent_2.png">
@@ -36,12 +31,7 @@ and life beyond school.</p>
 </div>
 <p></p>
 <h4><strong>Join the Crest Family!</strong></h4>
-<p>Crest welcomes students who qualify for Posting Group 1 or Group 1/2.
-You may join us through Direct Admission or the Secondary 1 Posting Exercise.
-We strongly encourage students and families to visit Crest and apply directly,
-so you can explore our unique subjects and discover the meaningful pathways
-available after Primary School. You’re warmly invited to meet us at our
-upcoming Open House after the release of the PSLE results!</p>
+<p>Crest welcomes students who qualify for Posting Group 1 or Group 1/2.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -132,15 +122,20 @@ upcoming Open House after the release of the PSLE results!</p>
 </tr>
 </tbody>
 </table>
-<p>To maximise your chances of joining Crest, you may submit a direct application
-before taking part in the Secondary 1 Posting Exercise, where you can also
-list Crest as one of your choices. We invite you to come to Crest Secondary
-School upon collecting your child’s/ward’s PSLE results on 25<sup>th</sup> November
-2025.</p>
-<p>Students who are currently in another secondary school are eligible to
-appeal for a transfer to Crest Secondary School. You may send an appeal
-to: <a rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a>.</p>
-<p>All applications will depend on available vacancies and the school’s admission
+<p><strong>If your child/ward is in Primary 6:</strong>
+</p>
+<p>When you collect your child's PSLE results on 25th November 2025, we invite
+you to visit Crest Secondary School with your child/ward to learn more
+about our programmes. Give your child the best chance of joining Crest
+by submitting a direct application before the Secondary 1 Posting Exercise.
+Alternatively, you can include Crest as one of your school choices during
+the posting exercise.</p>
+<p></p>
+<p><strong>If your child is already in secondary school:</strong>
+</p>
+<p>Your child can appeal for a transfer to Crest Secondary School. Please
+send your appeal to <a rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a>.&nbsp;</p>
+<p>All applications depend on available places and meeting our admission
 criteria.</p>
 <h4><strong>Crest Open House 2025</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://www.crestsec.edu.sg/crest-open-house-2025/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_OH_2025_updated.png"></a>
