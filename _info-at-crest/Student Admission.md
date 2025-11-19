@@ -43,12 +43,12 @@ more details.</p>
 <p></p>
 <p><strong>Sec 1 Booklists:</strong>
 </p>
-<p><a href="/files/Crest_Secondary_School_2025_Sec_1_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2025 Sec 1 G1</a>
+<p><a href="https://www.crestsec.edu.sg/files/Crest_Secondary_School_2026___Sec_1G1.pdf" rel="noopener nofollow" target="_blank">Crest Sec 1 G1 2026</a>
 </p>
-<p><a href="/files/Crest_Secondary_School_2025_Sec_1_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Crest Secondary School 2025 Sec 1 G2</a>
+<p><a href="https://www.crestsec.edu.sg/files/Crest_Secondary_School_2026___Sec_1G2_v2.pdf" rel="noopener nofollow" target="_blank">Crest Sec 1 G2 2026</a>
 </p>
 <p></p>
-<p><strong>Sale/Collection of books and uniforms for Sec 1 2025:</strong>
+<p><strong>Sale/Collection of books and uniforms for Sec 1 2026:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -61,7 +61,7 @@ more details.</p>
 <p>Non-FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 Dec 2024, Monday</p>
+<p>23 Dec 2025, Tuesday</p>
 <p>Time: 9am to 3pm</p>
 </td>
 </tr>
@@ -70,8 +70,7 @@ more details.</p>
 <p>FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Dec 2024, Thursday</p>
-<p>27 Dec 2024, Friday</p>
+<p>29 Dec 2025, Monday</p>
 <p>Time: 9am to 3pm</p>
 </td>
 </tr>
