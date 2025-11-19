@@ -7,8 +7,7 @@ variant: tiptap
 <h3>Student Admission Info</h3>
 <p></p>
 <p>Dear Sec 1 2026 parent/guardian,</p>
-<p>Please submit the following documents to us via <a href="mailto:crestsec@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crestsec@schools.gov.sg</a>, if you
-have not done so.</p>
+<p>Please submit the following documents to us via <a href="mailto:crestsec@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crestsec@schools.gov.sg</a>.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Birth certificate of child/ward</p>
@@ -203,23 +202,13 @@ days ending at 2.15pm. Otherwise, 2.45pm. Please refer to timetable.</p>
 </tbody>
 </table>
 <p></p>
-<p>For further queries, please contact Crest Secondary School at:
-<br>Contact Person :
+<p>For further enquiries, please contact:
 <br>Ms Alarize Soo-Hoo, Senior Executive (Administration)
 <br>Ms Lee Siu Yuen, Head (Administration)
-<br>School Address: 561 Jurong East Street 24 Singapore 609561 Tel: 6899 2779</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Email:&nbsp;<a href="mailto:info@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a>
+<br>
 </p>
-</li>
-<li>
-<p>Website:&nbsp;<a href="http://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.crestsec.edu.sg</a>
+<p>School Address: 561 Jurong East Street 24, Singapore 609561
+<br>Phone: 6899 2779
+<br>Email:&nbsp;<a href="mailto:info@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a>
 </p>
-</li>
-<li>
-<p>Facebook:&nbsp;<a href="https://www.facebook.com/crestsec" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/crestsec</a>
-</p>
-</li>
-</ul>
 <p></p>
