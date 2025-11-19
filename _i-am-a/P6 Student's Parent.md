@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_parent_1.png">
 </div>
-<p>Click <strong><a href="go.gov.sg/crestbooklet" rel="noopener nofollow" target="_blank">here</a></strong> to
+<p>Click <strong><a href="https://go.gov.sg/crestbooklet" rel="noopener nofollow" target="_blank">here</a></strong> to
 find out more about the Crest way!</p>
 <h4><strong>Crest Secondary School</strong></h4>
 <p>Crest Secondary School, established in 2013 as Singapore’s first specialised
@@ -68,8 +68,6 @@ upcoming Open House after the release of the PSLE results!</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Indicative level for most subjects at start of Secondary 1</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -161,7 +159,7 @@ In addition, Character and Citizenship Education undergirds CSS’ holistic
 education approach, with a strong focus on values education and social
 and emotional learning to prepare students for future learning, employment
 and adulthood.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the curriculum offered at CSS?</strong>
 </p>
 <p>CSS offers academic subjects and the ITE Skills Subject Certificate (ISSC).
@@ -173,7 +171,7 @@ support the learning of our higher ability students, the school may offer
 English Language Mathematics and/or Mother Tongue Language at the G2 level
 to these students, starting from Sec 1, if they meet the school’s eligibility
 criteria.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How are students assessed at CSS?</strong>
 </p>
 <p>CSS adopts a skills-based, formative assessment approach to scaffold students’
@@ -183,7 +181,7 @@ overall assessment of students’ performance across subjects. For Taster
 Modules, students will sit for an end-of-module assessment at the end of
 each semester. In addition, students will sit for the End-of-Year Assessments
 for academic subjects.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What qualifications will CSS students graduate with?</strong>
 </p>
 <p>CSS students will graduate at Sec 4 with the Singapore-Cambridge Secondary
@@ -196,12 +194,12 @@ arts, technical &amp; vocational skills may apply to ITE for early admission
 to their preferred Nitec courses via the ITE Early Admission Exercise,
 prior to the release of the Singapore-Cambridge Secondary Education Certificate
 (SEC) results.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What Co-Curricular Activities (CCAs) does CSS offer?</strong>
 </p>
 <p>Click <a href="https://www.crestsec.edu.sg/programmes/student-development/cca/" rel="noopener nofollow" target="_blank">here</a> to
 view all CCAs.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;What are the criteria for student admission into CSS?</strong>
 </p>
 <p>All P6, G1, G1/G2 eligible students may apply for admission to CSS. The
@@ -210,7 +208,7 @@ the student’s potential to benefit from its skills-based, practice-oriented
 curriculum. All P6 eligible students will receive a letter inviting them
 to apply for admission into CSS when they receive their PSLE results from
 their primary school.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I apply for my child/ward to join Crest Secondary School?</strong>
 </p>
 <p>You may join us through Direct Admission or the Secondary 1 Posting Exercise.
@@ -219,14 +217,14 @@ application by coming down to Crest Secondary School after the release
 of PSLE results on the 25<sup>th</sup> November 2025.</p>
 <p>You can also take part in the Secondary 1 Posting Exercise, where you
 can list Crest as one of your choices.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When will I receive the posting outcome?</strong>
 </p>
 <p>Applicants who have applied through Direct Admission will be informed
 of their application outcome in mid-December. Sec 1 Posting outcomes on
 the other hand will receive the posting results together with the main
 cohort.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does CSS offer financial assistance to needy students?</strong>
 </p>
 <p>Singapore Citizen students may apply for MOE Financial Assistance Scheme
@@ -240,19 +238,18 @@ Office for a MOE-FAS application form or download the application&nbsp;
 download form<strong> </strong>. Needy students who do not meet the eligibility
 criteria for MOE FAS may be considered for the school-based FAS. Approval
 will be given on a case-by-case basis.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>10)&nbsp;&nbsp; What are the school hours at CSS?</strong>
 </p>
 <p>Students report to school at 7.45 a.m. daily. Students are generally dismissed
 at 2.45 p.m. or 3.15 p.m. On Fridays, students are dismissed at 12.30 p.m.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>11)&nbsp;&nbsp; Where is Crest Secondary school located?</strong>
 </p>
 <p>We are conveniently located at 561 Jurong East Street 24, Singapore 609561.</p>
 <p>Bus services :&nbsp;176, 187, 188, 188E, 868 , 990.</p>
 <p>MRT stations : <a href="https://www.google.com.sg/maps/dir/Jurong+East+MRT+Jurong+Gateway+Road/Crest+Secondary+School/@1.3377245,103.7395109,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x31da100f0aa99d2f:0xd25fb73738ac2582!2m2!1d103.7422884!2d1.3331336!1m5!1m1!1s0x31da101709c924b3:0x5104dbd93122047f!2m2!1d103.7428639!2d1.3436637" rel="noopener noreferrer nofollow" target="_blank">Jurong East (NS1/EW24)</a>&nbsp;and&nbsp;
 <a href="https://www.google.com.sg/maps/dir/Bukit+Batok/Crest+Secondary+School/@1.3451273,103.7407868,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x31da103f1cc57ecb:0x964fd956df3bbb42!2m2!1d103.749428!2d1.348796!1m5!1m1!1s0x31da101709c924b3:0x5104dbd93122047f!2m2!1d103.7428639!2d1.3436637" rel="noopener noreferrer nofollow" target="_blank">Bukit Batok (NS2)</a>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_parent_4.png">
 </div>
