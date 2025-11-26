@@ -125,6 +125,7 @@ their primary school.</p>
 you to visit Crest Secondary School with your child/ward to learn more
 about our programmes. Give your child/ward the best chance of joining Crest
 by submitting a direct application before the Secondary 1 Posting Exercise.
+You may also submit your application online via this <a href="https://www.crestsec.edu.sg/info-at-crest/student-admission-info/" rel="noopener nofollow" target="_blank">link</a>.
 Alternatively, you can include Crest as one of your school choices during
 the Secondary 1 Posting exercise.</p>
 <p><strong>If your child is already in secondary school:</strong>
