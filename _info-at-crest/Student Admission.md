@@ -29,11 +29,9 @@ variant: tiptap
 </ol>
 <p>Deadline is 1 Dec, Monday, 4.30pm.</p>
 <h4>Information for New Secondary 1 Students</h4>
-<p></p>
-<p>Congratulations on being accepted into Crest Secondary School. Please
-be informed that you will need to report to school on 2 January 2026 (Friday)
-by 7:45am. There will be direction signs, staff and student leaders around
-to guide you.</p>
+<p>Please be informed that you will need to report to school on 2 January
+2026 (Friday) by 7:45am. There will be direction signs, staff and student
+leaders around to guide you.</p>
 <p><strong>Attire:</strong>
 <br>Crest School Uniform with plain black socks and shoes</p>
 <p></p>
