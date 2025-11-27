@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner_OH_2025_updated.png
+      background: /images/I_CAN__YOU_CAN__WE_CAN_.gif
       key_highlights:
         - title: Open House
           description: ASK ME ANYHING
