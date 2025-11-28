@@ -8,17 +8,13 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner_OH_2025_small.png">
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.crestsec.edu.sg/images/AMA.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AMA_sm.png"></a>
-</th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.crestsec.edu.sg/images/OH_card_1_Page_1_small.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH_card_1_Page_1_small.png"></a>
 </th>
@@ -36,35 +32,6 @@ description: ""
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGY2ZGZiMmMtNzU1Mi00Yzg4LTlhMjYtNDBkOGYxNTc5ZDBi%40thread.v2/0?context=%7b%22Tid%22%3a%226590cdd4-8337-4198-bacc-47645c4a4d4d%22%2c%22Oid%22%3a%22f1a2036a-4084-4136-a74a-4a71a8c832ce%22%7d" rel="noopener nofollow" target="_blank">Ask Me Anything</a></strong> (Click
-to join - MS Teams)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>20 Nov 2025 (Thurs) - Session 1</strong>
-</p>
-<p><strong>25 Nov 2025 (Tues) - Session 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7 pm to 8 pm</strong>
-</p>
-<p><strong>5 pm to 6 pm</strong>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Open House</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>25 Nov 2025 (Tues)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>11 am to 4 pm</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Open House</strong>
@@ -115,7 +82,14 @@ to join - MS Teams)</p>
 </p>
 <p><a href="https://ths.li/Ay4FQDj" rel="noopener nofollow" target="_blank">Video 2: Watch this video for a virtual tour of the school</a>
 </p>
-<p></p>
+<p><a href="https://www.youtube.com/watch?v=KZnbWwfnlf4&amp;t=2s" rel="noopener nofollow" target="_blank">Video 3: Crest corporate video</a>
+</p>
+<p><a href="https://www.youtube.com/watch?v=hGdYBZKROdg" rel="noopener nofollow" target="_blank">Video 4: Crest Serve-Up!</a>
+</p>
+<p><a href="https://www.youtube.com/watch?v=eVZCuC61lTM" rel="noopener nofollow" target="_blank">Video 5: Crest supports your growth (1) - Sofea</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1dZ-Lzb66kL_-yI8E_HArHm9ytH_kZSVH/view" rel="noopener nofollow" target="_blank">Video 6: Crest supports your growth (2) - Cornelius</a>
+</p>
 <h4>Our Curriculum:</h4>
 <p><a href="https://www.crestsec.edu.sg/programmes/academic-curriculum/aesthetics/" rel="noopener nofollow" target="_blank">Academic Curriculum</a>
 </p>
