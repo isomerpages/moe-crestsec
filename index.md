@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/I_CAN__YOU_CAN__WE_CAN_.gif
+      background: /images/crest-hero.gif
       key_highlights:
         - title: Open House
           description: ""
