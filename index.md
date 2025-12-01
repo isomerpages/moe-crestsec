@@ -11,9 +11,9 @@ sections:
   - hero:
       background: /images/crest-hero.gif
       key_highlights:
-        - title: Open House
+        - title: Success Stories
           description: ""
-          url: https://www.crestsec.edu.sg/crest-open-house-2025/
+          url: https://www.crestsec.edu.sg/success-stories/
         - title: crest @IG
           description: "@crestsec_official"
           url: https://www.instagram.com/crestsec_official/
