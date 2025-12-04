@@ -11,23 +11,23 @@ the AL score obtained in the corresponding PSLE subject. Students in Posting
 Group 1 who are eligible may choose to accept the offer to study one or
 more subjects at the G2 level.</p>
 <p>For more information about SBB, please refer to the videos below:</p>
-<p><a href="https://drive.google.com/file/d/1Lg7mzDYKasnsJZS3N1KolXu7vm2kpn2W/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Principal Address for SBB</u></a>
+<p><a href="https://drive.google.com/file/d/1BFCOsNnRYNL2E4UCCkTUmE-6XHMx8FaW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Principal Address for SBB</u></a>
 </p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1-n0mnxjm1brtnNT2rb7xHVIH8OFI1YD3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>G2 English Briefing</u></a>
+<p><a href="https://drive.google.com/file/d/10yOG_6xRqluGRrFB4eQJDnzxhXOpGO79/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>G2 English Briefing</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/116jUN28reD-UAJX1J2zrCA_qPdf5vUt8/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>G2 Math Briefing</u></a>
+<p><a href="https://drive.google.com/file/d/1tyyEbBphqwOr1wqRkXLERIYMw2mifuk7/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>G2 Math Briefing</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1WYIOkON_c-CXFzA65DvJQ3veSawX13E3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>G2 MTL Briefing</u></a>
+<p><a href="https://drive.google.com/file/d/1am9VgqU4HBLnz98vA9KcRCZru1mFnmh1/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>G2 MTL Briefing</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1Px7K_2Jryu5A3FW1PSLT-7COH0-TQKF_/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>G2 Science Briefing</u></a>
+<p><a href="https://drive.google.com/file/d/1lJ_DDADnGvJT2Ft8c1JmUX7b5v2TMrzw/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>G2 Science Briefing</u></a>
 </p>
 </li>
 </ul>
