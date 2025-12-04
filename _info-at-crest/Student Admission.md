@@ -40,7 +40,7 @@ leaders around to guide you.</p>
 <p></p>
 <p><strong>Subject-based banding (SBB) briefing:</strong>
 <br>There will be a briefing on SBB for students who are eligible. Please
-click on this <a href="https://www.crestsec.edu.sg/subject-based-banding-sbb/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
+click on this <a href="https://www.crestsec.edu.sg/subject-based-banding-sbb/" rel="noopener nofollow" target="_blank">link</a> for
 more details.</p>
 <p></p>
 <p><strong>Sec 1 Booklists:</strong>
