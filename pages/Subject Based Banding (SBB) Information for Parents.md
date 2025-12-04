@@ -36,7 +36,7 @@ accept or decline the offer. This ensures your child is assigned to the
 appropriate Secondary 1 Teaching Group.</p>
 <p><strong>Submission Deadline:</strong>
 </p>
-<p>23 December 2024, 9:00 AM</p>
+<p>23 December 2025, 9:00 AM</p>
 <p></p>
 <p>You can access the SBB Option Form by:</p>
 <p>1. Scanning the QR code below:</p>
