@@ -39,7 +39,7 @@ appropriate Secondary 1 Teaching Group.</p>
 <p>23 December 2025, 9:00 AM</p>
 <p></p>
 <p>You can access the SBB Option Form by:</p>
-<p>1. Scanning the QR code below:</p><a class="isomer-image-wrapper" href="https://go.gov.sg/css2026sbb"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SBB_QR_2026.jpg"></a>
+<p>1. Scanning the QR code below:</p><a class="isomer-image-wrapper" href="https://go.gov.sg/css2026sbb"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/SBB_QR_2026.jpg"></a>
 <p>2. Visiting this URL: <a href="https://go.gov.sg/css2026sbb" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/css2026sbb</a>
 </p>
 <p>If you need to seek clarification, please contact the teacher-in-charge,
