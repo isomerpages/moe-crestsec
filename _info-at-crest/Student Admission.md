@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h3>Student Admission Info</h3>
 <p></p>
-<p>Dear Pri 6 2025 parent/guardian,</p>
-<p>Please submit the following documents to us via <a href="mailto:crestsec@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crestsec@schools.gov.sg</a>.</p>
+<p>Dear Sec 1 2026 parent/guardian,</p>
+<p>Please submit the following documents to us via <a href="mailto:crestsec@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crestsec@schools.gov.sg</a>, if you
+have not done so.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Birth certificate of child/ward</p>
@@ -23,11 +24,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Application_Form_for_Student_Admission_CSS__SS_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p>Application for MOE FAS, if applicable: <a href="https://go.gov.sg/moe-efasss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasss</a>
 </p>
 </li>
 </ol>
-<p>Deadline is 1 Dec, Monday, 4.30pm.</p>
+<p>Deadline is 22 December 2025.</p>
 <h4>Information for New Secondary 1 Students</h4>
 <p>Please be informed that you will need to report to school on 2 January
 2026 (Friday) by 7:45am. There will be direction signs, staff and student
