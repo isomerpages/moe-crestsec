@@ -80,7 +80,7 @@ more details.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>School Hours for 2025</strong>
+<p><strong>School Hours for 2026 (Tentative)</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
