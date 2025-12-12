@@ -24,8 +24,8 @@ have not done so.</p>
 </p>
 </li>
 <li>
-<p>Application for MOE FAS, if applicable: <a href="https://go.gov.sg/moe-efasss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasss</a>
-</p>
+<p>Application for MOE FAS, if applicable: <a href="https://go.gov.sg/moe-efasss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasss</a> (from
+12 Dec, 2pm onwards)</p>
 </li>
 </ol>
 <p>Deadline is 22 December 2025.</p>
