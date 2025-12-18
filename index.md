@@ -11,9 +11,9 @@ sections:
   - hero:
       background: /images/crest-hero.gif
       key_highlights:
-        - title: Success Stories
+        - title: JIE 2026
           description: ""
-          url: https://www.crestsec.edu.sg/success-stories/
+          url: https://www.crestsec.edu.sg/jie-2026/
         - title: crest @IG
           description: "@crestsec_official"
           url: https://www.instagram.com/crestsec_official/
