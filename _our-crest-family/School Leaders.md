@@ -73,13 +73,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Celine Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vice-Principal
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_kay_bin@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
