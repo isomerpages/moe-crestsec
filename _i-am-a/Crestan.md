@@ -21,6 +21,14 @@ variant: tiptap
 </p>
 <p></p>
 <h4>Students' Handbook</h4>
-<p>Download <a href="https://drive.google.com/file/d/1RmF0tFn71eUcoUPDj3NFStGyQjkuyrib/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+<p>Download the handbook <a href="https://drive.google.com/file/d/1RmF0tFn71eUcoUPDj3NFStGyQjkuyrib/view?usp=sharing" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<p></p>
+<h4>Post N-Level Matters</h4>
+<p><a href="/files/WhatsNextN_Level_Final2025.pdf" rel="noopener noreferrer nofollow" target="_blank">What's next - Taking my next step forward after GCE N-Level</a>
+</p>
+<p><a href="/files/2025_JIE_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Joiint Intake Exercise (JIE) Factsheet</a>
+</p>
+<p><a href="/files/Admission___Course_Information_Brochure_for_GCE__N__Level_students_only_for_Crest_Sec.pdf" rel="noopener noreferrer nofollow" target="_blank">Future-ready skils - Admission &amp; course information brochure for January 2026 Joiint Intake Exercise (JIE) for full-time courses</a>
 </p>
 <p></p>
