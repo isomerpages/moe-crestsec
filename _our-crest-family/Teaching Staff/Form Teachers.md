@@ -302,11 +302,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>S4-01</p>
-<p>CRO + MDA</p>
+<p>CRO + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eng Choon</p>
-<p>Ms Rischka Syafiqa Putri Jonawi</p>
+<p>Ms Lim Michelle</p>
+<p>Mr Ling Chee Kwong (Paul)</p>
 </td>
 </tr>
 <tr>
@@ -315,67 +315,76 @@ variant: tiptap
 <p>CRO + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mutmainnah Binte Saidi</p>
-<p>Ms Chan Mei Lian</p>
+<p>Ms Tan Farah Imran</p>
+<p>Mr Lim Kian Chuan (Edwin)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S4-03</p>
-<p>CRO + REC</p>
+<p>CRO + MDA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Tuck Suen</p>
-<p>Ms Law Zhen Xi (Cherish)</p>
+<p>Ms Ho Wei Lynn, Karen</p>
+<p>Mr Mohamed Althaf Shathali</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S4-04</p>
-<p>CRO + IOTA</p>
+<p>CRO + IoTA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Betty Boo May Ling</p>
-<p>Mr Poh Wei Yi, Ian</p>
+<p>Mr Chua Chin Choon (Desmond)</p>
+<p>Mr Yuen Wei Dong (Dave)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S4-05</p>
-<p>IOTA + MWA</p>
+<p>IoTA + MWA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shuhadah Binte Suleiman</p>
+<p>Mr Osman Farouk</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S4-06</p>
-<p>MDA + MWA</p>
+<p>IoTA + MDA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lo Chen Yang Marvin</p>
-<p>Ms Siti Mariam Binte Manshor</p>
+<p>Ms Huang Youya</p>
+<p>Ms Shuhadah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S4-07</p>
-<p>IOTA + REC</p>
+<p>MDA + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Woan Huey (Hannah)</p>
-<p>Ms Tan Mei Yan Serene</p>
+<p>Mr Ng Wee Kee</p>
+<p>Ms Lim Xin Tian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S4-08</p>
-<p>MDA + REC</p>
+<p>MDA + MWA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Hisham B Suwandi</p>
-<p>Mr Mohammed Rohan Bin Ismail</p>
+<p>Mr Leroy Lim</p>
+<p>Ms Vanessa Teo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S4-09</p>
+<p>MWA + REC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nurharnani</p>
 </td>
 </tr>
 </tbody>
