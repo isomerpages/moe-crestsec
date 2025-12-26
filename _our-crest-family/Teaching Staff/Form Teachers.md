@@ -27,8 +27,8 @@ variant: tiptap
 <p>S1-01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Weiming</p>
-<p>Ms Chan Lay Ling, Amy</p>
+<p>Ms Mutmainnah</p>
+<p>Mr Suria Raj</p>
 </td>
 </tr>
 <tr>
@@ -36,8 +36,8 @@ variant: tiptap
 <p>S1-02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chwee Leong</p>
-<p>Ms Hamidah Binte Haji Hamim</p>
+<p>Ms Law Zhen Xi (Cherish)</p>
+<p>Mr Mohamad Hisham</p>
 </td>
 </tr>
 <tr>
@@ -45,8 +45,8 @@ variant: tiptap
 <p>S1-03</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Teng Long Christopher</p>
-<p>Mr Adrian Tan Liang Huat</p>
+<p>Mr Poh Wei Yi, Ian</p>
+<p>Ms Rathi Roshini</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +54,8 @@ variant: tiptap
 <p>S1-04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maznunnisha Binte Abdul Aziz</p>
-<p>Mr Mahmud Bin Ahmad</p>
+<p>Ms Tan Mei Yan Serene</p>
+<p>Mr Desmond Peh</p>
 </td>
 </tr>
 <tr>
@@ -63,8 +63,8 @@ variant: tiptap
 <p>S1-05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ooi Heng</p>
-<p>Ms Nur Sheela Binte Sugirmanto</p>
+<p>Ms Betty Wu May Ling</p>
+<p>Mr Yu Yoong Kheong</p>
 </td>
 </tr>
 <tr>
@@ -72,8 +72,8 @@ variant: tiptap
 <p>S1-06</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Kia Hian</p>
-<p>Ms Muszalifa Binte Aman</p>
+<p>Ms Chan Mei Lian</p>
+<p>Mr Kelly Koh</p>
 </td>
 </tr>
 <tr>
@@ -81,8 +81,8 @@ variant: tiptap
 <p>S1-07</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Helmy Rozaimi Bin Husaimi</p>
-<p>Ms Tay Hwee Fern</p>
+<p>Ms Liang Kai Poh</p>
+<p>Mr Mohammed Rohan</p>
 </td>
 </tr>
 <tr>
@@ -90,8 +90,8 @@ variant: tiptap
 <p>S1-08</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hedzlyn Hazwany Binte Mohamed Mahrom</p>
-<p>Mr Wee Pheng Choon Desmond</p>
+<p>Mr Mohammed Hafiez</p>
+<p>Mr Arum</p>
 </td>
 </tr>
 </tbody>
@@ -117,8 +117,8 @@ variant: tiptap
 <p>S2-01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Tsang Yim Ting</p>
-<p>Ms Khairiah Binti Jaafar</p>
+<p>Mr Lim Weiming</p>
+<p>Ms Chan Lay Ling, Amy</p>
 </td>
 </tr>
 <tr>
@@ -126,8 +126,8 @@ variant: tiptap
 <p>S2-02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suriani Binte Sulaiman</p>
-<p>Mr Muhammad Zaki Bin Hosain</p>
+<p>Mr Tan Chwee Leong</p>
+<p>Ms Hamidah Binte Haji Hamim</p>
 </td>
 </tr>
 <tr>
@@ -135,8 +135,8 @@ variant: tiptap
 <p>S2-03</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yuen Wei Dong (Dave)</p>
-<p>Ms Siti Nooratika Bte Jumaat</p>
+<p>Mr Christopher Neo Teng Long</p>
+<p>Ms Rischka Syafiqa Putri Jonawi</p>
 </td>
 </tr>
 <tr>
@@ -144,8 +144,8 @@ variant: tiptap
 <p>S2-04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Saheeta Nisvaan D/O Syed Maidin</p>
-<p>Ms Liang Kai Poh</p>
+<p>Ms Maznunnisha Binte Abdul Aziz</p>
+<p>Mr Mahmud Bin Ahmad</p>
 </td>
 </tr>
 <tr>
@@ -153,8 +153,8 @@ variant: tiptap
 <p>S2-05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Chia Chia</p>
-<p>Mr Mohammed Hafiez Bin Ali</p>
+<p>Mr Ooi Heng</p>
+<p>Ms Farah Lyna</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,8 @@ variant: tiptap
 <p>S2-06</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pamela Chia Hui Ling</p>
+<p>Mr Lau Kia Hian</p>
+<p>Mr Mohd Hirman</p>
 </td>
 </tr>
 <tr>
@@ -170,8 +171,17 @@ variant: tiptap
 <p>S2-07</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Tan Mei Yun</p>
-<p>Mr Ong Chin Koon</p>
+<p>Mr Helmy Rozaimi</p>
+<p>Ms Tay Hwee Fern</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S2-08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hedzlyn Hazwany</p>
+<p>Mr Quek Soon Heng</p>
 </td>
 </tr>
 </tbody>
@@ -198,8 +208,7 @@ variant: tiptap
 <p>CRO + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Michelle</p>
-<p>Mr Ling Chee Kwong</p>
+<p>Mr Ong Chin Koon</p>
 </td>
 </tr>
 <tr>
@@ -208,8 +217,8 @@ variant: tiptap
 <p>CRO + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Farah Imran</p>
-<p>Mr Lim Kian Chuan</p>
+<p>Ms Tan Chia Chia</p>
+<p>Mr Lo Chen Yang Marvin</p>
 </td>
 </tr>
 <tr>
@@ -218,67 +227,58 @@ variant: tiptap
 <p>CRO + MDA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Wei Lynn Karen</p>
-<p>Mr Mohamed Althaf Shathali</p>
+<p>Ms Siti Mariam</p>
+<p>Mr Tan Eng Choon</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S3-04</p>
-<p>CRO + IOTA</p>
+<p>CRO + IoTA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Chin Choon (Desmond)</p>
-<p>Mr Nathaniel Chia Wei Long</p>
+<p>Ms Pamela Chia Hui Ling</p>
+<p>Mr Jonathan Tsang Yim Ting</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S3-05</p>
-<p>IOTA + MWA</p>
+<p>IoTA + REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Osman Farouk S/O Hassan Mohamed</p>
-<p>Mr Yu Yoong Kheong</p>
+<p>Ms Tan Mei Yun Lynn</p>
+<p>Ms Khairiah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S3-06</p>
-<p>IOTA + MDA</p>
+<p>IoTA + MWA</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Suriani</p>
 <p>Mr Ong Cheng Soon</p>
-<p>Ms Wong Yau Are</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S3-07</p>
-<p>MDA + REC</p>
+<p>MDA + MWA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Wee Kee</p>
-<p>Ms Lim Xin Tian</p>
+<p>Ms Siti Nooratika</p>
+<p>Ms Jayanthi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>S3-08</p>
-<p>MDA + MWA</p>
+<p>MDA + IoTA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Boon Peng Leroy</p>
-<p>Ms Teo Ee Chian Vanessa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-09</p>
-<p>MWA + REC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Nurharnani Binte Nahar</p>
+<p>Mr Muhammad Zaki</p>
+<p>Mr Tan Song Boon</p>
 </td>
 </tr>
 </tbody>
