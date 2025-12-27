@@ -32,7 +32,8 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>benjamin_kwok@schools.gov.sg</p>
+<p><a href="mailto:benjamin_kwok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin_kwok@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -40,35 +41,11 @@ variant: tiptap
 <p>Mr Othman Arsan Bin Mohd Abubakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal
-<br>(Academic)</p>
+<p>Vice Principal 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>othman_arsan_mohd_abubakar@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teh Tuan Ann</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal
-<br>(Vocational Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teh_tuan_ann@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Kee Meng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal
-<br>(Administration)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_kee_meng@schools.gov.sg</p>
+<p><a href="mailto:othman_arsan_mohd_abubakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">othman_arsan_mohd_abubakar@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -76,12 +53,23 @@ variant: tiptap
 <p>Mrs Celine Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal
-<br>
-</p>
+<p>Vice Principal 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_kay_bin@schools.gov.sg</p>
+<p><a href="mailto:tan_kay_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kay_bin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Kee Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_kee_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kee_meng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
