@@ -100,7 +100,10 @@ variant: tiptap
 <p>Mr Yue Sien Wee Eric</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean (Studet Developement) &amp; Head (Student Services)</p>
+<p>Dean
+<br>(Studet Developement)</p>
+<p>Head
+<br>(Student Services)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yue_sien_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yue_sien_wee@schools.gov.sg</a>
@@ -124,7 +127,8 @@ variant: tiptap
 <p>Mr Lim Heng Boon Arthur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (PE &amp; CCA)</p>
+<p>HOD
+<br>(PE &amp; CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:arthur_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">arthur_lim@schools.gov.sg</a>
@@ -136,7 +140,8 @@ variant: tiptap
 <p>Mr Lee Ching Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Vocational Education 1)</p>
+<p>HOD
+<br>(Vocational Education 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_ching_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ching_yong@schools.gov.sg</a>
@@ -148,7 +153,8 @@ variant: tiptap
 <p>Ms Chan Ying Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (MWA &amp; MDA)</p>
+<p>HOD
+<br>(Vocational Education 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_ying_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ying_hui@schools.gov.sg</a>
@@ -173,7 +179,8 @@ variant: tiptap
 <p>Mr Tan Teck Hong Jason</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Discipline)</p>
+<p>HOD
+<br>(Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_teck_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_hong@schools.gov.sg</a>
@@ -185,7 +192,8 @@ variant: tiptap
 <p>Ms Chee Pey Ling Juliana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (English Language)</p>
+<p>HOD
+<br>(English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chee_pey_ling_juliana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_pey_ling_juliana@schools.gov.sg</a>
@@ -194,10 +202,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Muszalifa Binte Aman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD
+<br>(Mother Tongue Languages) - Covering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muszalifa_aman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muszalifa_aman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lok Lai Hoong Lisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Publicity &amp; Aesthetics)</p>
+<p>HOD
+<br>(Publicity &amp; Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lok_lai_hoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lok_lai_hoong@schools.gov.sg</a>
@@ -209,7 +231,8 @@ variant: tiptap
 <p>Ms Ho Su Ching Eunice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Mathematics) - covering</p>
+<p>HOD
+<br>(Mathematics) - covering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_su_ching_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_su_ching_eunice@schools.gov.sg</a>
@@ -221,22 +244,11 @@ variant: tiptap
 <p>Mr Yeo Choon Huat Philip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Character and Citizenship Education)</p>
+<p>HOD
+<br>(Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_choon_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_choon_huat@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Muszalifa Binte Aman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Mother Tongue Languages) - Covering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muszalifa_aman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muszalifa_aman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -287,22 +299,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Xiu Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_xiu_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xiu_yun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Nathaniel Chia Wei Long</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head - covering</p>
+<p>AYH
+<br>(Sec 1) - covering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nathaniel_chia_wei_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nathaniel_chia_wei_long@schools.gov.sg</a>
@@ -311,13 +312,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Choon Hiong Gordon</p>
+<p>Ms Lim Xiu Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>AYH
+<br>(Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_choon_hiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_choon_hiong@schools.gov.sg</a>
+<p><a href="mailto:lim_xiu_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xiu_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -326,7 +328,8 @@ variant: tiptap
 <p>Ms Raihanah Beevi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>AYH
+<br>(Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:raihanah_beevi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raihanah_beevi@schools.gov.sg</a>
@@ -335,10 +338,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chua Choon Hiong Gordon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH
+<br>(Sec 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_choon_hiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_choon_hiong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Chang Yi Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>AYH
+<br>(Studio R)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_yi_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_yi_ping@schools.gov.sg</a>
@@ -553,18 +570,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hedzlyn_hazwany_mohamed_mahrom@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Puvaneswari D/O Raman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:puvaneswari_raman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">puvaneswari_raman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
