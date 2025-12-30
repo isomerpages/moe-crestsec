@@ -25,37 +25,40 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Choon Huat Philip</p>
+<p>Mr Yue Sien Wee Eric</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Character and Citizenship Education) &amp; Head (Student Support)</p>
+<p>Dean
+<br>(Student Developement)</p>
+<p>Head
+<br>(Student Services)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_choon_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_choon_huat@schools.gov.sg</a>
+<p><a href="mailto:yue_sien_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yue_sien_wee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Suh Shyan Pauline</p>
+<p>Ms Josephine D/O Thomas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>SwANs Companion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_suh_shyan_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_suh_shyan_pauline@schools.gov.sg</a>
+<p><a href="mailto:josephine_thomas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">josephine_thomas@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ismaiyah Binte Ismail</p>
+<p>Ms Chok Yee Fern Candice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>SwANs Companion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ismaiyah_binte_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ismaiyah_binte_ismail@schools.gov.sg</a>
+<p><a href="mailto:chok_yee_fern_candice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chok_yee_fern_candice@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -64,7 +67,7 @@ third_nav_title: Non Teaching Staff
 <p>Ms Eswari Sundaram</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Special Educational Needs Officer</p>
+<p>SwANs Companion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eswari_sundaram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eswari_sundaram@schools.gov.sg</a>
