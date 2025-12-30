@@ -101,7 +101,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Dean
-<br>(Studet Developement)</p>
+<br>(Student Developement)</p>
 <p>Head
 <br>(Student Services)</p>
 </td>
