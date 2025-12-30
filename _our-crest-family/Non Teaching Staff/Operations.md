@@ -79,7 +79,8 @@ variant: tiptap
 <p>Senior Operations Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>heng_poh_ngeow_yvonne@schools.gov.sg</p>
+<p><a href="mailto:heng_poh_ngeow_yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_poh_ngeow_yvonne@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
