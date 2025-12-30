@@ -25,6 +25,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ivan Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_rong_hwee_ivan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_rong_hwee_ivan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Derrick Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,18 +44,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_chuan_hoe_derrick@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chuan_hoe_derrick@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ivan Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head (Technical Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_rong_hwee_ivan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_rong_hwee_ivan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -79,7 +79,8 @@ variant: tiptap
 <p>Senior Operations Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>heng_poh_ngeow_yvonne@schools.gov.sg</p>
+<p><a href="mailto:heng_poh_ngeow_yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_poh_ngeow_yvonne@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
