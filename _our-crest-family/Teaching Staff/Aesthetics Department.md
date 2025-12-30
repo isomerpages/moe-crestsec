@@ -62,6 +62,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ian Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Youth, Style &amp; Expression)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:poh_wei_yi_ian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wei_yi_ian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Mutmainnah Bte Saidi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,17 +93,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ian Poh</p>
+<p>Mr Suria Raj</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ian</p>
+<p>Mr Suria</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher
-<br>(Aesthetics)</p>
+<br>(Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poh_wei_yi_ian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wei_yi_ian@schools.gov.sg</a>
+<p><a href="mailto:suria_raj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suria_raj@schools.gov.sg</a>
 </p>
 </td>
 </tr>
