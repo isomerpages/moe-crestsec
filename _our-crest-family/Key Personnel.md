@@ -540,7 +540,7 @@ variant: tiptap
 <p>Mr Ian Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Youth, Style &amp; Expression)</p>
+<p>Senior Teacher (Youth, Life &amp; Expression)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poh_wei_yi_ian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wei_yi_ian@schools.gov.sg</a>
