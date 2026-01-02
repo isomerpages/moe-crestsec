@@ -40,6 +40,18 @@ third_nav_title: Non Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Derek Zheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Educational Psychologist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Zheng_Chengde_Derek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_chengde_derek@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Josephine D/O Thomas</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,18 +83,6 @@ third_nav_title: Non Teaching Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eswari_sundaram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eswari_sundaram@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Derek Zheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Educational Psychologist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Zheng_Chengde_Derek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_chengde_derek@schools.gov.sg</a>
 </p>
 </td>
 </tr>
