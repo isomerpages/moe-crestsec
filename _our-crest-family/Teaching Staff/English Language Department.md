@@ -222,6 +222,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Felix Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kim_heng_felix_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kim_heng_felix_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Kalimah Bte Haji Zainuri</p>
 </td>
 <td rowspan="1" colspan="1">
