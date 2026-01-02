@@ -114,8 +114,8 @@ variant: tiptap
 <p>Mr Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH
-<br>(Sec 1) - covering</p>
+<p>Assistant Year Head
+<br>(Secondary 1) - covering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nathaniel_chia_wei_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nathaniel_chia_wei_long@schools.gov.sg</a>
