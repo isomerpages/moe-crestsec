@@ -20,10 +20,8 @@ variant: tiptap
 <p><a href="/files/EL/Acceptable_Use_Policy__AUP__Revised_2025.pdf" rel="noopener nofollow" target="_blank">Acceptable Use Policy (AUP) for Use of EdTech Resources</a>
 </p>
 <p></p>
-<h4>Students' Handbook</h4>
-<p>Download the handbook <a href="https://drive.google.com/file/d/1RmF0tFn71eUcoUPDj3NFStGyQjkuyrib/view?usp=sharing" rel="noopener nofollow" target="_blank">here.</a>
-</p>
-<p></p>
+<h4>Student Handbook</h4>
+<p>Download the 2026 Student Handbook <a href="/files/Crest_Sec_Handbook_2026_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Post N-Level Matters</h4>
 <p><a href="/files/WhatsNextN_Level_Final2025.pdf" rel="noopener noreferrer nofollow" target="_blank">What's next - Taking my next step forward after GCE N-Level</a>
 </p>
