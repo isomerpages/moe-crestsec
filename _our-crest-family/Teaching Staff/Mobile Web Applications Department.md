@@ -47,22 +47,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Eugene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department
-<br>(Information and Communications Technology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ming_hui_eugene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ming_hui_eugene@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Osman Farouk S/O Hassan Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,14 +95,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Quek Soon Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher
+<br>(Mobile Web Applications)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:quek_soon_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_soon_heng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Jonathan Tsang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allied Educator T&amp;L
-<br>(Internet of Things Applications &amp; Mobile Web Applications)</p>
+<p>Teacher
+<br>(Internet of Things Applications) &amp; (Mobile Web Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Jonathan_Tsang_Yim_Ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jonathan_tsang_yim_ting@schools.gov.sg</a>

@@ -31,7 +31,7 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Heng Boon (Arthur)</p>
+<p>Mr Lim Heng Boon Arthur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim</p>
@@ -47,14 +47,16 @@ third_nav_title: Teaching Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yue Sien Wee (Eric)</p>
+<p>Mr Yue Sien Wee Eric</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>(Secondary 3 and 4)</p>
+<p>Dean
+<br>(Student Developement)</p>
+<p>Head
+<br>(Student Services)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yue_sien_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yue_sien_wee@schools.gov.sg</a>
@@ -69,28 +71,10 @@ third_nav_title: Teaching Staff
 <p>Mr Fareed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>(Secondary 1 and 2
-<br>[covering]</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fareed_hashim_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fareed_hashim_muhammad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Desmond Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Physical Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wee_pheng_choon_desmond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_pheng_choon_desmond@schools.gov.sg</a>
 </p>
 </td>
 </tr>

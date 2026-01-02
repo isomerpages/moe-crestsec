@@ -30,14 +30,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Eugene Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>(Info-Communications Technology) &amp; (Internet of Things Applications)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ming_hui_eugene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_ming_hui_eugene@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ong Cheng Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Internet of Things Applications) [covering]</p>
+<p>Teacher
+<br>(Internet of Things Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_cheng_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_cheng_soon@schools.gov.sg</a>
@@ -94,17 +110,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Swee Huat</p>
+<p>Mr Tan Song Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim</p>
+<p>Mr Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher
 <br>(Internet of Things Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_swee_huat_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_huat_A@schools.gov.sg</a>
+<p><a href="mailto:tan_song_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_song_boon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -117,7 +133,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher
-<br>(Internet of Things Applications &amp; Retail and E-commerce)</p>
+<br>(Internet of Things Applications) &amp; (Retail and E-commerce)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liang_kai_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_kai_poh@schools.gov.sg</a>
@@ -132,8 +148,8 @@ variant: tiptap
 <p>Mr Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allied Educator T&amp;L
-<br>(Internet of Things Applications &amp; Mobile Web Applications)</p>
+<p>Teacher
+<br>(Internet of Things Applications) &amp; (Mobile Web Applications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jonathan_tsang_yim_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jonathan_tsang_yim_ting@schools.gov.sg</a>

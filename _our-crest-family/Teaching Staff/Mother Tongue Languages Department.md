@@ -37,8 +37,8 @@ variant: tiptap
 <p>Ms Ifa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>(Malay Language)</p>
+<p>Head of Department
+<br>(Mother Tongue Languages)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muszalifa_aman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muszalifa_aman@schools.gov.sg</a>
@@ -85,7 +85,8 @@ variant: tiptap
 <p>Ms Beevi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Secondary 4) &amp;
+<p>Assistant Year Head (Secondary 4)</p>
+<p>
 <br>Teacher (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,17 +160,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Sheela Binte Sugirmanto</p>
+<p>Ms Farah Lyna Binte Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sheela</p>
+<p>Ms Farah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher
 <br>(Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_sheela_sugirmanto@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_sheela_sugirmanto@schools.gov.sg</a>
+<p><a href="mailto:farah_lyna_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farah_lyna_hashim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
