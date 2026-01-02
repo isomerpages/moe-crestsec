@@ -31,17 +31,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chwee Leong</p>
+<p>Mr Leroy Lim Boon Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan</p>
+<p>Mr Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head
 <br>(Mechanical Design and Automation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chwee_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chwee_leong@schools.gov.sg</a>
+<p><a href="mailto:lim_boon_peng_leroy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_boon_peng_leroy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -111,17 +111,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leroy Lim Boon Peng</p>
+<p>Mr Tan Chwee Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim</p>
+<p>Mr Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher
 <br>(Mechanical Design and Automation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_boon_peng_leroy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_boon_peng_leroy@schools.gov.sg</a>
+<p><a href="mailto:tan_chwee_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chwee_leong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
