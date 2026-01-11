@@ -91,7 +91,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammed Hafiez</p>
-<p>Mr Arum</p>
 </td>
 </tr>
 </tbody>
@@ -410,16 +409,25 @@ variant: tiptap
 <p>REC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Hirman Mohamed Tohir</p>
+<p>Mr Mohd Hirman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SR2</p>
+<p>MDA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Althaf Shathali</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>SR3</p>
-<p>IOTA</p>
+<p>IoTA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Cheng Soon</p>
+<p>Mr Tan Song Boon</p>
 </td>
 </tr>
 </tbody>
