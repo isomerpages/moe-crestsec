@@ -91,7 +91,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammed Hafiez</p>
-<p>Mr Arum</p>
 </td>
 </tr>
 </tbody>
