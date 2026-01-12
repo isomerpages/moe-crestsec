@@ -232,7 +232,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD
-<br>(Mathematics) - covering</p>
+<br>(Mathematics &amp; Science) - covering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_su_ching_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_su_ching_eunice@schools.gov.sg</a>
