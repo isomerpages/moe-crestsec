@@ -101,9 +101,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Dean
-<br>(Student Developement)</p>
+<br>(Student Development)</p>
 <p>Head
-<br>(Student Services)</p>
+<br>(Student Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yue_sien_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yue_sien_wee@schools.gov.sg</a>
