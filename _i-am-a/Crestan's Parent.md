@@ -4,6 +4,61 @@ permalink: /info-at-crest/useful-links/parent/
 description: ""
 variant: tiptap
 ---
+<h4>2026 HBL Dates</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan 13 (Sec 2 to 4 only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 29 (Sec 2 to 4 only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Feb 19</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May 19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July 2 (Sec 1 to 3 only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July 14 (Sec 1 to 3 only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July 15 (Sec 1 to 3 only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July 16 (Sec 1 to 3 only)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>2025 Term Letters</h4>
 <p><a href="/files/2025_Start_of_T4_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4</a>
 </p>
