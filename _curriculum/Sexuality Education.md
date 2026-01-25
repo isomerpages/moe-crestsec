@@ -20,7 +20,7 @@ on sexuality issues.</p>
 <p></p>
 </li>
 <li>
-<p>The <strong>Goals </strong>of Sexuality Education are to:</p>
+<p>The Goals of Sexuality Education are to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support students in managing their physiological, social and emotional
@@ -36,9 +36,10 @@ by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
+<p></p>
 </li>
 <li>
-<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p>The Key Messages of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -58,7 +59,8 @@ ones.</p>
 </ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4>OVERVIEW OF CREST SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h4>
+<p></p>
+<h4>OVERVIEW OF CREST SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h4>
 </li>
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -104,52 +106,55 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
 <p>At CREST Secondary School, the following Sexuality Education lessons will
-be taught in <u>2025</u>:</p>
+be taught in <u>2026</u>:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec1a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec1b.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec2a.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec2b.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec2c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_02.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec3a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_03.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec3b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_04.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_05.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec4a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_06.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec4b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_07.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_08.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec4c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_09.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_10.png">
 </div>
 <p></p>
 <p><strong><u>eTeens Programme:</u></strong>
 </p>
 </li>
 <li>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p>eTeens is a programme that was developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective.
+With the formation of the Communicable Diseases Agency (CDA) on 1 April
+2025, the programme would now be managed by CDA’s Training and Education
+Division instead of HPB. eTeens is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases.</p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
@@ -157,12 +162,17 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
+<p></p>
 <p>At CREST Secondary School, the eTeens programme will be implemented as
-follows in 2025:</p>
+follows in 2026:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sex_ed/eteens.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_eteens_01.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_eteens_02.png">
+</div>
+<p></p>
 <h4>INFORMATION FOR PARENTS</h4>
 </li>
 <li>
@@ -173,14 +183,14 @@ external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/6797418af1d9b406341b76c3" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 14/02/2025.</p>
+to parents at the start of the year and is also available <a href="https://go.gov.sg/crest-sexuality-education-opt-out-form-2026" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 13/02/2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the eTeens programme need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://go.gov.sg/cresteteensoptout2025" rel="noopener nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 14/02/2025.</p>
+at the start of the year and is also available <a href="https://go.gov.sg/crest-eteens-opt-out-form-2026" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 13/02/2026.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6899 2779 or <a href="mailto:info@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a> for discussion
@@ -192,11 +202,11 @@ or to seek clarification about the school’s Sexuality Education programme.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sex_ed/Sexuality_Education_Opt_out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A - Sexuality Education Parents Opt-out Form</a>
+<p><a href="/files/Sex_ed/Sexuality_Education_Opt_out_form_2026.pdf" rel="noopener nofollow" target="_blank">Annex A - Sexuality Education Parents Opt-out Form</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sex_ed/eTeens_Parents_Opt_out_Form__Sec__HPB__Crest.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B – eTeens Parents Opt-out Form</a>
+<p><a href="/files/Sex_ed/eTeens_Parents_Opt_out_Form__Sec__CDA__Crest_2026.pdf" rel="noopener nofollow" target="_blank">Annex B – eTeens Parents Opt-out Form</a>
 </p>
 </li>
 </ol>
