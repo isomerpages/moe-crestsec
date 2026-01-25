@@ -183,14 +183,14 @@ external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/6797418af1d9b406341b76c3" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 14/02/2025.</p>
+to parents at the start of the year and is also available <a href="https://go.gov.sg/crest-sexuality-education-opt-out-form-2026" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 13/02/2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the eTeens programme need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://go.gov.sg/cresteteensoptout2025" rel="noopener nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 14/02/2025.</p>
+at the start of the year and is also available <a href="https://go.gov.sg/crest-eteens-opt-out-form-2026" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 13/02/2026.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6899 2779 or <a href="mailto:info@crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">info@crestsec.edu.sg</a> for discussion
@@ -202,11 +202,11 @@ or to seek clarification about the school’s Sexuality Education programme.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sex_ed/Sexuality_Education_Opt_out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A - Sexuality Education Parents Opt-out Form</a>
+<p><a href="/files/Sex_ed/Sexuality_Education_Opt_out_form_2026.pdf" rel="noopener nofollow" target="_blank">Annex A - Sexuality Education Parents Opt-out Form</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sex_ed/eTeens_Parents_Opt_out_Form__Sec__HPB__Crest.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B – eTeens Parents Opt-out Form</a>
+<p><a href="/files/Sex_ed/eTeens_Parents_Opt_out_Form__Sec__CDA__Crest_2026.pdf" rel="noopener nofollow" target="_blank">Annex B – eTeens Parents Opt-out Form</a>
 </p>
 </li>
 </ol>
