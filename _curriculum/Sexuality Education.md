@@ -59,7 +59,8 @@ ones.</p>
 </ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4>OVERVIEW OF CREST SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h4>
+<p></p>
+<h4>OVERVIEW OF CREST SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h4>
 </li>
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -105,52 +106,55 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
 <p>At CREST Secondary School, the following Sexuality Education lessons will
-be taught in <u>2025</u>:</p>
+be taught in <u>2026</u>:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec1a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec1b.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec2a.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec2b.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec2c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_02.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec3a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_03.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec3b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_04.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_05.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec4a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_06.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec4b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_07.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_08.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/sec4c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_09.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_sex_edu_10.png">
 </div>
 <p></p>
 <p><strong><u>eTeens Programme:</u></strong>
 </p>
 </li>
 <li>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p>eTeens is a programme that was developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective.
+With the formation of the Communicable Diseases Agency (CDA) on 1 April
+2025, the programme would now be managed by CDA’s Training and Education
+Division instead of HPB. eTeens is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases.</p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
@@ -158,12 +162,17 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
+<p></p>
 <p>At CREST Secondary School, the eTeens programme will be implemented as
-follows in 2025:</p>
+follows in 2026:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sex_ed/eteens.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_eteens_01.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_ed/2026_eteens_02.png">
+</div>
+<p></p>
 <h4>INFORMATION FOR PARENTS</h4>
 </li>
 <li>
