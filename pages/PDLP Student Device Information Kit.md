@@ -1,0 +1,8 @@
+---
+title: PDLP Student Device Information Kit
+permalink: /pdlp2026/
+variant: tiptap
+description: ""
+---
+<p>Click to download the <strong><em>Student Device Information Kit.</em></strong>
+</p>
