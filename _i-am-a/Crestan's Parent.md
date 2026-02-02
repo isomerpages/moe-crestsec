@@ -59,17 +59,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4>2025 Term Letters</h4>
-<p><a href="/files/2025_Start_of_T4_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 4</a>
-</p>
-<p><a href="/files/2025_Start_of_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 3</a>
-</p>
-<p><a href="/files/2025_Start_of_Term_2_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 2</a>
-</p>
-<p><a href="/files/2025_Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Term 1</a>
-</p>
-<h4>2025 Parent Engagement Session</h4>
-<p><a href="https://drive.google.com/file/d/1F_6MKDVlmpYPgGmX9OfTmhfbKkcuwdOA/view?usp=drivesdk" rel="noopener nofollow" target="_blank">Sec 1 Parent Engagement Session 2025</a>
+<h4>Term Letters</h4>
+<p><a href="/files/2026_Start_of_Term_1_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Start of Term 1</a>
 </p>
 <h4>Positive Parenting Programme (Triple P)</h4>
 <p>The Positive Parenting Programme (Triple P) is an evidence-based programme
